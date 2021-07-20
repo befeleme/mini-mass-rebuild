@@ -26,6 +26,7 @@ TAG = 'f35'
 LIMIT = 1200
 BUGZILLA = 'bugzilla.redhat.com'
 TRACKER = 1890881  # PYTHON3.10
+RAWHIDE = 1927309  # F35FTBFS
 LOGLEVEL = logging.WARNING
 
 DNF_CACHEDIR = '_dnf_cache_dir'
