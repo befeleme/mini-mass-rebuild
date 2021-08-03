@@ -25,6 +25,7 @@ RPM_FILE = "<td class='t'>RPM File</td>"
 TAG = 'f35'
 LIMIT = 1200
 BUGZILLA = 'bugzilla.redhat.com'
+BZ_PAGE_SIZE = 1000
 TRACKER = 1890881  # PYTHON3.10
 RAWHIDE = 1927309  # F35FTBFS
 LOGLEVEL = logging.WARNING
@@ -77,7 +78,16 @@ BZAPI = bugzilla.Bugzilla(BUGZILLA)
 def _bugzillas():
     query = BZAPI.build_query(product='Fedora')
     query['blocks'] = TRACKER
-    return [b for b in sorted(BZAPI.query(query), key=lambda b: -b.id)
+    query['limit'] = BZ_PAGE_SIZE
+    query['offset'] = 0
+    results = []
+    while len(partial := BZAPI.query(query)) == BZ_PAGE_SIZE:
+        results += partial
+        print(len(results))
+        query['offset'] += BZ_PAGE_SIZE
+    results += partial
+    print(len(results))
+    return [b for b in sorted(results, key=lambda b: -b.id)
             if b.resolution != 'DUPLICATE']
 
 
