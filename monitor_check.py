@@ -83,7 +83,6 @@ def _bugzillas():
     results = []
     while len(partial := BZAPI.query(query)) == BZ_PAGE_SIZE:
         results += partial
-        print(len(results))
         query['offset'] += BZ_PAGE_SIZE
     results += partial
     print(len(results))
