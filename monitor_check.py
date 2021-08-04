@@ -83,10 +83,8 @@ def _bugzillas():
     results = []
     while len(partial := BZAPI.query(query)) == BZ_PAGE_SIZE:
         results += partial
-        print(len(results))
         query['offset'] += BZ_PAGE_SIZE
     results += partial
-    print(len(results))
     return [b for b in sorted(results, key=lambda b: -b.id)
             if b.resolution != 'DUPLICATE']
 
