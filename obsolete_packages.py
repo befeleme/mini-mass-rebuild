@@ -73,7 +73,7 @@ def repoquery(*args, **kwargs):
     if 'whatrequires_exact' in kwargs:
         return sack.query().available().filter(requires=kwargs['whatrequires_exact'])
     if 'whatobsoletes' in kwargs:
-        return sack.query().filter(obsoletes=kwargs['whatobsoletes'])
+        return sack.query().filter(obsoletes=kwargs['whatobsoletes'], latest=1)
     if 'requires' in kwargs:
         pkgs = sack.query().filter(obsoletes=kwargs['requires'], latest=1).run()
         return pkgs[0].requires
@@ -176,12 +176,12 @@ def format_obsolete(pkg, evr):
 rp = removed_pkgs()
 for pkg in sorted(rp):
     version = drop_0epoch(drop_dist(rp[pkg]))
-    whatobsoletes = []
+    whatobsoletes = set()
     obsoleters = repoquery(version=None, whatobsoletes=f'{pkg} = {version}')
     for obsoleter in obsoleters:
-        whatobsoletes.append(f'{obsoleter.name}')
-    if not whatobsoletes or whatobsoletes == ['fedora-obsolete-packages']:
+        whatobsoletes.add(f'{obsoleter.name}')
+    if not whatobsoletes or whatobsoletes == {'fedora-obsolete-packages'}:
         print(format_obsolete(pkg, version))
     else:
-        obs = ', '.join(whatobsoletes)
+        obs = ', '.join(sorted(whatobsoletes))
         #print(f'# {pkg} {version} obsoleted by {obs}', file=sys.stderr)
