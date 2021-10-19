@@ -40,6 +40,7 @@ dblatex
 ddiskit
 ddupdate
 devscripts
+dib-utils
 distcc
 dnf-plugin-diff
 dnf-plugin-ovl
@@ -69,13 +70,17 @@ glances
 globus-net-manager
 gnome-activity-journal
 gnome-doc-utils
+gnome-tweaks
 gns3-gui
 gns3-net-converter
 go2rpm
 goobook
+gphotoframe
 graphviz
 gumbo-parser
+gyp
 hashid
+hplip
 imagefactory
 imagefactory-plugins
 impressive
@@ -100,6 +105,7 @@ libsigrokdecode
 lightdm-gtk-greeter-settings
 link-grammar
 linux-thermaltake-rgb
+lldb
 lnst
 loook
 lorax
@@ -107,6 +113,7 @@ maildirproc
 mailman3-fedmsg-plugin
 mailnag
 mcomix3
+meld
 mercurial
 meson
 mgarepo
@@ -368,6 +375,7 @@ python-collectd_puppet
 python-colorama
 python-colorclass
 python-colorlog
+python-colour
 python-colour-runner
 python-commandparse
 python-concurrentloghandler
@@ -415,6 +423,7 @@ python-dbus-client-gen
 python-dbus-signature-pyparsing
 python-dbutils
 debconf
+python-debian
 python-debrepo
 python-decorator
 python-defcon
@@ -648,6 +657,7 @@ python-lazr-uri
 python-lazy-object-proxy
 python-ldap3
 ldapdomaindump
+libldb
 ldeep
 ldns
 lensfun
@@ -770,6 +780,7 @@ python-nose
 python-nose-cover3
 python-nose-testconfig
 python-nose-timer
+python-nose2
 python-nptyping
 python-nrf24
 python-ns1-python
@@ -860,6 +871,7 @@ python3-py3dns
 python-py9p
 python-pyModbusTCP
 python-pyactivetwo
+python-pyaes
 python-pyaib
 pyaudio
 python-pybalboa
@@ -955,6 +967,7 @@ pyxdg
 python-pyxid
 python-pyzolib
 python-q
+qr-code-generator
 python-qrencode
 python-qtsass
 python-radexreader
@@ -988,6 +1001,7 @@ rrdtool
 python-rst-linker
 python-rstcheck
 python-rstr
+python-rxjson
 sanlock
 libsavitar
 scanless
@@ -1030,6 +1044,7 @@ python-snowballstemmer
 socialscan
 python-sockjs-tornado
 python-socks5line
+libsolv
 python-sortedcontainers:docs-tests::::
 python-soupsieve:tests::::
 python-spdx
@@ -1186,6 +1201,7 @@ python-xxhash
 python-yapf
 python-yaswfp
 ydiff
+z3
 python-zabbix-api-erigones
 zanata-python-client
 python-zanata2fedmsg
@@ -1223,7 +1239,6 @@ rubber
 s-tui
 s3cmd
 sasutils
-screenkey
 scudcloud
 sendKindle
 sepolicy_analysis
@@ -1251,6 +1266,7 @@ targetcli
 targetd
 teampulls
 texworks
+theme-switcher
 tiled
 timeline
 todocli
