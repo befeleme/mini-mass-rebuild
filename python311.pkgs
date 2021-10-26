@@ -51,6 +51,7 @@ dnf-plugin-ovl
 dnfdaemon
 doge
 dot2tex
+duplicity
 esptool
 evemu
 quodlibet
@@ -262,6 +263,7 @@ python-affine
 python-afsapi
 python-ailment
 python-aioambient
+python-aioasuswrt
 python-aiocmd
 python-aiocurrencylayer
 python-aioesphomeapi
@@ -282,6 +284,7 @@ python-aiorestapi
 python-aiorpcx
 python-aiosecretsdump
 python-aiosmb
+python-aiosnmp
 python-aiowinreg
 python-airspeed
 python-airthings
@@ -305,17 +308,20 @@ python-apypie
 python-archinfo
 python-argh
 python-argopt
+python-arpeggio
 python-arviz
 python-asciitree
 python-asn1crypto
 python-astroplan
 python-astunparse
 python-async-generator
+python-async-timeout:tests::::
 python-asyncio-dgram
 python-asysocks
 atomic-reactor
 python-atomicwrites:docs-tests::::
 python-attrs:tests::::
+python-audioread
 audit
 python-auth-credential
 python-authres
@@ -478,6 +484,7 @@ python-dbutils
 debconf
 python-debian
 python-debrepo
+python-decopatch
 python-decorator
 python-defcon
 python-defusedxml
@@ -543,6 +550,7 @@ dogtail
 python-dominate
 python-dpath
 python-drf-yasg
+python-dropbox
 python-dtopt
 python-dukpy
 dynaconf
@@ -627,6 +635,7 @@ python-gphoto2
 python-gpiozero
 python-gpxpy
 python-grabserial
+python-grako
 grammalecte
 python-graphene-sqlalchemy
 python-graphitesend
@@ -661,6 +670,7 @@ python-husl
 python-hvac
 python-hyperframe
 python-hypothesis:doc-tests::::
+python-hypothesis-fspaths
 i2c-tools
 python-i3ipc
 python-idna
@@ -678,12 +688,14 @@ python-inflection
 python-influxdb
 python-iniconfig:tests::::
 python-iniparse
+python-inject
 python-inotify
 python-inotify_simple
 python-instant
 python-intervaltree
 python-iowait
 python-ipgetter
+python-ipgetter2
 python-ironicclient
 iscsi-initiator-utils
 python-iso-639
@@ -749,6 +761,7 @@ libCombine
 python-libarchive-c
 libcec
 libchewing
+python-libcloud
 concordance
 python-libevdev
 dtc
@@ -796,7 +809,10 @@ python-magic
 python-mailer
 python-mailmerge
 python-makeelf
+python-makefun
+python-mako
 python3-mallard-ducktype
+python-managesieve
 python-maps
 mapserver
 python-marathon
@@ -807,6 +823,7 @@ python-markupsafe
 python-masscan
 python-matplotlib-inline
 python-matrix-synapse-ldap3
+python-mccabe
 med
 python-memcached
 python-messaging
@@ -902,6 +919,7 @@ python-ots
 python-outdated
 python-ovirt-engine-sdk4
 python-pacpy
+python-paho-mqtt
 python-pam
 python-pamela
 python-pandocfilters
@@ -1043,6 +1061,7 @@ python-pylotoncycle
 python-pyls-spyder
 python-pymata-express
 python-pymc3
+python-pymediainfo
 pymodbus
 python-pynuvo
 pyodbc
@@ -1090,6 +1109,7 @@ python-pytest-expect
 python-pytest-filter-subpackage
 python-pytest-fixture-config
 python-pytest-forked
+python-pytest-isort
 python-pytest-lazy-fixture
 python-pytest-metadata
 python-pytest-mock
@@ -1166,6 +1186,7 @@ python-rstr
 python-ruamel-yaml
 rust-packaging
 python-rustcfg
+python-rx
 python-rxjson
 sanlock
 libsavitar
@@ -1259,7 +1280,9 @@ python-ssdp
 python-sseclient-py
 pdf-stapler
 python-stdiomask
+python-stevedore
 stomppy
+python-stone
 python-stopit
 python-straight-plugin
 python-strict-rfc3339
@@ -1287,6 +1310,7 @@ python-tempita
 python-templated-dictionary
 python-termcolor
 python-terminaltables
+python-testrepository
 python-testresources
 python-testscenarios
 python-testtools:docs-tests::::
