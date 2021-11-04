@@ -17,11 +17,15 @@ from anytree import Node, RenderTree, findall_by_attr, LoopError
 
 from copr.v3 import Client
 
-MONITOR = 'https://copr.fedorainfracloud.org/coprs/g/python/python3.11/monitor/'
-INDEX = 'https://copr-be.cloud.fedoraproject.org/results/@python/python3.11/fedora-rawhide-x86_64/{build:08d}-{package}/'  # keep the slash
+COPR = '@python', 'python3.11'
+COPR_STR = '{}/{}'.format(*COPR)
+COPR_STR_G = '{}/{}'.format(COPR[0].replace('@', 'g/'), COPR[1])
+
+MONITOR = f'https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/monitor/'
+INDEX = f'https://copr-be.cloud.fedoraproject.org/results/{COPR_STR}/fedora-rawhide-x86_64/{{build:08d}}-{{package}}/'  # keep the slash
 PDC = 'https://pdc.fedoraproject.org/rest_api/v1/component-branches/?name=rawhide&global_component={package}'
-PACKAGE = re.compile(r'<a href="/coprs/g/python/python3.11/package/([^/]+)/">')
-BUILD = re.compile(r'<a href="/coprs/g/python/python3.11/build/([^/]+)/">')
+PACKAGE = re.compile(fr'<a href="/coprs/{COPR_STR_G}/package/([^/]+)/">')
+BUILD = re.compile(fr'<a href="/coprs/{COPR_STR_G}/build/([^/]+)/">')
 RESULT = re.compile(r'<span class="build-([^"]+)"')
 RPM_FILE = "<td class='t'>RPM File</td>"
 TAG = 'f35'
@@ -97,7 +101,7 @@ async def bugzillas():
 
 def _copr():
     client = Client.create_from_config_file()
-    packages = client.package_proxy.get_list(ownername="@python", projectname="python3.11", with_latest_build=True)
+    packages = client.package_proxy.get_list(ownername=COPR[0], projectname=COPR[1], with_latest_build=True)
     return packages
 
 async def copr():
@@ -491,13 +495,13 @@ async def open_bz(package, build, status, browser_lock, reason=None):
         {reason['long_description']}
 
         For the build logs, see:
-        https://copr-be.cloud.fedoraproject.org/results/@python/python3.11/fedora-rawhide-x86_64/{build:08}-{package}/
+        https://copr-be.cloud.fedoraproject.org/results/{COPR_STR}/fedora-rawhide-x86_64/{build:08}-{package}/
 
         For all our attempts to build {package} with Python 3.11, see:
-        https://copr.fedorainfracloud.org/coprs/g/python/python3.11/package/{package}/
+        https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/package/{package}/
 
         Testing and mass rebuild of packages is happening in copr. You can follow these instructions to test locally in mock if your package builds with Python 3.11:
-        https://copr.fedorainfracloud.org/coprs/g/python/python3.11/
+        https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/
 
         Let us know here if you have any questions.
 
