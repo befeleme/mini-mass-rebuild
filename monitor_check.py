@@ -95,6 +95,14 @@ async def bugzillas():
     loop = asyncio.get_running_loop()
     return await loop.run_in_executor(None, _bugzillas)
 
+def _copr():
+    client = Client.create_from_config_file()
+    packages = client.package_proxy.get_list(ownername="@python", projectname="python3.11", with_latest_build=True)
+    return packages
+
+async def copr():
+    loop = asyncio.get_running_loop()
+    return await loop.run_in_executor(None, _copr)
 
 async def fetch(session, url, http_semaphore, *, json=False):
     retry = False
@@ -551,44 +559,27 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
 
     async with aiohttp.ClientSession(headers={"Connection": "close"}) as session:
         # we could stream the content, but meh, get it all, it's not that long
-        monitor = fetch(session, MONITOR, http_semaphore)
+        packages = copr()
         bugs = bugzillas()
-        monitor, bugs = await asyncio.gather(monitor, bugs)
+        packages, bugs = await asyncio.gather(packages, bugs)
 
-        package = build = status = None
-        lasthit = 'status'
         jobs = []
 
-        for line in monitor.splitlines():
-            hit = PACKAGE.search(line)
-            if hit:
-                assert lasthit == 'status'
-                lasthit = 'package'
-                package = unquote(hit.group(1))
-
-            hit = BUILD.search(line)
-            if hit:
-                assert lasthit == 'package'
-                lasthit = 'build'
-                build = int(hit.group(1))
-
-            hit = RESULT.search(line)
-            if hit:
-                assert lasthit == 'build'
-                lasthit = 'status'
-                status = hit.group(1)
-                if pkgs and package not in pkgs:
+        for package in packages:
+            try:
+                package_name = package['builds']['latest']['source_package']['name']
+                build = package['builds']['latest']['id']
+                status = package['builds']['latest']['state']
+                if pkgs and package_name not in pkgs:
                     continue
-                jobs.append(asyncio.ensure_future(process(
-                    session, bugs, package, build, status,
+                await jobs.append(asyncio.ensure_future(process(
+                    session, bugs, package_name, build, status,
                     http_semaphore, command_semaphore,
                     browser_lock=browser_lock, with_reason=with_reason,
                     blues_file=blues_file, magentas_file=magentas_file
                 )))
-
-            if 'Possible build states:' in line:
-                break
-
+            except TypeError:
+                pass
         try:
             await gather_or_cancel(*jobs)
         except KojiError as e:
