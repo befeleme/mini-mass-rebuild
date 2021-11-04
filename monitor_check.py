@@ -15,19 +15,21 @@ from collections import Counter
 import dnf
 from anytree import Node, RenderTree, findall_by_attr, LoopError
 
-MONITOR = 'https://copr.fedorainfracloud.org/coprs/g/python/python3.10/monitor/'
-INDEX = 'https://copr-be.cloud.fedoraproject.org/results/@python/python3.10/fedora-rawhide-x86_64/{build:08d}-{package}/'  # keep the slash
+from copr.v3 import Client
+
+MONITOR = 'https://copr.fedorainfracloud.org/coprs/g/python/python3.11/monitor/'
+INDEX = 'https://copr-be.cloud.fedoraproject.org/results/@python/python3.11/fedora-rawhide-x86_64/{build:08d}-{package}/'  # keep the slash
 PDC = 'https://pdc.fedoraproject.org/rest_api/v1/component-branches/?name=rawhide&global_component={package}'
-PACKAGE = re.compile(r'<a href="/coprs/g/python/python3.10/package/([^/]+)/">')
-BUILD = re.compile(r'<a href="/coprs/g/python/python3.10/build/([^/]+)/">')
+PACKAGE = re.compile(r'<a href="/coprs/g/python/python3.11/package/([^/]+)/">')
+BUILD = re.compile(r'<a href="/coprs/g/python/python3.11/build/([^/]+)/">')
 RESULT = re.compile(r'<span class="build-([^"]+)"')
 RPM_FILE = "<td class='t'>RPM File</td>"
 TAG = 'f35'
 LIMIT = 1200
 BUGZILLA = 'bugzilla.redhat.com'
-BZ_PAGE_SIZE = 1000
-TRACKER = 1890881  # PYTHON3.10
-RAWHIDE = 1927309  # F35FTBFS
+BZ_PAGE_SIZE = 20
+TRACKER = 2016048  # PYTHON3.11
+RAWHIDE = 1992484  # F36FTBFS
 LOGLEVEL = logging.WARNING
 
 DNF_CACHEDIR = '_dnf_cache_dir'
@@ -184,7 +186,7 @@ async def guess_missing_dependency(session, package, build, http_semaphore, fg, 
         logger.debug('broken content %s', url)
         return False
     patterns = [
-        r"Problem.*?: package (.*?) requires python\(abi\) = 3\.9",
+        r"Problem.*?: package (.*?) requires python\(abi\) = 3\.10",
         r"package (.*?) requires .*?, but none of the providers can be installed",
         r"Status code: (.*?) for",
     ]
@@ -473,25 +475,25 @@ async def open_bz(package, build, status, browser_lock, reason=None):
             "long_description": "This report is automated and not very verbose, but we'll try to get back here with details.",
             "short_description": "",
         }
-    summary = f"{package} fails to build with Python 3.10: {reason['short_description']}"
+    summary = f"{package} fails to build with Python 3.11: {reason['short_description']}"
 
     description = dedent(f"""
-        {package} fails to build with Python 3.10.0b4.
+        {package} fails to build with Python 3.11.0a1.
 
         {reason['long_description']}
 
         For the build logs, see:
-        https://copr-be.cloud.fedoraproject.org/results/@python/python3.10/fedora-rawhide-x86_64/{build:08}-{package}/
+        https://copr-be.cloud.fedoraproject.org/results/@python/python3.11/fedora-rawhide-x86_64/{build:08}-{package}/
 
-        For all our attempts to build {package} with Python 3.10, see:
-        https://copr.fedorainfracloud.org/coprs/g/python/python3.10/package/{package}/
+        For all our attempts to build {package} with Python 3.11, see:
+        https://copr.fedorainfracloud.org/coprs/g/python/python3.11/package/{package}/
 
-        Testing and mass rebuild of packages is happening in copr. You can follow these instructions to test locally in mock if your package builds with Python 3.10:
-        https://copr.fedorainfracloud.org/coprs/g/python/python3.10/
+        Testing and mass rebuild of packages is happening in copr. You can follow these instructions to test locally in mock if your package builds with Python 3.11:
+        https://copr.fedorainfracloud.org/coprs/g/python/python3.11/
 
         Let us know here if you have any questions.
 
-        Python 3.10 is already included in Fedora 35. To make that update smoother, we're building Fedora packages with all pre-releases of Python 3.10.
+        Python 3.11 is planned to be included in Fedora 37. To make that update smoother, we're building Fedora packages with all pre-releases of Python 3.11.
         A build failure prevents us from testing all dependent packages (transitive [Build]Requires), so if this package is required a lot, it's important for us to get it fixed soon.
         We'd appreciate help from the people who know this package best, but if you don't want to work on this now, let us know so we can try to work around it on our side.
     """)
