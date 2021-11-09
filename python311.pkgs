@@ -354,6 +354,7 @@ python-arviz
 python-asciitree
 python-asn1crypto
 python-asteval
+python-astroid
 python-astroplan
 python-astunparse
 python-async-generator
@@ -390,6 +391,7 @@ python-beniget
 python-betamax
 python-bids-validator
 python-binaryornot
+bind
 python-bitarray
 python-bitcoinlib
 python-bitstruct
@@ -570,6 +572,7 @@ python-dbutils
 debconf
 python-debian
 python-debrepo
+python-debtcollector
 python-decopatch
 python-decorator
 python-defcon
@@ -749,7 +752,6 @@ python-gpxpy
 python-grabserial
 python-grako
 grammalecte
-python-graphene-sqlalchemy
 python-graphitesend
 python-graphql-core
 python-greenlet
@@ -856,6 +858,7 @@ python-json5
 python-jsondiff
 jsonnet
 python-jsonpatch
+python-jsonpath-rw
 python-jsonpath-rw-ext
 python-jsonpointer
 python-jsonref
@@ -894,6 +897,7 @@ libldb
 ldeep
 ldns
 lensfun
+python-lesscpy
 python-leveldb
 libCombine
 python-libarchive-c
@@ -1212,6 +1216,7 @@ python-pycomm3
 python-pycosat
 python-pycotap
 python-pycountry
+python-pycparser
 python-pycryptodomex
 python-pycxx
 python-pydbus
@@ -1235,6 +1240,7 @@ python-pygments-pytest
 python-pygments-style-solarized
 PyGreSQL
 python-pygrocy
+python-pyhcl
 python-pyhomematic
 pyhunspell
 python-pyi2cflash
@@ -1387,6 +1393,7 @@ python-repoze-lru
 python-requests:tests::::
 python-requests-cache
 python-requests-download
+python-requests-exoscale-auth
 python-requests-file
 python-requests-ftp
 python-requests-mock
@@ -1476,6 +1483,7 @@ python-smartypants
 python-smbc
 libsmbios
 python-smbpasswd
+python-smi
 tcl-snack
 python-sniffio
 python-snipeit
@@ -1896,6 +1904,7 @@ x-tile
 xcat
 xcb-proto
 xen
+xonsh
 xortool
 yawn
 yokadi
