@@ -157,6 +157,7 @@ nordugrid-arc-nagios-plugins
 ntpsec
 nut
 nvmetcli
+nwchem
 nwg-panel
 nyx
 oct2spec
@@ -661,7 +662,6 @@ python-editor
 python-editorconfig
 python-elasticsearch
 python-elementpath:tests::::
-python-email_reply_parser
 python-empy
 python-enchant
 enjarify
@@ -847,7 +847,7 @@ python-jcconv
 python-jdcal
 python-jedi
 python-jellyfish
-python-jinja2
+python-jinja2:docs::::
 python-jinja2-cli
 jpype
 python-jsmin
@@ -1156,7 +1156,6 @@ python-policyuniverse
 python-portalocker
 python-posix_ipc
 python3-postgresql
-python-power
 python-pox
 python-poyo
 python-ppft
@@ -1198,7 +1197,6 @@ python-py9p
 python-pyModbusTCP
 python3-pyPEG2
 python-pyactivetwo
-python-pyaes
 python-pyaib
 python-pyarlo
 python-pyasn1
@@ -1415,8 +1413,6 @@ python-rope
 python-rpdb
 python-rply
 rpm
-rpmconf
-python-rpmfluff
 python-rpyc
 python-rq
 rrdtool
@@ -1543,6 +1539,7 @@ python-sphinxcontrib-seqdiag
 python-sphinxcontrib-serializinghtml
 python-sphinxcontrib-trio
 python-sphinxcontrib-websupport:optional_tests::::
+python-sphinxemoji
 python-sphobjinv
 py-spidev
 spyder
