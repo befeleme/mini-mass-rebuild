@@ -24,7 +24,6 @@ asciidoc
 autojump
 azote
 b43-tools
-bandit
 battray
 blivet-gui
 bluefish
@@ -87,7 +86,6 @@ glances
 globus-net-manager
 gnome-activity-journal
 gnome-doc-utils
-gnome-tweaks
 gns3-gui
 gns3-net-converter
 gns3-server
@@ -138,7 +136,6 @@ mailman3-fedmsg-plugin
 mailnag
 marshalparser
 mcomix3
-meld
 mercurial
 meson
 mgarepo
@@ -188,7 +185,6 @@ perl-Inline-Python
 persepolis
 photocollage
 picard
-pitivi
 playitagainsam
 poezio
 poezio-omemo
@@ -465,7 +461,6 @@ python-click-threading
 python-cliff-tablib
 python-cligj
 python-clikit
-clingo
 python-cloud-sptheme
 python-cloudant
 python-cloudscraper
@@ -692,7 +687,6 @@ python-feedgenerator
 python-feedparser
 python-fields
 file
-python-filelock:docs::::
 python-filetype
 python-firehose
 firewalld
@@ -728,6 +722,7 @@ python-gccinvocation
 gdcm
 python-gearbox
 python-gekitchen
+python-gelidum
 python-genshi
 python-genty
 python-geojson
@@ -1074,7 +1069,6 @@ python-ogr
 python-olefile
 python-omnilogic
 python-openant
-openbabel
 python-opendata-transport
 python-openidc-client
 OpenIPMI
@@ -1173,7 +1167,6 @@ python-profilehooks
 python-progress
 python-prompt-toolkit
 python-protego
-protobuf
 python-prov
 python-psutil
 python-psycogreen
@@ -1327,7 +1320,6 @@ python-pytest-filter-subpackage
 python-pytest-fixture-config
 python-pytest-flakes
 python-pytest-forked
-python-pytest-isort
 python-pytest-lazy-fixture
 python-pytest-metadata
 python-pytest-mock
@@ -1662,6 +1654,7 @@ python-vatnumber
 python-velbus
 python-versioneer
 vertica-python
+strongswan
 python-virtualenv:tests::::
 python-virtualenv-api
 python-virtualenv-clone
@@ -1718,7 +1711,6 @@ python-xlib
 python-xlsxwriter
 python-xlwt
 python-xml2rfc
-python-xmlrunner
 python-xmltramp
 python-xmp-toolkit
 python-xnat
@@ -1816,7 +1808,6 @@ teampulls
 terminator
 texworks
 thefuck
-theme-switcher
 tiled
 timeline
 todocli
