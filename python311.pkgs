@@ -41,6 +41,7 @@ cantor
 cdist
 python-pycha
 chrome-gnome-shell
+clingo
 coccinelle
 codespell
 congruity
@@ -98,10 +99,12 @@ gphotoframe
 gpodder
 graphviz
 grin
+gtimelog
 gumbo-parser
 gyp
 hashid
 hddfancontrol
+hexchat
 holland
 hplip
 imagefactory
@@ -181,6 +184,7 @@ oz
 pagure
 pagure-dist-git
 parsero
+past-time
 python-pcicrawler
 pcp2pdf
 pdfarranger
@@ -219,6 +223,7 @@ pypykatz
 pysubnettree
 pysysbot
 python-idna-ssl
+python-jack-client
 python-play-scraper
 python-proteus
 python-pysword
@@ -356,6 +361,7 @@ python-apt
 python-apypie
 python-archinfo
 python-argh
+python-argon2-cffi
 python-argopt
 python-arpeggio
 python-arpy
@@ -363,6 +369,7 @@ python-arviz
 python-asciitree
 python-asn1crypto
 python-asteval
+python-astral
 python-astroplan
 python-astunparse
 python-async-generator
@@ -374,6 +381,7 @@ python-atomicwrites
 python-attrs:tests::::
 python-audioread
 audit
+python-augeas
 python-auth-credential
 python-authres
 python-automaton
@@ -384,7 +392,7 @@ python-azure-common
 python-azure-cosmos
 python-azure-sdk-tools
 python-b2sdk
-babel::bootstrap:::
+babel
 python-babelfish
 babeltrace
 python-backcall
@@ -395,6 +403,7 @@ barman
 python-batalgorithm
 python-batinfo
 bcc
+python-bcrypt
 python-beanbag
 python-beautifultable
 python-betamax
@@ -442,6 +451,7 @@ btrfs-progs
 python-bucky
 python-bugzilla
 libcaca
+python-cached_property
 python-cachetools
 python-cachez
 python-cachy
@@ -490,6 +500,7 @@ subscription-manager
 python-cloudant
 python-cloudscraper
 clustershell
+python-cmarkgfm
 python-cmd2
 python-cmdln
 python-cmigemo
@@ -587,7 +598,7 @@ python-daiquiri
 python-danfossair
 python-dasbus
 python-datadog
-python-dateutil:tests::::
+python-dateutil
 python-dateutils
 python-dbf
 python-dbfread
@@ -780,11 +791,13 @@ python-gmqtt
 python-gnupg
 gofer
 python-google-auth
+python-google-crc32c
 python-google-i18n-address
 gpgme
 python-gphoto2
 python-gpiozero
 python-gpxpy
+python-grabbit
 python-grabserial
 python-grako
 grammalecte
@@ -844,6 +857,7 @@ python-ifaddr
 python-ifcfg
 python-igraph
 libiio
+python-ijson
 python-imageio
 python-imagesize
 livecd-tools
@@ -879,6 +893,7 @@ isomd5sum
 python-isort
 python-itanium_demangler
 python-itemadapter
+python-itsdangerous
 python-itypes
 python-j1m.sphinxautozconfig
 python-jaraco-classes
@@ -894,10 +909,12 @@ python-jaydebeapi
 python-jcconv
 python-jdcal
 python-jedi
+python-jeepney
 python-jellyfish
 python-jenkins
 python-jinja2
 python-jinja2-cli
+python-jinja2_pluralize
 python-jmespath
 jpype
 python-jsmin
@@ -994,6 +1011,7 @@ python-listparser
 python-lit
 python-littleutils
 python-llvmlite
+python-lmdb
 python-lockfile
 python-logfury
 python-logging-tree
@@ -1093,6 +1111,7 @@ python-mystrom
 python-nagiosplugin
 python-nanoid
 python-natlas-libnmap
+python-nbconvert:check-doc::::
 python-nbxmpp
 python-ndjson-testrunner
 python-neovim
@@ -1271,6 +1290,7 @@ python-pybalboa
 python-pybeam
 pybind11:tests::::
 pybox2d
+python-pycares
 python-pycdio
 python-pycdlib
 python-pycec
@@ -1337,6 +1357,7 @@ python-pymc3
 python-pymediainfo
 python-pymeeus
 pymodbus
+python-pynacl
 python-pynetbox
 python-pyngus
 python-pynuvo
@@ -1400,6 +1421,7 @@ python-pytest-filter-subpackage
 python-pytest-fixture-config
 python-pytest-flakes
 python-pytest-forked
+python-pytest-freezegun
 python-pytest-httpx
 python-pytest-isort
 python-pytest-lazy-fixture
@@ -1428,6 +1450,7 @@ pytz
 python-pytzdata
 python-pyudev
 pyusb
+python-pyvex
 python-pyvirtualize
 python-pyvit
 pywebdav
@@ -1569,6 +1592,7 @@ python-smbpasswd
 python-smi
 python-smmap
 tcl-snack
+python-snappy
 python-sniffio
 python-snipeit
 python-snowballstemmer
@@ -1640,6 +1664,7 @@ python-sqlacodegen
 python-sqlalchemy-filters
 python-sqlobject
 python-sqlparse
+python-ssdeep
 python-ssdp
 python-sseclient
 python-sseclient-py
@@ -1682,6 +1707,7 @@ libtdb
 python-tempdir
 python-tempita
 python-templated-dictionary
+python-tempora
 python-termcolor
 python-terminaltables
 python-testpath
@@ -1813,6 +1839,7 @@ python-www-authenticate
 xapian-bindings
 python-xapp
 python-xboxapi
+python-xcffib
 python-xiaomi-gateway
 python-xlib
 python-xlrd
@@ -1924,6 +1951,7 @@ thefuck
 theme-switcher
 tiled
 timeline
+tldr
 todocli
 torbrowser-launcher
 python-tox
