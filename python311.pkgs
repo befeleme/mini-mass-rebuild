@@ -79,6 +79,7 @@ cm_rgb
 coccinelle
 codespell
 collectd
+commissaire-client
 compizconfig-python
 condor
 congruity
@@ -329,6 +330,7 @@ osc
 oval-graph
 oz
 pacemaker
+pag
 pagure
 pagure-dist-git
 parsero
@@ -346,6 +348,7 @@ pg_activity
 pgzero
 photocollage
 picard
+piper
 pipx
 pitivi
 playitagainsam
@@ -358,6 +361,7 @@ policycoreutils
 porcupine
 postgresql
 powerline
+pre-commit
 printrun
 profanity
 proselint
@@ -399,6 +403,7 @@ python-AWSIoTPythonSDK
 python-Automat
 COPASI
 python-CommonMark
+python-configupdater
 Cython
 python-ECPy
 python-GeoIP
@@ -506,6 +511,7 @@ python-aioiotprov
 python-aioitertools
 python-aiolifx
 python-aiomodbus
+python-aiomqtt
 python-aiomultiprocess
 python-aiomysql
 python-aioodbc
@@ -551,6 +557,7 @@ python-anyconfig
 python-anyio
 python-anyjson
 python-anykeystore
+python-anymarkup
 python-anymarkup-core
 python-anytree
 apbs
@@ -596,15 +603,34 @@ python-auth-credential
 python-authheaders
 python-authres
 python-autograd
+python-automaton
+python-autopage
 python-autopep8
 autowrap
 awake
 python-awesomeversion
+python-azure-batch
 python-azure-common
 python-azure-cosmos
 python-azure-datalake-store
 python-azure-functions-devops-build
+python-azure-graphrbac
+python-azure-keyvault
 python-azure-loganalytics
+python-azure-mgmt-apimanagement
+python-azure-mgmt-authorization
+python-azure-mgmt-botservice
+python-azure-mgmt-consumption
+python-azure-mgmt-datalake-analytics
+python-azure-mgmt-datalake-store
+python-azure-mgmt-deploymentmanager
+python-azure-mgmt-devtestlabs
+python-azure-mgmt-kusto
+python-azure-mgmt-managedservices
+python-azure-mgmt-managementgroups
+python-azure-mgmt-msi
+python-azure-mgmt-relay
+python-azure-mgmt-reservations
 python-azure-sdk-tools
 python-azure-storage-common
 python-b2sdk
@@ -653,6 +679,7 @@ python-blessings
 python-blinker
 python-blivet
 libblockdev
+python-blockdiag
 python-blosc
 python-blowfish
 python-bluepy
@@ -671,6 +698,7 @@ python-boto3
 python-bottle
 python-bottle-sqlite
 python-bowler
+python-boxsdk
 bpython
 python-bracex
 python-bravado
@@ -752,6 +780,7 @@ python-click-plugins
 python-click-repl
 python-click-spinner
 python-click-threading
+python-cliff
 python-cliff-tablib
 python-cligj
 python-clikit
@@ -852,6 +881,7 @@ python-crcmod
 createrepo_c
 credslayer
 criu
+python-crochet
 python-croniter
 python-crypto
 cryptominisat
@@ -898,7 +928,9 @@ python-dbutils
 python-ddt
 debconf
 python-debian
+python-debianbts
 python-debrepo
+python-debtcollector
 python-deconz
 python-decopatch
 python-decorator
@@ -949,7 +981,9 @@ python-django-database-url
 python-django-debreach
 python-django-debug-toolbar
 python-django-email-url
+python-django-extensions
 python-django-filter
+python-django-formtools
 python-django-gravatar2
 python-django-haystack
 python-django-health-check
@@ -962,6 +996,7 @@ python-django-pdb
 python-django-pglocks
 python-django-picklefield
 python-django-pipeline
+python-django-prometheus
 python-django-pyscss
 python-django-pytest
 python-django-q
@@ -1032,6 +1067,7 @@ python-editdistance
 python-editdistance-s
 python-editor
 python-editorconfig
+pyee
 python-efel
 python-elasticsearch
 python-elementpath
@@ -1065,6 +1101,8 @@ python-exif
 python3-exiv2
 python-extension-helpers
 python-extras
+python-f5-icontrol-rest
+python-f5-sdk
 python-fabric
 python-factory-boy
 python-faker
@@ -1079,6 +1117,7 @@ python-fb-re2
 python-fdb
 fedfind
 python-fedora
+fedora-messaging
 python-feedgen
 python-feedgenerator
 python-feedparser
@@ -1096,6 +1135,7 @@ python-fisx
 python-fitsio
 python-fixtures
 python-flake8-docstrings
+python-flake8-polyfill
 python-flaky
 flann
 python-flask
@@ -1237,6 +1277,7 @@ python-gzipstream
 python-h11
 python-h2
 python-habitipy
+python-hacking
 python-hamcrest
 hamlib
 python-hatasmota
@@ -1404,6 +1445,7 @@ python-jupyter-core
 python-jupyterlab_pygments
 python-justbases
 python-justbytes
+python-jwcrypto
 python-jwt
 python-kadmin
 python-kaitaistruct
@@ -1686,6 +1728,7 @@ python-nitrate
 python-nltk
 python-nmap
 python-node-semver
+python-nodeenv
 python-noiseprotocol
 python-nose
 python-nose-cover3
@@ -1750,8 +1793,11 @@ python-operator-courier
 python-optcomplete
 python-ordered-set
 python-orderedset
+python-os-service-types
+python-os-testr
 python-osa
 osbs-client
+python-oslo-i18n
 python-oslo-sphinx
 python-osrf-pycommon
 otf2
@@ -1791,7 +1837,7 @@ python-pathvalidate
 python-patiencediff
 patool
 python-pbkdf2
-python-pbr::bootstrap:::
+python-pbr
 pcapy
 pdc-client
 python-pdfkit
@@ -1804,6 +1850,7 @@ python-pefile
 python-pelican
 python-pem
 python-pep517
+python-pep8-naming
 python-periodictable
 python-petlink
 petsc
@@ -1858,6 +1905,7 @@ python-pox
 python-poyo
 python-ppft
 python-pplpy
+python-prawcore
 python-precis_i18n
 python-prefixed
 libprelude
@@ -1964,8 +2012,10 @@ python-pygal
 pygame
 python-pygatt
 python-pygeoip
+python-pyghmi
 python-pygiftiio
 python-pygit2
+python-PyGithub
 python-pyglet
 python-pygments
 python-pygments-markdown-lexer
@@ -1999,6 +2049,7 @@ python-pylibravatar
 python-pylons-sphinx-themes
 python-pylotoncycle
 python-pyls-spyder
+python-pyls_black
 python-pymacaroons-pynacl
 python-pymata-express
 python-pymc3
@@ -2100,6 +2151,7 @@ python-pytest-error-for-skips
 python-pytest-expect
 python-pytest-filter-subpackage
 python-pytest-fixture-config
+python-pytest-flake8
 python-pytest-flakes
 python-pytest-forked
 python-pytest-freezegun
@@ -2525,6 +2577,7 @@ python-tenacity
 python-termcolor
 python-terminado
 testcloud
+python-testfixtures
 python-testing.common.database
 python-testing.postgresql
 python-testpath
@@ -2871,6 +2924,7 @@ soundconverter
 sourcextractor++
 spec2scl
 speedtest-cli
+sshuttle
 stgit
 stratis-cli
 sudo
