@@ -41,6 +41,7 @@ autokey
 avogadro2-libs
 awscli
 azote
+python-b4
 b43-tools
 bandit
 battray
@@ -266,6 +267,7 @@ libvirt-test-API
 lightdm-gtk-greeter-settings
 limnoria
 link-grammar
+linkchecker
 linux-thermaltake-rgb
 lldb
 lnst
@@ -445,6 +447,7 @@ python-PyMySQL
 python-PyPDF2
 PyQt4
 python-PyRSS2Gen
+pykka
 python-Pyped
 python-QtAwesome
 python-QtPy
@@ -627,6 +630,7 @@ python-audioread
 audit
 python-augeas
 python-auth-credential
+python-authheaders
 python-authres
 python-autograd
 python-automaton
@@ -718,6 +722,7 @@ python-backcall
 python-backlash
 python-backrefs
 python-baluhn
+python-barbicanclient
 barman
 python-bashate
 python-batalgorithm
@@ -830,6 +835,7 @@ python-cerealizer
 certbot
 python-certbot-apache
 python-certbot-dns-cloudflare
+python-certbot-dns-rfc2136
 python-certbot-dns-route53
 python-certbot-nginx
 python-certifi
@@ -843,6 +849,7 @@ python-chardet
 python-charset-normalizer
 python-check-manifest
 python-cheetah
+python-cheroot
 python-cherrypy:tests::::
 python-chirpstack-api
 pychromecast
@@ -1106,6 +1113,7 @@ python-django-timezone-field
 python-django-uuslug
 python-djangoql
 python-djvulibre
+python-dkimpy
 dlib
 dlrn
 python-dmidecode
@@ -1114,6 +1122,7 @@ dnf-plugin-flunk_dependent_remove
 dnf-plugins-extras
 dnf-plugins-core
 dnf-plugin-perfmetrics
+python-dns
 dnsgen
 python-dnslib
 python-docker
@@ -1160,9 +1169,11 @@ pyee
 python-efel
 python-elasticsearch
 python-elementpath
+python-email-validator
 python-emoji
 python-empy
 python-enchant
+python-engineio
 enjarify
 python-enlighten
 python-enthought-sphinx-theme
@@ -1176,9 +1187,11 @@ python-epson-projector
 python-epub
 eralchemy
 python-et_xmlfile
+python-etcd
 python-etcd3
 python-ethtool
 python-evdev
+python-eventlet
 python-events
 python-evic
 python-exabgp
@@ -1192,6 +1205,7 @@ python-extras
 python-eyed3
 python-ezdxf
 python-f5-icontrol-rest
+python-f5-sdk
 python-fabric
 python-factory-boy
 python-faker
@@ -1317,6 +1331,7 @@ gerrymander
 python-gertty
 python-getmac
 python-gettext
+python-gevent
 python-gevent-eventemitter
 libgexiv2
 gfal2-python
@@ -1347,6 +1362,7 @@ python-google-cloud-testutils
 python-google-crc32c
 python-google-i18n-address
 python-google-resumable-media
+python-googletrans
 gpgme
 python-gphoto2
 python-gpiozero
@@ -1370,6 +1386,7 @@ gtts
 gtts-token
 python-guessit
 python-guizero
+python-gunicorn
 gwebsockets
 python-gzipstream
 python-h11
@@ -1411,7 +1428,9 @@ python-http-client
 python-http-ece
 python-httpagentparser
 python-httpbin
+python-httpcore
 python-httplib2
+python-httpretty
 python-httpsig-cffi
 python-httptools
 python-httpx
@@ -1469,6 +1488,7 @@ python-intervaltree
 python-into-dbus-python
 python-invoke
 python-iowait
+freeipa
 python-ipgetter
 python-ipgetter2
 python-ipmi
@@ -1545,7 +1565,6 @@ python-junitxml
 python-jupymake
 python-jupyter-client:doc-tests::::
 python-jupyter-core
-python-jupyter-packaging
 python-jupyterlab_pygments
 python-justbases
 python-justbytes
@@ -1557,6 +1576,7 @@ python-kajiki
 python-kanboard
 python-kaptan
 python-kazoo
+python-kdcproxy
 kerberoast
 python-kerberos
 keycloak-httpd-client-install
@@ -1633,6 +1653,7 @@ python-libnacl
 libnbd
 libnl3
 libnuml
+libnvme
 python-libpagure
 pam_wrapper
 libpfm
@@ -1874,7 +1895,6 @@ python-numexpr
 numpy
 python-numpy-stl
 python-numpydoc
-libnvme
 python-oauth
 python-oauth2
 python-oauth2client
@@ -1924,10 +1944,14 @@ python-os-testr
 python-osa
 osbs-client
 osbuild
+python-oslo-concurrency
 python-oslo-config
 python-oslo-context
+python-oslo-db
 python-oslo-i18n
+python-oslo-serialization
 python-oslo-sphinx
+python-oslo-utils
 python-oslotest
 pyosmium
 python-osrf-pycommon
@@ -2089,6 +2113,7 @@ py-bcrypt
 python-py-gfm
 python-py-gql
 py-radix
+python-py27hash
 python-py2pack
 python3-py3dns
 python-py3nvml
@@ -2298,6 +2323,7 @@ python-pytest-datadir
 python-pytest-datafiles
 python-pytest-django
 python-pytest-doctestplus
+python-pytest-env
 python-pytest-error-for-skips
 python-pytest-expect
 python-pytest-filter-subpackage
@@ -2307,6 +2333,7 @@ python-pytest-flakes
 python-pytest-forked
 python-pytest-freezegun
 python-pytest-httpbin
+python-pytest-httpx
 python-pytest-isort
 python-pytest-lazy-fixture
 python-pytest-metadata
@@ -2322,14 +2349,17 @@ python-pytest-remotedata
 python-pytest-repeat
 python-pytest-rerunfailures
 python-pytest-runner
+python-pytest-sanic
 python-pytest-services
 python-pytest-shutil
 python-pytest-smartcov
 python-pytest-sourceorder
+python-pytest-subprocess
 python-pytest-subtests
 python-pytest-sugar
 python-pytest-testmon
 python-pytest-timeout
+python-pytest-toolbox
 python-pytest-tornado
 python-pytest-trio
 python-pytest-vcr
@@ -2492,6 +2522,7 @@ python-rustcfg
 python-rx
 python-rxjson
 python-s3transfer
+samba
 python-sanction
 python-sane
 sanlock
@@ -2503,6 +2534,7 @@ scapy
 python-schedutils
 python-schema
 scidavis
+scipy
 python-scour
 python-scp
 python-scramp
@@ -2585,6 +2617,7 @@ python-smi
 python-smmap
 smoldyn
 tcl-snack
+snallygaster
 python-snappy
 python-snaptime
 python-sniffio
@@ -2684,6 +2717,7 @@ python-sseclient-py
 python-ssh-python
 python-sshpubkeys
 python-sshtunnel
+python-stack-data
 python-stackprinter
 pdf-stapler
 python-statsd
@@ -2898,6 +2932,7 @@ python-velbus
 python-venusian
 python-verboselogs
 python-versioneer
+python-versioningit
 python-versiontools
 vertica-python
 strongswan
