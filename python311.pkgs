@@ -929,6 +929,7 @@ python-colored-traceback
 python-coloredlogs
 python-colorful
 python-colorlog
+python-colorspacious
 python-colorzero
 python-colour
 python-colour-runner
@@ -1137,6 +1138,7 @@ python-dogpile-cache
 dogtail
 python-doit
 python-dominate
+python-dotenv
 python-dotmap
 python-doubleratchet
 python-doxytag2zealdb
@@ -1489,10 +1491,12 @@ python-into-dbus-python
 python-invoke
 python-iowait
 freeipa
+python-ipdb
 python-ipgetter
 python-ipgetter2
 python-ipmi
 python-iptools
+ipython:check-doc::::
 python-ipython_genutils
 python-ironicclient
 iscsi-initiator-utils
@@ -1563,8 +1567,10 @@ python-jsonschema
 python-junit_xml
 python-junitxml
 python-jupymake
+python-jupyter-c-kernel
 python-jupyter-client:doc-tests::::
 python-jupyter-core
+python-jupyter-kernel-singular
 python-jupyterlab_pygments
 python-justbases
 python-justbytes
@@ -1642,6 +1648,7 @@ libfreenect
 libftdi
 libgpiod
 libguestfs
+sssd
 libiptcdata
 libkdtree++
 libkml
@@ -1839,6 +1846,7 @@ python-nagiosplugin
 python-nanoid
 python-natlas-libnmap
 python-natsort
+python-nbclient:check::::
 python-nbconvert:check-doc::::
 python-nbformat
 python-nbxmpp
@@ -1949,6 +1957,7 @@ python-oslo-config
 python-oslo-context
 python-oslo-db
 python-oslo-i18n
+python-oslo-log
 python-oslo-serialization
 python-oslo-sphinx
 python-oslo-utils
@@ -2027,6 +2036,7 @@ python-piexif
 python-pifpaf
 python-pigpio
 python-pika
+python-pikepdf
 python-pillow
 python-pint
 python-pipdeptree
@@ -2278,6 +2288,7 @@ python-pyrsistent
 python-pyrtlsdr
 python-pysam
 python-pysaml2
+python-pysb
 pyscard
 pyserial
 pyserial-asyncio
@@ -2404,6 +2415,7 @@ qscintilla
 python-qstylizer
 python-qt5
 pyqtwebengine
+python-qtconsole
 python-qtsass
 python-quantities
 python-queuelib
@@ -2416,6 +2428,7 @@ python-random2
 python-rangehttpserver
 python-rangeparser
 python-rarfile
+python-rasterio
 python-ratelimiter
 python-ratelimitingfilter
 python-raven
@@ -2451,6 +2464,7 @@ python-repoze-sphinx-autointerface
 python-repoze-tm2
 python-repoze-who
 python-repoze-who-plugins-sa
+python-represent
 python-requests
 python-requests-cache
 python-requests-download
@@ -2647,6 +2661,7 @@ python-sphinx-argparse
 python-sphinx-autodoc-typehints
 python-sphinx-bootstrap-theme
 python-sphinx-click
+python-sphinx-copybutton
 python-sphinx-epytext
 python-sphinx-gallery
 python-sphinx-hoverxref
