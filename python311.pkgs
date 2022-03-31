@@ -116,6 +116,7 @@ dnf-plugin-diff
 dnf-plugin-ovl
 swid-tools
 dnfdaemon
+docker-compose
 doge
 domoticz
 dot2tex
@@ -1181,6 +1182,7 @@ python-enlighten
 python-enthought-sphinx-theme
 python-entrypoints
 python-enturclient
+python-environs
 python-enzyme
 python-epc
 python-ephem
@@ -2242,6 +2244,7 @@ python-pymilter
 python-pymochad
 python-pymod2pkg
 pymodbus
+python-pymssql
 python-pynacl
 python-pynamodb
 python-pynest2d
@@ -2931,6 +2934,7 @@ python-user-agents
 python-userpath
 python-utils
 python-utmp
+python-uvicorn
 python-uvloop
 uwsgi
 python-vagrantpy
