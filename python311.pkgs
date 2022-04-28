@@ -320,6 +320,7 @@ nicotine+
 nik4
 ninja-build
 nml
+nodepool
 nordugrid-arc
 nordugrid-arc-nagios-plugins
 nova-agent
@@ -439,6 +440,7 @@ HepMC3
 python-IPy
 python-Levenshtein
 MUSIC
+python-Mastodon
 python-ModulemdTranslationHelpers
 python-MultipartPostHandler2
 NLopt
@@ -625,6 +627,7 @@ python-asttokens
 python-astunparse
 python-async-generator
 python-async-timeout
+python-async-upnp-client
 python-asyncio-dgram
 python-asyncmy
 python-asyncssh
@@ -650,17 +653,21 @@ python-aws-sam-translator
 python-azure-batch
 python-azure-common
 python-azure-cosmos
+python-azure-data-tables
 python-azure-datalake-store
+python-azure-devtools
 python-azure-functions-devops-build
 python-azure-graphrbac
 python-azure-identity
 python-azure-keyvault
 python-azure-keyvault-administration
 python-azure-keyvault-certificates
+python-azure-keyvault-keys
 python-azure-keyvault-secrets
 python-azure-loganalytics
 python-azure-mgmt-advisor
 python-azure-mgmt-apimanagement
+python-azure-mgmt-appconfiguration
 python-azure-mgmt-applicationinsights
 python-azure-mgmt-authorization
 python-azure-mgmt-azurestackhci
@@ -669,8 +676,10 @@ python-azure-mgmt-batchai
 python-azure-mgmt-billing
 python-azure-mgmt-botservice
 python-azure-mgmt-cdn
+python-azure-mgmt-cognitiveservices
 python-azure-mgmt-compute
 python-azure-mgmt-consumption
+python-azure-mgmt-containerservice
 python-azure-mgmt-core
 python-azure-mgmt-cosmosdb
 python-azure-mgmt-datalake-analytics
@@ -684,8 +693,11 @@ python-azure-mgmt-hdinsight
 python-azure-mgmt-hybridcompute
 python-azure-mgmt-imagebuilder
 python-azure-mgmt-iotcentral
+python-azure-mgmt-iothub
+python-azure-mgmt-iothubprovisioningservices
 python-azure-mgmt-keyvault
 python-azure-mgmt-kusto
+python-azure-mgmt-loganalytics
 python-azure-mgmt-managedservices
 python-azure-mgmt-managementgroups
 python-azure-mgmt-marketplaceordering
@@ -708,9 +720,12 @@ python-azure-mgmt-servicefabric
 python-azure-mgmt-servicefabricmanagedclusters
 python-azure-mgmt-servicelinker
 python-azure-mgmt-signalr
+python-azure-mgmt-sql
 python-azure-mgmt-sqlvirtualmachine
+python-azure-mgmt-storage
 python-azure-mgmt-synapse
 python-azure-mgmt-trafficmanager
+python-azure-mgmt-web
 python-azure-multiapi-storage
 python-azure-sdk-tools
 python-azure-storage-common
@@ -728,6 +743,7 @@ python-backrefs
 python-baluhn
 python-barbicanclient
 barman
+python-bashate
 python-batalgorithm
 python-batinfo
 bcc
@@ -834,6 +850,7 @@ python-catkin_tools
 python-cbor2
 python-cccolutils
 python-cchardet
+python-celery
 python-cerberus
 python-cerealizer
 certbot
@@ -1229,6 +1246,7 @@ python-fauxquests
 python-fb-re2
 python-fdb
 fedfind
+fedmsg
 python-fedora
 fedora-messaging
 python-feedgen
@@ -1319,6 +1337,7 @@ python-futurist
 python-fuzzyfinder
 python-fuzzywuzzy
 python-fypp
+python-gabbi
 python-gammu
 python-gast
 python-gattlib
@@ -1455,7 +1474,6 @@ python-hvac
 python-hwdata
 python-hyperframe
 python-hyperlink
-python-hypothesis:doc-tests::::
 python-hypothesis-fspaths
 i2c-tools
 python-i3ipc
@@ -1610,6 +1628,7 @@ koan
 kobo
 koji
 libkolabxml
+python-kombu
 python-korean-lunar-calendar
 python-krbcontext
 krop
@@ -1632,6 +1651,7 @@ python-lazyarray
 python-ldap
 python-ldap3
 ldapdomaindump
+python-ldappool
 libldb
 ldeep
 ldns
@@ -1815,6 +1835,7 @@ python-more-executors
 python-more-itertools
 python-moreorless
 python-moss
+python-mox3
 python-mozilla-django-oidc
 python-mpd
 python-mpd2
@@ -1952,6 +1973,7 @@ opentrep
 python-opentype-sanitizer
 openvdb
 python-operator-courier
+python-opnsense
 python-optcomplete
 python-ordered-set
 python-orderedset
@@ -1961,12 +1983,15 @@ python-osa
 osbs-client
 osbuild
 python-oslo-concurrency
+python-oslo-config
 python-oslo-context
 python-oslo-db
 python-oslo-i18n
 python-oslo-log
+python-oslo-serialization
 python-oslo-sphinx
 python-oslo-utils
+python-oslotest
 pyosmium
 python-osrf-pycommon
 otf2
@@ -2244,6 +2269,8 @@ python-pymeeus
 python-pymemcache
 pymilia
 python-pymilter
+python-pymochad
+python-pymod2pkg
 pymodbus
 python-pymssql
 python-pynacl
@@ -2328,6 +2355,7 @@ python-pytaglib
 python-pytapo
 python-pyte
 python-pytelegrambotapi
+python-pytenable
 pytest
 python-pytest-aiohttp
 python-pytest-arraydiff
@@ -2401,6 +2429,7 @@ python-pyvirtualdisplay
 python-pyvirtualize
 python-pyvit
 python-pyvlx
+python-pyvmomi
 watchman
 pywbem
 pywebdav
@@ -2492,6 +2521,7 @@ python-requre
 resalloc
 python-resolvelib
 python-responses
+python-restfly
 python-restructuredtext-lint
 python-restsh
 restview
@@ -2756,6 +2786,7 @@ python-stdlib-list
 python-stdnum
 python-stem
 python-steps
+python-stestr
 python-stevedore
 python-stomper
 python-stompest
@@ -2858,6 +2889,7 @@ python-toolz
 python-toposort
 python-tornado
 python-tortilla
+python-tosca-parser
 totpcgi
 python-towncrier
 python-tox-current-env
@@ -2881,6 +2913,7 @@ python-tvb-data
 python-tvb-gdist
 python-tw2-core
 python-tw2-forms
+python-tweepy
 python-twiggy
 python-twisted
 python-twitter
@@ -2980,6 +3013,7 @@ python-volatile
 python-volkszaehler
 volume_key
 python-voluptuous
+python-voluptuous-serialize
 python-volvooncall
 python-vsts
 python-vsts-cd-manager
@@ -3114,6 +3148,7 @@ python-zope-testrunner
 python-zopfli
 python-zstandard
 python-zstd
+python-zuul-client
 python-zuul-sphinx
 python-zxcvbn
 zxing-cpp
