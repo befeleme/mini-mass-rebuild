@@ -324,6 +324,7 @@ nodepool
 nordugrid-arc
 nordugrid-arc-nagios-plugins
 nova-agent
+nox
 ntpsec
 nvme-stas
 nvmetcli
@@ -359,6 +360,7 @@ past-time
 python-patatt
 python-pcicrawler
 pcp2pdf
+pcs
 pdfarranger
 pdfposter
 kernel-tools
@@ -650,8 +652,10 @@ autowrap
 awake
 python-awesomeversion
 python-aws-sam-translator
+python-azure-appconfiguration
 python-azure-batch
 python-azure-common
+python-azure-core
 python-azure-cosmos
 python-azure-data-tables
 python-azure-datalake-store
@@ -679,15 +683,20 @@ python-azure-mgmt-cdn
 python-azure-mgmt-cognitiveservices
 python-azure-mgmt-compute
 python-azure-mgmt-consumption
+python-azure-mgmt-containerinstance
+python-azure-mgmt-containerregistry
 python-azure-mgmt-containerservice
 python-azure-mgmt-core
 python-azure-mgmt-cosmosdb
+python-azure-mgmt-databoxedge
 python-azure-mgmt-datalake-analytics
 python-azure-mgmt-datalake-store
+python-azure-mgmt-datamigration
 python-azure-mgmt-deploymentmanager
 python-azure-mgmt-devtestlabs
 python-azure-mgmt-dns
 python-azure-mgmt-eventgrid
+python-azure-mgmt-eventhub
 python-azure-mgmt-extendedlocation
 python-azure-mgmt-hdinsight
 python-azure-mgmt-hybridcompute
@@ -700,6 +709,7 @@ python-azure-mgmt-kusto
 python-azure-mgmt-loganalytics
 python-azure-mgmt-managedservices
 python-azure-mgmt-managementgroups
+python-azure-mgmt-maps
 python-azure-mgmt-marketplaceordering
 python-azure-mgmt-media
 python-azure-mgmt-monitor
@@ -708,8 +718,11 @@ python-azure-mgmt-netapp
 python-azure-mgmt-network
 python-azure-mgmt-policyinsights
 python-azure-mgmt-privatedns
+python-azure-mgmt-rdbms
+python-azure-mgmt-recoveryservices
 python-azure-mgmt-recoveryservicesbackup
 python-azure-mgmt-redhatopenshift
+python-azure-mgmt-redis
 python-azure-mgmt-relay
 python-azure-mgmt-reservations
 python-azure-mgmt-resource
@@ -1375,6 +1388,7 @@ python-git-url-parse
 python-gitapi
 python-gitdb
 python-github3py
+python-gitlab
 python-glad
 python-glances-api
 python-glob2
@@ -1765,6 +1779,7 @@ python-marathon
 marisa
 python-markdown
 python-markdown-include
+python-markdown-it-py
 python-markdown-math
 python-markdown2
 python-markdown_2
@@ -1782,6 +1797,7 @@ python-matplotlib-venn
 python-matrix-synapse-ldap3
 python-maxminddb
 python-mccabe
+python-mdit-py-plugins
 python-mdurl
 python-mdx_gh_links
 python-meautility
@@ -1844,6 +1860,7 @@ python-mplcairo
 python-mpmath
 mpsolve
 mraa
+python-mrcfile
 python-mrcrowbar
 python-msal
 python-msal-extensions
@@ -1872,6 +1889,7 @@ python3-mypy
 python-mypy_extensions
 python-mysql
 python-mysqlclient
+python-myst-parser
 python-mystrom
 python-nagiosplugin
 python-nanoid
@@ -2069,6 +2087,7 @@ python-pika
 python-pikepdf
 python-pillow
 python-pint
+python-pip
 python-pipdeptree
 python-pivy
 python-pkgconfig
@@ -2120,6 +2139,7 @@ python-prettyprinter
 python-prettytable
 prewikka
 prewikka-updatedb
+python-primecountpy
 python-priority
 python-process-tests
 python-productmd
@@ -2576,6 +2596,7 @@ python-rx
 python-rxjson
 python-s3transfer
 samba
+python3-saml
 python-sanction
 python-sane
 sanlock
@@ -2719,6 +2740,7 @@ python-sphinx-panels
 python-sphinx-press-theme
 python-sphinx-removed-in
 python-sphinx-sitemap
+python-sphinx-tabs
 python-sphinx-theme-alabaster
 python-sphinx-theme-py3doc-enhanced
 python-sphinx_ansible_theme
@@ -2817,6 +2839,7 @@ python-svgwrite
 python-swagger-spec-validator
 sword
 python-sybil
+sympy
 python-system-calls
 python-systemd
 systemd-coredump-python
@@ -3124,6 +3147,7 @@ python-zbase32::bootstrap:::
 python-zc-customdoctests
 python-zc-lockfile
 python-zdaemon
+python-zeep
 zeitgeist
 python-zeroconf
 python-zict
@@ -3216,6 +3240,7 @@ solaar
 solarwolf
 sos
 soundconverter
+sourcextractor++
 spec2scl
 speedtest-cli
 sshuttle
