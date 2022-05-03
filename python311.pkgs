@@ -50,6 +50,7 @@ binwalk
 blivet-gui
 bluefish
 blueman
+bodhi
 boost
 borgbackup
 borgmatic
@@ -268,6 +269,7 @@ lightdm-gtk-greeter-settings
 limnoria
 link-grammar
 linkchecker
+linode-cli
 linux-thermaltake-rgb
 lldb
 lnst
@@ -319,6 +321,7 @@ nik4
 ninja-build
 nml
 nodepool
+noggin
 nordugrid-arc
 nordugrid-arc-nagios-plugins
 nova-agent
@@ -500,6 +503,8 @@ python-XStatic-smart-table
 python-XStatic-termjs
 YafaRay
 python-ZConfig
+python-ZEO
+python-ZODB
 python-aaargh
 python-abimap
 abiword
@@ -728,6 +733,7 @@ python-babelfish
 babeltrace
 python-backcall
 python-backlash
+python-backoff
 python-backrefs
 python-baluhn
 python-barbicanclient
@@ -1238,6 +1244,7 @@ python-feedparser
 python-fido2
 python-fields
 file
+python-filecheck
 python-filelock
 python-filetype
 python-fiona
@@ -1427,6 +1434,7 @@ hokuyoaist
 python-hole
 python-homeconnect
 python-homeworks
+python-howdoi
 python-hpack
 python-hpilo
 python-hs-dbus-signature
@@ -1593,6 +1601,7 @@ python-kanboard
 python-kaptan
 python-kazoo
 python-kdcproxy
+python-keep
 kerberoast
 python-kerberos
 keycloak-httpd-client-install
@@ -1764,6 +1773,7 @@ python-matplotlib-scalebar
 python-matplotlib-venn
 python-matrix-synapse-ldap3
 python-maxminddb
+python-maya
 python-mccabe
 python-mdit-py-plugins
 python-mdurl
@@ -1893,6 +1903,7 @@ python-nmap
 python-nmrglue
 python-node-semver
 python-nodeenv
+python-noggin-messages
 python-noiseprotocol
 python-nose
 python-nose-testconfig
@@ -2030,6 +2041,7 @@ python-pecan-notario
 python-pefile
 python-pelican
 python-pem
+python-pendulum
 python-pep517
 python-pep621
 python-pep8-naming
@@ -2078,6 +2090,7 @@ pocketsphinx
 python-podcastparser
 python-podman
 python-podman-api
+poetry
 python-poetry-core
 python-polib
 python-policyuniverse
@@ -2387,6 +2400,7 @@ python-pytest-services
 python-pytest-shutil
 python-pytest-smartcov
 python-pytest-sourceorder
+python-pytest-spec
 python-pytest-subprocess
 python-pytest-subtests
 python-pytest-sugar
@@ -2407,6 +2421,7 @@ python-pytimeparse
 python-pytn3270
 python-pytools
 pytz
+python-pytzdata
 python-pyudev
 rdma-core
 python-pyvex
@@ -2534,6 +2549,7 @@ python-rosinstall_generator
 python-rospkg
 python-routes
 python-rpdb
+rpkg
 python-rply
 rpm
 python-rpmautospec
@@ -2736,6 +2752,7 @@ python-sphinxcontrib-serializinghtml
 python-sphinxcontrib-spelling
 python-sphinxcontrib-trio
 python-sphinxcontrib-websupport
+python-sphinxcontrib-zopeext
 python-sphinxemoji
 python-sphinxext-opengraph
 python-sphinxtesters
@@ -2774,8 +2791,10 @@ python-stem
 python-steps
 python-stestr
 python-stevedore
+python-stochastic
 python-stomper
 python-stompest
+stomppy
 python-stone
 python-stopit
 stp
@@ -2830,6 +2849,7 @@ python-tempora
 python-tenacity
 python-termcolor
 python-terminado
+python-terminaltables
 python-test_server
 testcloud
 python-testfixtures
@@ -3168,6 +3188,7 @@ rmlint
 rofimoji
 rpkg-util
 rpl
+rpmlint
 rpmspectool
 rss2email
 rst2pdf
