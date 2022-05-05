@@ -72,6 +72,7 @@ ccnet
 ccsm
 cdist
 cekit
+centpkg
 ceph
 python-pycha
 chrome-gnome-shell
@@ -91,6 +92,8 @@ condor
 congruity
 container-workflow-tool
 copr-cli
+copr-dist-git
+copr-rpmbuild
 copr-keygen
 cranc
 cryptlib
@@ -505,6 +508,7 @@ YafaRay
 python-ZConfig
 python-ZEO
 python-ZODB
+python-ZODB3
 python-aaargh
 python-abimap
 abiword
@@ -577,6 +581,7 @@ python-amico
 python-amply
 python-amqp
 python-ana
+python-animatplot
 python-aniso8601
 python-annexremote
 python-ansi
@@ -738,6 +743,7 @@ python-backrefs
 python-baluhn
 python-barbicanclient
 barman
+python-bash-kernel
 python-bashate
 python-batalgorithm
 python-batinfo
@@ -799,6 +805,7 @@ python-box
 python-boxsdk
 bpython
 python-bracex
+python-branca
 python-bravado
 python-bravado-core
 python-breathe
@@ -1298,6 +1305,7 @@ python-flufl-lock
 python-flufl-testing
 python-fluidity-sm
 fmf
+python-folium
 folly
 python-fontMath
 python-fontconfig
@@ -1463,6 +1471,7 @@ python-hvac
 python-hwdata
 python-hyperframe
 python-hyperlink
+python-hypothesis:doc-tests::::
 python-hypothesis-fspaths
 i2c-tools
 python-i3ipc
@@ -1513,8 +1522,9 @@ python-ipgetter
 python-ipgetter2
 python-ipmi
 python-iptools
-ipython:check-doc::::
+ipython
 python-ipython_genutils
+python-ipywidgets
 python-ironicclient
 iscsi-initiator-utils
 python-iso-639
@@ -1585,10 +1595,13 @@ python-junit_xml
 python-junitxml
 python-jupymake
 python-jupyter-c-kernel
-python-jupyter-client:doc-tests::::
+python-jupyter-client
+python-jupyter-console
 python-jupyter-core
 python-jupyter-kernel-singular
+python-jupyter-kernel-test
 python-jupyter-packaging
+python-jupyter-polymake
 python-jupyterlab_pygments
 python-justbases
 python-justbytes
@@ -1767,7 +1780,6 @@ python-marshmallow-enum
 python-martian
 python-masscan
 mathgl
-python-matplotlib:check::::
 python-matplotlib-inline
 python-matplotlib-scalebar
 python-matplotlib-venn
@@ -1875,6 +1887,7 @@ python-natsort
 python-nbclient:check::::
 python-nbconvert:check-doc::::
 python-nbformat
+python-nbsphinx
 python-nbxmpp
 python-ncclient
 python-ndg_httpsclient
@@ -1912,6 +1925,7 @@ python-nose2
 python-nose_fixes
 python-notario
 notcurses
+python-notebook
 python-notify2
 notmuch
 nototools
@@ -2007,6 +2021,7 @@ python-pandas
 python-pandocfilters
 python-param
 python-paramiko
+python-pari-jupyter
 python-parse
 python-parse_type
 python-parsedatetime
@@ -2348,6 +2363,7 @@ pystatgrab
 python-pystemd
 python-pystray
 pysvn
+python-pyswarms
 python-pyswip
 python-pysword
 python-pytaglib
@@ -3159,6 +3175,7 @@ python-zuul-client
 python-zuul-sphinx
 python-zxcvbn
 zxing-cpp
+pythran
 pyzor
 qpid-dispatch
 quisk
