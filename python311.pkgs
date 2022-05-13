@@ -110,6 +110,7 @@ deluge
 devscripts
 dib-utils
 diceware
+did
 distcc
 distgen
 dmlite
@@ -132,7 +133,9 @@ electrum
 elements
 elements-alexandria
 enki
+ephemeral-port-reserve
 eric
+python-esphomeflasher
 esptool
 etckeeper
 evemu
@@ -144,6 +147,7 @@ fedora-business-cards
 fedora-gather-easyfix
 fedora-review
 fedora-third-party
+fedpkg
 libffado
 flatbuffers
 flent
@@ -210,6 +214,7 @@ gumbo-parser
 gwe
 gyp
 hashid
+hatch
 hddfancontrol
 heat-cfntools
 hexchat
@@ -351,6 +356,7 @@ openscap-daemon
 openssh-ldap-authkeys
 openvswitch
 openwsman
+oraculum
 orca
 osc
 oval-graph
@@ -586,6 +592,7 @@ python-aniso8601
 python-annexremote
 python-ansi
 python-ansi2html
+python-ansible-compat
 python-ansible-pygments
 python-ansicolor
 python-ansicolors
@@ -637,6 +644,7 @@ python-asyncssh
 python-asysocks
 atomic-reactor
 python-atomicwrites
+python-atpublic
 python-attrs
 python-audioread
 audit
@@ -656,6 +664,7 @@ python-aws-sam-translator
 python-azure-appconfiguration
 python-azure-batch
 python-azure-common
+python-azure-core
 python-azure-cosmos
 python-azure-datalake-store
 python-azure-devtools
@@ -847,6 +856,7 @@ python-case
 python-casttube
 catch22
 python-catkin-sphinx
+python-catkin_lint
 python-catkin_pkg
 python-catkin_tools
 python-cbor2
@@ -972,6 +982,7 @@ python-connection_pool
 python-constantly
 python-construct
 python-contextlib2
+conu
 python-convertdate
 python-cookiecutter
 python-cooldict
@@ -992,6 +1003,7 @@ python-cpio
 python-cppheaderparser
 python-cppy
 python-cpuinfo
+python-cradox
 python-cram
 python-crank
 python-crashtest
@@ -1200,6 +1212,7 @@ python-empy
 python-enchant
 enjarify
 python-enlighten
+python-enrich
 python-enthought-sphinx-theme
 python-entrypoints
 python-environs
@@ -1300,6 +1313,7 @@ flatpak-module-tools
 python-flexmock
 python-flit
 python-flock
+python-flufl-bounce
 python-flufl-i18n
 python-flufl-lock
 python-flufl-testing
@@ -1492,6 +1506,7 @@ python-imagehash
 python-imageio
 python-imagesize
 imath
+python-img2pdf
 livecd-tools
 python-immutables
 python-impacket
@@ -1624,6 +1639,8 @@ python-keyrings-alt
 pykickstart
 python-kismet-rest
 python-kitchen
+kiwi
+kiwi-boxed-plugin
 python-kiwisolver
 python-klein
 python-kmod
@@ -1702,6 +1719,7 @@ libpfm
 libplist
 libproxy
 libpst
+librepo
 libreport
 python-libsass
 libsbml
@@ -1780,6 +1798,7 @@ python-marshmallow-enum
 python-martian
 python-masscan
 mathgl
+python-matplotlib
 python-matplotlib-inline
 python-matplotlib-scalebar
 python-matplotlib-venn
@@ -1881,6 +1900,7 @@ python-mysqlclient
 python-myst-parser
 python-mystrom
 python-nagiosplugin
+python-name-that-hash
 python-nanoid
 python-natlas-libnmap
 python-natsort
@@ -2020,6 +2040,7 @@ python-pamela
 python-pandas
 python-pandocfilters
 python-param
+python-parameterized
 python-paramiko
 python-pari-jupyter
 python-parse
@@ -2061,6 +2082,7 @@ python-pep517
 python-pep621
 python-pep8-naming
 python-periodictable
+python-persist-queue
 python-persistent
 python-petlink
 petsc
@@ -2209,6 +2231,7 @@ python-pycryptodomex
 python-pycurl
 python-pycxx
 python-pydantic
+python-pydata-sphinx-theme
 python-pydbus
 python-pydenticon
 python-pydicom
@@ -2492,6 +2515,7 @@ python-rdflib
 python-rdflib-jsonld
 rdopkg
 python-re-assert
+python-read-roi
 python-readability
 python-readability-lxml
 python-readlike
@@ -2568,6 +2592,7 @@ python-rpdb
 rpkg
 python-rply
 rpm
+python-rpm-head-signing
 python-rpmautospec
 rpmconf
 rpmdeplint
@@ -2738,6 +2763,7 @@ python-sphinx-removed-in
 python-sphinx-sitemap
 python-sphinx-tabs
 python-sphinx-theme-alabaster
+python-sphinx-theme-builder
 python-sphinx-theme-py3doc-enhanced
 python-sphinx_ansible_theme
 python-sphinx_lv2_theme
@@ -2824,6 +2850,7 @@ python-structlog
 python-stuf
 python-subarulink
 python-subliminal
+python-subprocess-tee
 subunit
 subversion
 python-subvertpy
@@ -2938,6 +2965,7 @@ python-tw2-core
 python-tw2-forms
 python-tweepy
 python-twiggy
+python-twilio
 python-twisted
 python-twitter
 python-txaio
@@ -3335,6 +3363,7 @@ trytond-stock-supply-day
 trytond-timesheet
 tuna
 tuned
+python-twine
 txt2tags
 ubertooth
 udica
