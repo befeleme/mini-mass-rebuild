@@ -34,6 +34,7 @@ argparse-manpage
 artifacts
 asciidoc
 asciinema
+asv
 aubio
 auditwheel
 autojump
@@ -148,6 +149,7 @@ fedora-gather-easyfix
 fedora-review
 fedora-third-party
 fedpkg
+fedscm-admin
 libffado
 flatbuffers
 flent
@@ -342,6 +344,7 @@ nwchem
 nwg-panel
 nyx
 oct2spec
+odcs
 offlineimap
 ogr2osm
 omniORB
@@ -892,6 +895,7 @@ cjdns
 python-claripy
 python-cle
 python-cleo
+python-cli-helpers
 python-click
 python-click-completion
 python-click-default-group
@@ -1088,6 +1092,7 @@ python-dijitso
 python-dill
 python-dingz
 dionaea
+python-dipy
 python-dirq
 python3-discid
 python-distlib
@@ -1417,6 +1422,7 @@ gpsd
 python-gpxpy
 python-grabbit
 python-grabserial
+python-gradunwarp
 python-grako
 grammalecte
 python-graph-tool
@@ -1524,6 +1530,7 @@ python-impacket
 python-importlib-metadata
 python-importmagic
 python-incremental
+python-indexed_gzip
 python-inflect
 python-inflection
 python-influxdb
@@ -1629,6 +1636,7 @@ python-jupyter-kernel-singular
 python-jupyter-kernel-test
 python-jupyter-packaging
 python-jupyter-polymake
+python-jupyter-sphinx
 python-jupyterlab_pygments
 python-justbases
 python-justbytes
@@ -1656,6 +1664,7 @@ python-kiwisolver
 python-klein
 python-klusta
 python-kmod
+python-knack
 koan
 kobo
 koji
@@ -1758,6 +1767,7 @@ python-linux-procfs
 liquidctl
 python-listparser
 python-lit
+litecli
 python-littleutils
 python-livereload
 python-llfuse
@@ -1863,6 +1873,7 @@ python-modernize
 python-modestmaps
 python-moksha-common
 python-moksha-hub
+python-molecule
 python-molecule-podman
 python-mongoengine
 python-mongomock
@@ -1918,8 +1929,8 @@ python-name-that-hash
 python-nanoid
 python-natlas-libnmap
 python-natsort
-python-nbclient:check::::
-python-nbconvert:check-doc::::
+python-nbclient
+python-nbconvert
 python-nbformat
 python-nbsphinx
 python-nbxmpp
@@ -1941,8 +1952,10 @@ python-netmiko
 python-netpyne
 python-networkmanager
 python-neurodsp
+python-neurom
 newt
 nftables
+python-niaarm
 python-niapy
 python-nibabel
 python-nine
@@ -2050,6 +2063,7 @@ python-overpy
 python-ovirt-engine-sdk4
 python-owl_rl
 python-packaging
+packit
 python-pacpy
 python-pagure-messages
 python-paho-mqtt
@@ -2203,6 +2217,7 @@ python-pulp
 python-pulsectl
 python-pure-eval
 python-pure-protobuf
+python-pvc
 pwncat
 python-pwntools
 libpwquality
@@ -2982,6 +2997,7 @@ python-transaction
 python-transforms3d
 python-translationstring
 python-translitcodec
+transtats-cli
 tre
 python-tree-format
 python-treq
@@ -3067,6 +3083,7 @@ python-validators
 vapoursynth
 python-varlink
 python-vatnumber
+python-vconnector
 python-vcrpy
 python-vcstool
 python-vcstools
@@ -3080,6 +3097,7 @@ python-versioneer
 python-versioningit
 python-versiontools
 vertica-python
+python-vevents
 strongswan
 vigra
 python-vine
@@ -3098,6 +3116,7 @@ volume_key
 python-voluptuous
 python-voluptuous-serialize
 python-volvooncall
+python-vpoller
 python-vsts
 python-vsts-cd-manager
 python-vsure
