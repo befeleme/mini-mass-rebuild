@@ -36,6 +36,7 @@ asciidoc
 asciinema
 asv
 aubio
+audiotube
 auditwheel
 autojump
 autokey
@@ -76,6 +77,7 @@ cdist
 cekit
 centpkg
 ceph
+cffconvert
 python-pycha
 chrome-gnome-shell
 clang
@@ -309,6 +311,7 @@ mock
 module-build
 modulemd-tools
 mom
+mopidy
 mozo
 mpich
 mqtt-randompub
@@ -343,6 +346,7 @@ nvmetcli
 nwchem
 nwg-panel
 nyx
+obserware
 oct2spec
 odcs
 offlineimap
@@ -362,7 +366,6 @@ openvswitch
 openwsman
 oraculum
 orca
-osc
 oval-graph
 oz
 pacemaker
@@ -450,7 +453,6 @@ Cython
 python-GeoIP
 GeographicLib
 GitPython
-python-GridDataFormats
 HepMC3
 python-IPy
 python-Levenshtein
@@ -516,8 +518,6 @@ python-XStatic-smart-table
 python-XStatic-termjs
 YafaRay
 python-ZConfig
-python-ZEO
-python-ZODB
 python-ZODB3
 python-aaargh
 python-abimap
@@ -670,6 +670,7 @@ python-azure-batch
 python-azure-common
 python-azure-core
 python-azure-cosmos
+python-azure-data-tables
 python-azure-datalake-store
 python-azure-devtools
 python-azure-functions-devops-build
@@ -725,7 +726,6 @@ python-azure-mgmt-privatedns
 python-azure-mgmt-recoveryservicesbackup
 python-azure-mgmt-redhatopenshift
 python-azure-mgmt-relay
-python-azure-mgmt-reservations
 python-azure-mgmt-resource
 python-azure-mgmt-search
 python-azure-mgmt-security
@@ -869,12 +869,6 @@ python-cchardet
 python-celery
 python-cerberus
 python-cerealizer
-certbot
-python-certbot-apache
-python-certbot-dns-cloudflare
-python-certbot-dns-rfc2136
-python-certbot-dns-route53
-python-certbot-nginx
 python-certifi
 python-cffi
 python-cffsubr
@@ -1339,6 +1333,7 @@ python-fontname
 fonttools
 python-formats
 python-formencode
+fprettify
 python-fpylll
 python-fqdn
 python-freecell_solver
@@ -1594,6 +1589,7 @@ emacs-jedi
 python-jeepney
 python-jellyfish
 python-jenkins
+python-jenkins-job-builder
 python-jep
 python-jinja2
 python-jinja2-cli
@@ -1634,7 +1630,6 @@ python-jupyter-console
 python-jupyter-core
 python-jupyter-kernel-singular
 python-jupyter-kernel-test
-python-jupyter-packaging
 python-jupyter-polymake
 python-jupyter-sphinx
 python-jupyterlab_pygments
@@ -1643,6 +1638,7 @@ python-justbytes
 python-jwcrypto
 python-jwt
 python-kadmin
+python-kafka
 python-kaitaistruct
 python-kajiki
 python-kanboard
@@ -1955,7 +1951,6 @@ python-neurodsp
 python-neurom
 newt
 nftables
-python-niaarm
 python-niapy
 python-nibabel
 python-nine
@@ -2069,7 +2064,6 @@ python-pagure-messages
 python-paho-mqtt
 python-pam
 python-pamela
-python-pandas
 python-pandas-datareader
 python-pandocfilters
 python-param
@@ -2118,7 +2112,6 @@ python-pep621
 python-pep8-naming
 python-periodictable
 python-persist-queue
-python-persistent
 python-petlink
 petsc
 python-pexpect
@@ -2143,7 +2136,6 @@ python-pipdeptree
 python-pivy
 python-pkgconfig
 python-pkginfo
-pkgwat
 python-pkgwat-api
 python-plaintable
 python-plaster
@@ -2360,7 +2352,6 @@ python-pynuvo
 python-pyobd
 python-pyocr
 pyodbc
-python-pyone
 python-pyopencl
 python-pyopengl
 python-pyoptical
@@ -2387,7 +2378,6 @@ python-pyqtchart
 python-pyqtgraph
 python-pyquery
 python-pyrad
-python-pyramid
 python-pyramid-fas-openid
 python-pyramid-mako
 python-pyramid-tm
@@ -2622,7 +2612,6 @@ python-rnc2rng
 python-robosignatory
 python-robot-detection
 python-roman
-python-rope
 python-rosdep
 python-rosdistro
 python-rosinstall_generator
@@ -2726,7 +2715,6 @@ signon-glib
 python-simframe
 python-simpleaudio
 python-simplebayes
-python-simpleeval
 python-simplegeneric
 python-simplejson
 python-simpleline
@@ -2807,7 +2795,6 @@ python-sphinx-removed-in
 python-sphinx-sitemap
 python-sphinx-tabs
 python-sphinx-theme-alabaster
-python-sphinx-theme-builder
 python-sphinx-theme-py3doc-enhanced
 python-sphinx_ansible_theme
 python-sphinx_lv2_theme
@@ -2875,7 +2862,6 @@ python-stdiomask
 python-stdlib-list
 python-stdnum
 python-stem
-python-steps
 python-stestr
 python-stevedore
 python-stochastic
@@ -2934,14 +2920,12 @@ python-teamcity-messages
 python-tempdir
 python-tempita
 python-templated-dictionary
-python-tempora
 python-tenacity
 python-termcolor
 python-terminado
 python-terminaltables
 python-test_server
 testcloud
-python-testfixtures
 python-testing.common.database
 python-testing.postgresql
 python-testpath
@@ -3094,7 +3078,6 @@ python-velbus
 python-venusian
 python-verboselogs
 python-versioneer
-python-versioningit
 python-versiontools
 vertica-python
 python-vevents
@@ -3224,9 +3207,7 @@ zanata-python-client
 python-zanata2fedmsg
 python-zaqarclient
 python-zbase32::bootstrap:::
-python-zc-customdoctests
 python-zc-lockfile
-python-zdaemon
 zeitgeist
 python-zeroconf
 python-zict
@@ -3270,6 +3251,7 @@ recoll
 rednotebook
 redshift
 relval
+remmina
 renderdoc
 reprotest
 resalloc-openstack
@@ -3415,7 +3397,6 @@ trytond-stock-supply-day
 trytond-timesheet
 tuna
 tuned
-python-twine
 txt2tags
 ubertooth
 udica
