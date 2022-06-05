@@ -50,6 +50,7 @@ battray
 beaker
 beets
 binwalk
+python-black
 blivet-gui
 bluefish
 blueman
@@ -225,6 +226,7 @@ hexchat
 hgsvn
 hgview
 holland
+home-assistant-cli
 hplip
 httpie
 hugin
@@ -312,6 +314,7 @@ module-build
 modulemd-tools
 mom
 mopidy
+mopidy-mpd
 mozo
 mpich
 mqtt-randompub
@@ -395,6 +398,7 @@ playitagainsam
 plplot
 pmbootstrap
 podman-compose
+poezio
 poezio-omemo
 policycoreutils
 porcupine
@@ -524,6 +528,7 @@ python-abimap
 abiword
 python-absl-py
 python-accept-types
+python-accuweather
 python-acme
 python-acora
 python-acoustid
@@ -548,13 +553,18 @@ python-aioasuswrt
 python-aiocmd
 python-aiocurrencylayer
 python-aiodns
+python-aioeafm
 python-aioesphomeapi
 python-aiofiles
+python-aioflo
 python-aioftp
+python-aiogqlc
 python-aioguardian
 python-aiohomekit
 python-aiohttp
+python-aiohttp-cors
 python-aiohttp-socks
+python-aiohttp-sse-client
 python-aiohue
 python-aioiotprov
 python-aioitertools
@@ -563,9 +573,11 @@ python-aiomodbus
 python-aiomqtt
 python-aiomultiprocess
 python-aiomysql
+python-aionotion
 python-aioodbc
 python-aioopenssl
 python-aiopg
+python-aioresponses
 python-aiorestapi
 python-aiorpcx
 python-aiosasl
@@ -574,6 +586,7 @@ python-aiosignal
 python-aiosmb
 python-aiosmtpd
 python-aiosnmp
+python-aiounifi
 python-aiounittest
 python-aiowinreg
 python-aiozeroconf
@@ -620,6 +633,7 @@ python-apypie
 ara
 python-archinfo
 libarcus
+python-aresponses
 python-argcomplete
 python-argon2-cffi
 python-argopt
@@ -642,6 +656,7 @@ python-asttokens
 python-astunparse
 python-async-generator
 python-async-timeout
+python-async-upnp-client
 python-asyncio-dgram
 python-asyncmy
 python-asyncssh
@@ -679,6 +694,7 @@ python-azure-identity
 python-azure-keyvault
 python-azure-keyvault-administration
 python-azure-keyvault-certificates
+python-azure-keyvault-keys
 python-azure-keyvault-secrets
 python-azure-loganalytics
 python-azure-mgmt-advisor
@@ -695,26 +711,33 @@ python-azure-mgmt-cdn
 python-azure-mgmt-cognitiveservices
 python-azure-mgmt-compute
 python-azure-mgmt-consumption
+python-azure-mgmt-containerinstance
 python-azure-mgmt-containerregistry
 python-azure-mgmt-containerservice
 python-azure-mgmt-core
 python-azure-mgmt-cosmosdb
+python-azure-mgmt-databoxedge
 python-azure-mgmt-datalake-analytics
 python-azure-mgmt-datalake-store
+python-azure-mgmt-datamigration
 python-azure-mgmt-deploymentmanager
 python-azure-mgmt-devtestlabs
 python-azure-mgmt-dns
 python-azure-mgmt-eventgrid
+python-azure-mgmt-eventhub
 python-azure-mgmt-extendedlocation
 python-azure-mgmt-hdinsight
 python-azure-mgmt-hybridcompute
 python-azure-mgmt-imagebuilder
 python-azure-mgmt-iotcentral
+python-azure-mgmt-iothub
+python-azure-mgmt-iothubprovisioningservices
 python-azure-mgmt-keyvault
 python-azure-mgmt-kusto
 python-azure-mgmt-loganalytics
 python-azure-mgmt-managedservices
 python-azure-mgmt-managementgroups
+python-azure-mgmt-maps
 python-azure-mgmt-marketplaceordering
 python-azure-mgmt-media
 python-azure-mgmt-monitor
@@ -723,9 +746,13 @@ python-azure-mgmt-netapp
 python-azure-mgmt-network
 python-azure-mgmt-policyinsights
 python-azure-mgmt-privatedns
+python-azure-mgmt-rdbms
+python-azure-mgmt-recoveryservices
 python-azure-mgmt-recoveryservicesbackup
 python-azure-mgmt-redhatopenshift
+python-azure-mgmt-redis
 python-azure-mgmt-relay
+python-azure-mgmt-reservations
 python-azure-mgmt-resource
 python-azure-mgmt-search
 python-azure-mgmt-security
@@ -734,12 +761,15 @@ python-azure-mgmt-servicefabric
 python-azure-mgmt-servicefabricmanagedclusters
 python-azure-mgmt-servicelinker
 python-azure-mgmt-signalr
+python-azure-mgmt-sql
 python-azure-mgmt-sqlvirtualmachine
 python-azure-mgmt-storage
 python-azure-mgmt-synapse
 python-azure-mgmt-trafficmanager
+python-azure-mgmt-web
 python-azure-multiapi-storage
 python-azure-sdk-tools
+python-azure-servicebus
 python-azure-storage-common
 python-azure-synapse-accesscontrol
 python-azure-synapse-artifacts
@@ -913,6 +943,7 @@ python-cloudpickle
 python-cloudscraper
 clustershell
 python-cma
+python-cmake-build-extension
 python-cmarkgfm
 python-cmd2
 python-cmdln
@@ -1017,6 +1048,7 @@ python-croniter
 python-crypto
 python-cryptography
 cryptominisat
+python-cs
 csdiff
 python-cson
 csound
@@ -1039,6 +1071,7 @@ python-cysignals
 python-d2to1
 python-daemon
 python-daemonize
+python-daikin
 python-daiquiri
 python-danfossair
 python-dasbus
@@ -1064,6 +1097,7 @@ python-debian
 python-debianbts
 python-debrepo
 python-debtcollector
+python-deconz
 python-decorator
 python-defcon
 python-defusedxml
@@ -1095,6 +1129,7 @@ python-distro
 distro-info
 python-distroinfo
 python-distutils-extra
+python-django
 python-django-ajax-selects
 python-django-allauth
 python-django-angular
@@ -1213,16 +1248,19 @@ python-emcee
 python-emoji
 python-empy
 python-enchant
+python-engineio
 enjarify
 python-enlighten
 python-enrich
 python-enthought-sphinx-theme
 python-entrypoints
+python-enturclient
 python-environs
 python-enzyme
 python-epc
 python-ephem
 python-epi
+python-epson-projector
 python-epub
 eralchemy
 espresso
@@ -1370,6 +1408,7 @@ python-gelidum
 python-genshi
 python-gensim
 python-genty
+python-geoip2
 python-geojson
 python-geomdl
 python-geomet
@@ -1386,6 +1425,7 @@ gfal2-python
 python-ghp-import
 python-giacpy
 python-gilt
+python-gios
 python-git-changelog
 python-git-revise
 python-git-url-parse
@@ -1409,6 +1449,7 @@ python-google-auth-oauthlib
 python-google-cloud-testutils
 python-google-crc32c
 python-google-i18n-address
+python-google-resumable-media
 python-googletrans
 gpgme
 python-gphoto2
@@ -1449,6 +1490,7 @@ python-hass-data-detective
 python-hatasmota
 python-hatch-vcs
 python-hatchling
+python-haversion
 libdnf
 python-hdate
 python-hdf5storage
@@ -1537,6 +1579,7 @@ python-inotify
 python-inotify_simple
 python-inspyred
 python-instant
+python-insteon
 intelhex
 python-interfile
 python-intervaltree
@@ -1757,6 +1800,7 @@ libxml2
 python-license-expression
 python-lightblue
 lilv
+python-limits
 python-linecache2
 python-linkheader
 python-linux-procfs
@@ -1788,7 +1832,6 @@ python-lz4
 m2crypto
 python-m2r
 python-magic
-python-magic-wormhole-transit-relay
 python-mailer
 python-mailmanclient
 python-mailmerge
@@ -1897,6 +1940,7 @@ python-msal-extensions
 python-msgpack
 python-msldap
 msoffcrypto-tool
+python-msrest
 python-msrestazure
 python-mujson
 python-mulpyplexer
@@ -2232,6 +2276,8 @@ python-pyactivetwo
 python-pyaes
 afflib
 python-pyaib
+python-pyairnow
+python-pyairvisual
 python-pyarlo
 python-pyasn1
 pyatspi
@@ -2354,6 +2400,7 @@ python-pyocr
 pyodbc
 python-pyopencl
 python-pyopengl
+python-pyopenuv
 python-pyoptical
 python-pyotgw
 python-pyotp
@@ -2411,6 +2458,7 @@ python-pysol-cards
 python-pyspf
 python-pyspiflash
 python-pyspike
+python-pysqueezebox
 python-pysrt
 pystatgrab
 python-pystemd
@@ -2425,6 +2473,7 @@ python-pyte
 python-pytelegrambotapi
 python-pytenable
 pytest
+python-pytest-aiohttp
 python-pytest-arraydiff
 python-pytest-astropy-header
 python-pytest-asyncio
@@ -2487,6 +2536,7 @@ python-pytest-xdist
 python-pytest-xprocess
 python-pytest-xvfb
 pythia8
+python-pytile
 python-pytimeparse
 python-pytn3270
 python-pytools
@@ -2729,6 +2779,7 @@ python-siphash
 sipvicious
 python-six
 skf
+python-slackclient
 python-slacker
 python-slip
 python-slixmpp
@@ -2924,6 +2975,7 @@ python-tenacity
 python-termcolor
 python-terminado
 python-terminaltables
+python-teslajsonpy
 python-test_server
 testcloud
 python-testing.common.database
@@ -3143,6 +3195,7 @@ python-wikipedia
 python-wikitcms
 python-winacl
 python-winsspi
+python-wled
 python-wloc
 woffTools
 python-wrapt
@@ -3208,6 +3261,7 @@ python-zanata2fedmsg
 python-zaqarclient
 python-zbase32::bootstrap:::
 python-zc-lockfile
+python-zeep
 zeitgeist
 python-zeroconf
 python-zict
