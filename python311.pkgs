@@ -1012,6 +1012,7 @@ python-connection_pool
 python-constantly
 python-construct
 python-contextlib2
+python-contourpy
 conu
 python-convertdate
 python-cookiecutter
@@ -1468,6 +1469,7 @@ python-graphql-relay
 python-graphviz
 python-greenlet
 python-grokmirror
+grpc::bootstrap:::
 python-grpcio-gcp
 python-gsd
 python-gssapi
@@ -1673,6 +1675,7 @@ python-jupyter-console
 python-jupyter-core
 python-jupyter-kernel-singular
 python-jupyter-kernel-test
+python-jupyter-packaging
 python-jupyter-polymake
 python-jupyter-sphinx
 python-jupyterlab_pygments
@@ -2398,6 +2401,7 @@ python-pynuvo
 python-pyobd
 python-pyocr
 pyodbc
+python-pyone
 python-pyopencl
 python-pyopengl
 python-pyopenuv
@@ -2662,6 +2666,7 @@ python-rnc2rng
 python-robosignatory
 python-robot-detection
 python-roman
+python-rope
 python-rosdep
 python-rosdistro
 python-rosinstall_generator
@@ -2765,6 +2770,7 @@ signon-glib
 python-simframe
 python-simpleaudio
 python-simplebayes
+python-simpleeval
 python-simplegeneric
 python-simplejson
 python-simpleline
@@ -2846,6 +2852,7 @@ python-sphinx-removed-in
 python-sphinx-sitemap
 python-sphinx-tabs
 python-sphinx-theme-alabaster
+python-sphinx-theme-builder
 python-sphinx-theme-py3doc-enhanced
 python-sphinx_ansible_theme
 python-sphinx_lv2_theme
@@ -2971,6 +2978,7 @@ python-teamcity-messages
 python-tempdir
 python-tempita
 python-templated-dictionary
+python-tempora
 python-tenacity
 python-termcolor
 python-terminado
@@ -3130,6 +3138,7 @@ python-velbus
 python-venusian
 python-verboselogs
 python-versioneer
+python-versioningit
 python-versiontools
 vertica-python
 python-vevents
@@ -3451,6 +3460,7 @@ trytond-stock-supply-day
 trytond-timesheet
 tuna
 tuned
+python-twine
 txt2tags
 ubertooth
 udica
