@@ -622,6 +622,7 @@ python-anykeystore
 python-anymarkup
 python-anymarkup-core
 python-anytree
+python-aodhclient
 apbs
 python-apipkg
 python-appdirs
@@ -915,6 +916,7 @@ python-cheroot
 python-cherrypy
 python-chirpstack-api
 pychromecast
+python-cinderclient
 python-ciso8601
 cjdns
 python-claripy
@@ -1436,6 +1438,7 @@ python-gitdb
 python-github3py
 python-gitlab
 python-glad
+python-glanceclient
 python-glances-api
 python-glob2
 glusterfs
@@ -1699,6 +1702,7 @@ keycloak-httpd-client-install
 keylime
 python-keyring
 python-keyrings-alt
+python-keystoneclient
 pykickstart
 python-kismet-rest
 python-kitchen
@@ -1828,6 +1832,7 @@ liblouis
 python-lsp-jsonrpc
 lttng-tools
 lttng-ust
+python-lunr
 python-lupa
 python3-lxc
 python-lxml
@@ -1999,6 +2004,7 @@ python-neurodsp
 python-neurom
 newt
 nftables
+python-niaarm
 python-niapy
 python-nibabel
 python-nine
@@ -2023,6 +2029,7 @@ python-notebook
 python-notify2
 notmuch
 nototools
+python-novaclient
 python-nptyping
 python-npyscreen
 python-nrf24
@@ -2072,6 +2079,7 @@ python-opensensemap-api
 python-openshift
 python-openslide
 python-openstackdocstheme
+python-openstacksdk
 python-opentracing
 opentrep
 python-opentype-sanitizer
@@ -2112,6 +2120,7 @@ python-pagure-messages
 python-paho-mqtt
 python-pam
 python-pamela
+python-pandas::bootstrap:::
 python-pandas-datareader
 python-pandocfilters
 python-param
@@ -2418,6 +2427,7 @@ python-pypcapkit
 python-pypck
 python-pyperclip
 python-pypet
+python-pyphi
 python-pypillowfight
 python-pypng
 python-pyprocdev
@@ -2717,6 +2727,8 @@ scapy
 python-schedutils
 python-schema
 scidavis
+python-scikit-image
+python-scikit-learn
 scipy
 python-sciunit
 python-scour
@@ -2954,6 +2966,7 @@ python-svg
 python-svg-path
 python-svgwrite
 python-swagger-spec-validator
+python-swiftclient
 sword
 python-sybil
 sympy
