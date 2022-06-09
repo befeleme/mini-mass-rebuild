@@ -659,6 +659,7 @@ python-async-timeout
 python-async-upnp-client
 python-asyncio-dgram
 python-asyncmy
+python-asyncpg
 python-asyncssh
 python-asysocks
 atomic-reactor
@@ -2150,6 +2151,7 @@ python-pdir2
 python-pebble
 python-pecan
 python-pecan-notario
+python-peewee
 python-pefile
 python-pelican
 python-pem
