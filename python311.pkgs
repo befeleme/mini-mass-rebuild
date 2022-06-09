@@ -307,6 +307,7 @@ mgarepo
 micropipenv
 minigalaxy
 mirage
+mirrormanager2
 mkosi
 mlpack
 mock
@@ -1081,6 +1082,7 @@ python-danfossair
 python-dasbus
 python-datadog
 python-datalad
+python-datanommer-models
 python-dateparser
 python-dateutil
 python-dateutils
@@ -1304,6 +1306,7 @@ python-fb-re2
 python-fdb
 fedfind
 fedmsg
+python-fedmsg-meta-fedora-infrastructure
 python-fedora
 fedora-messaging
 python-feedgen
@@ -2030,6 +2033,8 @@ python-notify2
 notmuch
 nototools
 python-novaclient
+python-novaclient-os-networks
+python-novaclient-os-virtual-interfaces
 python-nptyping
 python-npyscreen
 python-nrf24
