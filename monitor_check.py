@@ -490,9 +490,11 @@ async def open_bz(package, build, status, browser_lock, reason=None):
     summary = f"{package} fails to build with Python 3.11: {reason['short_description']}"
 
     description = dedent(f"""
-        {package} fails to build with Python 3.11.0a1.
+        {package} fails to build with Python 3.11.0b3.
 
         {reason['long_description']}
+
+        https://docs.python.org/3.11/whatsnew/3.11.html
 
         For the build logs, see:
         https://copr-be.cloud.fedoraproject.org/results/{COPR_STR}/fedora-rawhide-x86_64/{build:08}-{package}/
