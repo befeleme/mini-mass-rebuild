@@ -54,12 +54,12 @@ python-black
 blivet-gui
 bluefish
 blueman
-bodhi
+bodhi-client
+bodhi-server
 boost
 borgbackup
 borgmatic
 brd
-breezy
 bst-external
 btest
 btrfs-sxbackup
@@ -127,7 +127,6 @@ swid-tools
 dnfdaemon
 docker-compose
 doge
-dogtag-pki
 domoticz
 dot2tex
 python-drgn
@@ -143,7 +142,6 @@ ephemeral-port-reserve
 eric
 python-esphomeflasher
 esptool
-etckeeper
 evemu
 quodlibet
 expliot
@@ -161,11 +159,9 @@ flent
 fontforge
 fonts-tweak-tool
 freeipa-fas
-freeipa-healthcheck
 frescobaldi
 fros
 fusion-icon
-gajim
 gammastep
 gaupol
 gcovr
@@ -236,7 +232,6 @@ hydrapaper
 python-hyperkitty
 ibus
 ibus-cangjie
-ikiwiki
 imagefactory
 imagefactory-plugins
 imgbased
@@ -304,6 +299,7 @@ mate-menu
 mcomix3
 meld
 menulibre
+mercurial
 meson
 mgarepo
 micropipenv
@@ -347,6 +343,7 @@ nordugrid-arc-nagios-plugins
 nova-agent
 nox
 ntpsec
+nut
 nvme-stas
 nvmetcli
 nwchem
@@ -688,7 +685,7 @@ python-autoprop
 autowrap
 awake
 python-awesomeversion
-python-aws-sam-translator
+python-axolotl-curve25519
 python-azure-appconfiguration
 python-azure-batch
 python-azure-common
@@ -840,6 +837,8 @@ pybluez
 python-blurb
 bmap-tools
 python-bna
+bodhi
+bodhi-messages
 python-bokeh
 python-boolean.py
 python-booleanoperations
@@ -1304,6 +1303,7 @@ python-fabric
 python-factory-boy
 python-faker
 python-fasjson-client
+python-fastbencode
 python-fastcache
 python-fasteners
 python-fastjsonschema
@@ -1503,6 +1503,7 @@ h5py
 python-habitipy
 python-hacking
 python-hamcrest
+hamlib
 python-hass-data-detective
 python-hatasmota
 python-hatch-vcs
@@ -1661,7 +1662,6 @@ python-joblib
 python-jose
 python-josepy
 python-journal-brief
-jpype
 python-jsmin
 python-json-logger
 python-json-minify
@@ -1713,6 +1713,7 @@ keycloak-httpd-client-install
 keylime
 python-keyring
 python-keyrings-alt
+python-keystoneauth1
 python-keystoneclient
 pykickstart
 python-kismet-rest
@@ -1840,6 +1841,7 @@ python-logging-tree
 python-logutils
 python-logzero
 liblouis
+lrcalc
 python-lsp-jsonrpc
 lttng-tools
 lttng-ust
@@ -1994,7 +1996,6 @@ python-nbclient
 python-nbconvert
 python-nbformat
 python-nbsphinx
-python-nbxmpp
 python-ncclient
 python-ndg_httpsclient
 python-ndjson-testrunner
@@ -2037,7 +2038,6 @@ python-nose2
 python-nose_fixes
 python-notario
 notcurses
-python-notebook
 python-notify2
 notmuch
 nototools
@@ -2203,12 +2203,10 @@ python-pika
 python-pikepdf
 python-pillow
 python-pint
-python-pip
 python-pipdeptree
 python-pivy
 python-pkgconfig
 python-pkginfo
-python-pkgwat-api
 python-plaintable
 python-plaster
 python-plaster-pastedeploy
@@ -2366,6 +2364,7 @@ python-pygit2
 python-PyGithub
 python-pyglet
 python-pygments
+python-pygments-better-html
 python-pygments-markdown-lexer
 python-pygments-pytest
 python-pygments-style-solarized
@@ -2484,6 +2483,7 @@ python-pysmt
 pysnmp
 python-pysnooper
 python-pysocks
+python-pysodium
 python-pysol-cards
 python-pyspf
 python-pyspiflash
@@ -2630,7 +2630,6 @@ python-readability
 python-readability-lxml
 python-readlike
 python-readme-renderer
-python-readthedocs-sphinx-ext
 python-rebulk
 python-recommonmark
 python-redis
@@ -2950,6 +2949,7 @@ python-stdiomask
 python-stdlib-list
 python-stdnum
 python-stem
+python-steps
 python-stestr
 python-stevedore
 python-stochastic
@@ -3122,6 +3122,7 @@ python-ujson
 python-ukkonen
 unbound
 python-unicodecsv
+python-unicodedata2
 unicorn
 python-unidecode
 python-unidiff
@@ -3161,7 +3162,6 @@ python-vatnumber
 python-vconnector
 python-vcrpy
 python-vcstool
-python-vcstools
 python-vdf
 vdirsyncer
 python-vecrec
@@ -3291,7 +3291,6 @@ python-yfinance
 python-yourls
 python-ytmusicapi
 python-yubico
-yubikey-manager
 libyui
 z3
 python-zabbix-api-erigones
