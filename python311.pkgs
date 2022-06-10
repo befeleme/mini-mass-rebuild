@@ -107,6 +107,8 @@ cura
 cvc4
 cxxtest
 d-feet
+datagrepper
+datanommer-commands
 dblatex
 ddiskit
 ddupdate
@@ -403,6 +405,7 @@ poezio
 poezio-omemo
 policycoreutils
 porcupine
+postfix-mta-sts-resolver
 postgresql
 powerline
 pre-commit
@@ -587,6 +590,7 @@ python-aiosignal
 python-aiosmb
 python-aiosmtpd
 python-aiosnmp
+python-aiosqlite
 python-aiounifi
 python-aiounittest
 python-aiowinreg
@@ -671,8 +675,10 @@ python-attrs
 python-audioread
 audit
 python-augeas
+python-august
 python-auth-credential
 python-authheaders
+python-authlib
 python-authres
 python-autograd
 python-automaton
@@ -1080,8 +1086,10 @@ python-daikin
 python-daiquiri
 python-danfossair
 python-dasbus
+python-databases
 python-datadog
 python-datalad
+python-datanommer-consumer
 python-datanommer-models
 python-dateparser
 python-dateutil
@@ -1876,6 +1884,7 @@ python-matplotlib
 python-matplotlib-inline
 python-matplotlib-scalebar
 python-matplotlib-venn
+python-matrix-common
 python-matrix-synapse-ldap3
 python-maxminddb
 python-maya
@@ -2662,6 +2671,7 @@ python-requre
 resalloc
 python-resolvelib
 python-responses
+python-respx
 python-restfly
 python-restructuredtext-lint
 python-restsh
@@ -2932,6 +2942,7 @@ python-sshtunnel
 python-stack-data
 python-stackprinter
 pdf-stapler
+python-starlette
 python-statsd
 python-statsmodels
 python-stdio-mgr
