@@ -138,11 +138,11 @@ electron-cash
 electrum
 elements
 elements-alexandria
-enki
 ephemeral-port-reserve
 eric
 python-esphomeflasher
 esptool
+etckeeper
 evemu
 quodlibet
 expliot
@@ -225,7 +225,6 @@ hexchat
 hgsvn
 hgview
 holland
-home-assistant-cli
 hplip
 httpie
 hugin
@@ -233,6 +232,7 @@ hydrapaper
 python-hyperkitty
 ibus
 ibus-cangjie
+ikiwiki
 imagefactory
 imagefactory-plugins
 imgbased
@@ -326,7 +326,6 @@ nanovna-saver
 nautilus-python
 nbdkit
 needrestart
-nemo-extensions
 netgen-mesher
 netstat-monitor
 neuron
@@ -406,7 +405,6 @@ porcupine
 postfix-mta-sts-resolver
 postgresql
 powerline
-pre-commit
 printrun
 profanity
 proselint
@@ -420,7 +418,6 @@ ptpython
 puddletag
 pulsecaster
 pungi
-py3status
 pybugz
 pychess
 pydeps
@@ -564,7 +561,6 @@ python-aioftp
 python-aiogqlc
 python-aioguardian
 python-aiohomekit
-python-aiohttp
 python-aiohttp-cors
 python-aiohttp-socks
 python-aiohttp-sse-client
@@ -608,7 +604,6 @@ python-amico
 python-amply
 python-amqp
 python-ana
-python-animatplot
 python-aniso8601
 python-annexremote
 python-ansi
@@ -644,7 +639,6 @@ python-argon2-cffi
 python-argopt
 python-arpeggio
 python-arpy
-python-arrow
 python-asciitree
 python-ase
 python-asgiref
@@ -791,7 +785,6 @@ babeltrace
 python-backcall
 python-backlash
 python-backoff
-python-backrefs
 python-baluhn
 python-barbicanclient
 barman
@@ -840,7 +833,6 @@ pybluez
 python-blurb
 bmap-tools
 python-bna
-bodhi
 bodhi-messages
 python-bokeh
 python-boolean.py
@@ -859,7 +851,6 @@ python-box
 python-boxsdk
 bpython
 python-bracex
-python-branca
 python-bravado
 python-bravado-core
 python-breathe
@@ -901,7 +892,6 @@ python-case
 python-casttube
 catch22
 python-catkin-sphinx
-python-catkin_lint
 python-catkin_pkg
 python-catkin_tools
 python-cbor2
@@ -989,7 +979,6 @@ python-colcon-python-setup-py
 python-colcon-recursive-crawl
 python-colcon-ros
 python-colcon-ros-bazel
-python-colcon-ros-bundle
 python-colcon-spawn-shell
 python-colcon-test-result
 python-colcon-zsh
@@ -1093,7 +1082,6 @@ python-datadog
 python-datalad
 python-datanommer-consumer
 python-datanommer-models
-python-dateparser
 python-dateutil
 python-dateutils
 python-datrie
@@ -1121,7 +1109,6 @@ deltarpm
 python-demjson
 python-deprecated
 python-deprecation
-python-devicely
 python-devolo-home-control-api
 python-dfdatetime
 python-dialog
@@ -1306,6 +1293,7 @@ python-fabric
 python-factory-boy
 python-faker
 python-fasjson-client
+python-fastavro
 python-fastbencode
 python-fastcache
 python-fasteners
@@ -1479,7 +1467,6 @@ python-gpxpy
 python-grabbit
 python-grabserial
 python-gradunwarp
-python-grako
 grammalecte
 python-graph-tool
 python-graphitesend
@@ -1697,7 +1684,6 @@ python-jupyter-kernel-singular
 python-jupyter-kernel-test
 python-jupyter-packaging
 python-jupyter-polymake
-python-jupyter-sphinx
 python-jupyterlab_pygments
 python-justbases
 python-justbytes
@@ -1850,7 +1836,6 @@ lrcalc
 python-lsp-jsonrpc
 lttng-tools
 lttng-ust
-python-lunr
 python-lupa
 python3-lxc
 python-lxml
@@ -1880,7 +1865,6 @@ python-markdown-it-py
 python-markdown-math
 python-markdown2
 python-markdown_2
-python-markups
 python-markupsafe
 python-marshmallow
 python-marshmallow-enum
@@ -1894,7 +1878,6 @@ python-matplotlib-venn
 python-matrix-common
 python-matrix-synapse-ldap3
 python-maxminddb
-python-maya
 python-mccabe
 python-mdit-py-plugins
 python-mdurl
@@ -1997,10 +1980,9 @@ python-name-that-hash
 python-nanoid
 python-natlas-libnmap
 python-natsort
-python-nbclient
-python-nbconvert
+python-nbclient:check::::
+python-nbconvert:check-doc::::
 python-nbformat
-python-nbsphinx
 python-ncclient
 python-ndg_httpsclient
 python-ndjson-testrunner
@@ -2022,7 +2004,6 @@ python-neurodsp
 python-neurom
 newt
 nftables
-python-niaarm
 python-niapy
 python-nibabel
 python-nine
@@ -2209,6 +2190,7 @@ python-pika
 python-pikepdf
 python-pillow
 python-pint
+python-pip
 python-pipdeptree
 python-pivy
 python-pkgconfig
@@ -2500,7 +2482,6 @@ pystatgrab
 python-pystemd
 python-pystray
 pysvn
-python-pyswarms
 python-pyswip
 python-pysword
 python-pytaglib
@@ -2700,9 +2681,7 @@ python-robosignatory
 python-robot-detection
 python-roman
 python-rope
-python-rosdep
 python-rosdistro
-python-rosinstall_generator
 python-rospkg
 python-routes
 python-rpdb
@@ -2751,7 +2730,6 @@ scidavis
 python-scikit-image
 python-scikit-learn
 scipy
-python-sciunit
 python-scour
 python-scp
 python-scramp
@@ -3035,7 +3013,6 @@ libtevent
 python-text-unidecode
 python-textdistance
 python-textfsm
-python-textile
 python-textparser
 python-texttable
 python-textwrap3
@@ -3169,6 +3146,7 @@ python-vatnumber
 python-vconnector
 python-vcrpy
 python-vcstool
+python-vcstools
 python-vdf
 vdirsyncer
 python-vecrec
@@ -3298,6 +3276,7 @@ python-yfinance
 python-yourls
 python-ytmusicapi
 python-yubico
+yubikey-manager
 libyui
 z3
 python-zabbix-api-erigones
@@ -3336,7 +3315,6 @@ python-zuul-client
 python-zuul-sphinx
 python-zxcvbn
 zxing-cpp
-pythran
 pyzor
 qpid-dispatch
 quisk
@@ -3441,7 +3419,6 @@ torbrowser-launcher
 tortoisehg
 python-tox
 tpm2-pkcs11
-trac
 trac-monotone-plugin
 trac-tracnav-plugin
 transifex-client
