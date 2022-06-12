@@ -60,6 +60,7 @@ boost
 borgbackup
 borgmatic
 brd
+breezy
 bst-external
 btest
 btrfs-sxbackup
@@ -458,6 +459,7 @@ Cython
 python-GeoIP
 GeographicLib
 GitPython
+python-GridDataFormats
 HepMC3
 python-IPy
 python-Levenshtein
@@ -685,6 +687,7 @@ python-autoprop
 autowrap
 awake
 python-awesomeversion
+python-axolotl
 python-axolotl-curve25519
 python-azure-appconfiguration
 python-azure-batch
@@ -1466,6 +1469,7 @@ python-google-cloud-testutils
 python-google-crc32c
 python-google-i18n-address
 python-google-resumable-media
+python-googleapis-common-protos
 python-googletrans
 gpgme
 python-gphoto2
@@ -1484,6 +1488,7 @@ python-graphql-relay
 python-graphviz
 python-greenlet
 python-grokmirror
+python-grpc-google-iam-v1
 grpc::bootstrap:::
 python-grpcio-gcp
 python-gsd
@@ -2076,6 +2081,7 @@ oneVPL
 python-onionbalance
 python-openant
 openbabel
+python-opencensus-proto
 python-opendata-transport
 python3-openid
 python-openid-cla
@@ -2526,6 +2532,7 @@ python-pytest-flake8
 python-pytest-flakes
 python-pytest-forked
 python-pytest-freezegun
+python-pytest-grpc
 python-pytest-httpbin
 python-pytest-httpx
 python-pytest-isort
