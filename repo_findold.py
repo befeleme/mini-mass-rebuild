@@ -23,7 +23,7 @@ def main():
     procs = {}
     evrs = {}
     for tag in SIDE, MAIN:
-        procs[tag] = subprocess.Popen(('koji', 'list-tagged', tag, '--quiet'), text=True, stdout=subprocess.PIPE)
+        procs[tag] = subprocess.Popen(('koji', 'list-tagged', tag, '--quiet', '--latest'), text=True, stdout=subprocess.PIPE)
     for tag in SIDE, MAIN:
         stdout, _ = procs[tag].communicate()
         assert procs[tag].returncode == 0
