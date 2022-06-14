@@ -1,5 +1,8 @@
-import pathlib
+import subprocess
 import rpm
+
+MAIN = 'f37'
+SIDE = 'f37-python'
 
 SIGNS = {
     1: '>',
@@ -8,33 +11,31 @@ SIGNS = {
 }
 
 
-def split(nevra):
-    nev, _, ra = nevra.rpartition('-')
+def split(nevr):
+    nev, _, r = nevr.rpartition('-')
     n, _, ev = nev.rpartition('-')
     e, _, v = ev.rpartition(':')
     e = e or '0'
-    r, _, a = ra.rpartition('.')
-    if r.endswith('.src'):
-        r = r[:-4]
     return n, (e, v, r)
 
 
 def main():
-    all_packages = set(pathlib.Path('python39.pkgs').read_text().splitlines())
-
-    kojirepo = set(pathlib.Path('koji.repoquery').read_text().splitlines())
-    py310repo = set(pathlib.Path('koji-python3.10.repoquery').read_text().splitlines())
-
-    kojidict = dict(split(pkg) for pkg in kojirepo)
-    py310dict = dict(split(pkg) for pkg in py310repo)
+    procs = {}
+    evrs = {}
+    for tag in SIDE, MAIN:
+        procs[tag] = subprocess.Popen(('koji', 'list-tagged', tag, '--quiet'), text=True, stdout=subprocess.PIPE)
+    for tag in SIDE, MAIN:
+        stdout, _ = procs[tag].communicate()
+        assert procs[tag].returncode == 0
+        evrs[tag] = dict(split(pkg.partition(' ')[0]) for pkg in stdout.splitlines())
 
     todo = set()
 
-    for pkg in sorted(all_packages):
-        if pkg not in py310dict:
+    for pkg in sorted(evrs[SIDE]):
+        if pkg not in evrs[MAIN]:
             continue
-        sign = SIGNS[rpm.labelCompare(kojidict[pkg], py310dict[pkg])]
-        print(f'{pkg: <30} {"-".join(kojidict[pkg])} {sign} {"-".join(py310dict[pkg])}')
+        sign = SIGNS[rpm.labelCompare(evrs[MAIN][pkg], evrs[SIDE][pkg])]
+        print(f'{pkg: <30} {"-".join(evrs[MAIN][pkg])} {sign} {"-".join(evrs[SIDE][pkg])}')
 
         if sign == '>':
             todo.add(pkg)
