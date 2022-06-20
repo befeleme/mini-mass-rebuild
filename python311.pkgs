@@ -250,6 +250,7 @@ glade
 glances
 globus-net-manager
 glusterfs
+gmsh
 gnofract4d
 gnome-abrt
 gnome-activity-journal
@@ -406,6 +407,7 @@ libplist
 libpoly
 libprelude
 libpreludedb
+libproxy
 libpst
 libpwquality
 libreoffice
@@ -624,6 +626,7 @@ puddletag
 pulsecaster
 pungi
 pwncat
+py3status
 pyatspi
 pyaudio
 py-bcrypt
@@ -1905,6 +1908,7 @@ python-ModulemdTranslationHelpers
 python-moksha-common
 python-moksha-hub
 python-molecule-podman
+python-molmass
 python-mongoengine
 python-mongomock
 python-mongoquery

@@ -38,7 +38,6 @@ gajim
 gfal2-python
 gitg
 gitlint
-gmsh
 gnome-passwordsafe
 gnuradio
 gpaw
@@ -60,7 +59,6 @@ kicad
 kiwi-boxed-plugin
 libkdtree++
 libpfm
-libproxy
 librealsense
 liquidctl
 litecli
@@ -107,7 +105,6 @@ powerline
 pre-commit
 profanity
 psi4
-py3status
 py4j
 pygrib
 pylibacl
