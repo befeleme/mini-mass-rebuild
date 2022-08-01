@@ -2,7 +2,7 @@ import json
 import subprocess
 from click import progressbar
 
-repoquery = 'repoquery --repo=koji --refresh -f *.cpython-38.pyc --source'.split()
+repoquery = 'repoquery --repo=koji --refresh -f *.cpython-311.pyc --source'.split()
 py38_pkgs = subprocess.run(repoquery, stdout=subprocess.PIPE, text=True).stdout.splitlines()
 
 try:
@@ -32,8 +32,9 @@ try:
             name = '-'.join(nevr.split('-')[:-2])
             if name in processed:
                 continue
-            if nevr not in after(name, '2019-08-31 23:59:59'):
-                if nevr not in after(name, '2019-08-31 16:11:41'):
+            if nevr not in after(name, '2022-07-12 23:59:59'):
+                # https://koji.fedoraproject.org/koji/buildinfo?buildID=2000384
+                if nevr not in after(name, '2022-07-12 13:46:16'):
                     torebuild.add(name)
                 else:
                     inspection.add(name)
@@ -45,7 +46,7 @@ except KeyboardInterrupt:
 
 print(f'Processed {len(processed)} packages.\n')
 print(f'{len(done)} packages were build with b4+')
-print(f'{len(inspection)} packages were built on 2019-08-31 and need manual inspection')
+print(f'{len(inspection)} packages were built on 2022-07-12 and need manual inspection')
 print(f'{len(torebuild)} packages need to be rebuilt with b4+')
 
 with open('bytecodes.json', 'w') as f:
