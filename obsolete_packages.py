@@ -4,7 +4,7 @@ import subprocess
 import sys
 from collections import defaultdict
 
-RAWHIDEVER = 36
+RAWHIDEVER = 38
 DNF_CACHEDIR = '_dnf_cache_dir'
 ARCH = 'x86_64'
 
@@ -84,10 +84,10 @@ def repoquery(*args, **kwargs):
 
 def get_old_pkgs():
     r = set()
-    for version in (33,34):
-        for dependency in ('python(abi) = 3.9',
-                           'libpython3.9.so.1.0()(64bit)',
-                           'libpython3.9d.so.1.0()(64bit)'):
+    for version in (35,36):
+        for dependency in ('python(abi) = 3.10',
+                           'libpython3.10.so.1.0()(64bit)',
+                           'libpython3.10d.so.1.0()(64bit)'):
             pkgs = repoquery(version=version,
                     whatrequires_exact=dependency)
             for pkg in pkgs:
@@ -130,7 +130,7 @@ def removed_pkgs():
 
 def what_required(dependency):
     r = []
-    for version in (33,34):
+    for version in (35,36):
         pkgs = repoquery(version=version, whatrequires=dependency)
         for pkg in pkgs:
             r.append(pkg)
