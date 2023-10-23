@@ -52,24 +52,170 @@ EXPLANATION = {
 
 # FTBS packages for which we don't open bugs (yet)
 EXCLUDE = {
-    'pyxattr': 'fails in Copr only',
-    'mingw-python3': 'pending update to 3.10',
-    'python-uvicorn': 'problem in websockets, bz1914246',
-    'python-webassets': 'problem in scss, bz1914347',
-    'copr-backend': 'problem in setproctitle, bz1919789',
+    "python-subprocess-tee": "depends on retired python-molecule, bz2226346",
+    "gdb": "can't be fully built yet - missing numpy/boost",
 }
 
 REASONS = {
-    "collections.abc": {
-        "regex": r"(ImportError: cannot import name '(.*?)' from 'collections'|AttributeError: module 'collections' has no attribute '(.*?)')",
-        # no short_description, uses the matched regex
-        "long_description":
-        """{MATCH}
-        (/usr/lib64/python3.10/collections/__init__.py)
+    "implicit declaration of PyEval_InitThreads": {
+        "regex": r"(.*error:.*PyEval_InitThread.*)",
+        "long_description": """{MATCH}
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
 
-        The deprecated aliases to Collections Abstract Base Classes were removed from the collections module.
-        https://docs.python.org/3.10/whatsnew/changelog.html#python-3-10-0-alpha-6
-        https://bugs.python.org/issue37324""",
+        Remove PyEval_InitThreads() and PyEval_ThreadsInitialized() functions, deprecated in Python 3.9.
+        Since Python 3.7, Py_Initialize() always creates the GIL:
+        calling PyEval_InitThreads() did nothing and PyEval_ThreadsInitialized() always returned non-zero.
+        (Contributed by Victor Stinner in https://github.com/python/cpython/issues/105182.)
+        """,
+        "short_description": "error: implicit declaration of function ‘PyEval_InitThreads’",
+    },
+    "implicit declaration of gettimeofday": {
+        "regex": r"(.*error:.*gettimeofday.*)",
+        "long_description": """{MATCH}
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        Python.h no longer includes these standard header files: <time.h>, <sys/select.h> and <sys/time.h>.
+        If needed, they should now be included explicitly.
+        For example, <time.h> provides the clock() and gmtime() functions, <sys/select.h> provides the select() function,
+        and <sys/time.h> provides the futimes(), gettimeofday() and setitimer() functions.
+        (Contributed by Victor Stinner in gh-108765.)
+        """,
+        "short_description": "error: implicit declaration of function ‘gettimeofday’",
+    },
+    "implicit declaration of getpid": {
+        "regex": r"(.*error:.*getpid.*)",
+        "long_description": """{MATCH}
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        Python.h no longer includes the <unistd.h> standard header file.
+        If needed, it should now be included explicitly.
+        For example, it provides the functions: read(), write(), close(), isatty(), lseek(), getpid(), getcwd(), sysconf() and getpagesize().
+        As a consequence, _POSIX_SEMAPHORES and _POSIX_THREADS macros are no longer defined by Python.h.
+        The HAVE_UNISTD_H and HAVE_PTHREAD_H macros defined by Python.h can be used to decide if <unistd.h> and <pthread.h> header files can be included.
+        (Contributed by Victor Stinner in gh-108765.)
+        """,
+        "short_description": "error: implicit declaration of function ‘getpid‘",
+    },
+    "_PyLong_AsByteArray or _PyLong_FromByteArray or _Py_IDENTIFIER": {
+        "regex": r"(.*error:.*_PyLong_AsByteArray.*|.*error:.*_PyLong_FromByteArray.*|.*error:.*_Py_IDENTIFIER.*)",
+        "long_description": """{MATCH}
+
+        This function has been removed from Python 3.13.
+        The detailed list of the removed private C API functions can be found here:
+        https://github.com/python/cpython/issues/106320
+        """,
+        "short_description": "",
+    },
+    "implicit declaration of Py_SetProgramName": {
+        "regex": r"(.*error:.*Py_SetProgramName.*)",
+        "long_description": """{MATCH}
+
+        Py_SetProgramName has been removed from Python 3.13.
+
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+        Py_SetProgramName(): set PyConfig.program_name instead.
+        """,
+        "short_description": "error: implicit declaration of function `Py_SetProgramName`",
+    },
+    "implicit declaration of PyEval_AcquireLock or PyEval_ReleaseLock": {
+        "regex": r"(.*error:.*PyEval_AcquireLock.*|.*error:.*PyEval_ReleaseLock.*)",
+        "long_description": """{MATCH}
+
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        Remove PyEval_AcquireLock() and PyEval_ReleaseLock() functions, deprecated in Python 3.2.
+        They didn’t update the current thread state. They can be replaced with:
+            - PyEval_SaveThread() and PyEval_RestoreThread();
+            - low-level PyEval_AcquireThread() and PyEval_RestoreThread();
+            - or PyGILState_Ensure() and PyGILState_Release().
+        (Contributed by Victor Stinner in gh-105182.)
+        """,
+        "short_description": "",
+    },
+    "implicit declaration of PyEval_CallObject or PyEval_CallObjectWithKeywords": {
+        "regex": r"(.*error:.*PyEval_CallObject.*|.*error:.*PyEval_CallObjectWithKeywords.*)",
+        "long_description": """{MATCH}
+
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        Remove PyEval_CallObject(), PyEval_CallObjectWithKeywords(): use PyObject_CallNoArgs() or PyObject_Call() instead.
+        Warning: PyObject_Call() positional arguments must be a tuple and must not be NULL,
+        keyword arguments must be a dict or NULL, whereas removed functions checked arguments type and accepted NULL positional and keyword arguments.
+        To replace PyEval_CallObjectWithKeywords(func, NULL, kwargs) with PyObject_Call(),
+        pass an empty tuple as positional arguments using PyTuple_New(0).
+        """,
+        "short_description": "",
+    },
+    "ctype.h": {
+        "regex": r"(.*include.*ctype\.h.*)",
+        "long_description": """{MATCH}
+
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        Python.h no longer includes the <ctype.h> standard header file.
+        If needed, it should now be included explicitly.
+        For example, it provides isalpha() and tolower() functions which are locale dependent.
+        Python provides locale independent functions, like Py_ISALPHA() and Py_TOLOWER().
+        (Contributed by Victor Stinner in gh-108765.)
+        """,
+        "short_description": "Missing <ctype.h> declaration",
+    },
+    "no cgi": {
+        "regex": r"(ModuleNotFoundError: No module named \'cgi\')",
+        "long_description": """{MATCH}
+        According to https://docs.python.org/3.13/whatsnew/3.13.html module cgi was removed:
+
+        PEP 594: Remove the cgi and cgitb modules, deprecated in Python 3.11.
+
+        cgi.FieldStorage can typically be replaced with urllib.parse.parse_qsl() for GET and HEAD requests, and the email.message module or multipart PyPI project for POST and PUT.
+
+        cgi.parse() can be replaced by calling urllib.parse.parse_qs() directly on the desired query string, except for multipart/form-data input, which can be handled as described for cgi.parse_multipart().
+
+        cgi.parse_multipart() can be replaced with the functionality in the email package (e.g. email.message.EmailMessage and email.message.Message) which implements the same MIME RFCs, or with the multipart PyPI project.
+
+        cgi.parse_header() can be replaced with the functionality in the email package, which implements the same MIME RFCs. For example, with email.message.EmailMessage:
+
+        from email.message import EmailMessage
+        msg = EmailMessage()
+        msg['content-type'] = 'application/json; charset="utf8"'
+        main, params = msg.get_content_type(), msg['content-type'].params
+
+        (Contributed by Victor Stinner in gh-104773.)
+        """,
+        "short_description": "ModuleNotFoundError: No module named 'cgi'",
+    },
+    "no pipes": {
+        "regex": r"(ModuleNotFoundError: No module named \'pipes\')",
+        "long_description": """{MATCH}
+        According to https://docs.python.org/3.13/whatsnew/3.13.html module pipes was removed:
+
+        PEP 594: Remove the pipes module, deprecated in Python 3.11: use the subprocess module instead.
+        (Contributed by Victor Stinner in gh-104773.)
+        """,
+        "short_description": "ModuleNotFoundError: No module named 'pipes'",
+    },
+    "no tkinter.tix": {
+        "regex": r"(ModuleNotFoundError: No module named \'tkinter\.tix\')",
+        "long_description": """{MATCH}
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        Remove the tkinter.tix module, deprecated in Python 3.6.
+        The third-party Tix library which the module wrapped is unmaintained.
+        (Contributed by Zachary Ware in gh-75552.)
+        """,
+        "short_description": "ModuleNotFoundError: No module named 'tkinter.tix'",
+    },
+    "'Logger' object has no attribute 'warn'": {
+        "regex": r"(\'Logger\' object has no attribute \'warn\')",
+        "long_description": """{MATCH}
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        logging: Remove undocumented and untested Logger.warn() and LoggerAdapter.warn() methods and logging.warn() function.
+        Deprecated since Python 3.3, they were aliases to the logging.Logger.warning() method,
+        logging.LoggerAdapter.warning() method and logging.warning() function.
+        (Contributed by Victor Stinner in gh-105376.)
+        """,
+        "short_description": "'Logger' object has no attribute 'warn'",
     },
     "segfault": {
         # Segfault detection is quite noisy, especially if we do not want to report it this way. I temporarily disabled it with X in regex.
@@ -200,7 +346,7 @@ async def guess_missing_dependency(session, package, build, http_semaphore, fg, 
         logger.debug('broken content %s', url)
         return False
     patterns = [
-        r"Problem.*?: package (.*?) requires python\(abi\) = 3\.10",
+        r"Problem.*?: package (.*?) requires python\(abi\) = 3\.12",
         r"package (.*?) requires .*?, but none of the providers can be installed",
         r"Status code: (.*?) for",
     ]
