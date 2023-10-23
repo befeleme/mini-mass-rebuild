@@ -17,7 +17,7 @@ from anytree import Node, RenderTree, findall_by_attr, LoopError
 
 from copr.v3 import Client
 
-COPR = '@python', 'python3.12'
+COPR = '@python', 'python3.13'
 COPR_STR = '{}/{}'.format(*COPR)
 COPR_STR_G = '{}/{}'.format(COPR[0].replace('@', 'g/'), COPR[1])
 
@@ -28,12 +28,14 @@ PACKAGE = re.compile(fr'<a href="/coprs/{COPR_STR_G}/package/([^/]+)/">')
 BUILD = re.compile(fr'<a href="/coprs/{COPR_STR_G}/build/([^/]+)/">')
 RESULT = re.compile(r'<span class="build-([^"]+)"')
 RPM_FILE = "<td class='t'>RPM File</td>"
-TAG = 'f37'
-LIMIT = 1200
+TAG = 'f40'
+# copr bug: build.log isn't properly populated
+# TODO: rework to use builder-live.log.gz or wait for https://github.com/fedora-copr/copr/issues/2961
+LIMIT = 30
 BUGZILLA = 'bugzilla.redhat.com'
 BZ_PAGE_SIZE = 20
-TRACKER = 2135404  # PYTHON3.12
-RAWHIDE = 2117176  # F38FTBFS
+TRACKER = 2244836  # PYTHON3.13
+RAWHIDE = 2231791  # F40FTBFS
 LOGLEVEL = logging.WARNING
 
 DNF_CACHEDIR = '_dnf_cache_dir'
@@ -83,7 +85,7 @@ BZAPI = bugzilla.Bugzilla(BUGZILLA)
 
 def _bugzillas():
     query = BZAPI.build_query(product='Fedora')
-    query['blocks'] = TRACKER
+    query['blocks'] = [TRACKER, RAWHIDE]
     query['limit'] = BZ_PAGE_SIZE
     query['offset'] = 0
     results = []
@@ -487,29 +489,34 @@ async def open_bz(package, build, status, browser_lock, reason=None):
             "long_description": "This report is automated and not very verbose, but we'll try to get back here with details.",
             "short_description": "",
         }
-    summary = f"{package} fails to build with Python 3.12: {reason['short_description']}"
+    summary = f"{package} fails to build with Python 3.13: {reason['short_description']}"
 
     description = dedent(f"""
-{package} fails to build with Python 3.12.0b1.
+        {package} fails to build with Python 3.13.0a1.
 
-{reason['long_description']}
+        {reason['long_description']}
 
-https://docs.python.org/3.12/whatsnew/3.12.html
+        https://docs.python.org/3.13/whatsnew/3.13.html
 
-For the build logs, see:
-https://copr-be.cloud.fedoraproject.org/results/{COPR_STR}/fedora-rawhide-x86_64/{build:08}-{package}/
+        For the build logs, see:
+        https://copr-be.cloud.fedoraproject.org/results/{COPR_STR}/fedora-rawhide-x86_64/{build:08}-{package}/
 
-For all our attempts to build {package} with Python 3.12, see:
-https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/package/{package}/
+        For all our attempts to build {package} with Python 3.13, see:
+        https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/package/{package}/
 
-Testing and mass rebuild of packages is happening in copr. You can follow these instructions to test locally in mock if your package builds with Python 3.12:
-https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/
+        Testing and mass rebuild of packages is happening in copr.
+        You can follow these instructions to test locally in mock if your package builds with Python 3.13:
+        https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/
 
-Let us know here if you have any questions.
+        Let us know here if you have any questions.
 
-Python 3.12 is planned to be included in Fedora 39. To make that update smoother, we're building Fedora packages with all pre-releases of Python 3.12.
-A build failure prevents us from testing all dependent packages (transitive [Build]Requires), so if this package is required a lot, it's important for us to get it fixed soon.
-We'd appreciate help from the people who know this package best, but if you don't want to work on this now, let us know so we can try to work around it on our side.
+        Python 3.13 is planned to be included in Fedora 41.
+        To make that update smoother, we're building Fedora packages with all pre-releases of Python 3.13.
+        A build failure prevents us from testing all dependent packages (transitive [Build]Requires),
+        so if this package is required a lot, it's important for us to get it fixed soon.
+
+        We'd appreciate help from the people who know this package best,
+        but if you don't want to work on this now, let us know so we can try to work around it on our side.
     """)
 
     url_prefix = 'https://bugzilla.redhat.com/enter_bug.cgi?'
@@ -521,7 +528,7 @@ We'd appreciate help from the people who know this package best, but if you don'
         'product': 'Fedora',
         'version': 'rawhide',
         #'bug_severity': 'high',
-        'cc': 'mhroncok@redhat.com,thrnciar@redhat.com'
+        'cc': 'mhroncok@redhat.com,ksurma@redhat.com'
     }
 
     # Rate-limit opening browser tabs
