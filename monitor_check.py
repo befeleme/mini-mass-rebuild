@@ -58,7 +58,7 @@ EXCLUDE = {
 
 REASONS = {
     "implicit declaration of PyEval_InitThreads": {
-        "regex": r"(.*error:.*PyEval_InitThread.*)",
+        "regex": r"(.*error:.*(PyEval_InitThreads|PyEval_ThreadsInitialized).*)",
         "long_description": """{MATCH}
         According to https://docs.python.org/3.13/whatsnew/3.13.html:
 
@@ -97,7 +97,7 @@ REASONS = {
         "short_description": "error: implicit declaration of function ‘getpid‘",
     },
     "_PyLong_AsByteArray or _PyLong_FromByteArray or _Py_IDENTIFIER": {
-        "regex": r"(.*error:.*_PyLong_AsByteArray.*|.*error:.*_PyLong_FromByteArray.*|.*error:.*_Py_IDENTIFIER.*)",
+        "regex": r"(.*error:.*(_PyLong_AsByteArray|_PyLong_FromByteArray|_Py_IDENTIFIER).*)",
         "long_description": """{MATCH}
 
         This function has been removed from Python 3.13.
@@ -106,19 +106,29 @@ REASONS = {
         """,
         "short_description": "",
     },
-    "implicit declaration of Py_SetProgramName": {
-        "regex": r"(.*error:.*Py_SetProgramName.*)",
+    "initialization functions": {
+        "regex": r"(.*error:.*(Py_SetProgramName|Py_SetPythonHome|Py_SetStandardStreamEncoding|_Py_SetProgramFullPath|Py_SetPath|PySys_SetPath|PySys_SetArgv|PySys_SetArgvEx|PySys_HasWarnOptions|PySys_AddXOption|PySys_AddWarnOption|PySys_AddWarnOptionUnicode).*)",
         "long_description": """{MATCH}
 
-        Py_SetProgramName has been removed from Python 3.13.
-
         According to https://docs.python.org/3.13/whatsnew/3.13.html:
-        Py_SetProgramName(): set PyConfig.program_name instead.
+        Remove the following old functions to configure the Python initialization, deprecated in Python 3.11:
+            PySys_AddWarnOptionUnicode(): use PyConfig.warnoptions instead.
+            PySys_AddWarnOption(): use PyConfig.warnoptions instead.
+            PySys_AddXOption(): use PyConfig.xoptions instead.
+            PySys_HasWarnOptions(): use PyConfig.xoptions instead.
+            PySys_SetArgvEx(): set PyConfig.argv instead.
+            PySys_SetArgv(): set PyConfig.argv instead.
+            PySys_SetPath(): set PyConfig.module_search_paths instead.
+            Py_SetPath(): set PyConfig.module_search_paths instead.
+            Py_SetProgramName(): set PyConfig.program_name instead.
+            Py_SetPythonHome(): set PyConfig.home instead.
+            Py_SetStandardStreamEncoding(): set PyConfig.stdio_encoding instead, and set also maybe PyConfig.legacy_windows_stdio (on Windows).
+            _Py_SetProgramFullPath(): set PyConfig.executable instead.
         """,
-        "short_description": "error: implicit declaration of function `Py_SetProgramName`",
+        "short_description": "error: implicit declaration of function XXX",
     },
     "implicit declaration of PyEval_AcquireLock or PyEval_ReleaseLock": {
-        "regex": r"(.*error:.*PyEval_AcquireLock.*|.*error:.*PyEval_ReleaseLock.*)",
+        "regex": r"(.*error:.*(PyEval_AcquireLock|PyEval_ReleaseLock).*)",
         "long_description": """{MATCH}
 
         According to https://docs.python.org/3.13/whatsnew/3.13.html:
@@ -133,7 +143,7 @@ REASONS = {
         "short_description": "",
     },
     "implicit declaration of PyEval_CallObject or PyEval_CallObjectWithKeywords": {
-        "regex": r"(.*error:.*PyEval_CallObject.*|.*error:.*PyEval_CallObjectWithKeywords.*)",
+        "regex": r"(.*error:.*(PyEval_CallObject|PyEval_CallObjectWithKeywords).*)",
         "long_description": """{MATCH}
 
         According to https://docs.python.org/3.13/whatsnew/3.13.html:
