@@ -52,8 +52,6 @@ EXPLANATION = {
 
 # FTBS packages for which we don't open bugs (yet)
 EXCLUDE = {
-    "python-subprocess-tee": "depends on retired python-molecule, bz2226346",
-    "gdb": "can't be fully built yet - missing numpy/boost",
 }
 
 REASONS = {
@@ -69,8 +67,21 @@ REASONS = {
         """,
         "short_description": "error: implicit declaration of function ‘PyEval_InitThreads’",
     },
-    "implicit declaration of gettimeofday": {
-        "regex": r"(.*error:.*gettimeofday.*)",
+    "_PyThreadState_UncheckedGet is now public": {
+        "regex": r"(.*error:.*_PyThreadState_UncheckedGet.*)",
+        "long_description": """{MATCH}
+
+        According to https://docs.python.org/3.13/whatsnew/3.13.html a new public function has been added:
+
+        Add PyThreadState_GetUnchecked() function: similar to PyThreadState_Get(), but don’t kill the process with a fatal error if it is NULL.
+        The caller is responsible to check if the result is NULL.
+        Previously, the function was private and known as _PyThreadState_UncheckedGet().
+        (Contributed by Victor Stinner in gh-108867.)
+        """,
+        "short_description": "",
+    },
+    "time.h-sys/select.h-sys/time.h": {
+        "regex": r"(.*error:.*(gettimeofday|clock|gmtime|select|futimes|setitimer).*)",
         "long_description": """{MATCH}
         According to https://docs.python.org/3.13/whatsnew/3.13.html:
 
@@ -80,10 +91,10 @@ REASONS = {
         and <sys/time.h> provides the futimes(), gettimeofday() and setitimer() functions.
         (Contributed by Victor Stinner in gh-108765.)
         """,
-        "short_description": "error: implicit declaration of function ‘gettimeofday’",
+        "short_description": "error: Missing declaration of <time.h>, <sys/select.h> or <sys/time.h> module",
     },
-    "implicit declaration of getpid": {
-        "regex": r"(.*error:.*getpid.*)",
+    "unistd.h": {
+        "regex": r"(.*error:.*(getpid|read|write|close|isatty|lseek|getpid|getcwd|sysconf|getpagesize|dup|access).*)",
         "long_description": """{MATCH}
         According to https://docs.python.org/3.13/whatsnew/3.13.html:
 
@@ -94,10 +105,10 @@ REASONS = {
         The HAVE_UNISTD_H and HAVE_PTHREAD_H macros defined by Python.h can be used to decide if <unistd.h> and <pthread.h> header files can be included.
         (Contributed by Victor Stinner in gh-108765.)
         """,
-        "short_description": "error: implicit declaration of function ‘getpid‘",
+        "short_description": "Missing <unistd.h> declaration",
     },
     "_PyLong_AsByteArray or _PyLong_FromByteArray or _Py_IDENTIFIER": {
-        "regex": r"(.*error:.*(_PyLong_AsByteArray|_PyLong_FromByteArray|_Py_IDENTIFIER).*)",
+        "regex": r"(.*error:.*(_PyLong_AsByteArray|_PyLong_FromByteArray|_Py_IDENTIFIER|_PyLong_New).*)",
         "long_description": """{MATCH}
 
         This function has been removed from Python 3.13.
@@ -126,6 +137,50 @@ REASONS = {
             _Py_SetProgramFullPath(): set PyConfig.executable instead.
         """,
         "short_description": "error: implicit declaration of function XXX",
+    },
+    "importlib.resources": {
+        "regex": r"(ImportError: cannot import name '(.*?)' from 'importlib.resources')",
+        "long_description": """{MATCH}
+
+        The deprecated importlib.resources methods were removed from Python 3.13:
+        - contents()
+        - is_resource()
+        - open_binary()
+        - open_text()
+        - path()
+        - read_binary()
+        - read_text()
+        Use files() instead. Refer to importlib-resources: Migrating from Legacy for migration advice.
+        https://importlib-resources.readthedocs.io/en/latest/using.html#migrating-from-legacy
+        """,
+        "short_description": "",
+    },
+    "telnetlib": {
+        "regex": r"(ModuleNotFoundError: No module named 'telnetlib')",
+        "long_description": """{MATCH}
+
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+        PEP 594: Remove the telnetlib module, deprecated in Python 3.11: use the projects telnetlib3 or Exscript instead.
+        (Contributed by Victor Stinner in gh-104773.)
+        """,
+        "short_description": "",
+    },
+    "crypt": {
+        "regex": r"(ModuleNotFoundError: No module named 'crypt')",
+        "long_description": """{MATCH}
+
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        PEP 594: Remove the crypt module and its private _crypt extension, deprecated in Python 3.11.
+        The hashlib module is a potential replacement for certain use cases.
+        Otherwise, the following PyPI projects can be used:
+        - bcrypt: Modern password hashing for your software and your servers.
+        - passlib: Comprehensive password hashing framework supporting over 30 schemes.
+        - argon2-cffi: The secure Argon2 password hashing algorithm.
+        - legacycrypt: Wrapper to the POSIX crypt library call and associated functionality.
+        (Contributed by Victor Stinner in gh-104773.)
+        """,
+        "short_description": "",
     },
     "implicit declaration of PyEval_AcquireLock or PyEval_ReleaseLock": {
         "regex": r"(.*error:.*(PyEval_AcquireLock|PyEval_ReleaseLock).*)",
@@ -226,6 +281,18 @@ REASONS = {
         (Contributed by Victor Stinner in gh-105376.)
         """,
         "short_description": "'Logger' object has no attribute 'warn'",
+    },
+    "unittest": {
+        "regex": r"(AttributeError: module \'unittest\' has no attribute \'(makeSuite|findTestCases|getTestCaseNames)\')",
+        "long_description": """{MATCH}
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+
+        Removed the following unittest functions, deprecated in Python 3.11:
+        - unittest.findTestCases()
+        - unittest.makeSuite()
+        - unittest.getTestCaseNames()
+        """,
+        "short_description": "AttributeError: module 'unittest' has no attribute XXX",
     },
     "segfault": {
         # Segfault detection is quite noisy, especially if we do not want to report it this way. I temporarily disabled it with X in regex.
