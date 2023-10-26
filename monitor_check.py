@@ -139,7 +139,7 @@ REASONS = {
         "short_description": "error: implicit declaration of function XXX",
     },
     "importlib.resources": {
-        "regex": r"(ImportError: cannot import name '(.*?)' from 'importlib.resources')",
+        "regex": r"(ImportError: cannot import name '(.*?)' from 'importlib.resources'|AttributeError: module 'importlib.resources' has no attribute '(.*?)')",
         "long_description": """{MATCH}
 
         The deprecated importlib.resources methods were removed from Python 3.13:
@@ -179,6 +179,15 @@ REASONS = {
         - argon2-cffi: The secure Argon2 password hashing algorithm.
         - legacycrypt: Wrapper to the POSIX crypt library call and associated functionality.
         (Contributed by Victor Stinner in gh-104773.)
+        """,
+        "short_description": "",
+    },
+    "locale.resetlocale": {
+        "regex": r"(ImportError: cannot import name 'resetlocale' from 'locale')",
+        "long_description": """{MATCH}
+
+        Remove locale.resetlocale() function deprecated in Python 3.11: use locale.setlocale(locale.LC_ALL, "") instead.
+        (Contributed by Victor Stinner in gh-104783.)
         """,
         "short_description": "",
     },
@@ -271,7 +280,7 @@ REASONS = {
         "short_description": "ModuleNotFoundError: No module named 'tkinter.tix'",
     },
     "'Logger' object has no attribute 'warn'": {
-        "regex": r"(\'Logger\' object has no attribute \'warn\')",
+        "regex": r"(\'Logger\' object has no attribute \'warn\'|AttributeError: module 'logging' has no attribute 'warn')",
         "long_description": """{MATCH}
         According to https://docs.python.org/3.13/whatsnew/3.13.html:
 
@@ -280,7 +289,7 @@ REASONS = {
         logging.LoggerAdapter.warning() method and logging.warning() function.
         (Contributed by Victor Stinner in gh-105376.)
         """,
-        "short_description": "'Logger' object has no attribute 'warn'",
+        "short_description": "",
     },
     "unittest": {
         "regex": r"(AttributeError: module \'unittest\' has no attribute \'(makeSuite|findTestCases|getTestCaseNames)\')",
