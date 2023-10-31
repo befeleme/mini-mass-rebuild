@@ -138,6 +138,18 @@ REASONS = {
         """,
         "short_description": "error: implicit declaration of function XXX",
     },
+    "Py_TRASHCAN_SAFE": {
+        "regex": r"(.*error: .*(Py_TRASHCAN_SAFE_BEGIN|Py_TRASHCAN_SAFE_END).*)",
+        "long_description": """{MATCH}
+
+        According to https://docs.python.org/3.13/whatsnew/3.13.html:
+        Remove the old trashcan macros Py_TRASHCAN_SAFE_BEGIN and Py_TRASHCAN_SAFE_END.
+        They should be replaced by the new macros Py_TRASHCAN_BEGIN and Py_TRASHCAN_END.
+        The new macros were added in Python 3.8 and the old macros were deprecated in Python 3.11.
+        (Contributed by Irit Katriel in gh-105111.)
+        """,
+        "short_description": "",
+    },
     "importlib.resources": {
         "regex": r"(ImportError: cannot import name '(.*?)' from 'importlib.resources'|AttributeError: module 'importlib.resources' has no attribute '(.*?)')",
         "long_description": """{MATCH}
