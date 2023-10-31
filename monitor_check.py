@@ -369,7 +369,7 @@ async def fetch(session, url, http_semaphore, *, json=False):
                     return await response.json()
                 else:
                     return await response.text('utf-8')
-        except (aiohttp.client_exceptions.ServerDisconnectedError, ClientConnectorError):
+        except (aiohttp.client_exceptions.ServerDisconnectedError, aiohttp.client_exceptions.ClientConnectorError):
             await asyncio.sleep(1)
             retry = True
     if retry:
