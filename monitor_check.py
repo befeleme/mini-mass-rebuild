@@ -55,8 +55,6 @@ EXCLUDE = {
     "fapolicy-analyzer": "unrelated for now",
     "python-zbase32": "depends on retired pyutil",
     "python-apsw": "version is set by the set of if-clauses in the spec",
-    "rpm-head-signing": "changed deps between the versions, requires python-requests-gssapi",
-    "python-reedsolo": "doesn't build with Cython - known",
 }
 
 REASONS = {
