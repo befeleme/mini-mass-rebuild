@@ -380,11 +380,17 @@ async def fetch(session, url, http_semaphore, *, json=False):
 
 
 async def length(session, url, http_semaphore):
+    retry = False
     async with http_semaphore:
         logger.debug('length %s', url)
-        async with session.head(url) as response:
-            return int(response.headers.get('content-length'))
-
+        try:
+            async with session.head(url) as response:
+                return int(response.headers.get('content-length'))
+        except (aiohttp.client_exceptions.ClientConnectorError, aiohttp.client_exceptions.ServerDisconnectedError):
+            await asyncio.sleep(1)
+            retry = True
+    if retry:
+        return await length(session, url, http_semaphore)
 
 async def is_cmake(session, url, http_semaphore):
     try:
@@ -542,14 +548,21 @@ async def failed_but_built(session, url, http_semaphore):
     """
     async with http_semaphore:
         logger.debug('failed_but_built %s', url)
-        async with session.get(url) as response:
-            text = await response.text()
-            rpm_count = text.count(RPM_FILE)
-            if rpm_count > 1:
-                with open('failed_but_built.lst', 'a') as f:
-                    print(url, file=f)
-                return True
-            return False
+        retry = False
+        try:
+            async with session.get(url) as response:
+                text = await response.text()
+                rpm_count = text.count(RPM_FILE)
+                if rpm_count > 1:
+                    with open('failed_but_built.lst', 'a') as f:
+                        print(url, file=f)
+                    return True
+                return False
+        except (aiohttp.client_exceptions.ClientConnectorError, aiohttp.client_exceptions.ServerDisconnectedError):
+            await asyncio.sleep(1)
+            retry = True
+    if retry:
+        return await failed_but_built(session, url, http_semaphore)
 
 
 def index_link(package, build):
