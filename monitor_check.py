@@ -799,6 +799,7 @@ async def open_bz(package, build, status, browser_lock, reason=None):
         webbrowser.open(url_prefix + urlencode(params))
         # open the build logs next to bz template, so it's easier to identify issues
         webbrowser.open(builderlive_link(package, build))
+        webbrowser.open(f'https://koschei.fedoraproject.org/package/{package}')
         await asyncio.sleep(1)
 
 
