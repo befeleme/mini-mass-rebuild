@@ -418,7 +418,7 @@ async def is_repo_404(session, url, http_semaphore):
     except aiohttp.client_exceptions.ClientPayloadError:
         logger.debug('broken content %s', url)
         return False
-    return content.count('Failed to download metadata for repo') >= 3
+    return content.count('Librepo error: Yum repo downloading error') >= 3
 
 
 async def is_timeout(session, url, http_semaphore):
