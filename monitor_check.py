@@ -663,7 +663,8 @@ def p(*args, **kwargs):
 
 async def process(
     session, bugs, package, build, status, http_semaphore, command_semaphore,
-    *, browser_lock=None, with_reason=None, blues_file=None, magentas_file=None
+    *, browser_lock=None, with_reason=None, blues_file=None, magentas_file=None,
+    greens_file=None
 ):
     if status != 'failed':
         return
@@ -672,6 +673,8 @@ async def process(
 
     if retired:
         p(f'{package} is retired', fg='green')
+        if greens_file:
+            print(package, file=greens_file)
         return
 
     content_length, critpath = await gather_or_cancel(
@@ -818,7 +821,7 @@ missing_dependencies = {
 yellow_pkgs = []
 blue_pkgs = []
 
-async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=None, magentas_file=None, dependency_tree=None):
+async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=None, magentas_file=None, greens_file=None, dependency_tree=None):
     logging.basicConfig(
         format='%(asctime)s %(name)s %(levelname)s: %(message)s',
         level=LOGLEVEL)
@@ -851,7 +854,8 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
                     session, bugs, package_name, build, status,
                     http_semaphore, command_semaphore,
                     browser_lock=browser_lock, with_reason=with_reason,
-                    blues_file=blues_file, magentas_file=magentas_file
+                    blues_file=blues_file, magentas_file=magentas_file,
+                    greens_file=greens_file
                 )))
             except TypeError:
                 pass
@@ -894,11 +898,16 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
     help='Dump magent-ish packages to a given file'
 )
 @click.option(
+    '--greens-file',
+    type=click.File('w'),
+    help='Dump green-ish packages to a given file'
+)
+@click.option(
     '--dependency-tree/--no-dependency-tree',
     help='Show dependency tree of blue packages'
 )
-def run(pkgs, open_bug_reports, with_reason=None, blues_file=None, magentas_file=None, dependency_tree=None):
-    asyncio.run(main(pkgs, open_bug_reports, with_reason, blues_file, magentas_file, dependency_tree))
+def run(pkgs, open_bug_reports, with_reason=None, blues_file=None, magentas_file=None, greens_file=None, dependency_tree=None):
+    asyncio.run(main(pkgs, open_bug_reports, with_reason, blues_file, magentas_file, greens_file, dependency_tree))
 
 if __name__ == '__main__':
     run()
