@@ -58,6 +58,7 @@ EXCLUDE = {
     "python-capturer": "problem in another package, skip",
     "python-CacheControl": "problem in cherrypy, skip",
     "python-scikit-misc": "problem in python-meson-python, skip",
+    "python-boto3": "built together with botocore, always fails at the first run",
 }
 
 REASONS = {
