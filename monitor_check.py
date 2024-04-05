@@ -59,6 +59,8 @@ EXCLUDE = {
     "python-CacheControl": "problem in cherrypy, skip",
     "python-scikit-misc": "problem in python-meson-python, skip",
     "python-boto3": "built together with botocore, always fails at the first run",
+    "python-Traits": "automation skips the open ticket for it",
+    "python-dunamai": "problem in breezy",
 }
 
 REASONS = {
