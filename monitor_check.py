@@ -685,11 +685,11 @@ async def process(
 
     longlog = content_length > LIMIT
 
-    if longlog and await is_blue(session, builderlive_link(package, build), http_semaphore):
+    if longlog and await is_blue(session, rootlog_link(package, build), http_semaphore):
         longlog = False
 
     repo_404 = False
-    if await is_repo_404(session, builderlive_link(package, build), http_semaphore):
+    if await is_repo_404(session, rootlog_link(package, build), http_semaphore):
         longlog = True
         repo_404 = True
 
