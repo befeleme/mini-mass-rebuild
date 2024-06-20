@@ -754,7 +754,7 @@ async def open_bz(package, build, status, browser_lock, reason=None):
     summary = f"{package} fails to build with Python 3.13: {reason['short_description']}"
 
     description = dedent(f"""
-        {package} fails to build with Python 3.13.0b1.
+        {package} fails to build with Python 3.13.0b2.
 
         {reason['long_description']}
 
