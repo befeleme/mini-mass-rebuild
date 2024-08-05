@@ -5,6 +5,9 @@ import sys
 from collections import defaultdict
 
 RAWHIDEVER = 40
+SUPPORTED_UPGRADE_VERS = (37, 38)
+OBSOLETE_PYTHON_VER = '3.11'
+
 DNF_CACHEDIR = '_dnf_cache_dir'
 ARCH = 'x86_64'
 
@@ -84,10 +87,10 @@ def repoquery(*args, **kwargs):
 
 def get_old_pkgs():
     r = set()
-    for version in (37,38):
-        for dependency in ('python(abi) = 3.11',
-                           'libpython3.11.so.1.0()(64bit)',
-                           'libpython3.11d.so.1.0()(64bit)'):
+    for version in SUPPORTED_UPGRADE_VERS:
+        for dependency in (f'python(abi) = {OBSOLETE_PYTHON_VER}',
+                           f'libpython{OBSOLETE_PYTHON_VER}.so.1.0()(64bit)',
+                           f'libpython{OBSOLETE_PYTHON_VER}d.so.1.0()(64bit)'):
             pkgs = repoquery(version=version,
                     whatrequires_exact=dependency)
             for pkg in pkgs:
@@ -130,7 +133,7 @@ def removed_pkgs():
 
 def what_required(dependency):
     r = []
-    for version in (37,38):
+    for version in SUPPORTED_UPGRADE_VERS:
         pkgs = repoquery(version=version, whatrequires=dependency)
         for pkg in pkgs:
             r.append(pkg)
