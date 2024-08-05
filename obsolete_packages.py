@@ -4,9 +4,9 @@ import subprocess
 import sys
 from collections import defaultdict
 
-RAWHIDEVER = 40
-SUPPORTED_UPGRADE_VERS = (37, 38)
-OBSOLETE_PYTHON_VER = '3.11'
+RAWHIDEVER = 41
+SUPPORTED_UPGRADE_VERS = (39, 40)
+OBSOLETE_PYTHON_VER = '3.12'
 
 DNF_CACHEDIR = '_dnf_cache_dir'
 ARCH = 'x86_64'
