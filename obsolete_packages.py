@@ -25,7 +25,7 @@ def rawhide_sack():
     conf.substitutions['releasever'] = str(RAWHIDEVER)
     conf.substitutions['basearch'] = ARCH
     base.repos.add_new_repo('rawhide', conf,
-        metalink='https://mirrors.fedoraproject.org/metalink?repo=rawhide&arch=$basearch',
+        baseurl=['http://kojipkgs.fedoraproject.org/repos/rawhide/latest/$basearch/'],
         skip_if_unavailable=False)
     base.fill_sack(load_system_repo=False, load_available_repos=True)
     sacks[None] = base.sack
@@ -42,6 +42,10 @@ def fedora_sack(version):
     conf.cachedir = DNF_CACHEDIR
     conf.substitutions['releasever'] = str(version)
     conf.substitutions['basearch'] = ARCH
+    base.repos.add_new_repo(f'koji{version}', conf,
+        baseurl=[f'http://kojipkgs.fedoraproject.org/repos/f{version}-build/latest/$basearch/'],
+        skip_if_unavailable=False,
+        enabled=True)
     base.repos.add_new_repo(f'fedora{version}', conf,
         metalink='https://mirrors.fedoraproject.org/metalink?repo=fedora-$releasever&arch=$basearch',
         skip_if_unavailable=False,
