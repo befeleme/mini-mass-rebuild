@@ -4,7 +4,8 @@ import subprocess
 import sys
 from collections import defaultdict
 
-RAWHIDEVER = 41
+TARGETVER = int(sys.argv[1]) if len(sys.argv) == 2 else None
+RAWHIDEVER = 42
 SUPPORTED_UPGRADE_VERS = (39, 40)
 OBSOLETE_PYTHON_VER = '3.12'
 
@@ -113,11 +114,11 @@ class SortableEVR:
                                stdout=subprocess.DEVNULL) == 12
 
 
-def removed_pkgs():
+def removed_pkgs(version=None):
     name_versions = defaultdict(set)
     old_pkgs = get_old_pkgs()
     new = set()
-    for pkg in repoquery(all=True, version=None):
+    for pkg in repoquery(all=True, version=version):
         new.add(pkg.name)
     seen = set()
     while old_pkgs:
@@ -176,11 +177,11 @@ def format_obsolete(pkg, evr):
     return f'%obsolete {pkg} {evr}'
 
 
-rp = removed_pkgs()
+rp = removed_pkgs(version=TARGETVER)
 for pkg in sorted(rp):
     version = drop_0epoch(drop_dist(rp[pkg]))
     whatobsoletes = set()
-    obsoleters = repoquery(version=None, whatobsoletes=f'{pkg} = {version}')
+    obsoleters = repoquery(version=TARGETVER, whatobsoletes=f'{pkg} = {version}')
     for obsoleter in obsoleters:
         whatobsoletes.add(f'{obsoleter.name}')
     if not whatobsoletes or whatobsoletes == {'fedora-obsolete-packages'}:
