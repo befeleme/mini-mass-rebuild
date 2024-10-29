@@ -23,7 +23,7 @@ COPR_STR_G = '{}/{}'.format(COPR[0].replace('@', 'g/'), COPR[1])
 
 MONITOR = f'https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/monitor/'
 INDEX = f'https://copr-be.cloud.fedoraproject.org/results/{COPR_STR}/fedora-rawhide-x86_64/{{build:08d}}-{{package}}/'  # keep the slash
-BODHI_CRITPATH = 'https://bodhi.fedoraproject.org/get_critpath_components?components={package}'
+CRITPATH_COMPONENTS = 'https://bodhi.fedoraproject.org/get_critpath_components'
 PACKAGE = re.compile(fr'<a href="/coprs/{COPR_STR_G}/package/([^/]+)/">')
 BUILD = re.compile(fr'<a href="/coprs/{COPR_STR_G}/build/([^/]+)/">')
 RESULT = re.compile(r'<span class="build-([^"]+)"')
@@ -337,15 +337,11 @@ async def is_retired(package, command_semaphore):
         return b'[BLOCKED]' in stdout
 
 
-async def is_critpath(session, package, http_semaphore):
-    try:
-        json = await fetch(session, BODHI_CRITPATH.format(package=quote(package)), http_semaphore, json=True)
-        # if the response is empty, the package is not on a critpath, otherwise the dict has got a format:
-        # {"core": ["python-six"], "critical-path-anaconda": ["python-six"], ...}
-        # if the package appears on at least one critpath, it's enough for us, hence:
-        return bool(json)
-    except (aiohttp.ContentTypeError, ValueError):
-        print(f'Could not check if {package} is \N{FIRE}', file=sys.stderr)
+def is_critpath(package, critpath_pkgs):
+    for critpath_name, packages in critpath_pkgs.items():
+        if package in packages:
+            return True
+    else:
         return False
 
 
@@ -400,7 +396,7 @@ def p(*args, **kwargs):
 
 
 async def process(
-    session, bugs, package, build, status, http_semaphore, command_semaphore,
+    session, bugs, package, build, status, http_semaphore, command_semaphore, critpath_pkgs,
     *, browser_lock=None, with_reason=None, blues_file=None, magentas_file=None,
     greens_file=None
 ):
@@ -415,10 +411,11 @@ async def process(
             print(package, file=greens_file)
         return
 
-    content_length, critpath = await gather_or_cancel(
-        length(session, buildlog_link(package, build), http_semaphore),
-        is_critpath(session, package, http_semaphore),
+    content_length, = await gather_or_cancel(
+        length(session, buildlog_link(package, build), http_semaphore)
     )
+
+    critpath = is_critpath(package, critpath_pkgs)
 
     message = f'{package} failed len={content_length}'
 
@@ -575,6 +572,9 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
         browser_lock = None
 
     async with aiohttp.ClientSession(headers={"Connection": "close"}) as session:
+
+        critpath_pkgs = await fetch(session, CRITPATH_COMPONENTS, http_semaphore, json=True)
+
         # we could stream the content, but meh, get it all, it's not that long
         packages = copr()
         bugs = bugzillas()
@@ -591,7 +591,7 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
                     continue
                 await jobs.append(asyncio.ensure_future(process(
                     session, bugs, package_name, build, status,
-                    http_semaphore, command_semaphore,
+                    http_semaphore, command_semaphore, critpath_pkgs,
                     browser_lock=browser_lock, with_reason=with_reason,
                     blues_file=blues_file, magentas_file=magentas_file,
                     greens_file=greens_file
