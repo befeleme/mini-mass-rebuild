@@ -71,7 +71,7 @@ BZAPI = bugzilla.Bugzilla(BUGZILLA)
 
 def _bugzillas():
     query = BZAPI.build_query(product='Fedora')
-    query['blocks'] = [TRACKER]  #, RAWHIDE]
+    query['blocks'] = [TRACKER, RAWHIDE]
     query['limit'] = BZ_PAGE_SIZE
     query['offset'] = 0
     results = []
