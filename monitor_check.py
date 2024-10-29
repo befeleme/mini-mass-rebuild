@@ -23,7 +23,7 @@ COPR_STR_G = '{}/{}'.format(COPR[0].replace('@', 'g/'), COPR[1])
 
 MONITOR = f'https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/monitor/'
 INDEX = f'https://copr-be.cloud.fedoraproject.org/results/{COPR_STR}/fedora-rawhide-x86_64/{{build:08d}}-{{package}}/'  # keep the slash
-PDC = 'https://pdc.fedoraproject.org/rest_api/v1/component-branches/?name=rawhide&global_component={package}'
+BODHI_CRITPATH = 'https://bodhi.fedoraproject.org/get_critpath_components?components={package}'
 PACKAGE = re.compile(fr'<a href="/coprs/{COPR_STR_G}/package/([^/]+)/">')
 BUILD = re.compile(fr'<a href="/coprs/{COPR_STR_G}/build/([^/]+)/">')
 RESULT = re.compile(r'<span class="build-([^"]+)"')
@@ -339,12 +339,11 @@ async def is_retired(package, command_semaphore):
 
 async def is_critpath(session, package, http_semaphore):
     try:
-        json = await fetch(session, PDC.format(package=quote(package)), http_semaphore, json=True)
-        for result in json['results']:
-            if result['type'] == 'rpm':
-                return result['critical_path']
-        else:
-            raise ValueError()
+        json = await fetch(session, BODHI_CRITPATH.format(package=quote(package)), http_semaphore, json=True)
+        # if the response is empty, the package is not on a critpath, otherwise the dict has got a format:
+        # {"core": ["python-six"], "critical-path-anaconda": ["python-six"], ...}
+        # if the package appears on at least one critpath, it's enough for us, hence:
+        return bool(json)
     except (aiohttp.ContentTypeError, ValueError):
         print(f'Could not check if {package} is \N{FIRE}', file=sys.stderr)
         return False
