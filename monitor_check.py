@@ -573,12 +573,12 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
 
     async with aiohttp.ClientSession(headers={"Connection": "close"}) as session:
 
-        critpath_pkgs = await fetch(session, CRITPATH_COMPONENTS, http_semaphore, json=True)
-
         # we could stream the content, but meh, get it all, it's not that long
         packages = copr()
         bugs = bugzillas()
-        packages, bugs = await asyncio.gather(packages, bugs)
+        critpath_pkgs = fetch(session, CRITPATH_COMPONENTS, http_semaphore, json=True)
+
+        packages, bugs, critpath_pkgs = await asyncio.gather(packages, bugs, critpath_pkgs)
 
         jobs = []
 
