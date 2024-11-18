@@ -90,6 +90,15 @@ REASONS = {
          """,
         "short_description": "",
     },
+    "pickle": {
+        "regex": r"_pickle.PicklingError: Can't pickle local object (.*)",
+        "long_description": """
+        According to https://docs.python.org/dev/whatsnew/3.14.html#multiprocessing
+
+        The default start method (see Contexts and start methods) changed from fork to forkserver on platforms other than macOS & Windows where it was already spawn. If you require the threading incompatible fork start method you must explicitly request it using a context from multiprocessing.get_context() (preferred) or change the default via multiprocessing.set_start_method(). (Contributed by Gregory P. Smith in gh-84559.)
+         """,
+        "short_description": "",
+    },
     "segfault": {
         # Segfault detection is quite noisy, especially if we do not want to report it this way. I temporarily disabled it with X in regex.
         "regex": r"Segmentation fault",
