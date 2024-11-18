@@ -57,9 +57,42 @@ EXCLUDE = {
 }
 
 REASONS = {
+    "ast": {
+        "regex": r"AttributeError: ('Constant' object has no attribute '(s|n)'|module 'ast' has no attribute '(.*)')",
+        "long_description": """
+        According to: https://docs.python.org/dev/whatsnew/3.14.html#id2
+
+        Remove the following classes. They were all deprecated since Python 3.8, and have emitted deprecation warnings since Python 3.12:
+        ast.Bytes
+        ast.Ellipsis
+        ast.NameConstant
+        ast.Num
+        ast.Str
+
+        Use ast.Constant instead. As a consequence of these removals, user-defined visit_Num, visit_Str, visit_Bytes, visit_NameConstant and visit_Ellipsis methods on custom ast.NodeVisitor subclasses will no longer be called when the NodeVisitor subclass is visiting an AST. Define a visit_Constant method instead.
+
+        Also, remove the following deprecated properties on ast.Constant, which were present for compatibility with the now-removed AST classes:
+        ast.Constant.n
+        ast.Constant.s
+
+        Use ast.Constant.value instead.
+        (Contributed by Alex Waygood in gh-119562.)
+         """,
+        "short_description": "",
+    },
+    "ByteString": {
+        "regex": r"ImportError: cannot import name 'ByteString' from '(.*)'",
+        "long_description": """
+        According to https://docs.python.org/dev/whatsnew/3.14.html#typing
+
+        ByteString has been removed from both typing and collections.abc modules.
+        It had previously raised a DeprecationWarning since Python 3.12.
+         """,
+        "short_description": "",
+    },
     "segfault": {
         # Segfault detection is quite noisy, especially if we do not want to report it this way. I temporarily disabled it with X in regex.
-        "regex": r"XSegmentation fault",
+        "regex": r"Segmentation fault",
         "long_description": """ DO NOT REPORT THIS """,
         "short_description": """ DO NOT REPORT THIS """,
     },
@@ -192,7 +225,7 @@ async def guess_missing_dependency(session, package, build, http_semaphore, fg, 
         logger.debug('broken content %s', url)
         return False
     patterns = [
-        r"Problem.*?: package (.*?) requires python\(abi\) = 3\.12",
+        r"Problem.*?: package (.*?) requires python\(abi\) = 3\.13",
         r"package (.*?) requires .*?, but none of the providers can be installed",
         r"Status code: (.*?) for",
     ]
