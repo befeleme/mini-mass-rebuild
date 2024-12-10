@@ -81,7 +81,7 @@ REASONS = {
         "short_description": "",
     },
     "ByteString": {
-        "regex": r"ImportError: cannot import name 'ByteString' from '(.*)'",
+        "regex": r"(ImportError: cannot import name 'ByteString' from '(.*)'|AttributeError: module 'typing' has no attribute 'ByteString')",
         "long_description": """
         According to https://docs.python.org/dev/whatsnew/3.14.html#typing
 
@@ -99,9 +99,27 @@ REASONS = {
          """,
         "short_description": "",
     },
+    "pkgutil": {
+        "regex": r"AttributeError: module 'pkgutil' has no attribute '(get_loader|find_loader)'",
+        "long_description": """
+        According to https://docs.python.org/dev/whatsnew/3.14.html#pkgutil
+
+        Remove deprecated pkgutil.get_loader() and pkgutil.find_loader(). These had previously raised a DeprecationWarning since Python 3.12. (Contributed by Bénédikt Tran in gh-97850.)
+         """,
+        "short_description": "",
+    },
+    "eventloop": {
+        "regex": r"RuntimeError: There is no current event loop in thread 'MainThread'.",
+        "long_description": """
+        According to https://docs.python.org/dev/whatsnew/3.14.html#id3
+
+        Removed implicit creation of event loop by asyncio.get_event_loop(). It now raises a RuntimeError if there is no current event loop. (Contributed by Kumar Aditya in gh-126353.)
+         """,
+        "short_description": "",
+    },
     "segfault": {
         # Segfault detection is quite noisy, especially if we do not want to report it this way. I temporarily disabled it with X in regex.
-        "regex": r"Segmentation fault",
+        "regex": r"XSegmentation fault",
         "long_description": """ DO NOT REPORT THIS """,
         "short_description": """ DO NOT REPORT THIS """,
     },
@@ -532,7 +550,7 @@ async def open_bz(package, build, status, browser_lock, reason=None):
     summary = f"{package} fails to build with Python 3.14: {reason['short_description']}"
 
     description = dedent(f"""
-        {package} fails to build with Python 3.14.0a1.
+        {package} fails to build with Python 3.14.0a2.
 
         {reason['long_description']}
 
