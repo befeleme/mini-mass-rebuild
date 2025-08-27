@@ -5,7 +5,7 @@ import sys
 from collections import defaultdict
 
 TARGETVER = int(sys.argv[1]) if len(sys.argv) == 2 else None
-RAWHIDEVER = 43
+RAWHIDEVER = 44
 SUPPORTED_UPGRADE_VERS = (41, 42)
 OBSOLETE_PYTHON_VER = '3.13'
 
