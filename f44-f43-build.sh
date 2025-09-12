@@ -3,13 +3,13 @@ set -o pipefail
 
 pkg="$1"
 
-running_build="$(koji list-builds --quiet --package=$pkg --after='2025-08-12 14:00' --state=BUILDING  --sort-key=build_id | tail -n1 | cut -f1 -d' ' | grep '.fc44$' || true)"
+running_build="$(koji list-builds --quiet --package=$pkg --after='2025-08-12 14:00' --state=BUILDING  --sort-key=build_id | cut -f1 -d' ' | grep '.fc44$' | tail -n1 || true)"
 if [[ ! -z "$running_build" ]]; then
   echo "$pkg f44 build running: $running_build" >> ${pkg}.log
   exit 0
 fi
 
-complete_build="$(koji list-builds --quiet --package=$pkg --after='2025-08-12 14:00' --state=COMPLETE  --sort-key=build_id | tail -n1 | cut -f1 -d' ' | grep '.fc44$' || true)"
+complete_build="$(koji list-builds --quiet --package=$pkg --after='2025-08-12 14:00' --state=COMPLETE  --sort-key=build_id | cut -f1 -d' ' | grep '.fc44$' | tail -n1 || true)"
 if [[ ! -z "$complete_build" ]]; then
   if ! (koji buildinfo "$complete_build" | grep '^Tags:' | grep -qE ' f44(-updates-candidate)?( |$)'); then
     echo "$pkg f44 build complete but not tagged: $complete_build" >> ${pkg}.log
@@ -27,16 +27,23 @@ f43="$(git rev-parse origin/f43)"
 
 if [[ "$head" == "$f43" ]]; then
   ff="yes"
-  running_build="$(koji list-builds --quiet --package=$pkg --after='2025-08-12 14:00' --state=BUILDING  --sort-key=build_id | tail -n1 | cut -f1 -d' ' | grep '.fc43$' || true)"
+  running_build="$(koji list-builds --quiet --package=$pkg --after='2025-08-12 14:00' --state=BUILDING  --sort-key=build_id | cut -f1 -d' ' | grep '.fc43$' | tail -n1 || true)"
   if [[ ! -z "$running_build" ]]; then
     echo "$pkg f43 build running: $running_build" >> ../${pkg}.log
     ff="no"
   else
-    complete_build="$(koji list-builds --quiet --package=$pkg --after='2025-08-12 14:00' --state=COMPLETE  --sort-key=build_id | tail -n1 | cut -f1 -d' ' | grep '.fc43$' || true)"
+    complete_build="$(koji list-builds --quiet --package=$pkg --after='2025-08-12 14:00' --state=COMPLETE  --sort-key=build_id | cut -f1 -d' ' | grep '.fc43$' | tail -n1 || true)"
     if [[ ! -z "$complete_build" ]]; then
-      if ! (koji buildinfo "$complete_build" | grep '^Tags:' | grep -qE ' f43(-updates-candidate)?( |$)'); then
+      if ! (koji buildinfo "$complete_build" | grep '^Tags:' | grep -qE ' f43( |$)'); then
         echo "$pkg f43 build complete but not tagged: $complete_build" >> ../${pkg}.log
         ff="no"
+      else
+        # Get the commit hash this build was made from
+        build_commit="$(koji buildinfo "$complete_build" | grep '^Source:' | sed 's/.*#//')"
+        if [[ "$head" != "$build_commit" ]]; then
+          echo "$pkg f43 build complete but not from the latest commit from distgit: $complete_build" >> ../${pkg}.log
+          ff="no"
+        fi
       fi
     fi
   fi
@@ -45,9 +52,9 @@ else
   ff="no"
 fi
 
-if ! git show --name-only | grep -F "Python 3.14.0rc2"; then
-  rpmdev-bumpspec -c "Rebuilt for Python 3.14.0rc2 bytecode" --userstring="Python Maint <python-maint@redhat.com>" *.spec | tee -a ../${pkg}.log
-  git commit -am "Rebuilt for Python 3.14.0rc2 bytecode" --author="Python Maint <python-maint@redhat.com>" --allow-empty | tee -a ../${pkg}.log
+if ! git show --name-only | grep -F "Python 3.14.0rc3"; then
+  rpmdev-bumpspec -c "Rebuilt for Python 3.14.0rc3 bytecode" --userstring="Python Maint <python-maint@redhat.com>" *.spec | tee -a ../${pkg}.log
+  git commit -am "Rebuilt for Python 3.14.0rc3 bytecode" --author="Python Maint <python-maint@redhat.com>" --allow-empty | tee -a ../${pkg}.log
   git push --no-verify
   if [[ "$ff" == "yes" ]]; then
     git switch f43
