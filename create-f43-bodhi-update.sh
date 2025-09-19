@@ -16,7 +16,11 @@ if ! (koji buildinfo "$latest_build" | grep '^Tags:' | grep -qE ' f43-updates-ca
   exit 1
 fi
 
-# Create bodhi update with type bugfix
+if bodhi updates query --builds="$latest_build" | grep -q "$latest_build"; then
+  echo "Bodhi update already exists for $latest_build, skipping creation"
+  exit 0
+fi
+
 echo "Creating bodhi update for $latest_build"
 bodhi updates new --type bugfix --notes "Rebuilt for Python 3.14.0rc3 bytecode change" "$latest_build"
 
