@@ -1,0 +1,10 @@
+Cloning into 'scapy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7c40657] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building scapy-2.6.0-7.fc44 for rawhide
+Created task: 137266333
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266333
+Building scapy-2.6.0-7.fc43 for f43-candidate
+Created task: 137266338
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266338

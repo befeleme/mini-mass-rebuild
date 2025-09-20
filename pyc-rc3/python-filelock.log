@@ -1,0 +1,10 @@
+Cloning into 'python-filelock'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 76371ba] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-filelock-3.15.4-10.fc44 for rawhide
+Created task: 137258939
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258939
+Building python-filelock-3.15.4-10.fc43 for f43-candidate
+Created task: 137258945
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258945

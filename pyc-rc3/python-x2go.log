@@ -1,0 +1,10 @@
+Cloning into 'python-x2go'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cca8ac6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-x2go-0.6.1.4-16.fc44 for rawhide
+Created task: 137265710
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265710
+Building python-x2go-0.6.1.4-16.fc43 for f43-candidate
+Created task: 137265715
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265715

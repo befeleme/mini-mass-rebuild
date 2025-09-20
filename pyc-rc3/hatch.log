@@ -1,0 +1,10 @@
+Cloning into 'hatch'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 45f82d0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building hatch-1.14.1-9.fc44 for rawhide
+Created task: 137254320
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254320
+Building hatch-1.14.1-9.fc43 for f43-candidate
+Created task: 137254325
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254325

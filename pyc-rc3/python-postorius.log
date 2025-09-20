@@ -1,0 +1,10 @@
+Cloning into 'python-postorius'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 11d200d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-postorius-1.3.12-6.fc44 for rawhide
+Created task: 137262047
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262047
+Building python-postorius-1.3.12-6.fc43 for f43-candidate
+Created task: 137262064
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262064

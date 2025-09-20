@@ -1,0 +1,10 @@
+Cloning into 'python-sphinxcontrib-serializinghtml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 692e18a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinxcontrib-serializinghtml-2.0.0-7.fc44 for rawhide
+Created task: 137264295
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264295
+Building python-sphinxcontrib-serializinghtml-2.0.0-7.fc43 for f43-candidate
+Created task: 137264299
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264299

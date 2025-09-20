@@ -1,0 +1,10 @@
+Cloning into 'python-aiohttp-retry'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 438aa6e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-aiohttp-retry-2.9.1-6.fc44 for rawhide
+Created task: 137255993
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255993
+Building python-aiohttp-retry-2.9.1-6.fc43 for f43-candidate
+Created task: 137256001
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256001

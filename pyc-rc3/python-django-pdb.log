@@ -1,0 +1,10 @@
+Cloning into 'python-django-pdb'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0ece0be] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-django-pdb-0.6.2-17.fc44 for rawhide
+Created task: 137258354
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258354
+Building python-django-pdb-0.6.2-17.fc43 for f43-candidate
+Created task: 137258361
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258361

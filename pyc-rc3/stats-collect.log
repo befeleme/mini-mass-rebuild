@@ -1,0 +1,10 @@
+Cloning into 'stats-collect'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ede36a0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building stats-collect-1.0.59-2.fc44 for rawhide
+Created task: 137266543
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266543
+Building stats-collect-1.0.59-2.fc43 for f43-candidate
+Created task: 137266545
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266545

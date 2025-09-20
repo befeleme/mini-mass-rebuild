@@ -1,0 +1,10 @@
+Cloning into 'python-mitogen'...
+[rawhide 0334193] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-mitogen-0.3.24-4.fc44 for rawhide
+Created task: 137261093
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261093
+Building python-mitogen-0.3.24-4.fc43 for f43-candidate
+Created task: 137261098
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261098

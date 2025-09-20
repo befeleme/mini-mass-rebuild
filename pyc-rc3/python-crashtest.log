@@ -1,0 +1,10 @@
+Cloning into 'python-crashtest'...
+[rawhide b3db8d1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-crashtest-0.4.1-12.fc44 for rawhide
+Created task: 137257862
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257862
+Building python-crashtest-0.4.1-12.fc43 for f43-candidate
+Created task: 137257864
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257864

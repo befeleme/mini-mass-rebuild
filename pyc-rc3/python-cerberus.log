@@ -1,0 +1,10 @@
+Cloning into 'python-cerberus'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8333de8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cerberus-1.3.4-15.fc44 for rawhide
+Created task: 137257275
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257275
+Building python-cerberus-1.3.4-15.fc43 for f43-candidate
+Created task: 137257278
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257278

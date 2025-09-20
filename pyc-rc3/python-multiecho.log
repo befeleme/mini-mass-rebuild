@@ -1,0 +1,10 @@
+Cloning into 'python-multiecho'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e6c14f5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-multiecho-0.31-4.fc44 for rawhide
+Created task: 137261246
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261246
+Building python-multiecho-0.31-4.fc43 for f43-candidate
+Created task: 137261251
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261251

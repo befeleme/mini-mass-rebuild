@@ -1,0 +1,10 @@
+Cloning into 'python-flake8-polyfill'...
+[rawhide 9589e93] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flake8-polyfill-1.0.2-28.fc44 for rawhide
+Created task: 137259004
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259004
+Building python-flake8-polyfill-1.0.2-28.fc43 for f43-candidate
+Created task: 137259007
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259007

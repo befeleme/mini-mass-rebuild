@@ -1,0 +1,10 @@
+Cloning into 'marshalparser'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4d2ed82] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building marshalparser-0.4.0-10.fc44 for rawhide
+Created task: 137254890
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254890
+Building marshalparser-0.4.0-10.fc43 for f43-candidate
+Created task: 137254893
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254893

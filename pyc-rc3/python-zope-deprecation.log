@@ -1,0 +1,10 @@
+Cloning into 'python-zope-deprecation'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 35e9faa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zope-deprecation-5.1-8.fc44 for rawhide
+Created task: 137265969
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265969
+Building python-zope-deprecation-5.1-8.fc43 for f43-candidate
+Created task: 137265977
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265977

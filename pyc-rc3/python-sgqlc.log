@@ -1,0 +1,10 @@
+Cloning into 'python-sgqlc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3477b2f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sgqlc-17-5.fc44 for rawhide
+Created task: 137263954
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263954
+Building python-sgqlc-17-5.fc43 for f43-candidate
+Created task: 137263957
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263957

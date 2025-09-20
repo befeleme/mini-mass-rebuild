@@ -1,0 +1,7 @@
+Cloning into 'python-Naked'...
+[f43 66618ab] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-Naked-0.1.31-32.fc43 for f43-candidate
+Created task: 137269118
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269118

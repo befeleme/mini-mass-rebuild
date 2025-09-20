@@ -1,0 +1,10 @@
+Cloning into 'python-automaton'...
+[rawhide f5ec418] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-automaton-3.2.0-10.fc44 for rawhide
+Created task: 137256349
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256349
+Building python-automaton-3.2.0-10.fc43 for f43-candidate
+Created task: 137256352
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256352

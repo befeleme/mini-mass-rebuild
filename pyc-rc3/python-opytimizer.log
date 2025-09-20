@@ -1,0 +1,10 @@
+Cloning into 'python-opytimizer'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ed2152b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-opytimizer-3.1.4-6.fc44 for rawhide
+Created task: 137261591
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261591
+Building python-opytimizer-3.1.4-6.fc43 for f43-candidate
+Created task: 137261594
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261594

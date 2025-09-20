@@ -1,0 +1,10 @@
+Cloning into 'python3-iep'...
+[rawhide e831eab] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python3-iep-3.7-37.fc44 for rawhide
+Created task: 137255867
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255867
+Building python3-iep-3.7-37.fc43 for f43-candidate
+Created task: 137255870
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255870

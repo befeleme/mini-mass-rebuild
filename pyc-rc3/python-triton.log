@@ -1,0 +1,10 @@
+Cloning into 'python-triton'...
+[rawhide 433ec41] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-triton-3.1.0-8.fc44 for rawhide
+Created task: 137265138
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265138
+Building python-triton-3.1.0-8.fc43 for f43-candidate
+Created task: 137265140
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265140

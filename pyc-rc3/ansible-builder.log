@@ -1,0 +1,10 @@
+Cloning into 'ansible-builder'...
+[rawhide 08217f4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building ansible-builder-3.1.0-6.fc44 for rawhide
+Created task: 137252755
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252755
+Building ansible-builder-3.1.0-6.fc43 for f43-candidate
+Created task: 137252765
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252765

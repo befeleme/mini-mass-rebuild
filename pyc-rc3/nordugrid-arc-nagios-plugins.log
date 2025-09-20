@@ -1,0 +1,10 @@
+Cloning into 'nordugrid-arc-nagios-plugins'...
+[rawhide a74bef0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building nordugrid-arc-nagios-plugins-3.2.2-2.fc44 for rawhide
+Created task: 137255167
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255167
+Building nordugrid-arc-nagios-plugins-3.2.2-2.fc43 for f43-candidate
+Created task: 137255169
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255169

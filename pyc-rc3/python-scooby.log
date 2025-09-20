@@ -1,0 +1,10 @@
+Cloning into 'python-scooby'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0d2d965] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-scooby-0.10.1-8.fc44 for rawhide
+Created task: 137263848
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263848
+Building python-scooby-0.10.1-8.fc43 for f43-candidate
+Created task: 137263855
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263855

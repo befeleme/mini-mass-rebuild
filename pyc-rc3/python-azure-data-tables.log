@@ -1,0 +1,10 @@
+Cloning into 'python-azure-data-tables'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c21fc17] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-data-tables-12.4.0-18.fc44 for rawhide
+Created task: 137256419
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256419
+Building python-azure-data-tables-12.4.0-18.fc43 for f43-candidate
+Created task: 137256423
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256423

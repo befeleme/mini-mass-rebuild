@@ -1,0 +1,10 @@
+Cloning into 'python-django-markdownx'...
+[rawhide 3c798b2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-django-markdownx-3.0.1-23.fc44 for rawhide
+Created task: 137258328
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258328
+Building python-django-markdownx-3.0.1-23.fc43 for f43-candidate
+Created task: 137258331
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258331

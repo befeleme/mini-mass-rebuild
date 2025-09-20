@@ -1,0 +1,8 @@
+Cloning into 'python-extractcode'...
+python-extractcode f43 build complete but not tagged: python-extractcode-31.0.0-13.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide af6c47e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-extractcode-31.0.0-14.fc44 for rawhide
+Created task: 137258807
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258807

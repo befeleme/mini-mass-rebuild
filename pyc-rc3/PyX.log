@@ -1,0 +1,10 @@
+Cloning into 'PyX'...
+[rawhide 0278d27] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building PyX-0.16-13.fc44 for rawhide
+Created task: 137266035
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266035
+Building PyX-0.16-13.fc43 for f43-candidate
+Created task: 137266039
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266039

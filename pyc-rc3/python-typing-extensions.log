@@ -1,0 +1,10 @@
+Cloning into 'python-typing-extensions'...
+[rawhide 1fa34cf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-typing-extensions-4.15.0-2.fc44 for rawhide
+Created task: 137265210
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265210
+Building python-typing-extensions-4.15.0-2.fc43 for f43-candidate
+Created task: 137265214
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265214

@@ -1,0 +1,10 @@
+Cloning into 'python-rapidfuzz'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2a5dd97] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-rapidfuzz-3.12.2-5.fc44 for rawhide
+Created task: 137263376
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263376
+Building python-rapidfuzz-3.12.2-5.fc43 for f43-candidate
+Created task: 137263382
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263382

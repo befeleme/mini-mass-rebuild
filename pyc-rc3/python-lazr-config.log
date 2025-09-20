@@ -1,0 +1,10 @@
+Cloning into 'python-lazr-config'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8821b8e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-lazr-config-3.0-11.fc44 for rawhide
+Created task: 137260559
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260559
+Building python-lazr-config-3.0-11.fc43 for f43-candidate
+Created task: 137260564
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260564

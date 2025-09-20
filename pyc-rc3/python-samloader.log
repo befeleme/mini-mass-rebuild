@@ -1,0 +1,10 @@
+Cloning into 'python-samloader'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a770d85] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-samloader-0.4~20221223git95d2ac8-12.fc44 for rawhide
+Created task: 137263796
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263796
+Building python-samloader-0.4~20221223git95d2ac8-12.fc43 for f43-candidate
+Created task: 137263798
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263798

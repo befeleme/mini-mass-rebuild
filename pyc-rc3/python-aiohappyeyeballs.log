@@ -1,0 +1,10 @@
+Cloning into 'python-aiohappyeyeballs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7170f08] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-aiohappyeyeballs-2.6.1-9.fc44 for rawhide
+Created task: 137255978
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255978
+Building python-aiohappyeyeballs-2.6.1-9.fc43 for f43-candidate
+Created task: 137255990
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255990

@@ -1,0 +1,10 @@
+Cloning into 'python-readability-lxml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0c893aa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-readability-lxml-0.8.1-22.fc44 for rawhide
+Created task: 137263402
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263402
+Building python-readability-lxml-0.8.1-22.fc43 for f43-candidate
+Created task: 137263410
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263410

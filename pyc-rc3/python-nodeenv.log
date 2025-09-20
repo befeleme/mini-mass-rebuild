@@ -1,0 +1,10 @@
+Cloning into 'python-nodeenv'...
+[rawhide 4733364] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-nodeenv-1.9.1-8.fc44 for rawhide
+Created task: 137261399
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261399
+Building python-nodeenv-1.9.1-8.fc43 for f43-candidate
+Created task: 137261402
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261402

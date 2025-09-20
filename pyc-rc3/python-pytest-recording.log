@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-recording'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d580e61] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-recording-0.13.4-2.fc44 for rawhide
+Created task: 137263127
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263127
+Building python-pytest-recording-0.13.4-2.fc43 for f43-candidate
+Created task: 137263128
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263128

@@ -1,0 +1,10 @@
+Cloning into 'python-pudb'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bd40c58] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pudb-2025.1-7.fc44 for rawhide
+Created task: 137262148
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262148
+Building python-pudb-2025.1-7.fc43 for f43-candidate
+Created task: 137262150
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262150

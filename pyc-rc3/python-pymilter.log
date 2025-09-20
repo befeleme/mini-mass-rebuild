@@ -1,0 +1,10 @@
+Cloning into 'python-pymilter'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c4a3874] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pymilter-1.0.6-15.fc44 for rawhide
+Created task: 137262495
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262495
+Building python-pymilter-1.0.6-15.fc43 for f43-candidate
+Created task: 137262500
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262500

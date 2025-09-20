@@ -1,0 +1,10 @@
+Cloning into 'python-django-debug-toolbar'...
+[rawhide 59d201c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-django-debug-toolbar-3.2.1-19.fc44 for rawhide
+Created task: 137258292
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258292
+Building python-django-debug-toolbar-3.2.1-19.fc43 for f43-candidate
+Created task: 137258293
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258293

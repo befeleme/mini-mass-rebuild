@@ -1,0 +1,10 @@
+Cloning into 'python-git-changelog'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 91b2d19] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-git-changelog-2.5.2-8.fc44 for rawhide
+Created task: 137259488
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259488
+Building python-git-changelog-2.5.2-8.fc43 for f43-candidate
+Created task: 137259496
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259496

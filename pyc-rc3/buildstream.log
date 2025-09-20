@@ -1,0 +1,8 @@
+Cloning into 'buildstream'...
+buildstream f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7c50558] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building buildstream-2.5.0-14.fc44 for rawhide
+Created task: 137253017
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253017

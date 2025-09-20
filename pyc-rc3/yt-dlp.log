@@ -1,0 +1,14 @@
+Cloning into 'yt-dlp'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4884749] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/yt-dlp/yt-dlp.spec line 88: autopatch: no matching patches in range
+
+Building yt-dlp-2025.09.05-2.fc44 for rawhide
+Created task: 137266966
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266966
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/yt-dlp/yt-dlp.spec line 88: autopatch: no matching patches in range
+
+Building yt-dlp-2025.09.05-2.fc43 for f43-candidate
+Created task: 137266982
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266982

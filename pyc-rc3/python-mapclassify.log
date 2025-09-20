@@ -1,0 +1,10 @@
+Cloning into 'python-mapclassify'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1895de0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mapclassify-2.10.0-2.fc44 for rawhide
+Created task: 137260889
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260889
+Building python-mapclassify-2.10.0-2.fc43 for f43-candidate
+Created task: 137260892
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260892

@@ -1,0 +1,10 @@
+Cloning into 'python-mkdocs-git-committers-plugin-2'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c462491] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mkdocs-git-committers-plugin-2-2.4.1-5.fc44 for rawhide
+Created task: 137261101
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261101
+Building python-mkdocs-git-committers-plugin-2-2.4.1-5.fc43 for f43-candidate
+Created task: 137261102
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261102

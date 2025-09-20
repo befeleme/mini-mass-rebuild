@@ -1,0 +1,10 @@
+Cloning into 'python-mutf8'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 619503d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mutf8-1.0.6-5.fc44 for rawhide
+Created task: 137261279
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261279
+Building python-mutf8-1.0.6-5.fc43 for f43-candidate
+Created task: 137261283
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261283

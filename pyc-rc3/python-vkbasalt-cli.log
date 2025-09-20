@@ -1,0 +1,10 @@
+Cloning into 'python-vkbasalt-cli'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2771817] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-vkbasalt-cli-3.1.1.post2-8.fc44 for rawhide
+Created task: 137265475
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265475
+Building python-vkbasalt-cli-3.1.1.post2-8.fc43 for f43-candidate
+Created task: 137265481
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265481

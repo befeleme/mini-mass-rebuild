@@ -1,0 +1,10 @@
+Cloning into 'python-pygtkspellcheck'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a5946de] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pygtkspellcheck-5.0.3-6.fc44 for rawhide
+Created task: 137262415
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262415
+Building python-pygtkspellcheck-5.0.3-6.fc43 for f43-candidate
+Created task: 137262417
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262417

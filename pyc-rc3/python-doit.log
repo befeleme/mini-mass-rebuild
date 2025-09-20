@@ -1,0 +1,10 @@
+Cloning into 'python-doit'...
+[rawhide d7136ee] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-doit-0.36.0-8.fc44 for rawhide
+Created task: 137258482
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258482
+Building python-doit-0.36.0-8.fc43 for f43-candidate
+Created task: 137258486
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258486

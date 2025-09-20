@@ -1,0 +1,10 @@
+Cloning into 'python-azure-synapse-artifacts'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 422a30b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-synapse-artifacts-0.20.0-5.fc44 for rawhide
+Created task: 137256803
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256803
+Building python-azure-synapse-artifacts-0.20.0-5.fc43 for f43-candidate
+Created task: 137256808
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256808

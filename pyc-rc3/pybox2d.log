@@ -1,0 +1,10 @@
+Cloning into 'pybox2d'...
+[rawhide e73cf5b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pybox2d-2.3.2-33.fc44 for rawhide
+Created task: 137255611
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255611
+Building pybox2d-2.3.2-33.fc43 for f43-candidate
+Created task: 137255612
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255612

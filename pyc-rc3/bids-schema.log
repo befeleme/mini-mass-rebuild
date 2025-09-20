@@ -1,0 +1,10 @@
+Cloning into 'bids-schema'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cfebcbe] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building bids-schema-1.1.0-2.fc44 for rawhide
+Created task: 137252914
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252914
+Building bids-schema-1.1.0-2.fc43 for f43-candidate
+Created task: 137252921
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252921

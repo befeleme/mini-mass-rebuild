@@ -1,0 +1,10 @@
+Cloning into 'photocollage'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 34a7a04] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building photocollage-1.5.0-4.fc44 for rawhide
+Created task: 137255440
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255440
+Building photocollage-1.5.0-4.fc43 for f43-candidate
+Created task: 137255443
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255443

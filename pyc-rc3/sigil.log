@@ -1,0 +1,8 @@
+Cloning into 'sigil'...
+sigil f43 and rawhide branches differ
+[rawhide ec78235] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building sigil-2.6.2-2.fc44 for rawhide
+Created task: 137266450
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266450

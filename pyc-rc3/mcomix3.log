@@ -1,0 +1,10 @@
+Cloning into 'mcomix3'...
+[rawhide 1058947] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building mcomix3-0-0.42.D20211016git483f4b3.fc44 for rawhide
+Created task: 137254906
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254906
+Building mcomix3-0-0.42.D20211016git483f4b3.fc43 for f43-candidate
+Created task: 137254932
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254932

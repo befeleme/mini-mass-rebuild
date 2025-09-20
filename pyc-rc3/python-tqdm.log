@@ -1,0 +1,8 @@
+Cloning into 'python-tqdm'...
+python-tqdm f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a2c0200] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tqdm-4.67.1-9.fc44 for rawhide
+Created task: 137265186
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265186

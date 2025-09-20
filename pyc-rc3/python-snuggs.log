@@ -1,0 +1,10 @@
+Cloning into 'python-snuggs'...
+[rawhide 46a6450] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-snuggs-1.4.7-24.fc44 for rawhide
+Created task: 137264178
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264178
+Building python-snuggs-1.4.7-24.fc43 for f43-candidate
+Created task: 137264182
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264182

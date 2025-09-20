@@ -1,0 +1,10 @@
+Cloning into 'trademgen'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 59cd077] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building trademgen-1.00.13-6.fc44 for rawhide
+Created task: 137266736
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266736
+Building trademgen-1.00.13-6.fc43 for f43-candidate
+Created task: 137266739
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266739

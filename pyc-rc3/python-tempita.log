@@ -1,0 +1,16 @@
+Cloning into 'python-tempita'...
+[rawhide 54f337f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 30: %{?fedora}
+
+
+Building python-tempita-0.5.2-19.fc44 for rawhide
+Created task: 137264688
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264688
+warning: Macro expanded in comment on line 30: %{?fedora}
+
+
+Building python-tempita-0.5.2-19.fc43 for f43-candidate
+Created task: 137264692
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264692

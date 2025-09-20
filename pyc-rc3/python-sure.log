@@ -1,0 +1,10 @@
+Cloning into 'python-sure'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ce97aa8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sure-2.0.1-19.fc44 for rawhide
+Created task: 137264595
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264595
+Building python-sure-2.0.1-19.fc43 for f43-candidate
+Created task: 137264596
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264596

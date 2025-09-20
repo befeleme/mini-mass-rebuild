@@ -1,0 +1,10 @@
+Cloning into 'python-wsproto'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 843b682] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-wsproto-1.2.0-14.fc44 for rawhide
+Created task: 137265672
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265672
+Building python-wsproto-1.2.0-14.fc43 for f43-candidate
+Created task: 137265684
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265684

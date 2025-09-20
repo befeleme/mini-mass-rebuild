@@ -1,0 +1,10 @@
+Cloning into 'python-sysrsync'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 304e306] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sysrsync-1.1.1-12.fc44 for rawhide
+Created task: 137264637
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264637
+Building python-sysrsync-1.1.1-12.fc43 for f43-candidate
+Created task: 137264642
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264642

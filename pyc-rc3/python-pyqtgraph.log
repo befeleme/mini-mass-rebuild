@@ -1,0 +1,10 @@
+Cloning into 'python-pyqtgraph'...
+[rawhide 0ecc7e2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pyqtgraph-0.13.7-13.fc44 for rawhide
+Created task: 137262607
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262607
+Building python-pyqtgraph-0.13.7-13.fc43 for f43-candidate
+Created task: 137262611
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262611

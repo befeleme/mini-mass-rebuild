@@ -1,0 +1,10 @@
+Cloning into 'python-arpeggio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 26feef5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-arpeggio-2.0.2-11.fc44 for rawhide
+Created task: 137256199
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256199
+Building python-arpeggio-2.0.2-11.fc43 for f43-candidate
+Created task: 137256203
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256203

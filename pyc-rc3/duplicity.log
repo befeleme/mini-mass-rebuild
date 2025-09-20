@@ -1,0 +1,16 @@
+Cloning into 'duplicity'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cc8bc06] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: Macro expanded in comment on line 23: %{name}/%{name}-%{version}.tar.gz
+
+
+Building duplicity-3.0.5.1-3.fc44 for rawhide
+Created task: 137253773
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253773
+warning: Macro expanded in comment on line 23: %{name}/%{name}-%{version}.tar.gz
+
+
+Building duplicity-3.0.5.1-3.fc43 for f43-candidate
+Created task: 137253781
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253781

@@ -1,0 +1,10 @@
+Cloning into 'python-paginate'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 657714c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-paginate-0.5.7-4.fc44 for rawhide
+Created task: 137261694
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261694
+Building python-paginate-0.5.7-4.fc43 for f43-candidate
+Created task: 137261696
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261696

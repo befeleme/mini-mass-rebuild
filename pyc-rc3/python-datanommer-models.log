@@ -1,0 +1,10 @@
+Cloning into 'python-datanommer-models'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 28ea06c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-datanommer-models-1.4.4-4.fc44 for rawhide
+Created task: 137258066
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258066
+Building python-datanommer-models-1.4.4-4.fc43 for f43-candidate
+Created task: 137258072
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258072

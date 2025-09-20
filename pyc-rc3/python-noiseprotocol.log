@@ -1,0 +1,10 @@
+Cloning into 'python-noiseprotocol'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide eda8cd3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-noiseprotocol-0.3.1-16.fc44 for rawhide
+Created task: 137261413
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261413
+Building python-noiseprotocol-0.3.1-16.fc43 for f43-candidate
+Created task: 137261416
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261416

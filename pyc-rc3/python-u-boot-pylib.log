@@ -1,0 +1,10 @@
+Cloning into 'python-u-boot-pylib'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e3fb2b1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-u-boot-pylib-0.0.6-6.fc44 for rawhide
+Created task: 137265226
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265226
+Building python-u-boot-pylib-0.0.6-6.fc43 for f43-candidate
+Created task: 137265229
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265229

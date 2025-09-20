@@ -1,0 +1,8 @@
+Cloning into 'python-pbr'...
+python-pbr f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e2856c5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pbr-7.0.1-2.fc44 for rawhide
+Created task: 137261811
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261811

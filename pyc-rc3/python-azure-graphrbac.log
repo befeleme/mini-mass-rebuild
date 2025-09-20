@@ -1,0 +1,10 @@
+Cloning into 'python-azure-graphrbac'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1e1a96e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-graphrbac-0.60.0-23.fc44 for rawhide
+Created task: 137256424
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256424
+Building python-azure-graphrbac-0.60.0-23.fc43 for f43-candidate
+Created task: 137256427
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256427

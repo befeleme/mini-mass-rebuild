@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-bdd'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3aae6e0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-bdd-8.1.0-4.fc44 for rawhide
+Created task: 137263016
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263016
+Building python-pytest-bdd-8.1.0-4.fc43 for f43-candidate
+Created task: 137263021
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263021

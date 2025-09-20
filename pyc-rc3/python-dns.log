@@ -1,0 +1,8 @@
+Cloning into 'python-dns'...
+python-dns f43 and rawhide branches differ
+[rawhide a45f38a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-dns-2.8.0-2.fc44 for rawhide
+Created task: 137258435
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258435

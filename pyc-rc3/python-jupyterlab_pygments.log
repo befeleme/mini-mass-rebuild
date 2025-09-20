@@ -1,0 +1,10 @@
+Cloning into 'python-jupyterlab_pygments'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 86fdf11] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jupyterlab_pygments-0.3.0-12.fc44 for rawhide
+Created task: 137260354
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260354
+Building python-jupyterlab_pygments-0.3.0-12.fc43 for f43-candidate
+Created task: 137260367
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260367

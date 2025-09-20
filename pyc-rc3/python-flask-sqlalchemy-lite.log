@@ -1,0 +1,10 @@
+Cloning into 'python-flask-sqlalchemy-lite'...
+[rawhide d70ab1f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flask-sqlalchemy-lite-0.1.0-7.fc44 for rawhide
+Created task: 137259180
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259180
+Building python-flask-sqlalchemy-lite-0.1.0-7.fc43 for f43-candidate
+Created task: 137259187
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259187

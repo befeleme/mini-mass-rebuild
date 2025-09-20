@@ -1,0 +1,10 @@
+Cloning into 'rteval'...
+[rawhide 75948fb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building rteval-3.8-8.fc44 for rawhide
+Created task: 137266253
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266253
+Building rteval-3.8-8.fc43 for f43-candidate
+Created task: 137266259
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266259

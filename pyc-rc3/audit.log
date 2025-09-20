@@ -1,0 +1,8 @@
+Cloning into 'audit'...
+audit f43 and rawhide branches differ
+[rawhide 4cdc610] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building audit-4.1.2-2.fc44 for rawhide
+Created task: 137252821
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252821

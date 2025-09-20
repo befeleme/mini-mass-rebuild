@@ -1,0 +1,10 @@
+Cloning into 'python-azure-appconfiguration'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c0d9b3a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-appconfiguration-1.7.1-6.fc44 for rawhide
+Created task: 137256383
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256383
+Building python-azure-appconfiguration-1.7.1-6.fc43 for f43-candidate
+Created task: 137256398
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256398

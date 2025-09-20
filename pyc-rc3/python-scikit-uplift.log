@@ -1,0 +1,10 @@
+Cloning into 'python-scikit-uplift'...
+[rawhide 4f84f97] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-scikit-uplift-0.5.1-13.fc44 for rawhide
+Created task: 137263828
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263828
+Building python-scikit-uplift-0.5.1-13.fc43 for f43-candidate
+Created task: 137263832
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263832

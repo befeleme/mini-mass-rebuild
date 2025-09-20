@@ -1,0 +1,10 @@
+Cloning into 'dot2tex'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 262193c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building dot2tex-2.11.3-30.fc44 for rawhide
+Created task: 137253747
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253747
+Building dot2tex-2.11.3-30.fc43 for f43-candidate
+Created task: 137253750
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253750

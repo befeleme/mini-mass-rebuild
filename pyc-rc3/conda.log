@@ -1,0 +1,10 @@
+Cloning into 'conda'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0884a04] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building conda-24.11.3-7.fc44 for rawhide
+Created task: 137253287
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253287
+Building conda-24.11.3-7.fc43 for f43-candidate
+Created task: 137253292
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253292

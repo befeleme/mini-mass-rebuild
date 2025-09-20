@@ -1,0 +1,8 @@
+Cloning into 'edk2'...
+edk2 f43 build complete but not tagged: edk2-20250812-8.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8f8d897] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building edk2-20250812-9.fc44 for rawhide
+Created task: 137253765
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253765

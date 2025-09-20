@@ -1,0 +1,10 @@
+Cloning into 'legofy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bf41a22] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building legofy-1.0.0-39.git0cadceb.fc44 for rawhide
+Created task: 137254558
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254558
+Building legofy-1.0.0-39.git0cadceb.fc43 for f43-candidate
+Created task: 137254563
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254563

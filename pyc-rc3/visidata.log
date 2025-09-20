@@ -1,0 +1,10 @@
+Cloning into 'visidata'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1110c81] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building visidata-3.2-3.fc44 for rawhide
+Created task: 137266872
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266872
+Building visidata-3.2-3.fc43 for f43-candidate
+Created task: 137266881
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266881

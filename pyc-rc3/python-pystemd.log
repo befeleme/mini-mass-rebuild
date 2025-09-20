@@ -1,0 +1,10 @@
+Cloning into 'python-pystemd'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide da6b427] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pystemd-0.13.4-2.fc44 for rawhide
+Created task: 137262941
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262941
+Building python-pystemd-0.13.4-2.fc43 for f43-candidate
+Created task: 137262953
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262953

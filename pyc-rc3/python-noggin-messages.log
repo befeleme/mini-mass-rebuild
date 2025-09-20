@@ -1,0 +1,10 @@
+Cloning into 'python-noggin-messages'...
+[rawhide fec1e8a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-noggin-messages-1.0.3-12.fc44 for rawhide
+Created task: 137261401
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261401
+Building python-noggin-messages-1.0.3-12.fc43 for f43-candidate
+Created task: 137261404
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261404

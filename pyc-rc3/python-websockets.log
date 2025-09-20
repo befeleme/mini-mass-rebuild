@@ -1,0 +1,10 @@
+Cloning into 'python-websockets'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9bc2245] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-websockets-15.0.1-9.fc44 for rawhide
+Created task: 137265582
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265582
+Building python-websockets-15.0.1-9.fc43 for f43-candidate
+Created task: 137265597
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265597

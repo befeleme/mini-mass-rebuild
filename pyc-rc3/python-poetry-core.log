@@ -1,0 +1,10 @@
+Cloning into 'python-poetry-core'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9dbad7b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-poetry-core-2.1.3-6.fc44 for rawhide
+Created task: 137262035
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262035
+Building python-poetry-core-2.1.3-6.fc43 for f43-candidate
+Created task: 137262036
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262036

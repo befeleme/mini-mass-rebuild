@@ -1,0 +1,8 @@
+Cloning into 'python-gql'...
+python-gql f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ffb7e5e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-gql-4.0.0-3.fc44 for rawhide
+Created task: 137259586
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259586

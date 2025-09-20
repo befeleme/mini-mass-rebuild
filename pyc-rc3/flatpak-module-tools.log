@@ -1,0 +1,10 @@
+Cloning into 'flatpak-module-tools'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c672d9c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building flatpak-module-tools-1.2.0-3.fc44 for rawhide
+Created task: 137253918
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253918
+Building flatpak-module-tools-1.2.0-3.fc43 for f43-candidate
+Created task: 137253928
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253928

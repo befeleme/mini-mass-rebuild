@@ -1,0 +1,10 @@
+Cloning into 'python-exdir'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2a54059] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-exdir-0.5.0.1-14.fc44 for rawhide
+Created task: 137258794
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258794
+Building python-exdir-0.5.0.1-14.fc43 for f43-candidate
+Created task: 137258796
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258796

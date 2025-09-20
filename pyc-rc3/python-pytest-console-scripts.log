@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-console-scripts'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0bbce0e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-console-scripts-1.4.1-12.fc44 for rawhide
+Created task: 137263030
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263030
+Building python-pytest-console-scripts-1.4.1-12.fc43 for f43-candidate
+Created task: 137263031
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263031

@@ -1,0 +1,10 @@
+Cloning into 'python-musicbrainzngs'...
+[rawhide 6766e18] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-musicbrainzngs-0.7.1-19.fc44 for rawhide
+Created task: 137261277
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261277
+Building python-musicbrainzngs-0.7.1-19.fc43 for f43-candidate
+Created task: 137261280
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261280

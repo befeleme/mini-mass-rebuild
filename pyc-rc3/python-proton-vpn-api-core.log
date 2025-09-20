@@ -1,0 +1,10 @@
+Cloning into 'python-proton-vpn-api-core'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d2e0b9c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-proton-vpn-api-core-0.36.6-6.fc44 for rawhide
+Created task: 137262120
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262120
+Building python-proton-vpn-api-core-0.36.6-6.fc43 for f43-candidate
+Created task: 137262128
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262128

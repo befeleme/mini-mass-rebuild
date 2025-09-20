@@ -1,0 +1,10 @@
+Cloning into 'python-flexparser'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5a8d792] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-flexparser-0.4-6.fc44 for rawhide
+Created task: 137259205
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259205
+Building python-flexparser-0.4-6.fc43 for f43-candidate
+Created task: 137259213
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259213

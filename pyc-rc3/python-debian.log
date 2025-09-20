@@ -1,0 +1,10 @@
+Cloning into 'python-debian'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0a56925] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-debian-0.1.51-9.fc44 for rawhide
+Created task: 137258126
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258126
+Building python-debian-0.1.51-9.fc43 for f43-candidate
+Created task: 137258133
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258133

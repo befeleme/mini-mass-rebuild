@@ -1,0 +1,10 @@
+Cloning into 'python-redis'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1a48521] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-redis-5.2.1-7.fc44 for rawhide
+Created task: 137263425
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263425
+Building python-redis-5.2.1-7.fc43 for f43-candidate
+Created task: 137263427
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263427

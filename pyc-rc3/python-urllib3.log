@@ -1,0 +1,10 @@
+Cloning into 'python-urllib3'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b97cc1a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-urllib3-2.5.0-3.fc44 for rawhide
+Created task: 137265333
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265333
+Building python-urllib3-2.5.0-3.fc43 for f43-candidate
+Created task: 137265340
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265340

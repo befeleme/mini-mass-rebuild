@@ -1,0 +1,10 @@
+Cloning into 'fish'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 983717e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building fish-4.0.2-5.fc44 for rawhide
+Created task: 137287048
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287048
+Building fish-4.0.2-5.fc43 for f43-candidate
+Created task: 137287053
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287053

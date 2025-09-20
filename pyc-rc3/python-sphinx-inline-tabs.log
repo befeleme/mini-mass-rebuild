@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-inline-tabs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1dc3d1f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinx-inline-tabs-2023.04.21-8.fc44 for rawhide
+Created task: 137264336
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264336
+Building python-sphinx-inline-tabs-2023.04.21-8.fc43 for f43-candidate
+Created task: 137264337
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264337

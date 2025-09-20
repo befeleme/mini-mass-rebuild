@@ -1,0 +1,10 @@
+Cloning into 'Cython'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 36d2e82] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building Cython-3.1.3-3.fc44 for rawhide
+Created task: 137253482
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253482
+Building Cython-3.1.3-3.fc43 for f43-candidate
+Created task: 137253493
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253493

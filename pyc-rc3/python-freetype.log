@@ -1,0 +1,10 @@
+Cloning into 'python-freetype'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide aed2972] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-freetype-2.5.1-7.fc44 for rawhide
+Created task: 137259286
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259286
+Building python-freetype-2.5.1-7.fc43 for f43-candidate
+Created task: 137259287
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259287

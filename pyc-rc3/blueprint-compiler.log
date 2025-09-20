@@ -1,0 +1,10 @@
+Cloning into 'blueprint-compiler'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1b407b4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building blueprint-compiler-0.18.0-4.fc44 for rawhide
+Created task: 137252973
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252973
+Building blueprint-compiler-0.18.0-4.fc43 for f43-candidate
+Created task: 137252979
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252979

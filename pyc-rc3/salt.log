@@ -1,0 +1,10 @@
+Cloning into 'salt'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7ae9aae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building salt-3007.6-3.fc44 for rawhide
+Created task: 137266348
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266348
+Building salt-3007.6-3.fc43 for f43-candidate
+Created task: 137266358
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266358

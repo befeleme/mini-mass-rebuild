@@ -1,0 +1,10 @@
+Cloning into 'git-filter-repo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2065e6b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building git-filter-repo-2.47.0-8.fc44 for rawhide
+Created task: 137254100
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254100
+Building git-filter-repo-2.47.0-8.fc43 for f43-candidate
+Created task: 137254107
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254107

@@ -1,0 +1,10 @@
+Cloning into 'python-canonicaljson'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 722ed3d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-canonicaljson-2.0.0-13.fc44 for rawhide
+Created task: 137257219
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257219
+Building python-canonicaljson-2.0.0-13.fc43 for f43-candidate
+Created task: 137257233
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257233

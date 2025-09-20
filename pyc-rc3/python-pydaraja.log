@@ -1,0 +1,10 @@
+Cloning into 'python-pydaraja'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 32b511f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pydaraja-0.3.7-3.fc44 for rawhide
+Created task: 137262255
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262255
+Building python-pydaraja-0.3.7-3.fc43 for f43-candidate
+Created task: 137262260
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262260

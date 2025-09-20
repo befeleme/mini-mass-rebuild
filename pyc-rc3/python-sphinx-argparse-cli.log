@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-argparse-cli'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1eaa326] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinx-argparse-cli-1.11.1-11.fc44 for rawhide
+Created task: 137264238
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264238
+Building python-sphinx-argparse-cli-1.11.1-11.fc43 for f43-candidate
+Created task: 137264241
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264241

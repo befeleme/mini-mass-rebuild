@@ -1,0 +1,10 @@
+Cloning into 'python-pydata-sphinx-theme'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 295e693] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pydata-sphinx-theme-0.16.1-8.fc44 for rawhide
+Created task: 137262264
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262264
+Building python-pydata-sphinx-theme-0.16.1-8.fc43 for f43-candidate
+Created task: 137262265
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262265

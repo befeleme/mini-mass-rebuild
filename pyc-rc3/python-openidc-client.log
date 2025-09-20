@@ -1,0 +1,10 @@
+Cloning into 'python-openidc-client'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 74bd9e8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-openidc-client-0.6.0^1.0e2ed81-7.fc44 for rawhide
+Created task: 137261522
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261522
+Building python-openidc-client-0.6.0^1.0e2ed81-7.fc43 for f43-candidate
+Created task: 137261527
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261527

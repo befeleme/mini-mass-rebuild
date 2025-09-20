@@ -1,0 +1,10 @@
+Cloning into 'python-fixit'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ea2f600] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fixit-0.1.5~20230223gd2b59da-12.fc44 for rawhide
+Created task: 137258983
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258983
+Building python-fixit-0.1.5~20230223gd2b59da-12.fc43 for f43-candidate
+Created task: 137258987
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258987

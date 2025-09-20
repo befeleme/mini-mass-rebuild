@@ -1,0 +1,10 @@
+Cloning into 'python-mccabe'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f922a3f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mccabe-0.7.0-16.fc44 for rawhide
+Created task: 137260973
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260973
+Building python-mccabe-0.7.0-16.fc43 for f43-candidate
+Created task: 137260977
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260977

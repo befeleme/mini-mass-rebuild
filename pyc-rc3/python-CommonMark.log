@@ -1,0 +1,10 @@
+Cloning into 'python-CommonMark'...
+[rawhide 224e3fc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-CommonMark-0.9.1-24.fc44 for rawhide
+Created task: 137257687
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257687
+Building python-CommonMark-0.9.1-24.fc43 for f43-candidate
+Created task: 137257694
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257694

@@ -1,0 +1,10 @@
+Cloning into 'mu'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3f302b2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building mu-1.2.0-24.fc44 for rawhide
+Created task: 137255063
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255063
+Building mu-1.2.0-24.fc43 for f43-candidate
+Created task: 137255076
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255076

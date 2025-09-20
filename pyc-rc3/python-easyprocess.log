@@ -1,0 +1,10 @@
+Cloning into 'python-easyprocess'...
+[rawhide e3fc635] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-easyprocess-1.1-10.fc44 for rawhide
+Created task: 137258567
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258567
+Building python-easyprocess-1.1-10.fc43 for f43-candidate
+Created task: 137258571
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258571

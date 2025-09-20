@@ -1,0 +1,10 @@
+Cloning into 'python-lazyarray'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cd16485] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-lazyarray-0.6.0-8.git61d5f98.fc44 for rawhide
+Created task: 137260549
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260549
+Building python-lazyarray-0.6.0-8.git61d5f98.fc43 for f43-candidate
+Created task: 137260552
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260552

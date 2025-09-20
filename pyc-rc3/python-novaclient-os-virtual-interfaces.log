@@ -1,0 +1,10 @@
+Cloning into 'python-novaclient-os-virtual-interfaces'...
+[rawhide fbb13f9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-novaclient-os-virtual-interfaces-0.20-34.fc44 for rawhide
+Created task: 137261434
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261434
+Building python-novaclient-os-virtual-interfaces-0.20-34.fc43 for f43-candidate
+Created task: 137261436
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261436

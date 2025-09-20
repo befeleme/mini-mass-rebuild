@@ -1,0 +1,10 @@
+Cloning into 'python-ansicolor'...
+[rawhide 950c530] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ansicolor-0.2.4-36.fc44 for rawhide
+Created task: 137256124
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256124
+Building python-ansicolor-0.2.4-36.fc43 for f43-candidate
+Created task: 137256125
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256125

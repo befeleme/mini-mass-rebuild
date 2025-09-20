@@ -1,0 +1,10 @@
+Cloning into 'diskimage-builder'...
+[rawhide c277c13] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building diskimage-builder-3.34.0-6.fc44 for rawhide
+Created task: 137253601
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253601
+Building diskimage-builder-3.34.0-6.fc43 for f43-candidate
+Created task: 137253628
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253628

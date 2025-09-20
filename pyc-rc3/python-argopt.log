@@ -1,0 +1,10 @@
+Cloning into 'python-argopt'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d437075] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-argopt-0.9.1-6.fc44 for rawhide
+Created task: 137256195
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256195
+Building python-argopt-0.9.1-6.fc43 for f43-candidate
+Created task: 137256197
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256197

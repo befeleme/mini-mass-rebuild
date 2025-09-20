@@ -1,0 +1,10 @@
+Cloning into 'python-allpairspy'...
+[rawhide 6d8bf41] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-allpairspy-2.5.1-5.fc44 for rawhide
+Created task: 137256052
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256052
+Building python-allpairspy-2.5.1-5.fc43 for f43-candidate
+Created task: 137256060
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256060

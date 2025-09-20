@@ -1,0 +1,14 @@
+Cloning into 'fedfind'...
+[rawhide 43d5fd8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: bogus date in %changelog: Wed Mar 11 2025 Adam Williamson <awilliam@redhat.com> - 6.0.6-1
+
+Building fedfind-6.1.0-5.fc44 for rawhide
+Created task: 137253869
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253869
+warning: bogus date in %changelog: Wed Mar 11 2025 Adam Williamson <awilliam@redhat.com> - 6.0.6-1
+
+Building fedfind-6.1.0-5.fc43 for f43-candidate
+Created task: 137253881
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253881

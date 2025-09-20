@@ -1,0 +1,10 @@
+Cloning into 'python-dtopt'...
+[rawhide 35053e8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-dtopt-0.1-55.fc44 for rawhide
+Created task: 137258546
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258546
+Building python-dtopt-0.1-55.fc43 for f43-candidate
+Created task: 137258550
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258550

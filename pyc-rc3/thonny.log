@@ -1,0 +1,10 @@
+Cloning into 'thonny'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 97cc501] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building thonny-4.1.6-4.fc44 for rawhide
+Created task: 137266643
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266643
+Building thonny-4.1.6-4.fc43 for f43-candidate
+Created task: 137266653
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266653

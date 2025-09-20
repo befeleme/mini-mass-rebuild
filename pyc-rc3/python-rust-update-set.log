@@ -1,0 +1,10 @@
+Cloning into 'python-rust-update-set'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 338d8ad] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-rust-update-set-0.0.1-14.fc44 for rawhide
+Created task: 137263770
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263770
+Building python-rust-update-set-0.0.1-14.fc43 for f43-candidate
+Created task: 137263774
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263774

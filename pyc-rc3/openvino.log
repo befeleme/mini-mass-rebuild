@@ -1,0 +1,8 @@
+Cloning into 'openvino'...
+openvino f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f1b4301] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building openvino-2025.1.0-10.fc44 for rawhide
+Created task: 137255299
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255299

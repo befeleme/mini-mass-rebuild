@@ -1,0 +1,10 @@
+Cloning into 'python-port-for'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6892b4c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-port-for-0.7.4-6.fc44 for rawhide
+Created task: 137262054
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262054
+Building python-port-for-0.7.4-6.fc43 for f43-candidate
+Created task: 137262065
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262065

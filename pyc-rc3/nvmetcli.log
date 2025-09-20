@@ -1,0 +1,10 @@
+Cloning into 'nvmetcli'...
+[rawhide 9129beb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building nvmetcli-0.8-5.fc44 for rawhide
+Created task: 137255187
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255187
+Building nvmetcli-0.8-5.fc43 for f43-candidate
+Created task: 137255198
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255198

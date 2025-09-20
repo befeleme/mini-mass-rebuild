@@ -1,0 +1,10 @@
+Cloning into 'cdist'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4e917e5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building cdist-7.0.0-16.fc44 for rawhide
+Created task: 137253149
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253149
+Building cdist-7.0.0-16.fc43 for f43-candidate
+Created task: 137253154
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253154

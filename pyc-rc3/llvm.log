@@ -1,0 +1,9 @@
+Cloning into 'llvm'...
+llvm f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6174542] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building llvm-21.1.1-3.fc44 for rawhide
+Created task: 137254829
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254829

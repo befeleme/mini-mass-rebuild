@@ -1,0 +1,10 @@
+Cloning into 'python-flask-wtf-decorators'...
+[rawhide 4e406af] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flask-wtf-decorators-0.1.2-0.22.20200715.7fa5a26.fc44 for rawhide
+Created task: 137259203
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259203
+Building python-flask-wtf-decorators-0.1.2-0.22.20200715.7fa5a26.fc43 for f43-candidate
+Created task: 137259207
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259207

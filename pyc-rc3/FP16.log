@@ -1,0 +1,10 @@
+Cloning into 'FP16'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ae258e1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building FP16-1.0^git20240619.98b0a46-6.fc44 for rawhide
+Created task: 137253946
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253946
+Building FP16-1.0^git20240619.98b0a46-6.fc43 for f43-candidate
+Created task: 137253956
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253956

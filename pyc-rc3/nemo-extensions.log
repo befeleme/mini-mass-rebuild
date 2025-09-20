@@ -1,0 +1,8 @@
+Cloning into 'nemo-extensions'...
+nemo-extensions f43 and rawhide branches differ
+[rawhide 33bccd8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building nemo-extensions-6.4.0-8.fc44 for rawhide
+Created task: 137255089
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255089

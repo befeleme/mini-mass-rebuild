@@ -1,0 +1,10 @@
+Cloning into 'knot'...
+[rawhide ddd930d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building knot-3.4.8-3.fc44 for rawhide
+Created task: 137254508
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254508
+Building knot-3.4.8-3.fc43 for f43-candidate
+Created task: 137254512
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254512

@@ -1,0 +1,10 @@
+Cloning into 'python-funcsigs'...
+[rawhide 69d3140] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-funcsigs-1.0.2-41.fc44 for rawhide
+Created task: 137259354
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259354
+Building python-funcsigs-1.0.2-41.fc43 for f43-candidate
+Created task: 137259357
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259357

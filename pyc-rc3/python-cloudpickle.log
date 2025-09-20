@@ -1,0 +1,10 @@
+Cloning into 'python-cloudpickle'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c5491bf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cloudpickle-3.1.1-7.fc44 for rawhide
+Created task: 137257397
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257397
+Building python-cloudpickle-3.1.1-7.fc43 for f43-candidate
+Created task: 137257401
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257401

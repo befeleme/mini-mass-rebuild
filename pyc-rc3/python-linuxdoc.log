@@ -1,0 +1,10 @@
+Cloning into 'python-linuxdoc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bd95e02] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-linuxdoc-20240924-6.fc44 for rawhide
+Created task: 137260685
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260685
+Building python-linuxdoc-20240924-6.fc43 for f43-candidate
+Created task: 137260687
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260687

@@ -1,0 +1,10 @@
+Cloning into 'python-multitasking'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ab5869e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-multitasking-0.0.11-15.fc44 for rawhide
+Created task: 137261264
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261264
+Building python-multitasking-0.0.11-15.fc43 for f43-candidate
+Created task: 137261267
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261267

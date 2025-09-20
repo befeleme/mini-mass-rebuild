@@ -1,0 +1,10 @@
+Cloning into 'python-fluidity-sm'...
+[rawhide c1368dc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-fluidity-sm-0.2.0-41.fc44 for rawhide
+Created task: 137259237
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259237
+Building python-fluidity-sm-0.2.0-41.fc43 for f43-candidate
+Created task: 137259247
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259247

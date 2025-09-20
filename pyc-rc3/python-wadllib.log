@@ -1,0 +1,10 @@
+Cloning into 'python-wadllib'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 942dd76] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-wadllib-1.3.6-23.fc44 for rawhide
+Created task: 137265517
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265517
+Building python-wadllib-1.3.6-23.fc43 for f43-candidate
+Created task: 137265526
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265526

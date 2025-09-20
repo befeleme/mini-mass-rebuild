@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-loganalytics'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide aa2af8e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-loganalytics-13.0.0~b4-17.fc44 for rawhide
+Created task: 137256609
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256609
+Building python-azure-mgmt-loganalytics-13.0.0~b4-17.fc43 for f43-candidate
+Created task: 137256612
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256612

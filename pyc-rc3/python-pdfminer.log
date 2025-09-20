@@ -1,0 +1,10 @@
+Cloning into 'python-pdfminer'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7217d08] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pdfminer-20250506-5.fc44 for rawhide
+Created task: 137261857
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261857
+Building python-pdfminer-20250506-5.fc43 for f43-candidate
+Created task: 137261869
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261869

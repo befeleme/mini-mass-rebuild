@@ -1,0 +1,10 @@
+Cloning into 'python-ijson'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e55f6ba] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ijson-3.3.0-6.fc44 for rawhide
+Created task: 137259841
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259841
+Building python-ijson-3.3.0-6.fc43 for f43-candidate
+Created task: 137259842
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259842

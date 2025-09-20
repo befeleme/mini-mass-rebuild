@@ -1,0 +1,10 @@
+Cloning into 'python-pykdtree'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 38b4794] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pykdtree-1.4.3-3.fc44 for rawhide
+Created task: 137262428
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262428
+Building python-pykdtree-1.4.3-3.fc43 for f43-candidate
+Created task: 137262431
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262431

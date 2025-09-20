@@ -1,0 +1,10 @@
+Cloning into 'mailnag'...
+[rawhide 153390d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building mailnag-2.2.0-23.fc44 for rawhide
+Created task: 137254878
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254878
+Building mailnag-2.2.0-23.fc43 for f43-candidate
+Created task: 137254880
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254880

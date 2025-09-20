@@ -1,0 +1,12 @@
+Cloning into 'libsolv'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d423cef] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building libsolv-0.7.34-5.fc44 for rawhide
+Created task: 137254747
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254747
+Found a gating.yaml file in the repo and it is properly configured
+Building libsolv-0.7.34-5.fc43 for f43-candidate
+Created task: 137254758
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254758

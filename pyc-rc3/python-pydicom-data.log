@@ -1,0 +1,10 @@
+Cloning into 'python-pydicom-data'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 45add41] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pydicom-data-1.0.0^20240919git8da482f-7.fc44 for rawhide
+Created task: 137262283
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262283
+Building python-pydicom-data-1.0.0^20240919git8da482f-7.fc43 for f43-candidate
+Created task: 137262290
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262290

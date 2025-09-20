@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-sugar'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0887dbb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-sugar-1.1.1-2.fc44 for rawhide
+Created task: 137263181
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263181
+Building python-pytest-sugar-1.1.1-2.fc43 for f43-candidate
+Created task: 137263183
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263183

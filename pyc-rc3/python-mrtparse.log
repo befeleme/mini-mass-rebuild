@@ -1,0 +1,10 @@
+Cloning into 'python-mrtparse'...
+[rawhide 0f99dd2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-mrtparse-2.2.0-5.fc44 for rawhide
+Created task: 137261204
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261204
+Building python-mrtparse-2.2.0-5.fc43 for f43-candidate
+Created task: 137261207
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261207

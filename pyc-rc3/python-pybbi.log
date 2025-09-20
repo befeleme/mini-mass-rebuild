@@ -1,0 +1,10 @@
+Cloning into 'python-pybbi'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9ba5e72] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pybbi-0.4.1-8.fc44 for rawhide
+Created task: 137262201
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262201
+Building python-pybbi-0.4.1-8.fc43 for f43-candidate
+Created task: 137262209
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262209

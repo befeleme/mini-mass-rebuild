@@ -1,0 +1,10 @@
+Cloning into 'b43-tools'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a6275e3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building b43-tools-019-38.20220704git2fe10ea.fc44 for rawhide
+Created task: 137252899
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252899
+Building b43-tools-019-38.20220704git2fe10ea.fc43 for f43-candidate
+Created task: 137252902
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252902

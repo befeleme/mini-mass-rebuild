@@ -1,0 +1,10 @@
+Cloning into 'python-pdfkit'...
+[rawhide f8badc9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pdfkit-0.6.1-22.fc44 for rawhide
+Created task: 137261856
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261856
+Building python-pdfkit-0.6.1-22.fc43 for f43-candidate
+Created task: 137261864
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261864

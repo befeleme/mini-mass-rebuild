@@ -1,0 +1,10 @@
+Cloning into 'python-rcssmin'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 67a874b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-rcssmin-1.2.0-6.fc44 for rawhide
+Created task: 137263392
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263392
+Building python-rcssmin-1.2.0-6.fc43 for f43-candidate
+Created task: 137263395
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263395

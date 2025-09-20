@@ -1,0 +1,10 @@
+Cloning into 'nwg-wrapper'...
+[rawhide be80144] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building nwg-wrapper-0.1.3-14.fc44 for rawhide
+Created task: 137255200
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255200
+Building nwg-wrapper-0.1.3-14.fc43 for f43-candidate
+Created task: 137255203
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255203

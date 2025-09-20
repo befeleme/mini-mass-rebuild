@@ -1,0 +1,10 @@
+Cloning into 'python-manilaclient'...
+[rawhide e442e37] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-manilaclient-5.0.0-5.fc44 for rawhide
+Created task: 137260886
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260886
+Building python-manilaclient-5.0.0-5.fc43 for f43-candidate
+Created task: 137260891
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260891

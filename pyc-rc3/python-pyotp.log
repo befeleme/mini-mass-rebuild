@@ -1,0 +1,10 @@
+Cloning into 'python-pyotp'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 161a34d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyotp-2.9.0-11.fc44 for rawhide
+Created task: 137262550
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262550
+Building python-pyotp-2.9.0-11.fc43 for f43-candidate
+Created task: 137262552
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262552

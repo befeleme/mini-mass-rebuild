@@ -1,0 +1,10 @@
+Cloning into 'python-siphash'...
+[rawhide 86806ed] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-siphash-0.0.1-22.fc44 for rawhide
+Created task: 137264037
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264037
+Building python-siphash-0.0.1-22.fc43 for f43-candidate
+Created task: 137264043
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264043

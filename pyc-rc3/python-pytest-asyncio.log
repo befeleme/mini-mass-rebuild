@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-asyncio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7f3c3e0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-asyncio-1.1.0-2.fc44 for rawhide
+Created task: 137263024
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263024
+Building python-pytest-asyncio-1.1.0-2.fc43 for f43-candidate
+Created task: 137263028
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263028

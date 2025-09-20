@@ -1,0 +1,8 @@
+Cloning into 'python-jupyter-lsp'...
+python-jupyter-lsp f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 76b38f7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jupyter-lsp-2.3.0-2.fc44 for rawhide
+Created task: 137260342
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260342

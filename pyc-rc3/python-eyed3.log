@@ -1,0 +1,10 @@
+Cloning into 'python-eyed3'...
+[rawhide 74a1a81] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-eyed3-0.9.7-14.fc44 for rawhide
+Created task: 137258818
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258818
+Building python-eyed3-0.9.7-14.fc43 for f43-candidate
+Created task: 137258821
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258821

@@ -1,0 +1,20 @@
+Cloning into 'python-kitchen'...
+[rawhide 72898ad] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 19: %{python3_pkgversion}-nose
+
+warning: Macro expanded in comment on line 48: %{version}-%{release}
+
+
+Building python-kitchen-1.2.6-27.fc44 for rawhide
+Created task: 137260483
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260483
+warning: Macro expanded in comment on line 19: %{python3_pkgversion}-nose
+
+warning: Macro expanded in comment on line 48: %{version}-%{release}
+
+
+Building python-kitchen-1.2.6-27.fc43 for f43-candidate
+Created task: 137260485
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260485

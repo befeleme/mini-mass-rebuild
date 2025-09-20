@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-msi'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 44019f4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-msi-7.0.0-13.fc44 for rawhide
+Created task: 137256627
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256627
+Building python-azure-mgmt-msi-7.0.0-13.fc43 for f43-candidate
+Created task: 137256631
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256631

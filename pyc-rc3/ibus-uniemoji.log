@@ -1,0 +1,10 @@
+Cloning into 'ibus-uniemoji'...
+[rawhide bf13930] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building ibus-uniemoji-0.7.0-5.fc44 for rawhide
+Created task: 137254388
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254388
+Building ibus-uniemoji-0.7.0-5.fc43 for f43-candidate
+Created task: 137254391
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254391

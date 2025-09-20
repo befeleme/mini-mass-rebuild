@@ -1,0 +1,10 @@
+Cloning into 'litecli'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0450f31] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building litecli-1.15.0-3.fc44 for rawhide
+Created task: 137254838
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254838
+Building litecli-1.15.0-3.fc43 for f43-candidate
+Created task: 137254843
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254843

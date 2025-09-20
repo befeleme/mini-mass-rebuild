@@ -1,0 +1,10 @@
+Cloning into 'python-uvicorn'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d50f4c5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-uvicorn-0.35.0-6.fc44 for rawhide
+Created task: 137265358
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265358
+Building python-uvicorn-0.35.0-6.fc43 for f43-candidate
+Created task: 137265360
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265360

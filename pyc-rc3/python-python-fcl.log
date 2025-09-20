@@ -1,0 +1,14 @@
+Cloning into 'python-python-fcl'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5e66b86] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/python-python-fcl/python-python-fcl.spec line 154: autopatch: no matching patches in range
+
+Building python-python-fcl-0.7.0.8-9.fc44 for rawhide
+Created task: 137263211
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263211
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/python-python-fcl/python-python-fcl.spec line 154: autopatch: no matching patches in range
+
+Building python-python-fcl-0.7.0.8-9.fc43 for f43-candidate
+Created task: 137263216
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263216

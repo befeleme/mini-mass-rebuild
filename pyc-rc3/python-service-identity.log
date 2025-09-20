@@ -1,0 +1,10 @@
+Cloning into 'python-service-identity'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a747c6d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-service-identity-24.2.0-7.fc44 for rawhide
+Created task: 137263921
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263921
+Building python-service-identity-24.2.0-7.fc43 for f43-candidate
+Created task: 137263925
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263925

@@ -1,0 +1,10 @@
+Cloning into 'pyatspi'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2a8c777] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pyatspi-2.58.0-2.fc44 for rawhide
+Created task: 137255584
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255584
+Building pyatspi-2.58.0-2.fc43 for f43-candidate
+Created task: 137255592
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255592

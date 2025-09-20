@@ -1,0 +1,10 @@
+Cloning into 'python-mbstrdecoder'...
+[rawhide 6b1f8ed] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-mbstrdecoder-1.1.3-5.fc44 for rawhide
+Created task: 137260979
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260979
+Building python-mbstrdecoder-1.1.3-5.fc43 for f43-candidate
+Created task: 137260984
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260984

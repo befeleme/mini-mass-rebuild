@@ -1,0 +1,10 @@
+Cloning into 'monkeytype'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4db61d9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building monkeytype-23.3.0-11.fc44 for rawhide
+Created task: 137255001
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255001
+Building monkeytype-23.3.0-11.fc43 for f43-candidate
+Created task: 137255010
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255010

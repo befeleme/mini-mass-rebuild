@@ -1,0 +1,10 @@
+Cloning into 'snowball'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 77e056b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building snowball-3.0.1-8.fc44 for rawhide
+Created task: 137266492
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266492
+Building snowball-3.0.1-8.fc43 for f43-candidate
+Created task: 137266502
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266502

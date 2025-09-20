@@ -1,0 +1,10 @@
+Cloning into 'gammastep'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9def187] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building gammastep-2.0.11-5.fc44 for rawhide
+Created task: 137254013
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254013
+Building gammastep-2.0.11-5.fc43 for f43-candidate
+Created task: 137254021
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254021

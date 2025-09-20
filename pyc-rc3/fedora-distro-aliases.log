@@ -1,0 +1,10 @@
+Cloning into 'fedora-distro-aliases'...
+[rawhide 9aaaab4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building fedora-distro-aliases-1.7-5.fc44 for rawhide
+Created task: 137253857
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253857
+Building fedora-distro-aliases-1.7-5.fc43 for f43-candidate
+Created task: 137253861
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253861

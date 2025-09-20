@@ -1,0 +1,10 @@
+Cloning into 'totpcgi'...
+[rawhide b7883b6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building totpcgi-0.6.0-0.27.20190713git.fc44 for rawhide
+Created task: 137266692
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266692
+Building totpcgi-0.6.0-0.27.20190713git.fc43 for f43-candidate
+Created task: 137266702
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266702

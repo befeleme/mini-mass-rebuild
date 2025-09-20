@@ -1,0 +1,10 @@
+Cloning into 'python-archinfo'...
+[rawhide e23c83c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-archinfo-9.2.158-4.fc44 for rawhide
+Created task: 137256182
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256182
+Building python-archinfo-9.2.158-4.fc43 for f43-candidate
+Created task: 137256185
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256185

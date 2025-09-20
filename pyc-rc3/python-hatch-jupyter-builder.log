@@ -1,0 +1,10 @@
+Cloning into 'python-hatch-jupyter-builder'...
+[rawhide 42e76a1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-hatch-jupyter-builder-0.9.1-5.fc44 for rawhide
+Created task: 137259660
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259660
+Building python-hatch-jupyter-builder-0.9.1-5.fc43 for f43-candidate
+Created task: 137259669
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259669

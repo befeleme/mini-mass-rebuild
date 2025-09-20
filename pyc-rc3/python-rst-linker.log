@@ -1,0 +1,10 @@
+Cloning into 'python-rst-linker'...
+[rawhide 9bf8f80] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-rst-linker-2.4.0-14.fc44 for rawhide
+Created task: 137263749
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263749
+Building python-rst-linker-2.4.0-14.fc43 for f43-candidate
+Created task: 137263750
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263750

@@ -1,0 +1,10 @@
+Cloning into 'python-pyrsistent'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ed41ac1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyrsistent-0.20.0-17.fc44 for rawhide
+Created task: 137262720
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262720
+Building python-pyrsistent-0.20.0-17.fc43 for f43-candidate
+Created task: 137262753
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262753

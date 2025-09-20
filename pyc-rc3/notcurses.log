@@ -1,0 +1,10 @@
+Cloning into 'notcurses'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 71f328b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building notcurses-3.0.16-7.fc44 for rawhide
+Created task: 137255173
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255173
+Building notcurses-3.0.16-7.fc43 for f43-candidate
+Created task: 137255177
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255177

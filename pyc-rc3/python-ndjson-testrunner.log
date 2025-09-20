@@ -1,0 +1,10 @@
+Cloning into 'python-ndjson-testrunner'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c080f8d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ndjson-testrunner-1.1.3-8.fc44 for rawhide
+Created task: 137261335
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261335
+Building python-ndjson-testrunner-1.1.3-8.fc43 for f43-candidate
+Created task: 137261337
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261337

@@ -1,0 +1,10 @@
+Cloning into 'python-munkres'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 10d6096] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-munkres-1.1.4-8.fc44 for rawhide
+Created task: 137261268
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261268
+Building python-munkres-1.1.4-8.fc43 for f43-candidate
+Created task: 137261271
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261271

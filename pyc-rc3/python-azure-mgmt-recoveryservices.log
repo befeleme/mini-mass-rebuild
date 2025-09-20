@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-recoveryservices'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5259339] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-recoveryservices-3.0.0-8.fc44 for rawhide
+Created task: 137256659
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256659
+Building python-azure-mgmt-recoveryservices-3.0.0-8.fc43 for f43-candidate
+Created task: 137256661
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256661

@@ -1,0 +1,10 @@
+Cloning into 'python-pymssql'...
+[rawhide bf84bdc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pymssql-2.3.2-7.fc44 for rawhide
+Created task: 137262507
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262507
+Building python-pymssql-2.3.2-7.fc43 for f43-candidate
+Created task: 137262511
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262511

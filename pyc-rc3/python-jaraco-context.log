@@ -1,0 +1,10 @@
+Cloning into 'python-jaraco-context'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 828a763] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jaraco-context-6.0.1-9.fc44 for rawhide
+Created task: 137260042
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260042
+Building python-jaraco-context-6.0.1-9.fc43 for f43-candidate
+Created task: 137260045
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260045

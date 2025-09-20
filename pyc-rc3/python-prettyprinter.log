@@ -1,0 +1,10 @@
+Cloning into 'python-prettyprinter'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e76543c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-prettyprinter-0.18.0-4.fc44 for rawhide
+Created task: 137262075
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262075
+Building python-prettyprinter-0.18.0-4.fc43 for f43-candidate
+Created task: 137262079
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262079

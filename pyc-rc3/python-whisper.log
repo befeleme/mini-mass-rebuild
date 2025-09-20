@@ -1,0 +1,10 @@
+Cloning into 'python-whisper'...
+[rawhide 7de5b81] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-whisper-1.1.10-11.fc44 for rawhide
+Created task: 137265628
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265628
+Building python-whisper-1.1.10-11.fc43 for f43-candidate
+Created task: 137265632
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265632

@@ -1,0 +1,10 @@
+Cloning into 'python-nashpy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 08c1a95] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-nashpy-0.0.41-10.fc44 for rawhide
+Created task: 137261310
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261310
+Building python-nashpy-0.0.41-10.fc43 for f43-candidate
+Created task: 137261313
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261313

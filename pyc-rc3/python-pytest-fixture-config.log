@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-fixture-config'...
+[rawhide e94b0aa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pytest-fixture-config-1.8.0-7.fc44 for rawhide
+Created task: 137263047
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263047
+Building python-pytest-fixture-config-1.8.0-7.fc43 for f43-candidate
+Created task: 137263051
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263051

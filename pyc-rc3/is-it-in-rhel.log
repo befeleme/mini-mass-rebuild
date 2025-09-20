@@ -1,0 +1,10 @@
+Cloning into 'is-it-in-rhel'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cc614c5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building is-it-in-rhel-1.0-26.fc44 for rawhide
+Created task: 137254422
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254422
+Building is-it-in-rhel-1.0-26.fc43 for f43-candidate
+Created task: 137254425
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254425

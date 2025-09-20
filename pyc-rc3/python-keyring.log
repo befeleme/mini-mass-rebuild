@@ -1,0 +1,10 @@
+Cloning into 'python-keyring'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a95c50b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-keyring-25.6.0-9.fc44 for rawhide
+Created task: 137260463
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260463
+Building python-keyring-25.6.0-9.fc43 for f43-candidate
+Created task: 137260468
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260468

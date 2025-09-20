@@ -1,0 +1,10 @@
+Cloning into 'wesnoth'...
+[rawhide bf31257] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building wesnoth-1.19.15-2.fc44 for rawhide
+Created task: 137266918
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266918
+Building wesnoth-1.19.15-2.fc43 for f43-candidate
+Created task: 137266920
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266920

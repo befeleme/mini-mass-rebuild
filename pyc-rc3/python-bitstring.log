@@ -1,0 +1,10 @@
+Cloning into 'python-bitstring'...
+[rawhide 1d37305] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-bitstring-4.1.4-10.fc44 for rawhide
+Created task: 137256999
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256999
+Building python-bitstring-4.1.4-10.fc43 for f43-candidate
+Created task: 137257014
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257014

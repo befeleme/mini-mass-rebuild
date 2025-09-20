@@ -1,0 +1,10 @@
+Cloning into 'python-orderly-set'...
+[rawhide ad87895] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-orderly-set-5.5.0-3.fc44 for rawhide
+Created task: 137261599
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261599
+Building python-orderly-set-5.5.0-3.fc43 for f43-candidate
+Created task: 137261603
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261603

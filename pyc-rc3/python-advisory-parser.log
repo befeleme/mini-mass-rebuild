@@ -1,0 +1,8 @@
+Cloning into 'python-advisory-parser'...
+python-advisory-parser f43 and rawhide branches differ
+[rawhide 7d5cc5a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-advisory-parser-1.12-4.fc44 for rawhide
+Created task: 137255923
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255923

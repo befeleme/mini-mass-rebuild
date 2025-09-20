@@ -1,0 +1,10 @@
+Cloning into 'libsmbios'...
+[rawhide 21d19db] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libsmbios-2.4.3-21.fc44 for rawhide
+Created task: 137254748
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254748
+Building libsmbios-2.4.3-21.fc43 for f43-candidate
+Created task: 137254757
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254757

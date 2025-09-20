@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-cognitiveservices'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 69c2250] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-cognitiveservices-13.5.0-10.fc44 for rawhide
+Created task: 137256496
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256496
+Building python-azure-mgmt-cognitiveservices-13.5.0-10.fc43 for f43-candidate
+Created task: 137256515
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256515

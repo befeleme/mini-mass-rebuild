@@ -1,0 +1,10 @@
+Cloning into 'python-lazr-restfulclient'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 23e7f60] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-lazr-restfulclient-0.14.6-12.fc44 for rawhide
+Created task: 137260550
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260550
+Building python-lazr-restfulclient-0.14.6-12.fc43 for f43-candidate
+Created task: 137260554
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260554

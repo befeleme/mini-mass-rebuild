@@ -1,0 +1,10 @@
+Cloning into 'python-requests-oauthlib'...
+[rawhide b0a3433] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-requests-oauthlib-1.3.1-15.fc44 for rawhide
+Created task: 137263570
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263570
+Building python-requests-oauthlib-1.3.1-15.fc43 for f43-candidate
+Created task: 137263573
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263573

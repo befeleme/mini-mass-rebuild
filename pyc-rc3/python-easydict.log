@@ -1,0 +1,10 @@
+Cloning into 'python-easydict'...
+[rawhide da7a4b2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-easydict-1.10-10.fc44 for rawhide
+Created task: 137258568
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258568
+Building python-easydict-1.10-10.fc43 for f43-candidate
+Created task: 137258572
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258572

@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-gallery'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 66dc06d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinx-gallery-0.19.0-6.fc44 for rawhide
+Created task: 137264343
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264343
+Building python-sphinx-gallery-0.19.0-6.fc43 for f43-candidate
+Created task: 137264349
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264349

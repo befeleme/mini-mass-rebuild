@@ -1,0 +1,8 @@
+Cloning into 'python-container-inspector'...
+python-container-inspector f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b02f56a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-container-inspector-33.0.1-6.fc44 for rawhide
+Created task: 137257744
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257744

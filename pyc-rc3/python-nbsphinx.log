@@ -1,0 +1,10 @@
+Cloning into 'python-nbsphinx'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 307cd01] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-nbsphinx-0.9.7-7.fc44 for rawhide
+Created task: 137261327
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261327
+Building python-nbsphinx-0.9.7-7.fc43 for f43-candidate
+Created task: 137261329
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261329

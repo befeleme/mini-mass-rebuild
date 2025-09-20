@@ -1,0 +1,10 @@
+Cloning into 'python-repoze-sphinx-autointerface'...
+[rawhide 26f06ca] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-repoze-sphinx-autointerface-1.0.0-11.fc44 for rawhide
+Created task: 137263480
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263480
+Building python-repoze-sphinx-autointerface-1.0.0-11.fc43 for f43-candidate
+Created task: 137263487
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263487

@@ -1,0 +1,10 @@
+Cloning into 'python-domdf-python-tools'...
+[rawhide 434132d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-domdf-python-tools-3.9.0-8.fc44 for rawhide
+Created task: 137258487
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258487
+Building python-domdf-python-tools-3.9.0-8.fc43 for f43-candidate
+Created task: 137258500
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258500

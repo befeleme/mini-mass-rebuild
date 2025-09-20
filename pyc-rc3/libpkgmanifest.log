@@ -1,0 +1,10 @@
+Cloning into 'libpkgmanifest'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 40914a1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building libpkgmanifest-0.5.9-5.fc44 for rawhide
+Created task: 137254690
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254690
+Building libpkgmanifest-0.5.9-5.fc43 for f43-candidate
+Created task: 137254698
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254698

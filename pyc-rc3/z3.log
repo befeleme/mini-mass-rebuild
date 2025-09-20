@@ -1,0 +1,10 @@
+Cloning into 'z3'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 437edef] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building z3-4.15.3-2.fc44 for rawhide
+Created task: 137266995
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266995
+Building z3-4.15.3-2.fc43 for f43-candidate
+Created task: 137267000
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137267000

@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-removed-in'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1eeeefd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinx-removed-in-0.2.3-9.fc44 for rawhide
+Created task: 137264382
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264382
+Building python-sphinx-removed-in-0.2.3-9.fc43 for f43-candidate
+Created task: 137264386
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264386

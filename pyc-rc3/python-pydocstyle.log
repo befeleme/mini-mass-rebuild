@@ -1,0 +1,10 @@
+Cloning into 'python-pydocstyle'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 30d41c9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pydocstyle-6.3.0-34.fc44 for rawhide
+Created task: 137262300
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262300
+Building python-pydocstyle-6.3.0-34.fc43 for f43-candidate
+Created task: 137262303
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262303

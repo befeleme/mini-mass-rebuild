@@ -1,0 +1,10 @@
+Cloning into 'python-tcxreader'...
+[rawhide 0249e5e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-tcxreader-0.4.11-5.fc44 for rawhide
+Created task: 137264664
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264664
+Building python-tcxreader-0.4.11-5.fc43 for f43-candidate
+Created task: 137264667
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264667

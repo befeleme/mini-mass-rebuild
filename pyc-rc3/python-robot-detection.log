@@ -1,0 +1,10 @@
+Cloning into 'python-robot-detection'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4b998ee] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-robot-detection-0.4-18.fc44 for rawhide
+Created task: 137263652
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263652
+Building python-robot-detection-0.4-18.fc43 for f43-candidate
+Created task: 137263654
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263654

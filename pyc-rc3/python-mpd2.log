@@ -1,0 +1,10 @@
+Cloning into 'python-mpd2'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a1ba881] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mpd2-3.1.1-6.fc44 for rawhide
+Created task: 137261194
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261194
+Building python-mpd2-3.1.1-6.fc43 for f43-candidate
+Created task: 137261195
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261195

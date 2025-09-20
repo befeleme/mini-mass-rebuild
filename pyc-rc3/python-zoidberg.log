@@ -1,0 +1,10 @@
+Cloning into 'python-zoidberg'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c1f3880] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zoidberg-0.2.1-7.fc44 for rawhide
+Created task: 137265958
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265958
+Building python-zoidberg-0.2.1-7.fc43 for f43-candidate
+Created task: 137265962
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265962

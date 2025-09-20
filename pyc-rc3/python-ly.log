@@ -1,0 +1,10 @@
+Cloning into 'python-ly'...
+[rawhide 0f9b02e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ly-0.9.9-6.fc44 for rawhide
+Created task: 137260824
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260824
+Building python-ly-0.9.9-6.fc43 for f43-candidate
+Created task: 137260826
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260826

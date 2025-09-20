@@ -1,0 +1,10 @@
+Cloning into 'python-packageurl-python'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 912e001] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-packageurl-python-0.17.5-2.fc44 for rawhide
+Created task: 137261678
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261678
+Building python-packageurl-python-0.17.5-2.fc43 for f43-candidate
+Created task: 137261680
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261680

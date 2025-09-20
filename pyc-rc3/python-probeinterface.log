@@ -1,0 +1,7 @@
+Cloning into 'python-probeinterface'...
+RPMAutoSpec usage detected, not changing the spec file.
+[f43 1952c0f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-probeinterface-0.2.28-5.fc43 for f43-candidate
+Created task: 137269127
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269127

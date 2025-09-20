@@ -1,0 +1,10 @@
+Cloning into 'python-ipfshttpclient'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 76a4cb5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ipfshttpclient-0.8.0-0.7.a2.fc44 for rawhide
+Created task: 137259936
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259936
+Building python-ipfshttpclient-0.8.0-0.7.a2.fc43 for f43-candidate
+Created task: 137259942
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259942

@@ -1,0 +1,8 @@
+Cloning into 'python-faker'...
+python-faker f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d2a807f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-faker-37.6.0-2.fc44 for rawhide
+Created task: 137258822
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258822

@@ -1,0 +1,10 @@
+Cloning into 'python-astdoc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 39f707f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-astdoc-1.3.0-4.fc44 for rawhide
+Created task: 137256255
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256255
+Building python-astdoc-1.3.0-4.fc43 for f43-candidate
+Created task: 137256260
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256260

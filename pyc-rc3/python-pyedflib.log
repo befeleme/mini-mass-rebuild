@@ -1,0 +1,8 @@
+Cloning into 'python-pyedflib'...
+python-pyedflib f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b95d90b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyedflib-0.1.42-5.fc44 for rawhide
+Created task: 137262278
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262278

@@ -1,0 +1,10 @@
+Cloning into 'python-fedora-image-uploader-messages'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cd4e82f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fedora-image-uploader-messages-1.2.0-5.fc44 for rawhide
+Created task: 137258913
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258913
+Building python-fedora-image-uploader-messages-1.2.0-5.fc43 for f43-candidate
+Created task: 137258916
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258916

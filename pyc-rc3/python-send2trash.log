@@ -1,0 +1,10 @@
+Cloning into 'python-send2trash'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 60109ed] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-send2trash-1.8.3-6.fc44 for rawhide
+Created task: 137263898
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263898
+Building python-send2trash-1.8.3-6.fc43 for f43-candidate
+Created task: 137263905
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263905

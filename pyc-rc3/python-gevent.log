@@ -1,0 +1,8 @@
+Cloning into 'python-gevent'...
+python-gevent f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cdda167] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-gevent-24.11.1-7.fc44 for rawhide
+Created task: 137259461
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259461

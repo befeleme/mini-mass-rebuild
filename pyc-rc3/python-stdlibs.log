@@ -1,0 +1,10 @@
+Cloning into 'python-stdlibs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 77af5c6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-stdlibs-2025.5.10-4.fc44 for rawhide
+Created task: 137264519
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264519
+Building python-stdlibs-2025.5.10-4.fc43 for f43-candidate
+Created task: 137264523
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264523

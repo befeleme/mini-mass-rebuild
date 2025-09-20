@@ -1,0 +1,10 @@
+Cloning into 'python-flufl-bounce'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fd1df7b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-flufl-bounce-4.0-10.fc44 for rawhide
+Created task: 137259227
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259227
+Building python-flufl-bounce-4.0-10.fc43 for f43-candidate
+Created task: 137259231
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259231

@@ -1,0 +1,8 @@
+Cloning into 'pgadmin4'...
+pgadmin4 f43 build complete but not tagged: pgadmin4-9.8-1.fc43
+[rawhide 80ecd4d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pgadmin4-9.8-2.fc44 for rawhide
+Created task: 137255411
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255411

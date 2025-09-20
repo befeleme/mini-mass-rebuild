@@ -1,0 +1,10 @@
+Cloning into 'python-prov'...
+[rawhide 6fbec73] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-prov-2.0.0-13.fc44 for rawhide
+Created task: 137262133
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262133
+Building python-prov-2.0.0-13.fc43 for f43-candidate
+Created task: 137262136
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262136

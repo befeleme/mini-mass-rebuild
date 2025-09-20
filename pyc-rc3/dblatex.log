@@ -1,0 +1,10 @@
+Cloning into 'dblatex'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2cd9021] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building dblatex-0.3.12-28.fc44 for rawhide
+Created task: 137253491
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253491
+Building dblatex-0.3.12-28.fc43 for f43-candidate
+Created task: 137253528
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253528

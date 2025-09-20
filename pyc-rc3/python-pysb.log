@@ -1,0 +1,10 @@
+Cloning into 'python-pysb'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f8e5385] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pysb-1.16.0-14.fc44 for rawhide
+Created task: 137262743
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262743
+Building python-pysb-1.16.0-14.fc43 for f43-candidate
+Created task: 137262757
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262757

@@ -1,0 +1,10 @@
+Cloning into 'python-rosdep'...
+[rawhide 5c7fde4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-rosdep-0.26.0-3.fc44 for rawhide
+Created task: 137263670
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263670
+Building python-rosdep-0.26.0-3.fc43 for f43-candidate
+Created task: 137263674
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263674

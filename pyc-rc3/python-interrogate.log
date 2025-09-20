@@ -1,0 +1,10 @@
+Cloning into 'python-interrogate'...
+[rawhide cddb333] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-interrogate-1.7.0-7.fc44 for rawhide
+Created task: 137259934
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259934
+Building python-interrogate-1.7.0-7.fc43 for f43-candidate
+Created task: 137259937
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259937

@@ -1,0 +1,10 @@
+Cloning into 'did'...
+[rawhide 605b3ec] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building did-0.22-5.fc44 for rawhide
+Created task: 137253585
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253585
+Building did-0.22-5.fc43 for f43-candidate
+Created task: 137253594
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253594

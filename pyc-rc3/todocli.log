@@ -1,0 +1,10 @@
+Cloning into 'todocli'...
+[rawhide 016660e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building todocli-0.1-38.20171025gitab9bbbd.fc44 for rawhide
+Created task: 137266676
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266676
+Building todocli-0.1-38.20171025gitab9bbbd.fc43 for f43-candidate
+Created task: 137266681
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266681

@@ -1,0 +1,8 @@
+Cloning into 'python-streamlink'...
+python-streamlink f43 and rawhide branches differ
+[rawhide 8794694] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-streamlink-7.5.0-5.fc44 for rawhide
+Created task: 137264535
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264535

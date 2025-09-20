@@ -1,0 +1,10 @@
+Cloning into 'python-eth-event'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3a01ca8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-eth-event-1.2.6-5.fc44 for rawhide
+Created task: 137258717
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258717
+Building python-eth-event-1.2.6-5.fc43 for f43-candidate
+Created task: 137258721
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258721

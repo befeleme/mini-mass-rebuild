@@ -1,0 +1,9 @@
+Cloning into 'qemu'...
+qemu f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c0bcac9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building qemu-10.1.0-9.fc44 for rawhide
+Created task: 137266046
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266046

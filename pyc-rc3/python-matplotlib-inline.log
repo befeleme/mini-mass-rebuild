@@ -1,0 +1,10 @@
+Cloning into 'python-matplotlib-inline'...
+[rawhide 689e928] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-matplotlib-inline-0.1.7-9.fc44 for rawhide
+Created task: 137260964
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260964
+Building python-matplotlib-inline-0.1.7-9.fc43 for f43-candidate
+Created task: 137260968
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260968

@@ -1,0 +1,10 @@
+Cloning into 'mysql-connector-python'...
+[rawhide b076e4e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building mysql-connector-python-8.0.33-7.fc44 for rawhide
+Created task: 137255074
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255074
+Building mysql-connector-python-8.0.33-7.fc43 for f43-candidate
+Created task: 137255079
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255079

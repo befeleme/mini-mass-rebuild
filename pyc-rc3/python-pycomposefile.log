@@ -1,0 +1,10 @@
+Cloning into 'python-pycomposefile'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ae9f2b1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pycomposefile-0.0.34-3.fc44 for rawhide
+Created task: 137262237
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262237
+Building python-pycomposefile-0.0.34-3.fc43 for f43-candidate
+Created task: 137262238
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262238

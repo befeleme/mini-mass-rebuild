@@ -1,0 +1,10 @@
+Cloning into 'python-pyls-spyder'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a158a43] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyls-spyder-0.4.0-20.fc44 for rawhide
+Created task: 137262469
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262469
+Building python-pyls-spyder-0.4.0-20.fc43 for f43-candidate
+Created task: 137262473
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262473

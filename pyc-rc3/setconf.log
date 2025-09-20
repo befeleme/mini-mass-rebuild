@@ -1,0 +1,10 @@
+Cloning into 'setconf'...
+[rawhide c0b0714] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building setconf-0.7.7-21.fc44 for rawhide
+Created task: 137266389
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266389
+Building setconf-0.7.7-21.fc43 for f43-candidate
+Created task: 137266397
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266397

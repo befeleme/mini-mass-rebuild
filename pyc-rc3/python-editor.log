@@ -1,0 +1,10 @@
+Cloning into 'python-editor'...
+[rawhide a13233f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-editor-1.0.4-26.fc44 for rawhide
+Created task: 137258615
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258615
+Building python-editor-1.0.4-26.fc43 for f43-candidate
+Created task: 137258618
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258618

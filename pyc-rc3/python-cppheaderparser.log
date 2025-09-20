@@ -1,0 +1,10 @@
+Cloning into 'python-cppheaderparser'...
+[rawhide 6d9c5cc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-cppheaderparser-2.7.4-21.fc44 for rawhide
+Created task: 137257822
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257822
+Building python-cppheaderparser-2.7.4-21.fc43 for f43-candidate
+Created task: 137257828
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257828

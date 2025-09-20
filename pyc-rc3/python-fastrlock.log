@@ -1,0 +1,10 @@
+Cloning into 'python-fastrlock'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 501dac9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fastrlock-0.8.3-9.fc44 for rawhide
+Created task: 137258910
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258910
+Building python-fastrlock-0.8.3-9.fc43 for f43-candidate
+Created task: 137258915
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258915

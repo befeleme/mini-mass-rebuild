@@ -1,0 +1,10 @@
+Cloning into 'python-flask-compress'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cccb4c8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-flask-compress-1.18-4.fc44 for rawhide
+Created task: 137259044
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259044
+Building python-flask-compress-1.18-4.fc43 for f43-candidate
+Created task: 137259047
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259047

@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-storage-plugin-webdav'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 50c93a9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-storage-plugin-webdav-0.1.2-5.fc44 for rawhide
+Created task: 137264168
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264168
+Building python-snakemake-storage-plugin-webdav-0.1.2-5.fc43 for f43-candidate
+Created task: 137264172
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264172

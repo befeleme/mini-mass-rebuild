@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-freezegun'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4766c6b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-freezegun-0.4.2-19.fc44 for rawhide
+Created task: 137263061
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263061
+Building python-pytest-freezegun-0.4.2-19.fc43 for f43-candidate
+Created task: 137263063
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263063

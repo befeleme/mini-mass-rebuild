@@ -1,0 +1,12 @@
+Cloning into 'file'...
+[rawhide 65ba3e2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+Building file-5.46-8.fc44 for rawhide
+Created task: 137253886
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253886
+Found a gating.yaml file in the repo and it is properly configured
+Building file-5.46-8.fc43 for f43-candidate
+Created task: 137253898
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253898

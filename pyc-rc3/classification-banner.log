@@ -1,0 +1,10 @@
+Cloning into 'classification-banner'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c74dd5c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building classification-banner-1.7.2-11.fc44 for rawhide
+Created task: 137253243
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253243
+Building classification-banner-1.7.2-11.fc43 for f43-candidate
+Created task: 137253252
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253252

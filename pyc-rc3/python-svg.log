@@ -1,0 +1,10 @@
+Cloning into 'python-svg'...
+[rawhide 3082fad] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-svg-0.2.2b-45.fc44 for rawhide
+Created task: 137264603
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264603
+Building python-svg-0.2.2b-45.fc43 for f43-candidate
+Created task: 137264607
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264607

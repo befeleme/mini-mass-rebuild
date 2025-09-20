@@ -1,0 +1,10 @@
+Cloning into 'python-damo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bc78f48] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-damo-2.9.4-2.fc44 for rawhide
+Created task: 137257997
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257997
+Building python-damo-2.9.4-2.fc43 for f43-candidate
+Created task: 137258002
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258002

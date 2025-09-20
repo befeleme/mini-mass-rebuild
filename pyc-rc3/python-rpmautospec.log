@@ -1,0 +1,8 @@
+Cloning into 'python-rpmautospec'...
+python-rpmautospec f43 build complete but not from the latest commit from distgit: python-rpmautospec-0.8.2-3.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 43df6cb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-rpmautospec-0.8.3-2.fc44 for rawhide
+Created task: 137263693
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263693

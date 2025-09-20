@@ -1,0 +1,10 @@
+Cloning into 'python-zhon'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d5b70a9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zhon-2.1.1-5.fc44 for rawhide
+Created task: 137265943
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265943
+Building python-zhon-2.1.1-5.fc43 for f43-candidate
+Created task: 137265947
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265947

@@ -1,0 +1,10 @@
+Cloning into 'python-scikit-learn'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5f2989f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-scikit-learn-1.7.1-3.fc44 for rawhide
+Created task: 137263829
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263829
+Building python-scikit-learn-1.7.1-3.fc43 for f43-candidate
+Created task: 137263837
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263837

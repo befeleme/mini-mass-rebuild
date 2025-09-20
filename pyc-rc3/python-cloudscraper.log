@@ -1,0 +1,10 @@
+Cloning into 'python-cloudscraper'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2a2c3aa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cloudscraper-1.2.62-14.fc44 for rawhide
+Created task: 137257404
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257404
+Building python-cloudscraper-1.2.62-14.fc43 for f43-candidate
+Created task: 137257408
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257408

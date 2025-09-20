@@ -1,0 +1,10 @@
+Cloning into 'python-parsley'...
+[rawhide 21e4c4a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-parsley-1.3-37.fc44 for rawhide
+Created task: 137261751
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261751
+Building python-parsley-1.3-37.fc43 for f43-candidate
+Created task: 137261754
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261754

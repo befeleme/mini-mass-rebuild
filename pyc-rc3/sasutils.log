@@ -1,0 +1,10 @@
+Cloning into 'sasutils'...
+[rawhide d02f04e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building sasutils-0.6.1-6.fc44 for rawhide
+Created task: 137266331
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266331
+Building sasutils-0.6.1-6.fc43 for f43-candidate
+Created task: 137266337
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266337

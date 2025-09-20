@@ -1,0 +1,10 @@
+Cloning into 'python-Mastodon'...
+[rawhide 556b398] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-Mastodon-2.1.3-2.fc44 for rawhide
+Created task: 137260947
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260947
+Building python-Mastodon-2.1.3-2.fc43 for f43-candidate
+Created task: 137260950
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260950

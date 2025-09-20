@@ -1,0 +1,10 @@
+Cloning into 'python-semantic_version'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 543011a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-semantic_version-2.10.0-22.fc44 for rawhide
+Created task: 137263882
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263882
+Building python-semantic_version-2.10.0-22.fc43 for f43-candidate
+Created task: 137263894
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263894

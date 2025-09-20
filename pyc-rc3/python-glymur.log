@@ -1,0 +1,10 @@
+Cloning into 'python-glymur'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 053ff3d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-glymur-0.14.3-4.fc44 for rawhide
+Created task: 137259543
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259543
+Building python-glymur-0.14.3-4.fc43 for f43-candidate
+Created task: 137259552
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259552

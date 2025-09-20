@@ -1,0 +1,10 @@
+Cloning into 'python-pem'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 19e583b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pem-23.1.0-12.fc44 for rawhide
+Created task: 137261896
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261896
+Building python-pem-23.1.0-12.fc43 for f43-candidate
+Created task: 137261903
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261903

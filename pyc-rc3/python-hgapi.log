@@ -1,0 +1,10 @@
+Cloning into 'python-hgapi'...
+[rawhide 10bb65d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-hgapi-1.7.4-32.fc44 for rawhide
+Created task: 137287020
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287020
+Building python-hgapi-1.7.4-32.fc43 for f43-candidate
+Created task: 137287034
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287034

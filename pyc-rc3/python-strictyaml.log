@@ -1,0 +1,10 @@
+Cloning into 'python-strictyaml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 69461b0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-strictyaml-1.7.3-15.fc44 for rawhide
+Created task: 137264565
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264565
+Building python-strictyaml-1.7.3-15.fc43 for f43-candidate
+Created task: 137264568
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264568

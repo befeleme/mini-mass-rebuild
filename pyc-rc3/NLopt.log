@@ -1,0 +1,22 @@
+Cloning into 'NLopt'...
+[rawhide 091f6dd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+sh: line 32: cd: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/NLopt/NLopt-2.10.0-build: No such file or directory
+sh: line 32: cd: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/NLopt/NLopt-2.10.0-build: No such file or directory
+Please specify at least one package name on the command line.
+sh: line 32: cd: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/NLopt/NLopt-2.10.0-build: No such file or directory
+Please specify at least one package name on the command line.
+
+Building NLopt-2.10.0-7.fc44 for rawhide
+Created task: 137255152
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255152
+sh: line 32: cd: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/NLopt/NLopt-2.10.0-build: No such file or directory
+sh: line 32: cd: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/NLopt/NLopt-2.10.0-build: No such file or directory
+Please specify at least one package name on the command line.
+sh: line 32: cd: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/NLopt/NLopt-2.10.0-build: No such file or directory
+Please specify at least one package name on the command line.
+
+Building NLopt-2.10.0-7.fc43 for f43-candidate
+Created task: 137255157
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255157

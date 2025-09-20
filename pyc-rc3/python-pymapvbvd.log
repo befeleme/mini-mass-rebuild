@@ -1,0 +1,10 @@
+Cloning into 'python-pymapvbvd'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f78cfa9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pymapvbvd-0.6.1-7.fc44 for rawhide
+Created task: 137262474
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262474
+Building python-pymapvbvd-0.6.1-7.fc43 for f43-candidate
+Created task: 137262476
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262476

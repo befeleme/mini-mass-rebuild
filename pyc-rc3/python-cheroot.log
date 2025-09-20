@@ -1,0 +1,10 @@
+Cloning into 'python-cheroot'...
+[rawhide e50a4df] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-cheroot-10.0.1-9.fc44 for rawhide
+Created task: 137257329
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257329
+Building python-cheroot-10.0.1-9.fc43 for f43-candidate
+Created task: 137257332
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257332

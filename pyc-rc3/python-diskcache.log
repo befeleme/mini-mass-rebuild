@@ -1,0 +1,10 @@
+Cloning into 'python-diskcache'...
+[rawhide 37b47f2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-diskcache-5.6.3-10.fc44 for rawhide
+Created task: 137258236
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258236
+Building python-diskcache-5.6.3-10.fc43 for f43-candidate
+Created task: 137258237
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258237

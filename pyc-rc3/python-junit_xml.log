@@ -1,0 +1,7 @@
+Cloning into 'python-junit_xml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[f43 6773d9c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-junit_xml-1.9^20200222gitba89b41-25.fc43 for f43-candidate
+Created task: 137269119
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269119

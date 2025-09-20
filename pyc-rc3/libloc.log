@@ -1,0 +1,12 @@
+Cloning into 'libloc'...
+[rawhide 45d385a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+Building libloc-0.9.18-6.fc44 for rawhide
+Created task: 137254660
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254660
+Found a gating.yaml file in the repo and it is properly configured
+Building libloc-0.9.18-6.fc43 for f43-candidate
+Created task: 137254662
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254662

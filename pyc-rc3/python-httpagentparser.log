@@ -1,0 +1,10 @@
+Cloning into 'python-httpagentparser'...
+[rawhide 5898f86] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-httpagentparser-1.9.5-13.fc44 for rawhide
+Created task: 137259728
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259728
+Building python-httpagentparser-1.9.5-13.fc43 for f43-candidate
+Created task: 137259733
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259733

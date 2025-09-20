@@ -1,0 +1,8 @@
+Cloning into 'rdma-core'...
+rdma-core f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide be88af9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building rdma-core-59.0-4.fc44 for rawhide
+Created task: 137266084
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266084

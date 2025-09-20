@@ -1,0 +1,10 @@
+Cloning into 'python-pint'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 62ba43a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pint-0.25-3.fc44 for rawhide
+Created task: 137261967
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261967
+Building python-pint-0.25-3.fc43 for f43-candidate
+Created task: 137261969
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261969

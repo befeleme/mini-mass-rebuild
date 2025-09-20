@@ -1,0 +1,10 @@
+Cloning into 'gns3-net-converter'...
+[rawhide 9747522] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gns3-net-converter-1.3.0-37.fc44 for rawhide
+Created task: 137254191
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254191
+Building gns3-net-converter-1.3.0-37.fc43 for f43-candidate
+Created task: 137254198
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254198

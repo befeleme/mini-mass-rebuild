@@ -1,0 +1,4 @@
+Cloning into 'python-pdm-pep517'...
+[rawhide 7ee4793] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)

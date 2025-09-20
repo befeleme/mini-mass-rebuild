@@ -1,0 +1,10 @@
+Cloning into 'python-huggingface-hub'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7fb9b5c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-huggingface-hub-0.30.2-5.fc44 for rawhide
+Created task: 137259757
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259757
+Building python-huggingface-hub-0.30.2-5.fc43 for f43-candidate
+Created task: 137259759
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259759

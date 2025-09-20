@@ -1,0 +1,10 @@
+Cloning into 'python-num2words'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3160a08] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-num2words-0.5.14-6.fc44 for rawhide
+Created task: 137261448
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261448
+Building python-num2words-0.5.14-6.fc43 for f43-candidate
+Created task: 137261450
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261450

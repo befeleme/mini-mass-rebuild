@@ -1,0 +1,10 @@
+Cloning into 'python-google-cloud-dns'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0a27c00] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-google-cloud-dns-0.34.2-11.fc44 for rawhide
+Created task: 137259575
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259575
+Building python-google-cloud-dns-0.34.2-11.fc43 for f43-candidate
+Created task: 137259578
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259578

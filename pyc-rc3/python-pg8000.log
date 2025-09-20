@@ -1,0 +1,8 @@
+Cloning into 'python-pg8000'...
+python-pg8000 f43 build complete but not tagged: python-pg8000-1.31.5-2.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7ac770f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pg8000-1.31.5-3.fc44 for rawhide
+Created task: 137261915
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261915

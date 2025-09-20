@@ -1,0 +1,10 @@
+Cloning into 'urlscan'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide da0196a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building urlscan-1.0.7-5.fc44 for rawhide
+Created task: 137266807
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266807
+Building urlscan-1.0.7-5.fc43 for f43-candidate
+Created task: 137266811
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266811

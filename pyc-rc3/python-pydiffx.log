@@ -1,0 +1,10 @@
+Cloning into 'python-pydiffx'...
+[rawhide c5a7a73] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pydiffx-1.1-14.fc44 for rawhide
+Created task: 137262285
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262285
+Building python-pydiffx-1.1-14.fc43 for f43-candidate
+Created task: 137262293
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262293

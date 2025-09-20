@@ -1,0 +1,10 @@
+Cloning into 'python-shortuuid'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ff46735] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-shortuuid-1.0.13-9.fc44 for rawhide
+Created task: 137263977
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263977
+Building python-shortuuid-1.0.13-9.fc43 for f43-candidate
+Created task: 137263983
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263983

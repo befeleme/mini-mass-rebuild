@@ -1,0 +1,10 @@
+Cloning into 'python-etcd3'...
+[rawhide 7df3a93] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-etcd3-0.12.0-20.fc44 for rawhide
+Created task: 137258694
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258694
+Building python-etcd3-0.12.0-20.fc43 for f43-candidate
+Created task: 137258697
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258697

@@ -1,0 +1,10 @@
+Cloning into 'python-openstep-plist'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7bb6e7d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-openstep-plist-0.5.0-9.fc44 for rawhide
+Created task: 137261563
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261563
+Building python-openstep-plist-0.5.0-9.fc43 for f43-candidate
+Created task: 137261566
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261566

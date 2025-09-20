@@ -1,0 +1,10 @@
+Cloning into 'dnf-plugin-perfmetrics'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ad1c920] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building dnf-plugin-perfmetrics-1.0-18.fc44 for rawhide
+Created task: 137253713
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253713
+Building dnf-plugin-perfmetrics-1.0-18.fc43 for f43-candidate
+Created task: 137253717
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253717

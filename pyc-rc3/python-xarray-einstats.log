@@ -1,0 +1,10 @@
+Cloning into 'python-xarray-einstats'...
+[rawhide ac7cda3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-xarray-einstats-0.5.1-8.fc44 for rawhide
+Created task: 137265725
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265725
+Building python-xarray-einstats-0.5.1-8.fc43 for f43-candidate
+Created task: 137265727
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265727

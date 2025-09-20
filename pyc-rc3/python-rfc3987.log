@@ -1,0 +1,10 @@
+Cloning into 'python-rfc3987'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cc2c3ee] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-rfc3987-1.3.8-22.fc44 for rawhide
+Created task: 137263632
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263632
+Building python-rfc3987-1.3.8-22.fc43 for f43-candidate
+Created task: 137263636
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263636

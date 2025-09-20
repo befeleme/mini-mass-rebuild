@@ -1,0 +1,10 @@
+Cloning into 'python-jinja2_pluralize'...
+[rawhide ab50448] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-jinja2_pluralize-0.3.0-40.fc44 for rawhide
+Created task: 137260122
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260122
+Building python-jinja2_pluralize-0.3.0-40.fc43 for f43-candidate
+Created task: 137260123
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260123

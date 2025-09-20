@@ -1,0 +1,10 @@
+Cloning into 'libunity'...
+[rawhide 0744d4b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libunity-7.1.4-43.20190319.fc44 for rawhide
+Created task: 137254777
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254777
+Building libunity-7.1.4-43.20190319.fc43 for f43-candidate
+Created task: 137254779
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254779

@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-billing'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1984113] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-billing-6.0.0-23.fc44 for rawhide
+Created task: 137256481
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256481
+Building python-azure-mgmt-billing-6.0.0-23.fc43 for f43-candidate
+Created task: 137256486
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256486

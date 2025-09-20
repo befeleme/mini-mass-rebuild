@@ -1,0 +1,10 @@
+Cloning into 'python-ftputil'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide eb6e22e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ftputil-5.1.0-12.fc44 for rawhide
+Created task: 137259339
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259339
+Building python-ftputil-5.1.0-12.fc43 for f43-candidate
+Created task: 137259344
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259344

@@ -1,0 +1,10 @@
+Cloning into 'python-imbalanced-learn'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5de8e05] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-imbalanced-learn-0.14.0-3.fc44 for rawhide
+Created task: 137259849
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259849
+Building python-imbalanced-learn-0.14.0-3.fc43 for f43-candidate
+Created task: 137259855
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259855

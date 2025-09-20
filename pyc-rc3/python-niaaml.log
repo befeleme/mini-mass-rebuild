@@ -1,0 +1,8 @@
+Cloning into 'python-niaaml'...
+python-niaaml f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 090622c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-niaaml-2.1.2-6.fc44 for rawhide
+Created task: 137261346
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261346

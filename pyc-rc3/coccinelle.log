@@ -1,0 +1,8 @@
+Cloning into 'coccinelle'...
+coccinelle f43 build complete but not tagged: coccinelle-1.3-11.fc43
+[rawhide ca23fd4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building coccinelle-1.3-12.fc44 for rawhide
+Created task: 137253246
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253246

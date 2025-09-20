@@ -1,0 +1,14 @@
+Cloning into 'notmuch'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 11f5ee8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: line 155: Possible unexpanded macro in: Requires:	emacs(bin) >= %{_emacs_version}
+
+Building notmuch-0.39-10.fc44 for rawhide
+Created task: 137255172
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255172
+warning: line 155: Possible unexpanded macro in: Requires:	emacs(bin) >= %{_emacs_version}
+
+Building notmuch-0.39-10.fc43 for f43-candidate
+Created task: 137255174
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255174

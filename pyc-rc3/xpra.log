@@ -1,0 +1,10 @@
+Cloning into 'xpra'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b98426a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building xpra-5.1.1-5.fc44 for rawhide
+Created task: 137266945
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266945
+Building xpra-5.1.1-5.fc43 for f43-candidate
+Created task: 137266948
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266948

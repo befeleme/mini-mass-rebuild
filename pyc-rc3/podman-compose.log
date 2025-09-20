@@ -1,0 +1,10 @@
+Cloning into 'podman-compose'...
+[rawhide b3831d7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building podman-compose-1.5.0-4.fc44 for rawhide
+Created task: 137255467
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255467
+Building podman-compose-1.5.0-4.fc43 for f43-candidate
+Created task: 137255476
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255476

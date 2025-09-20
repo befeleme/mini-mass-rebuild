@@ -1,0 +1,20 @@
+Cloning into 'python-envisage'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bee9d4d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: Macro expanded in comment on line 3: (c=%{commit}; echo ${c:0:7})
+
+warning: Macro expanded in comment on line 3: (c=%{commit}; echo ${c:0:7})
+
+
+Building python-envisage-7.0.4-4.fc44 for rawhide
+Created task: 137258666
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258666
+warning: Macro expanded in comment on line 3: (c=%{commit}; echo ${c:0:7})
+
+warning: Macro expanded in comment on line 3: (c=%{commit}; echo ${c:0:7})
+
+
+Building python-envisage-7.0.4-4.fc43 for f43-candidate
+Created task: 137258674
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258674

@@ -1,0 +1,10 @@
+Cloning into 'variety'...
+[rawhide 3c192d7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+Building variety-0.8.13-6.fc44 for rawhide
+Created task: 137266827
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266827
+Building variety-0.8.13-6.fc43 for f43-candidate
+Created task: 137266829
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266829

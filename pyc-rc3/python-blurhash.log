@@ -1,0 +1,10 @@
+Cloning into 'python-blurhash'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 217c746] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-blurhash-1.1.4-5.fc44 for rawhide
+Created task: 137257072
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257072
+Building python-blurhash-1.1.4-5.fc43 for f43-candidate
+Created task: 137257075
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257075

@@ -1,0 +1,10 @@
+Cloning into 'sentencepiece'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 82dfde3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building sentencepiece-0.2.0-8.fc44 for rawhide
+Created task: 137266375
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266375
+Building sentencepiece-0.2.0-8.fc43 for f43-candidate
+Created task: 137266385
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266385

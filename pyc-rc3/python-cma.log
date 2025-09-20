@@ -1,0 +1,8 @@
+Cloning into 'python-cma'...
+python-cma f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0f2388d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cma-4.3.0-2.fc44 for rawhide
+Created task: 137257395
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257395

@@ -1,0 +1,8 @@
+Cloning into 'rpkg'...
+rpkg f43 build complete but not tagged: rpkg-1.68-7.fc43
+[rawhide de4966d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building rpkg-1.68-8.fc44 for rawhide
+Created task: 137266213
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266213

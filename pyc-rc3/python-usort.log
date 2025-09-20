@@ -1,0 +1,10 @@
+Cloning into 'python-usort'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2c6a493] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-usort-1.0.8.post1-6.fc44 for rawhide
+Created task: 137265345
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265345
+Building python-usort-1.0.8.post1-6.fc43 for f43-candidate
+Created task: 137265350
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265350

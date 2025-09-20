@@ -1,0 +1,10 @@
+Cloning into 'dbus-python'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 536295f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building dbus-python-1.4.0-7.fc44 for rawhide
+Created task: 137253506
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253506
+Building dbus-python-1.4.0-7.fc43 for f43-candidate
+Created task: 137253518
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253518

@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-split'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2ea3f7a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-split-0.10.0-7.fc44 for rawhide
+Created task: 137263157
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263157
+Building python-pytest-split-0.10.0-7.fc43 for f43-candidate
+Created task: 137263163
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263163

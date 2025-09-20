@@ -1,0 +1,10 @@
+Cloning into 'python-archspec'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 84cdaaf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-archspec-0.2.5-8.fc44 for rawhide
+Created task: 137256183
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256183
+Building python-archspec-0.2.5-8.fc43 for f43-candidate
+Created task: 137256186
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256186

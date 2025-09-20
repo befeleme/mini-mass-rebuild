@@ -1,0 +1,10 @@
+Cloning into 'python-pyscaffold'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3f6683a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyscaffold-4.6-9.fc44 for rawhide
+Created task: 137262744
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262744
+Building python-pyscaffold-4.6-9.fc43 for f43-candidate
+Created task: 137262758
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262758

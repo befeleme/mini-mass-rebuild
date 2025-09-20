@@ -1,0 +1,10 @@
+Cloning into 'python-cloup'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 287bd04] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cloup-3.0.7-3.fc44_00 for rawhide
+Created task: 137257406
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257406
+Building python-cloup-3.0.7-3.fc43_00 for f43-candidate
+Created task: 137257409
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257409

@@ -1,0 +1,10 @@
+Cloning into 'antlr4-project'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 69340c2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building antlr4-project-4.13.2-9.fc44 for rawhide
+Created task: 137252766
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252766
+Building antlr4-project-4.13.2-9.fc43 for f43-candidate
+Created task: 137252772
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252772

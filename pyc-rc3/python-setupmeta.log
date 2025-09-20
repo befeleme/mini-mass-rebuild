@@ -1,0 +1,10 @@
+Cloning into 'python-setupmeta'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e6e15a9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-setupmeta-3.8.0-7.fc44 for rawhide
+Created task: 137263927
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263927
+Building python-setupmeta-3.8.0-7.fc43 for f43-candidate
+Created task: 137263931
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263931

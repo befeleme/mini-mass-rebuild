@@ -1,0 +1,10 @@
+Cloning into 'roca-detect'...
+[rawhide 51dbf9c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building roca-detect-1.2.12-33.fc44 for rawhide
+Created task: 137266210
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266210
+Building roca-detect-1.2.12-33.fc43 for f43-candidate
+Created task: 137266211
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266211

@@ -1,0 +1,9 @@
+Cloning into 'python-augeas'...
+python-augeas f43 build complete but not from the latest commit from distgit: python-augeas-1.2.0-5.fc43
+[rawhide 03e2979] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+Building python-augeas-1.2.0-6.fc44 for rawhide
+Created task: 137256326
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256326

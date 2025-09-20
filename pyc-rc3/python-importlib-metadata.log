@@ -1,0 +1,10 @@
+Cloning into 'python-importlib-metadata'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9651a3e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-importlib-metadata-8.7.0-5.fc44 for rawhide
+Created task: 137259879
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259879
+Building python-importlib-metadata-8.7.0-5.fc43 for f43-candidate
+Created task: 137259886
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259886

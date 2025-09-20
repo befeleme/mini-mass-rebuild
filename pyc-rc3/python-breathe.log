@@ -1,0 +1,10 @@
+Cloning into 'python-breathe'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 678a515] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-breathe-4.36.0-5.fc44 for rawhide
+Created task: 137257135
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257135
+Building python-breathe-4.36.0-5.fc43 for f43-candidate
+Created task: 137257140
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257140

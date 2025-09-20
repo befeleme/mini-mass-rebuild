@@ -1,0 +1,10 @@
+Cloning into 'auditwheel'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6fad7e0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building auditwheel-6.2.0-6.fc44 for rawhide
+Created task: 137252873
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252873
+Building auditwheel-6.2.0-6.fc43 for f43-candidate
+Created task: 137252881
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252881

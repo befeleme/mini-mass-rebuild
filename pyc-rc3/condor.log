@@ -1,0 +1,10 @@
+Cloning into 'condor'...
+[rawhide 70ea9ec] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building condor-23.9.6-11.fc44 for rawhide
+Created task: 137253311
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253311
+Building condor-23.9.6-11.fc43 for f43-candidate
+Created task: 137253329
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253329

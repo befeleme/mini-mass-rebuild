@@ -1,0 +1,10 @@
+Cloning into 'python-pam'...
+[rawhide e24eca5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pam-2.0.2-16.fc44 for rawhide
+Created task: 137261703
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261703
+Building python-pam-2.0.2-16.fc43 for f43-candidate
+Created task: 137261707
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261707

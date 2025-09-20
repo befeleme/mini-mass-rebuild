@@ -1,0 +1,10 @@
+Cloning into 'txt2tags'...
+[rawhide 9c6d0bc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building txt2tags-3.3-23.fc44 for rawhide
+Created task: 137266909
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266909
+Building txt2tags-3.3-23.fc43 for f43-candidate
+Created task: 137266911
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266911

@@ -1,0 +1,8 @@
+Cloning into 'python-boto3'...
+python-boto3 f43 and rawhide branches differ
+[rawhide b497a83] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-boto3-1.40.34-2.fc44 for rawhide
+Created task: 137257085
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257085

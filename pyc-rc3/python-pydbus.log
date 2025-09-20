@@ -1,0 +1,10 @@
+Cloning into 'python-pydbus'...
+[rawhide 92daf41] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pydbus-0.6.0-33.fc44 for rawhide
+Created task: 137262267
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262267
+Building python-pydbus-0.6.0-33.fc43 for f43-candidate
+Created task: 137262275
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262275

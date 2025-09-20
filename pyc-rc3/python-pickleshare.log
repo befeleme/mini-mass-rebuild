@@ -1,0 +1,10 @@
+Cloning into 'python-pickleshare'...
+[rawhide df86462] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pickleshare-0.7.5-23.fc44 for rawhide
+Created task: 137261942
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261942
+Building python-pickleshare-0.7.5-23.fc43 for f43-candidate
+Created task: 137261945
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261945

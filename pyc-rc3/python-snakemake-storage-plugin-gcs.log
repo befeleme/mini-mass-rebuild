@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-storage-plugin-gcs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a8fc687] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-storage-plugin-gcs-1.1.4-5.fc44 for rawhide
+Created task: 137264144
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264144
+Building python-snakemake-storage-plugin-gcs-1.1.4-5.fc43 for f43-candidate
+Created task: 137264147
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264147

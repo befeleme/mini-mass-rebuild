@@ -1,0 +1,10 @@
+Cloning into 'python-repoze-lru'...
+[rawhide 80e6ca5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-repoze-lru-0.7-29.fc44 for rawhide
+Created task: 137263474
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263474
+Building python-repoze-lru-0.7-29.fc43 for f43-candidate
+Created task: 137263479
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263479

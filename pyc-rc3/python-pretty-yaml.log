@@ -1,0 +1,10 @@
+Cloning into 'python-pretty-yaml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bd9076f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pretty-yaml-25.5.0-5.fc44 for rawhide
+Created task: 137262092
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262092
+Building python-pretty-yaml-25.5.0-5.fc43 for f43-candidate
+Created task: 137262097
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262097

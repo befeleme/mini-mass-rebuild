@@ -1,0 +1,10 @@
+Cloning into 'python-unix-ar'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9824983] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-unix-ar-0.2.1-8.fc44 for rawhide
+Created task: 137265273
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265273
+Building python-unix-ar-0.2.1-8.fc43 for f43-candidate
+Created task: 137265279
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265279

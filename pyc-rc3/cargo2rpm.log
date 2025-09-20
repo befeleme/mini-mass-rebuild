@@ -1,0 +1,10 @@
+Cloning into 'cargo2rpm'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e1b7981] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building cargo2rpm-0.1.18-6.fc44 for rawhide
+Created task: 137253117
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253117
+Building cargo2rpm-0.1.18-6.fc43 for f43-candidate
+Created task: 137253122
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253122

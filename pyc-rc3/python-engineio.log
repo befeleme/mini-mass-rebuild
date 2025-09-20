@@ -1,0 +1,10 @@
+Cloning into 'python-engineio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3d2cc2f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-engineio-4.12.2-4.fc44 for rawhide
+Created task: 137258650
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258650
+Building python-engineio-4.12.2-4.fc43 for f43-candidate
+Created task: 137258655
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258655

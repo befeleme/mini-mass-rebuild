@@ -1,0 +1,10 @@
+Cloning into 'python-mock-ssh-server'...
+[rawhide 6eb6dbc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-mock-ssh-server-0.8.2-19.fc44 for rawhide
+Created task: 137261150
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261150
+Building python-mock-ssh-server-0.8.2-19.fc43 for f43-candidate
+Created task: 137261151
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261151

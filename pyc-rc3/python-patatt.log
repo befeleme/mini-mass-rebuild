@@ -1,0 +1,10 @@
+Cloning into 'python-patatt'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide afe72dc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-patatt-0.6.3-12.fc44 for rawhide
+Created task: 137261777
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261777
+Building python-patatt-0.6.3-12.fc43 for f43-candidate
+Created task: 137261784
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261784

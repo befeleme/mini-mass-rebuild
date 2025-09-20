@@ -1,0 +1,8 @@
+Cloning into 'amdsmi'...
+amdsmi f43 and rawhide branches differ
+[rawhide 05340f3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building amdsmi-7.0.0-2.fc44 for rawhide
+Created task: 137252718
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252718

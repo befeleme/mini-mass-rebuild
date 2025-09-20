@@ -1,0 +1,10 @@
+Cloning into 'python-django-macros'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide db5dde1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-django-macros-0.4.0-37.fc44 for rawhide
+Created task: 137258323
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258323
+Building python-django-macros-0.4.0-37.fc43 for f43-candidate
+Created task: 137258327
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258327

@@ -1,0 +1,10 @@
+Cloning into 'python-applicationinsights'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide befa678] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-applicationinsights-0.11.9-20.fc44 for rawhide
+Created task: 137256147
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256147
+Building python-applicationinsights-0.11.9-20.fc43 for f43-candidate
+Created task: 137256158
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256158

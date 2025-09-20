@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-monitor'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4634484] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-monitor-7.0.0~b1-4.fc44 for rawhide
+Created task: 137256625
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256625
+Building python-azure-mgmt-monitor-7.0.0~b1-4.fc43 for f43-candidate
+Created task: 137256628
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256628

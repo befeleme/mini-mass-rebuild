@@ -1,0 +1,10 @@
+Cloning into 'python-rfc3986-validator'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0003e9f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-rfc3986-validator-0.1.1-22.fc44 for rawhide
+Created task: 137263631
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263631
+Building python-rfc3986-validator-0.1.1-22.fc43 for f43-candidate
+Created task: 137263633
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263633

@@ -1,0 +1,10 @@
+Cloning into 'python-h5netcdf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 58420a4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-h5netcdf-1.6.4-2.fc44 for rawhide
+Created task: 137259644
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259644
+Building python-h5netcdf-1.6.4-2.fc43 for f43-candidate
+Created task: 137259648
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259648

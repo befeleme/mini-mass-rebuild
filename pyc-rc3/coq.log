@@ -1,0 +1,10 @@
+Cloning into 'coq'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d1626a3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building coq-8.20.1-5.fc44 for rawhide
+Created task: 137253412
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253412
+Building coq-8.20.1-5.fc43 for f43-candidate
+Created task: 137253421
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253421

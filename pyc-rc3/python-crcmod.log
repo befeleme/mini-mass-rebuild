@@ -1,0 +1,10 @@
+Cloning into 'python-crcmod'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide dc3f37a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-crcmod-1.7-19.fc44 for rawhide
+Created task: 137257867
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257867
+Building python-crcmod-1.7-19.fc43 for f43-candidate
+Created task: 137257871
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257871

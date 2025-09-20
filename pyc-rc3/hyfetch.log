@@ -1,0 +1,10 @@
+Cloning into 'hyfetch'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3f5b50f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building hyfetch-1.99.0-6.fc44 for rawhide
+Created task: 137254348
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254348
+Building hyfetch-1.99.0-6.fc43 for f43-candidate
+Created task: 137254356
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254356

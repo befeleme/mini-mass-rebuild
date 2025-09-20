@@ -1,0 +1,10 @@
+Cloning into 'python-ipykernel'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c9a5124] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ipykernel-6.29.3-16.fc44 for rawhide
+Created task: 137259960
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259960
+Building python-ipykernel-6.29.3-16.fc43 for f43-candidate
+Created task: 137259963
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259963

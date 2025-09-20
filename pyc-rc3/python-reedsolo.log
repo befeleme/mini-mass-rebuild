@@ -1,0 +1,10 @@
+Cloning into 'python-reedsolo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5372b37] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-reedsolo-1.7.0-14.fc44 for rawhide
+Created task: 137263434
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263434
+Building python-reedsolo-1.7.0-14.fc43 for f43-candidate
+Created task: 137263447
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263447

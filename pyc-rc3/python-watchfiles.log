@@ -1,0 +1,10 @@
+Cloning into 'python-watchfiles'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 20d9b2e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-watchfiles-1.1.0-4.fc44 for rawhide
+Created task: 137265536
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265536
+Building python-watchfiles-1.1.0-4.fc43 for f43-candidate
+Created task: 137265540
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265540

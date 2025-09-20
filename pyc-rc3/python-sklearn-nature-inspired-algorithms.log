@@ -1,0 +1,10 @@
+Cloning into 'python-sklearn-nature-inspired-algorithms'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 61e9f36] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sklearn-nature-inspired-algorithms-0.12.0-22.fc44 for rawhide
+Created task: 137264050
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264050
+Building python-sklearn-nature-inspired-algorithms-0.12.0-22.fc43 for f43-candidate
+Created task: 137264053
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264053

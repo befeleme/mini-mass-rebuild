@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-press-theme'...
+[rawhide e80ba85] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sphinx-press-theme-0.5.1-25.fc44 for rawhide
+Created task: 137264376
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264376
+Building python-sphinx-press-theme-0.5.1-25.fc43 for f43-candidate
+Created task: 137264381
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264381

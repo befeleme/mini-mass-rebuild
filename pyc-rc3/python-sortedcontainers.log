@@ -1,0 +1,8 @@
+Cloning into 'python-sortedcontainers'...
+python-sortedcontainers f43 and rawhide branches differ
+[rawhide 4075f34] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sortedcontainers-2.4.0-25.fc44 for rawhide
+Created task: 137264191
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264191

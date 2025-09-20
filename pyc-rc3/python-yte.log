@@ -1,0 +1,10 @@
+Cloning into 'python-yte'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 46ab533] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-yte-1.9.0-6.fc44 for rawhide
+Created task: 137265934
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265934
+Building python-yte-1.9.0-6.fc43 for f43-candidate
+Created task: 137265942
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265942

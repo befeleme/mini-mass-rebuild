@@ -1,0 +1,10 @@
+Cloning into 'python-base58'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e198d02] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-base58-2.1.1-8.fc44 for rawhide
+Created task: 137256874
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256874
+Building python-base58-2.1.1-8.fc43 for f43-candidate
+Created task: 137256878
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256878

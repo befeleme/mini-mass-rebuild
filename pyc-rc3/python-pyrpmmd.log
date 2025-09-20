@@ -1,0 +1,10 @@
+Cloning into 'python-pyrpmmd'...
+[rawhide 8e8164a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pyrpmmd-0.1.1-32.fc44 for rawhide
+Created task: 137262663
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262663
+Building python-pyrpmmd-0.1.1-32.fc43 for f43-candidate
+Created task: 137262690
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262690

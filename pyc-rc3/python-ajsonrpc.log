@@ -1,0 +1,10 @@
+Cloning into 'python-ajsonrpc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e82e685] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ajsonrpc-1.2.0-16.fc44 for rawhide
+Created task: 137256049
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256049
+Building python-ajsonrpc-1.2.0-16.fc43 for f43-candidate
+Created task: 137256050
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256050

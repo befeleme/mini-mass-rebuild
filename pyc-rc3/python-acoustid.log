@@ -1,0 +1,10 @@
+Cloning into 'python-acoustid'...
+[rawhide c696197] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-acoustid-1.3.0-11.fc44 for rawhide
+Created task: 137255916
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255916
+Building python-acoustid-1.3.0-11.fc43 for f43-candidate
+Created task: 137255920
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255920

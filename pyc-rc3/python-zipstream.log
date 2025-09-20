@@ -1,0 +1,10 @@
+Cloning into 'python-zipstream'...
+[rawhide f1a4b9f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-zipstream-1.1.4-39.fc44 for rawhide
+Created task: 137265940
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265940
+Building python-zipstream-1.1.4-39.fc43 for f43-candidate
+Created task: 137265946
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265946

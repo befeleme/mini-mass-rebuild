@@ -1,0 +1,10 @@
+Cloning into 'python-mkdocs-rss-plugin'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b958cec] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mkdocs-rss-plugin-1.17.3-4.fc44 for rawhide
+Created task: 137261134
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261134
+Building python-mkdocs-rss-plugin-1.17.3-4.fc43 for f43-candidate
+Created task: 137261136
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261136

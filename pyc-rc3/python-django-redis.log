@@ -1,0 +1,10 @@
+Cloning into 'python-django-redis'...
+[rawhide 2f3813b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-django-redis-4.5.0-31.fc44 for rawhide
+Created task: 137258377
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258377
+Building python-django-redis-4.5.0-31.fc43 for f43-candidate
+Created task: 137258379
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258379

@@ -1,0 +1,10 @@
+Cloning into 'python-inject'...
+[rawhide f52d5fb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-inject-5.2.1-10.fc44 for rawhide
+Created task: 137259907
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259907
+Building python-inject-5.2.1-10.fc43 for f43-candidate
+Created task: 137259909
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259909

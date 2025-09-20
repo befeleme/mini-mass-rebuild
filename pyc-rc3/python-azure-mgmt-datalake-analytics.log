@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-datalake-analytics'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 76b125d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-datalake-analytics-0.2.1-27.fc44 for rawhide
+Created task: 137256546
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256546
+Building python-azure-mgmt-datalake-analytics-0.2.1-27.fc43 for f43-candidate
+Created task: 137256547
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256547

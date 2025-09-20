@@ -1,0 +1,10 @@
+Cloning into 'pdfarranger'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0358836] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pdfarranger-1.12.0-10.fc44 for rawhide
+Created task: 137255400
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255400
+Building pdfarranger-1.12.0-10.fc43 for f43-candidate
+Created task: 137255402
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255402

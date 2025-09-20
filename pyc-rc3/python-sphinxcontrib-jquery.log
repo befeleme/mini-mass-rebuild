@@ -1,0 +1,10 @@
+Cloning into 'python-sphinxcontrib-jquery'...
+[rawhide d1d7eac] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sphinxcontrib-jquery-4.1-14.fc44 for rawhide
+Created task: 137264283
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264283
+Building python-sphinxcontrib-jquery-4.1-14.fc43 for f43-candidate
+Created task: 137264285
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264285

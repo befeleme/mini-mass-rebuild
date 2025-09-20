@@ -1,0 +1,10 @@
+Cloning into 'python-buildman'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cea8b09] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-buildman-0.0.6-6.fc44 for rawhide
+Created task: 137257182
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257182
+Building python-buildman-0.0.6-6.fc43 for f43-candidate
+Created task: 137257185
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257185

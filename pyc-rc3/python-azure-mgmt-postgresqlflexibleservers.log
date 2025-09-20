@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-postgresqlflexibleservers'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 283c26a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-postgresqlflexibleservers-1.1.0~b2-5.fc44 for rawhide
+Created task: 137256641
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256641
+Building python-azure-mgmt-postgresqlflexibleservers-1.1.0~b2-5.fc43 for f43-candidate
+Created task: 137256647
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256647

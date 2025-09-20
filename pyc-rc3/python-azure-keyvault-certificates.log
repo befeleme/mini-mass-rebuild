@@ -1,0 +1,10 @@
+Cloning into 'python-azure-keyvault-certificates'...
+[rawhide a11243a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-azure-keyvault-certificates-4.7.0-12.fc44 for rawhide
+Created task: 137256431
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256431
+Building python-azure-keyvault-certificates-4.7.0-12.fc43 for f43-candidate
+Created task: 137256435
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256435

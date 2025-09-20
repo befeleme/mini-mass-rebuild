@@ -1,0 +1,10 @@
+Cloning into 'python-mkdocs-get-deps'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0d7ff71] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mkdocs-get-deps-0.2.0-8.fc44 for rawhide
+Created task: 137261094
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261094
+Building python-mkdocs-get-deps-0.2.0-8.fc43 for f43-candidate
+Created task: 137261099
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261099

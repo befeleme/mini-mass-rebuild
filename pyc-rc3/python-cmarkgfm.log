@@ -1,0 +1,10 @@
+Cloning into 'python-cmarkgfm'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cc64c3a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cmarkgfm-2024.11.20-6.fc44 for rawhide
+Created task: 137257423
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257423
+Building python-cmarkgfm-2024.11.20-6.fc43 for f43-candidate
+Created task: 137257431
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257431

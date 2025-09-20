@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-param-files'...
+[rawhide b1b8ab5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pytest-param-files-0.6.0-7.fc44 for rawhide
+Created task: 137263118
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263118
+Building python-pytest-param-files-0.6.0-7.fc43 for f43-candidate
+Created task: 137263121
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263121

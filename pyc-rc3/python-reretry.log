@@ -1,0 +1,10 @@
+Cloning into 'python-reretry'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5813a25] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-reretry-0.11.8-17.fc44 for rawhide
+Created task: 137263597
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263597
+Building python-reretry-0.11.8-17.fc43 for f43-candidate
+Created task: 137263600
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263600

@@ -1,0 +1,10 @@
+Cloning into 'python-resolvelib'...
+[rawhide d44f8a9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-resolvelib-1.0.1-11.fc44 for rawhide
+Created task: 137263593
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263593
+Building python-resolvelib-1.0.1-11.fc43 for f43-candidate
+Created task: 137263596
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263596

@@ -1,0 +1,10 @@
+Cloning into 'python-uritools'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide dbf5f54] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-uritools-4.0.3-7.fc44 for rawhide
+Created task: 137265288
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265288
+Building python-uritools-4.0.3-7.fc43 for f43-candidate
+Created task: 137265294
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265294

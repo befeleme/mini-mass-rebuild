@@ -1,0 +1,10 @@
+Cloning into 'python-tox-uv'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5089cb5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tox-uv-1.28.0-2.fc44 for rawhide
+Created task: 137265075
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265075
+Building python-tox-uv-1.28.0-2.fc43 for f43-candidate
+Created task: 137265079
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265079

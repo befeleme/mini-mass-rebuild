@@ -1,0 +1,10 @@
+Cloning into 'pybind11'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bda5ad6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pybind11-2.13.6-10.fc44 for rawhide
+Created task: 137255589
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255589
+Building pybind11-2.13.6-10.fc43 for f43-candidate
+Created task: 137255600
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255600

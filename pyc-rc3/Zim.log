@@ -1,0 +1,10 @@
+Cloning into 'Zim'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d3e7001] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building Zim-0.76.3-8.fc44 for rawhide
+Created task: 137266997
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266997
+Building Zim-0.76.3-8.fc43 for f43-candidate
+Created task: 137267002
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137267002

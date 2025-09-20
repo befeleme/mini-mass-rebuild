@@ -1,0 +1,10 @@
+Cloning into 'python-mirakuru'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5ee3f6b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mirakuru-2.6.0-5.fc44 for rawhide
+Created task: 137261068
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261068
+Building python-mirakuru-2.6.0-5.fc43 for f43-candidate
+Created task: 137261070
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261070

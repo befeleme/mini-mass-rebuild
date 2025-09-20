@@ -1,0 +1,10 @@
+Cloning into 'openssh-ldap-authkeys'...
+[rawhide 28dcaf6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building openssh-ldap-authkeys-0.2.0^git20230224.62ece4b-12.fc44 for rawhide
+Created task: 137255313
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255313
+Building openssh-ldap-authkeys-0.2.0^git20230224.62ece4b-12.fc43 for f43-candidate
+Created task: 137255319
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255319

@@ -1,0 +1,10 @@
+Cloning into 'gimp'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5277808] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building gimp-3.0.4-8.fc44 for rawhide
+Created task: 137254085
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254085
+Building gimp-3.0.4-8.fc43 for f43-candidate
+Created task: 137254087
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254087

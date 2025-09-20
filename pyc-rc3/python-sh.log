@@ -1,0 +1,10 @@
+Cloning into 'python-sh'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4cc867a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sh-2.2.2-3.fc44 for rawhide
+Created task: 137263956
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263956
+Building python-sh-2.2.2-3.fc43 for f43-candidate
+Created task: 137263961
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263961

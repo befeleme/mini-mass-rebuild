@@ -1,0 +1,12 @@
+Cloning into 'ansible-core'...
+[rawhide 8919faa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+Building ansible-core-2.18.7-4.fc44 for rawhide
+Created task: 137252747
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252747
+Found a gating.yaml file in the repo and it is properly configured
+Building ansible-core-2.18.7-4.fc43 for f43-candidate
+Created task: 137252761
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252761

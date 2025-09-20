@@ -1,0 +1,10 @@
+Cloning into 'fedora-review'...
+[rawhide fc4138b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building fedora-review-0.10.0-17.fc44 for rawhide
+Created task: 137253889
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253889
+Building fedora-review-0.10.0-17.fc43 for f43-candidate
+Created task: 137253893
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253893

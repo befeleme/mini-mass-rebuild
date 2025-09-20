@@ -1,0 +1,10 @@
+Cloning into 'openvswitch'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 87a6bed] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building openvswitch-3.6.0-2.fc44 for rawhide
+Created task: 137255326
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255326
+Building openvswitch-3.6.0-2.fc43 for f43-candidate
+Created task: 137255330
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255330

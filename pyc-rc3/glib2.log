@@ -1,0 +1,10 @@
+Cloning into 'glib2'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 313ba63] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building glib2-2.86.0-2.fc44 for rawhide
+Created task: 137254149
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254149
+Building glib2-2.86.0-2.fc43 for f43-candidate
+Created task: 137254154
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254154

@@ -1,0 +1,10 @@
+Cloning into 'python-hatch-nodejs-version'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 759f93b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-hatch-nodejs-version-0.3.2-6.fc44 for rawhide
+Created task: 137259667
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259667
+Building python-hatch-nodejs-version-0.3.2-6.fc43 for f43-candidate
+Created task: 137259672
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259672

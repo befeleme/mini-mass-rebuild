@@ -1,0 +1,10 @@
+Cloning into 'python-cogapp'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 56d211b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cogapp-3.3.0-12.fc44 for rawhide
+Created task: 137257449
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257449
+Building python-cogapp-3.3.0-12.fc43 for f43-candidate
+Created task: 137257454
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257454

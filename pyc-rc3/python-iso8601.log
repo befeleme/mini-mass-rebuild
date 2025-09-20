@@ -1,0 +1,10 @@
+Cloning into 'python-iso8601'...
+[rawhide 68799f5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-iso8601-2.1.0-7.fc44 for rawhide
+Created task: 137259985
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259985
+Building python-iso8601-2.1.0-7.fc43 for f43-candidate
+Created task: 137259995
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259995

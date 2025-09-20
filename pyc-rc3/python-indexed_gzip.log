@@ -1,0 +1,10 @@
+Cloning into 'python-indexed_gzip'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3cb4943] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-indexed_gzip-1.10.1-4.fc44 for rawhide
+Created task: 137259884
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259884
+Building python-indexed_gzip-1.10.1-4.fc43 for f43-candidate
+Created task: 137259888
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259888

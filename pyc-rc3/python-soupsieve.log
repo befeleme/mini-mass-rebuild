@@ -1,0 +1,10 @@
+Cloning into 'python-soupsieve'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4caa10d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-soupsieve-2.8-2.fc44 for rawhide
+Created task: 137264209
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264209
+Building python-soupsieve-2.8-2.fc43 for f43-candidate
+Created task: 137264211
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264211

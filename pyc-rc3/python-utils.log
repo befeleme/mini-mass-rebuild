@@ -1,0 +1,8 @@
+Cloning into 'python-utils'...
+python-utils f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3ac6ea8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-utils-3.9.1-2.fc44 for rawhide
+Created task: 137265336
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265336

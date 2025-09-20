@@ -1,0 +1,10 @@
+Cloning into 'python-asteval'...
+[rawhide dcd9202] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-asteval-1.0.6-4.fc44 for rawhide
+Created task: 137256248
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256248
+Building python-asteval-1.0.6-4.fc43 for f43-candidate
+Created task: 137256258
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256258

@@ -1,0 +1,10 @@
+Cloning into 'NiaAML-GUI'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bbf872a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building NiaAML-GUI-0.4.3-3.fc44 for rawhide
+Created task: 137255145
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255145
+Building NiaAML-GUI-0.4.3-3.fc43 for f43-candidate
+Created task: 137255148
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255148

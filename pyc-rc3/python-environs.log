@@ -1,0 +1,10 @@
+Cloning into 'python-environs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 93bf141] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-environs-14.3.0-3.fc44 for rawhide
+Created task: 137258662
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258662
+Building python-environs-14.3.0-3.fc43 for f43-candidate
+Created task: 137258669
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258669

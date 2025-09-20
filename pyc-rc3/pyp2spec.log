@@ -1,0 +1,10 @@
+Cloning into 'pyp2spec'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6a132ce] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pyp2spec-0.13.0-3.fc44 for rawhide
+Created task: 137255769
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255769
+Building pyp2spec-0.13.0-3.fc43 for f43-candidate
+Created task: 137255774
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255774

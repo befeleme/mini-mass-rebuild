@@ -1,0 +1,10 @@
+Cloning into 'pymilia'...
+[rawhide 59a4819] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pymilia-1.0.0-51.fc44 for rawhide
+Created task: 137255734
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255734
+Building pymilia-1.0.0-51.fc43 for f43-candidate
+Created task: 137255737
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255737

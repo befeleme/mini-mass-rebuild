@@ -1,0 +1,10 @@
+Cloning into 'python-pid'...
+[rawhide 71778a3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pid-3.0.4-4.fc44 for rawhide
+Created task: 137261947
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261947
+Building python-pid-3.0.4-4.fc43 for f43-candidate
+Created task: 137261949
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261949

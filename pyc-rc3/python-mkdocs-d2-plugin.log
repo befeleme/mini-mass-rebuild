@@ -1,0 +1,10 @@
+Cloning into 'python-mkdocs-d2-plugin'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1d9e8d8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mkdocs-d2-plugin-1.6.0-5.fc44 for rawhide
+Created task: 137261091
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261091
+Building python-mkdocs-d2-plugin-1.6.0-5.fc43 for f43-candidate
+Created task: 137261096
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261096

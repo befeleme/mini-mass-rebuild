@@ -1,0 +1,10 @@
+Cloning into 'ProDy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4099921] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building ProDy-2.4.1-17.fc44 for rawhide
+Created task: 137255527
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255527
+Building ProDy-2.4.1-17.fc43 for f43-candidate
+Created task: 137255542
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255542

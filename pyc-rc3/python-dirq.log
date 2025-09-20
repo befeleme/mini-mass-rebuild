@@ -1,0 +1,10 @@
+Cloning into 'python-dirq'...
+[rawhide 3cec3f4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-dirq-1.8-19.fc44 for rawhide
+Created task: 137258229
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258229
+Building python-dirq-1.8-19.fc43 for f43-candidate
+Created task: 137258231
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258231

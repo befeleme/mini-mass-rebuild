@@ -1,0 +1,10 @@
+Cloning into 'python-marathon'...
+[rawhide 1cecd2c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-marathon-0.13.0-14.fc44 for rawhide
+Created task: 137260902
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260902
+Building python-marathon-0.13.0-14.fc43 for f43-candidate
+Created task: 137260906
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260906

@@ -1,0 +1,7 @@
+Cloning into 'python-openid-teams'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 05e7be0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-openid-teams-1.1-49.fc44 for rawhide
+Created task: 137252676
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252676

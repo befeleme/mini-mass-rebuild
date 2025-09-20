@@ -1,0 +1,10 @@
+Cloning into 'python-bibtexparser'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 13b14f7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-bibtexparser-1.4.3-7.fc44 for rawhide
+Created task: 137256954
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256954
+Building python-bibtexparser-1.4.3-7.fc43 for f43-candidate
+Created task: 137256957
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256957

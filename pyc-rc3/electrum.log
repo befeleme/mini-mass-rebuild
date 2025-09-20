@@ -1,0 +1,8 @@
+Cloning into 'electrum'...
+electrum f43 and rawhide branches differ
+[rawhide c3bb87d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building electrum-4.5.8-8.fc44 for rawhide
+Created task: 137253763
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253763

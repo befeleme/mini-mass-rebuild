@@ -1,0 +1,10 @@
+Cloning into 'python-anyjson'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 796480c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-anyjson-0.3.3-55.fc44 for rawhide
+Created task: 137256127
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256127
+Building python-anyjson-0.3.3-55.fc43 for f43-candidate
+Created task: 137256131
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256131

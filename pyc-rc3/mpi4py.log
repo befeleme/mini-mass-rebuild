@@ -1,0 +1,28 @@
+Cloning into 'mpi4py'...
+[rawhide 7b1edb2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 36: %{python3_pkgversion}-numpy
+
+warning: Macro expanded in comment on line 37: %{python3_pkgversion}-simplejson
+
+warning: Macro expanded in comment on line 38: %{python3_pkgversion}-yaml
+
+warning: Macro expanded in comment on line 39: %{python3_pkgversion}-dill
+
+
+Building mpi4py-4.1.0-4.fc44 for rawhide
+Created task: 137255036
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255036
+warning: Macro expanded in comment on line 36: %{python3_pkgversion}-numpy
+
+warning: Macro expanded in comment on line 37: %{python3_pkgversion}-simplejson
+
+warning: Macro expanded in comment on line 38: %{python3_pkgversion}-yaml
+
+warning: Macro expanded in comment on line 39: %{python3_pkgversion}-dill
+
+
+Building mpi4py-4.1.0-4.fc43 for f43-candidate
+Created task: 137255037
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255037

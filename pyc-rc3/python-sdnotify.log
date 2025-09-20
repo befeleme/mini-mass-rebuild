@@ -1,0 +1,10 @@
+Cloning into 'python-sdnotify'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 207b79a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sdnotify-0.3.2-13.fc44 for rawhide
+Created task: 137263878
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263878
+Building python-sdnotify-0.3.2-13.fc43 for f43-candidate
+Created task: 137263879
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263879

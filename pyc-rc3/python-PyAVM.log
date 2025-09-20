@@ -1,0 +1,10 @@
+Cloning into 'python-PyAVM'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e36d2cc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-PyAVM-0.9.6-7.fc44 for rawhide
+Created task: 137262200
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262200
+Building python-PyAVM-0.9.6-7.fc43 for f43-candidate
+Created task: 137262208
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262208

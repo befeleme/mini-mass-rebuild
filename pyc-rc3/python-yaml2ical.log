@@ -1,0 +1,10 @@
+Cloning into 'python-yaml2ical'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2b584f9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-yaml2ical-0.13.0-18.fc44 for rawhide
+Created task: 137265914
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265914
+Building python-yaml2ical-0.13.0-18.fc43 for f43-candidate
+Created task: 137265915
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265915

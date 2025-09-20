@@ -1,0 +1,10 @@
+Cloning into 'mftrace'...
+[rawhide 11505e5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building mftrace-1.2.20-18.fc44 for rawhide
+Created task: 137254937
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254937
+Building mftrace-1.2.20-18.fc43 for f43-candidate
+Created task: 137254942
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254942

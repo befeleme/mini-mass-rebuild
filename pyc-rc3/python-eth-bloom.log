@@ -1,0 +1,10 @@
+Cloning into 'python-eth-bloom'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 874fb6b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-eth-bloom-3.1.0-5.fc44 for rawhide
+Created task: 137258707
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258707
+Building python-eth-bloom-3.1.0-5.fc43 for f43-candidate
+Created task: 137258711
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258711

@@ -1,0 +1,10 @@
+Cloning into 'python-myrepos-utils'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c4f36ee] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-myrepos-utils-0.0.4.2-8.fc44 for rawhide
+Created task: 137261293
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261293
+Building python-myrepos-utils-0.0.4.2-8.fc43 for f43-candidate
+Created task: 137261296
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261296

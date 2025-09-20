@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx_selective_exclude'...
+[rawhide 133314a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sphinx_selective_exclude-1.0.3-20.fc44 for rawhide
+Created task: 137264389
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264389
+Building python-sphinx_selective_exclude-1.0.3-20.fc43 for f43-candidate
+Created task: 137264395
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264395

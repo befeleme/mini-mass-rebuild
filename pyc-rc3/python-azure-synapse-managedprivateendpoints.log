@@ -1,0 +1,10 @@
+Cloning into 'python-azure-synapse-managedprivateendpoints'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b1a4e4e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-synapse-managedprivateendpoints-0.4.0-14.fc44 for rawhide
+Created task: 137256802
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256802
+Building python-azure-synapse-managedprivateendpoints-0.4.0-14.fc43 for f43-candidate
+Created task: 137256809
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256809

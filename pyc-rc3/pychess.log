@@ -1,0 +1,10 @@
+Cloning into 'pychess'...
+[rawhide e7e782c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pychess-1.0.5-3.fc44 for rawhide
+Created task: 137255633
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255633
+Building pychess-1.0.5-3.fc43 for f43-candidate
+Created task: 137255641
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255641

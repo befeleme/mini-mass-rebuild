@@ -1,0 +1,10 @@
+Cloning into 'python-beanprice'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fcb66a8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-beanprice-2.0.0-3.fc44 for rawhide
+Created task: 137256895
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256895
+Building python-beanprice-2.0.0-3.fc43 for f43-candidate
+Created task: 137256905
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256905

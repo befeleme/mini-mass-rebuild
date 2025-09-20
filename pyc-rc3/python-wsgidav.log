@@ -1,0 +1,10 @@
+Cloning into 'python-wsgidav'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 67b0673] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-wsgidav-4.3.3-14.fc44 for rawhide
+Created task: 137265689
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265689
+Building python-wsgidav-4.3.3-14.fc43 for f43-candidate
+Created task: 137265694
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265694

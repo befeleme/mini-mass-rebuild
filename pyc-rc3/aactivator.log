@@ -1,0 +1,14 @@
+Cloning into 'aactivator'...
+[rawhide 033ad3d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+error: %changelog not in descending chronological order
+
+Building aactivator-2.0.0-6.fc44 for rawhide
+Created task: 137252699
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252699
+error: %changelog not in descending chronological order
+
+Building aactivator-2.0.0-6.fc43 for f43-candidate
+Created task: 137252703
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252703

@@ -1,0 +1,10 @@
+Cloning into 'python-xnat4tests'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 01546d9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-xnat4tests-0.3.14-6.fc44 for rawhide
+Created task: 137265777
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265777
+Building python-xnat4tests-0.3.14-6.fc43 for f43-candidate
+Created task: 137265782
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265782

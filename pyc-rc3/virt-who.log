@@ -1,0 +1,10 @@
+Cloning into 'virt-who'...
+[rawhide 043bd20] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building virt-who-1.31.26-1.fc44.10 for rawhide
+Created task: 137266857
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266857
+Building virt-who-1.31.26-1.fc43.10 for f43-candidate
+Created task: 137266863
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266863

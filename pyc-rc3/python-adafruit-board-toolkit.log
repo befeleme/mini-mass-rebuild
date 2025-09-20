@@ -1,0 +1,10 @@
+Cloning into 'python-adafruit-board-toolkit'...
+[rawhide e3d707f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-adafruit-board-toolkit-1.1.2-6.fc44 for rawhide
+Created task: 137255924
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255924
+Building python-adafruit-board-toolkit-1.1.2-6.fc43 for f43-candidate
+Created task: 137255929
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255929

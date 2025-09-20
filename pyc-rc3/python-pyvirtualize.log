@@ -1,0 +1,10 @@
+Cloning into 'python-pyvirtualize'...
+[rawhide 26ac391] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pyvirtualize-0.10-26.20191018gitdc2d971.fc44 for rawhide
+Created task: 137263269
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263269
+Building python-pyvirtualize-0.10-26.20191018gitdc2d971.fc43 for f43-candidate
+Created task: 137263279
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263279

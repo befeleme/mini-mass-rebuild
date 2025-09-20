@@ -1,0 +1,10 @@
+Cloning into 'RBTools'...
+[rawhide 8bbb92c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building RBTools-5.0-6.fc44 for rawhide
+Created task: 137266116
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266116
+Building RBTools-5.0-6.fc43 for f43-candidate
+Created task: 137266121
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266121

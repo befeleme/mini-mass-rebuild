@@ -1,0 +1,10 @@
+Cloning into 'livecd-tools'...
+[rawhide f77f757] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building livecd-tools-31.0-18.fc44 for rawhide
+Created task: 137254844
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254844
+Building livecd-tools-31.0-18.fc43 for f43-candidate
+Created task: 137254852
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254852

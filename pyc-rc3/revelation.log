@@ -1,0 +1,10 @@
+Cloning into 'revelation'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ab629bf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building revelation-0.5.5-18.fc44 for rawhide
+Created task: 137266163
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266163
+Building revelation-0.5.5-18.fc43 for f43-candidate
+Created task: 137266169
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266169

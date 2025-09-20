@@ -1,0 +1,8 @@
+Cloning into 'awscli2'...
+awscli2 f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 78cd4c7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building awscli2-2.27.0-7.fc44 for rawhide
+Created task: 137252853
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252853

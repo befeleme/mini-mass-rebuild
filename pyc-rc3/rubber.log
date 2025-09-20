@@ -1,0 +1,10 @@
+Cloning into 'rubber'...
+[rawhide 0e78504] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building rubber-1.6.1-13.fc44 for rawhide
+Created task: 137266274
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266274
+Building rubber-1.6.1-13.fc43 for f43-candidate
+Created task: 137266278
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266278

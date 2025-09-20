@@ -1,0 +1,10 @@
+Cloning into 'python-ttfautohint-py'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0a1a041] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ttfautohint-py-0.6.0-3.fc44 for rawhide
+Created task: 137265156
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265156
+Building python-ttfautohint-py-0.6.0-3.fc43 for f43-candidate
+Created task: 137265162
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265162

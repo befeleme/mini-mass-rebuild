@@ -1,0 +1,10 @@
+Cloning into 'python-backrefs'...
+[rawhide 2196af3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-backrefs-6.0.1-3.fc44 for rawhide
+Created task: 137256830
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256830
+Building python-backrefs-6.0.1-3.fc43 for f43-candidate
+Created task: 137256841
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256841

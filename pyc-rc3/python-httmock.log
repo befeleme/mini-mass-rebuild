@@ -1,0 +1,10 @@
+Cloning into 'python-httmock'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d0e6456] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-httmock-1.4.0-22.fc44 for rawhide
+Created task: 137259731
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259731
+Building python-httmock-1.4.0-22.fc43 for f43-candidate
+Created task: 137259735
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259735

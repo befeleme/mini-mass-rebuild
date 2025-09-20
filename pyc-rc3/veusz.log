@@ -1,0 +1,10 @@
+Cloning into 'veusz'...
+[rawhide f9d1581] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building veusz-4.1-4.fc44 for rawhide
+Created task: 137266830
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266830
+Building veusz-4.1-4.fc43 for f43-candidate
+Created task: 137266832
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266832

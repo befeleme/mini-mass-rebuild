@@ -1,0 +1,10 @@
+Cloning into 'powerline'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 132b346] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building powerline-2.8.4-17.fc44 for rawhide
+Created task: 137255507
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255507
+Building powerline-2.8.4-17.fc43 for f43-candidate
+Created task: 137255512
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255512

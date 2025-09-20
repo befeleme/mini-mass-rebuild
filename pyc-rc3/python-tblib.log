@@ -1,0 +1,10 @@
+Cloning into 'python-tblib'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 90fc38a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tblib-3.1.0-2.fc44 for rawhide
+Created task: 137264656
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264656
+Building python-tblib-3.1.0-2.fc43 for f43-candidate
+Created task: 137264660
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264660

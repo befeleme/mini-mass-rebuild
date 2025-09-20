@@ -1,0 +1,22 @@
+Cloning into 'python-giacpy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4ad85ad] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Package Qt5Xml was not found in the pkg-config search path.
+Perhaps you should add the directory containing `Qt5Xml.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'Qt5Xml' not found
+Package 'Qt5Widgets' not found
+
+Building python-giacpy-0.7.3-15.fc44 for rawhide
+Created task: 137259478
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259478
+Package Qt5Xml was not found in the pkg-config search path.
+Perhaps you should add the directory containing `Qt5Xml.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'Qt5Xml' not found
+Package 'Qt5Widgets' not found
+
+Building python-giacpy-0.7.3-15.fc43 for f43-candidate
+Created task: 137259485
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259485

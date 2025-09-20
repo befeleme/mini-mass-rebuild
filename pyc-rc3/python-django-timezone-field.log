@@ -1,0 +1,10 @@
+Cloning into 'python-django-timezone-field'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6fc8fee] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-django-timezone-field-4.2.1-19.fc44 for rawhide
+Created task: 137258439
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258439
+Building python-django-timezone-field-4.2.1-19.fc43 for f43-candidate
+Created task: 137258443
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258443

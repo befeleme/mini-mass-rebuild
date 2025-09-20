@@ -1,0 +1,14 @@
+Cloning into 'python-django-database-url'...
+[rawhide 4750b97] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+error: %changelog not in descending chronological order
+
+Building python-django-database-url-0.5.0-30.fc44 for rawhide
+Created task: 137258288
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258288
+error: %changelog not in descending chronological order
+
+Building python-django-database-url-0.5.0-30.fc43 for f43-candidate
+Created task: 137258291
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258291

@@ -1,0 +1,10 @@
+Cloning into 'python-httpcore'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 596bf01] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-httpcore-1.0.9-5.fc44 for rawhide
+Created task: 137259739
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259739
+Building python-httpcore-1.0.9-5.fc43 for f43-candidate
+Created task: 137259741
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259741

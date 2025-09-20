@@ -1,0 +1,10 @@
+Cloning into 'python-mapnik'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e315b3d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mapnik-3.0.23^20240614git248003c-14.fc44 for rawhide
+Created task: 137260893
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260893
+Building python-mapnik-3.0.23^20240614git248003c-14.fc43 for f43-candidate
+Created task: 137260899
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260899

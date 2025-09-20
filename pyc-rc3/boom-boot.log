@@ -1,0 +1,8 @@
+Cloning into 'boom-boot'...
+boom-boot f43 and rawhide branches differ
+[rawhide e0b884c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building boom-boot-1.6.6-6.fc44 for rawhide
+Created task: 137252972
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252972

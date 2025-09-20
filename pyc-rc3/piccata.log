@@ -1,0 +1,10 @@
+Cloning into 'piccata'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e1ca875] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building piccata-2.0.2-6.fc44 for rawhide
+Created task: 137255444
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255444
+Building piccata-2.0.2-6.fc43 for f43-candidate
+Created task: 137255446
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255446

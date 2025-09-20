@@ -1,0 +1,10 @@
+Cloning into 'python-cftime'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e159788] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cftime-1.6.4-10.fc44 for rawhide
+Created task: 137257299
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257299
+Building python-cftime-1.6.4-10.fc43 for f43-candidate
+Created task: 137257303
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257303

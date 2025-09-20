@@ -1,0 +1,12 @@
+Cloning into 'stratis-cli'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e4a7c30] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building stratis-cli-3.8.2-5.fc44 for rawhide
+Created task: 137266553
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266553
+Found a gating.yaml file in the repo and it is properly configured
+Building stratis-cli-3.8.2-5.fc43 for f43-candidate
+Created task: 137266560
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266560

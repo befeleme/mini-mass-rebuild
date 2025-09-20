@@ -1,0 +1,10 @@
+Cloning into 'syncplay'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c714edf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building syncplay-1.7.4-5.fc44 for rawhide
+Created task: 137266581
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266581
+Building syncplay-1.7.4-5.fc43 for f43-candidate
+Created task: 137266586
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266586

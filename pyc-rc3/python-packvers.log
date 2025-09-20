@@ -1,0 +1,10 @@
+Cloning into 'python-packvers'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 55aa31f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-packvers-21.5-14.fc44 for rawhide
+Created task: 137261691
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261691
+Building python-packvers-21.5-14.fc43 for f43-candidate
+Created task: 137261693
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261693

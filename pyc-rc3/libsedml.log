@@ -1,0 +1,10 @@
+Cloning into 'libsedml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8ffe06b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building libsedml-2.0.33-7.fc44 for rawhide
+Created task: 137254741
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254741
+Building libsedml-2.0.33-7.fc43 for f43-candidate
+Created task: 137254745
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254745

@@ -1,0 +1,10 @@
+Cloning into 'pyzor'...
+[rawhide 5358ec8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pyzor-1.0.0-45.git2be00c3.fc44 for rawhide
+Created task: 137266042
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266042
+Building pyzor-1.0.0-45.git2be00c3.fc43 for f43-candidate
+Created task: 137266043
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266043

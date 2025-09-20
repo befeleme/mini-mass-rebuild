@@ -1,0 +1,10 @@
+Cloning into 'python-immutabledict'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 35c8cfb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-immutabledict-4.2.1-6.fc44 for rawhide
+Created task: 137259853
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259853
+Building python-immutabledict-4.2.1-6.fc43 for f43-candidate
+Created task: 137259864
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259864

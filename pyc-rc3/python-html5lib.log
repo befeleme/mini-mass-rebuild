@@ -1,0 +1,10 @@
+Cloning into 'python-html5lib'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6c5b462] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-html5lib-1.1-31.fc44 for rawhide
+Created task: 137259709
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259709
+Building python-html5lib-1.1-31.fc43 for f43-candidate
+Created task: 137259712
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259712

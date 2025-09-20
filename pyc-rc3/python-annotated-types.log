@@ -1,0 +1,10 @@
+Cloning into 'python-annotated-types'...
+[rawhide 3fa4b1b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-annotated-types-0.7.0-8.fc44 for rawhide
+Created task: 137256104
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256104
+Building python-annotated-types-0.7.0-8.fc43 for f43-candidate
+Created task: 137256108
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256108

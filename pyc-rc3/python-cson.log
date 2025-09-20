@@ -1,0 +1,10 @@
+Cloning into 'python-cson'...
+[rawhide e7e57e7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-cson-0.8-25.fc44 for rawhide
+Created task: 137257903
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257903
+Building python-cson-0.8-25.fc43 for f43-candidate
+Created task: 137257910
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257910

@@ -1,0 +1,10 @@
+Cloning into 'python-mock'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b389218] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mock-4.0.3-24.fc44 for rawhide
+Created task: 137261138
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261138
+Building python-mock-4.0.3-24.fc43 for f43-candidate
+Created task: 137261143
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261143

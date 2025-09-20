@@ -1,0 +1,10 @@
+Cloning into 'pywbem'...
+[rawhide dcaf6d9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pywbem-1.7.3-5.fc44 for rawhide
+Created task: 137266030
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266030
+Building pywbem-1.7.3-5.fc43 for f43-candidate
+Created task: 137266036
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266036

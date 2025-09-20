@@ -1,0 +1,10 @@
+Cloning into 'python-zeroconf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5448528] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zeroconf-0.118.0-14.fc44 for rawhide
+Created task: 137265950
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265950
+Building python-zeroconf-0.118.0-14.fc43 for f43-candidate
+Created task: 137265953
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265953

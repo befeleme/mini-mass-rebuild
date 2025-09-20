@@ -1,0 +1,10 @@
+Cloning into 'python-supersmoother'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 02ef7da] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-supersmoother-0.4-37.fc44 for rawhide
+Created task: 137264586
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264586
+Building python-supersmoother-0.4-37.fc43 for f43-candidate
+Created task: 137264592
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264592

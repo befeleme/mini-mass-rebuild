@@ -1,0 +1,10 @@
+Cloning into 'python-eth-typing'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide da11247] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-eth-typing-5.2.1-6.fc44 for rawhide
+Created task: 137258730
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258730
+Building python-eth-typing-5.2.1-6.fc43 for f43-candidate
+Created task: 137258739
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258739

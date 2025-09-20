@@ -1,0 +1,8 @@
+Cloning into 'python-trimesh'...
+python-trimesh f43 build complete but not tagged: python-trimesh-4.8.2-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4d18f99] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-trimesh-4.8.2-2.fc44 for rawhide
+Created task: 137265228
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265228

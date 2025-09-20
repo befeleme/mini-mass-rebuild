@@ -1,0 +1,10 @@
+Cloning into 'python-certifi'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 602d3f8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-certifi-2025.07.09-3.fc44 for rawhide
+Created task: 137257283
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257283
+Building python-certifi-2025.07.09-3.fc43 for f43-candidate
+Created task: 137257284
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257284

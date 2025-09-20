@@ -1,0 +1,10 @@
+Cloning into 'rpm-spec-language-server'...
+[rawhide e7f5701] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building rpm-spec-language-server-0.0.1-9.fc44 for rawhide
+Created task: 137266236
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266236
+Building rpm-spec-language-server-0.0.1-9.fc43 for f43-candidate
+Created task: 137266244
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266244

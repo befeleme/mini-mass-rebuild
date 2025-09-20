@@ -1,0 +1,10 @@
+Cloning into 'python-uranium'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e0d6dff] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-uranium-5.6.0-12.fc44 for rawhide
+Created task: 137265286
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265286
+Building python-uranium-5.6.0-12.fc43 for f43-candidate
+Created task: 137265290
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265290

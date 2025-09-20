@@ -1,0 +1,8 @@
+Cloning into 'python-testresources'...
+python-testresources f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 008c0a2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-testresources-2.0.2-2.fc44 for rawhide
+Created task: 137264706
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264706

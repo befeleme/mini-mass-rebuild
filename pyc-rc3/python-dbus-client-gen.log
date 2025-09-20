@@ -1,0 +1,12 @@
+Cloning into 'python-dbus-client-gen'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide aa8e9ec] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building python-dbus-client-gen-0.5.1-15.fc44 for rawhide
+Created task: 137258102
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258102
+Found a gating.yaml file in the repo and it is properly configured
+Building python-dbus-client-gen-0.5.1-15.fc43 for f43-candidate
+Created task: 137258108
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258108

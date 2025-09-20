@@ -1,0 +1,10 @@
+Cloning into 'python-pygments-lexer-solidity'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7320d98] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pygments-lexer-solidity-0.7.0-8.fc44 for rawhide
+Created task: 137262393
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262393
+Building python-pygments-lexer-solidity-0.7.0-8.fc43 for f43-candidate
+Created task: 137262398
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262398

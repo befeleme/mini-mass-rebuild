@@ -1,0 +1,10 @@
+Cloning into 'python-cattrs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e7db0a0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cattrs-25.1.1-6.fc44 for rawhide
+Created task: 137257256
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257256
+Building python-cattrs-25.1.1-6.fc43 for f43-candidate
+Created task: 137257259
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257259

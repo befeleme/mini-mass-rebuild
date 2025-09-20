@@ -1,0 +1,10 @@
+Cloning into 'mopidy-mpd'...
+[rawhide c50f64e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building mopidy-mpd-4.0.0~a1-5.fc44 for rawhide
+Created task: 137255005
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255005
+Building mopidy-mpd-4.0.0~a1-5.fc43 for f43-candidate
+Created task: 137255015
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255015

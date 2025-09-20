@@ -1,0 +1,10 @@
+Cloning into 'minigalaxy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d55a754] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building minigalaxy-1.3.2-6.fc44 for rawhide
+Created task: 137254945
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254945
+Building minigalaxy-1.3.2-6.fc43 for f43-candidate
+Created task: 137254949
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254949

@@ -1,0 +1,10 @@
+Cloning into 'python-pyocr'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 93337a7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyocr-0.8.5-10.fc44 for rawhide
+Created task: 137262530
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262530
+Building python-pyocr-0.8.5-10.fc43 for f43-candidate
+Created task: 137262532
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262532

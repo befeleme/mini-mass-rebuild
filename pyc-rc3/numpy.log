@@ -1,0 +1,10 @@
+Cloning into 'numpy'...
+[rawhide a8bc133] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building numpy-2.3.3-2.fc44 for rawhide
+Created task: 137255183
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255183
+Building numpy-2.3.3-2.fc43 for f43-candidate
+Created task: 137255184
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255184

@@ -1,0 +1,10 @@
+Cloning into 'python-mdurl'...
+[rawhide 7898b4d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-mdurl-0.1.2-13.fc44 for rawhide
+Created task: 137260978
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260978
+Building python-mdurl-0.1.2-13.fc43 for f43-candidate
+Created task: 137260981
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260981

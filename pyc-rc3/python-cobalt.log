@@ -1,0 +1,10 @@
+Cloning into 'python-cobalt'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8b8fa4b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cobalt-9.0.1-7.fc44 for rawhide
+Created task: 137257453
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257453
+Building python-cobalt-9.0.1-7.fc43 for f43-candidate
+Created task: 137257457
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257457

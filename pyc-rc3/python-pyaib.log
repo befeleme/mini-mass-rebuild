@@ -1,0 +1,10 @@
+Cloning into 'python-pyaib'...
+[rawhide 217291e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pyaib-2.1.0-21.fc44 for rawhide
+Created task: 137262179
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262179
+Building python-pyaib-2.1.0-21.fc43 for f43-candidate
+Created task: 137262190
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262190

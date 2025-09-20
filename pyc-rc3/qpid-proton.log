@@ -1,0 +1,17 @@
+Cloning into 'qpid-proton'...
+qpid-proton f43 and rawhide branches differ
+[rawhide c33ef77] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: line 57: It's not recommended to have unversioned Obsoletes: Obsoletes: qpid-proton
+warning: line 58: It's not recommended to have unversioned Obsoletes: Obsoletes: perl-qpid-proton
+warning: line 96: It's not recommended to have unversioned Obsoletes: Obsoletes: qpid-proton-devel
+warning: line 133: It's not recommended to have unversioned Obsoletes: Obsoletes: qpid-proton-c-devel-doc
+warning: line 134: It's not recommended to have unversioned Obsoletes: Obsoletes: qpid-proton-c-devel-docs
+warning: line 153: It's not recommended to have unversioned Obsoletes: Obsoletes: qpid-proton-cpp-devel-doc
+warning: line 154: It's not recommended to have unversioned Obsoletes: Obsoletes: qpid-proton-cpp-devel-docs
+warning: line 190: It's not recommended to have unversioned Obsoletes: Obsoletes:  python-qpid-proton-doc
+
+Building qpid-proton-0.40.0-12.fc44 for rawhide
+Created task: 137266047
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266047

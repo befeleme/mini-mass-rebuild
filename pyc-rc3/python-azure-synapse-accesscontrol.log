@@ -1,0 +1,10 @@
+Cloning into 'python-azure-synapse-accesscontrol'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3cd45c1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-synapse-accesscontrol-0.5.0-22.fc44 for rawhide
+Created task: 137256773
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256773
+Building python-azure-synapse-accesscontrol-0.5.0-22.fc43 for f43-candidate
+Created task: 137256781
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256781

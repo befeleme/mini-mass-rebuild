@@ -1,0 +1,10 @@
+Cloning into 'redshift'...
+[rawhide 5cc4d25] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building redshift-1.12-29.fc44 for rawhide
+Created task: 137266141
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266141
+Building redshift-1.12-29.fc43 for f43-candidate
+Created task: 137266159
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266159

@@ -1,0 +1,10 @@
+Cloning into 'python-fspath'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5bf997b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fspath-20230629-12.fc44 for rawhide
+Created task: 137259325
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259325
+Building python-fspath-20230629-12.fc43 for f43-candidate
+Created task: 137259326
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259326

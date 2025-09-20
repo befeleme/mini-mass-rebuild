@@ -1,0 +1,8 @@
+Cloning into 'python-collectd_systemd'...
+python-collectd_systemd f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4ca4608] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-collectd_systemd-2.1.0-2.fc44 for rawhide
+Created task: 137257624
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257624

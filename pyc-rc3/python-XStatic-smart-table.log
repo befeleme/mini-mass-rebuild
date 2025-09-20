@@ -1,0 +1,10 @@
+Cloning into 'python-XStatic-smart-table'...
+[rawhide 274af4d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-XStatic-smart-table-1.4.13.2-30.fc44 for rawhide
+Created task: 137265889
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265889
+Building python-XStatic-smart-table-1.4.13.2-30.fc43 for f43-candidate
+Created task: 137265893
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265893

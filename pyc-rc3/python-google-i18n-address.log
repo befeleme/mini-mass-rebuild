@@ -1,0 +1,10 @@
+Cloning into 'python-google-i18n-address'...
+[rawhide 1e3957a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-google-i18n-address-3.1.0-11.fc44 for rawhide
+Created task: 137259579
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259579
+Building python-google-i18n-address-3.1.0-11.fc43 for f43-candidate
+Created task: 137259584
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259584

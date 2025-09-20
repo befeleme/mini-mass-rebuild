@@ -1,0 +1,10 @@
+Cloning into 'ipython'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 51de45e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building ipython-8.37.0-10.fc44 for rawhide
+Created task: 137254420
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254420
+Building ipython-8.37.0-10.fc43 for f43-candidate
+Created task: 137254421
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254421

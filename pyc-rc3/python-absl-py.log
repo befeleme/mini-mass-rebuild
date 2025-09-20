@@ -1,0 +1,10 @@
+Cloning into 'python-absl-py'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4d33fc2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-absl-py-2.3.1-4.fc44 for rawhide
+Created task: 137255904
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255904
+Building python-absl-py-2.3.1-4.fc43 for f43-candidate
+Created task: 137255907
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255907

@@ -1,0 +1,14 @@
+Cloning into 'python-scikit-image'...
+[rawhide d7fa22d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: bogus date in %changelog: Tue Aug 18 2025 Sergio Pascual <sergiopr@fedoraproject.org> - 0.25.2-7
+
+Building python-scikit-image-0.25.2-8.fc44 for rawhide
+Created task: 137263822
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263822
+warning: bogus date in %changelog: Tue Aug 18 2025 Sergio Pascual <sergiopr@fedoraproject.org> - 0.25.2-7
+
+Building python-scikit-image-0.25.2-8.fc43 for f43-candidate
+Created task: 137263830
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263830

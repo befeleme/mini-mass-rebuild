@@ -1,0 +1,10 @@
+Cloning into 'smbcmp'...
+[rawhide 3414bc4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building smbcmp-0.1-24.fc44 for rawhide
+Created task: 137266485
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266485
+Building smbcmp-0.1-24.fc43 for f43-candidate
+Created task: 137266488
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266488

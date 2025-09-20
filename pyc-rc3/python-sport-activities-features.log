@@ -1,0 +1,8 @@
+Cloning into 'python-sport-activities-features'...
+python-sport-activities-features f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e227ab2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sport-activities-features-0.5.2-3.fc44 for rawhide
+Created task: 137264409
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264409

@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-aiohttp'...
+[rawhide 0e296b3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pytest-aiohttp-1.1.0-5.fc44 for rawhide
+Created task: 137262995
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262995
+Building python-pytest-aiohttp-1.1.0-5.fc43 for f43-candidate
+Created task: 137263000
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263000

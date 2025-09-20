@@ -1,0 +1,8 @@
+Cloning into 'python-azure-core'...
+python-azure-core f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 83daa37] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-core-1.35.1-2.fc44 for rawhide
+Created task: 137256374
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256374

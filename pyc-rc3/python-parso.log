@@ -1,0 +1,8 @@
+Cloning into 'python-parso'...
+python-parso f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5149327] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-parso-0.8.5-2.fc44 for rawhide
+Created task: 137261750
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261750

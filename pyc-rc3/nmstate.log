@@ -1,0 +1,8 @@
+Cloning into 'nmstate'...
+nmstate f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bdb03f4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building nmstate-2.2.52-2.fc44 for rawhide
+Created task: 137255149
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255149

@@ -1,0 +1,10 @@
+Cloning into 'python-op1repacker'...
+[rawhide c3410cd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-op1repacker-0.2.6-18.fc44 for rawhide
+Created task: 137261495
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261495
+Building python-op1repacker-0.2.6-18.fc43 for f43-candidate
+Created task: 137261500
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261500

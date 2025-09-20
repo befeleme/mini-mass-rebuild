@@ -1,0 +1,12 @@
+Cloning into 'qutebrowser'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f328f62] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building qutebrowser-3.5.1-4.fc44 for rawhide
+Created task: 137266071
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266071
+Found a gating.yaml file in the repo and it is properly configured
+Building qutebrowser-3.5.1-4.fc43 for f43-candidate
+Created task: 137266079
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266079

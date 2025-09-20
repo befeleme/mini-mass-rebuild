@@ -1,0 +1,10 @@
+Cloning into 'mailman3-fedmsg-plugin'...
+[rawhide de99a8c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building mailman3-fedmsg-plugin-1.0.1-2.fc44 for rawhide
+Created task: 137254873
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254873
+Building mailman3-fedmsg-plugin-1.0.1-2.fc43 for f43-candidate
+Created task: 137254876
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254876

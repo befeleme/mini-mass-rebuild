@@ -1,0 +1,10 @@
+Cloning into 'python-mkdocs-click'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide aba9f3b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mkdocs-click-0.8.1-6.fc44 for rawhide
+Created task: 137261088
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261088
+Building python-mkdocs-click-0.8.1-6.fc43 for f43-candidate
+Created task: 137261089
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261089

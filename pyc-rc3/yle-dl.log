@@ -1,0 +1,10 @@
+Cloning into 'yle-dl'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c4460fb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building yle-dl-20250730-3.fc44 for rawhide
+Created task: 137266958
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266958
+Building yle-dl-20250730-3.fc43 for f43-candidate
+Created task: 137266959
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266959

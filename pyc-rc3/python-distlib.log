@@ -1,0 +1,10 @@
+Cloning into 'python-distlib'...
+[rawhide 5b8bf88] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-distlib-0.4.0-2.fc44 for rawhide
+Created task: 137258383
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258383
+Building python-distlib-0.4.0-2.fc43 for f43-candidate
+Created task: 137258388
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258388

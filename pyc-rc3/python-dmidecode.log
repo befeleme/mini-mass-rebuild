@@ -1,0 +1,10 @@
+Cloning into 'python-dmidecode'...
+[rawhide e0d6118] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-dmidecode-3.12.3-15.fc44 for rawhide
+Created task: 137258433
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258433
+Building python-dmidecode-3.12.3-15.fc43 for f43-candidate
+Created task: 137258438
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258438

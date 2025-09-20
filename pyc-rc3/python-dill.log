@@ -1,0 +1,10 @@
+Cloning into 'python-dill'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide aae5a4d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-dill-0.4.0-7.fc44 for rawhide
+Created task: 137258224
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258224
+Building python-dill-0.4.0-7.fc43 for f43-candidate
+Created task: 137258227
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258227

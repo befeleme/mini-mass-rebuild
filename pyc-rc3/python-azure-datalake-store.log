@@ -1,0 +1,10 @@
+Cloning into 'python-azure-datalake-store'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d0855e0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-datalake-store-1.0.0~a0-5.fc44 for rawhide
+Created task: 137256418
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256418
+Building python-azure-datalake-store-1.0.0~a0-5.fc43 for f43-candidate
+Created task: 137256420
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256420

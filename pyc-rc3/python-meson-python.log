@@ -1,0 +1,14 @@
+Cloning into 'python-meson-python'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 97fb9f1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/python-meson-python/python-meson-python.spec line 75: autopatch: no matching patches in range
+
+Building python-meson-python-0.18.0-6.fc44 for rawhide
+Created task: 137261033
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261033
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/python-meson-python/python-meson-python.spec line 75: autopatch: no matching patches in range
+
+Building python-meson-python-0.18.0-6.fc43 for f43-candidate
+Created task: 137261037
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261037

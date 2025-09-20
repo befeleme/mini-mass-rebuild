@@ -1,0 +1,10 @@
+Cloning into 'python-QtPy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c0e3b71] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-QtPy-2.4.3-6.fc44 for rawhide
+Created task: 137263341
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263341
+Building python-QtPy-2.4.3-6.fc43 for f43-candidate
+Created task: 137263343
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263343

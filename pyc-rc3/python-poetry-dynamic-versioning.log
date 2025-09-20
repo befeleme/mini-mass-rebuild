@@ -1,0 +1,10 @@
+Cloning into 'python-poetry-dynamic-versioning'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bb7a22b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-poetry-dynamic-versioning-1.9.1-4.fc44 for rawhide
+Created task: 137262038
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262038
+Building python-poetry-dynamic-versioning-1.9.1-4.fc43 for f43-candidate
+Created task: 137262041
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262041

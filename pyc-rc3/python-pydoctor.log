@@ -1,0 +1,10 @@
+Cloning into 'python-pydoctor'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 98e335f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pydoctor-24.11.1-9.20241208git24.11.1.fc44 for rawhide
+Created task: 137262292
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262292
+Building python-pydoctor-24.11.1-9.20241208git24.11.1.fc43 for f43-candidate
+Created task: 137262296
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262296

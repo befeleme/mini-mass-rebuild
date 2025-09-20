@@ -1,0 +1,10 @@
+Cloning into 'python-fvs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 164c33a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fvs-0.3.4-12.fc44 for rawhide
+Created task: 137259383
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259383
+Building python-fvs-0.3.4-12.fc43 for f43-candidate
+Created task: 137259389
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259389

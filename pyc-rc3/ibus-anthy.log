@@ -1,0 +1,10 @@
+Cloning into 'ibus-anthy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide eb8a7d1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building ibus-anthy-1.5.17-7.fc44 for rawhide
+Created task: 137254359
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254359
+Building ibus-anthy-1.5.17-7.fc43 for f43-candidate
+Created task: 137254364
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254364

@@ -1,0 +1,10 @@
+Cloning into 'python-gssapi'...
+[rawhide 012d664] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-gssapi-1.7.3-15.fc44 for rawhide
+Created task: 137259618
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259618
+Building python-gssapi-1.7.3-15.fc43 for f43-candidate
+Created task: 137259623
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259623

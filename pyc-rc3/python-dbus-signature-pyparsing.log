@@ -1,0 +1,12 @@
+Cloning into 'python-dbus-signature-pyparsing'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 892adc3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building python-dbus-signature-pyparsing-0.4.1-16.fc44 for rawhide
+Created task: 137258122
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258122
+Found a gating.yaml file in the repo and it is properly configured
+Building python-dbus-signature-pyparsing-0.4.1-16.fc43 for f43-candidate
+Created task: 137258124
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258124

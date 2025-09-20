@@ -1,0 +1,10 @@
+Cloning into 'python-txws'...
+[rawhide 5c64378] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-txws-0.9.1-40.fc44 for rawhide
+Created task: 137265197
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265197
+Building python-txws-0.9.1-40.fc43 for f43-candidate
+Created task: 137265201
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265201

@@ -1,0 +1,10 @@
+Cloning into 'python-retryz'...
+[rawhide a48c707] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-retryz-0.1.9-33.fc44 for rawhide
+Created task: 137263622
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263622
+Building python-retryz-0.1.9-33.fc43 for f43-candidate
+Created task: 137263626
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263626

@@ -1,0 +1,10 @@
+Cloning into 'clingo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide eb31173] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building clingo-5.8.0-5.fc44 for rawhide
+Created task: 137253240
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253240
+Building clingo-5.8.0-5.fc43 for f43-candidate
+Created task: 137253244
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253244

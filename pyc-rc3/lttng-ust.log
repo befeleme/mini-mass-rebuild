@@ -1,0 +1,10 @@
+Cloning into 'lttng-ust'...
+[rawhide 420f5aa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building lttng-ust-2.14.0-4.fc44 for rawhide
+Created task: 137254861
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254861
+Building lttng-ust-2.14.0-4.fc43 for f43-candidate
+Created task: 137254865
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254865

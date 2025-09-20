@@ -1,0 +1,10 @@
+Cloning into 'python-aioquic'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0462a66] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-aioquic-1.2.0-6.fc44 for rawhide
+Created task: 137256035
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256035
+Building python-aioquic-1.2.0-6.fc43 for f43-candidate
+Created task: 137256038
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256038

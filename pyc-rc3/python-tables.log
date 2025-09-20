@@ -1,0 +1,8 @@
+Cloning into 'python-tables'...
+python-tables f43 build complete but not tagged: python-tables-3.10.2-4.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 10d5469] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tables-3.10.2-6.fc44 for rawhide
+Created task: 137264636
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264636

@@ -1,0 +1,10 @@
+Cloning into 'python-zombie-imp'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 37b11ba] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zombie-imp-0.0.3-5.fc44 for rawhide
+Created task: 137265960
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265960
+Building python-zombie-imp-0.0.3-5.fc43 for f43-candidate
+Created task: 137265963
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265963

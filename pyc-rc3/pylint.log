@@ -1,0 +1,8 @@
+Cloning into 'pylint'...
+pylint f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 538a4ad] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pylint-3.3.8-7.fc44 for rawhide
+Created task: 137255724
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255724

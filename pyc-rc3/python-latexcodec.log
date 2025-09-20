@@ -1,0 +1,10 @@
+Cloning into 'python-latexcodec'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4d9e22f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-latexcodec-3.0.1-4.fc44 for rawhide
+Created task: 137260548
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260548
+Building python-latexcodec-3.0.1-4.fc43 for f43-candidate
+Created task: 137260551
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260551

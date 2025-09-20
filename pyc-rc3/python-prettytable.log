@@ -1,0 +1,10 @@
+Cloning into 'python-prettytable'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4f1c2a9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-prettytable-3.10.0-11.fc44 for rawhide
+Created task: 137262089
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262089
+Building python-prettytable-3.10.0-11.fc43 for f43-candidate
+Created task: 137262093
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262093

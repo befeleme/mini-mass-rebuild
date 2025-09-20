@@ -1,0 +1,20 @@
+Cloning into 'protonvpn-cli'...
+[rawhide 699f7bd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Target epel7 is unknown. Skip.
+Building protonvpn-cli-2.2.12-9.el8 for epel8-candidate
+Created task: 137255531
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255531
+Building protonvpn-cli-2.2.12-9.el8 for f41-candidate
+Created task: 137255535
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255535
+Building protonvpn-cli-2.2.12-9.el8 for f42-candidate
+Created task: 137255537
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255537
+Building protonvpn-cli-2.2.12-9.el8 for f43-candidate
+Created task: 137255540
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255540
+Building protonvpn-cli-2.2.12-9.fc43 for f43-candidate
+Created task: 137255552
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255552

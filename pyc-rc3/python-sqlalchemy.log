@@ -1,0 +1,10 @@
+Cloning into 'python-sqlalchemy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 686d24f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sqlalchemy-2.0.43-3.fc44 for rawhide
+Created task: 137264441
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264441
+Building python-sqlalchemy-2.0.43-3.fc43 for f43-candidate
+Created task: 137264447
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264447

@@ -1,0 +1,10 @@
+Cloning into 'python-authlib'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6cfd54f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-authlib-1.4.0-8.fc44 for rawhide
+Created task: 137256337
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256337
+Building python-authlib-1.4.0-8.fc43 for f43-candidate
+Created task: 137256340
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256340

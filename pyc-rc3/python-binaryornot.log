@@ -1,0 +1,10 @@
+Cloning into 'python-binaryornot'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 39826ac] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-binaryornot-0.4.4-30.fc44 for rawhide
+Created task: 137256969
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256969
+Building python-binaryornot-0.4.4-30.fc43 for f43-candidate
+Created task: 137256976
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256976

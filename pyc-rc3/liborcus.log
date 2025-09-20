@@ -1,0 +1,8 @@
+Cloning into 'liborcus'...
+liborcus f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5097a12] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building liborcus-0.21.0-3.fc44 for rawhide
+Created task: 137254667
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254667

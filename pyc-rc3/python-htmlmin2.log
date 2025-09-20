@@ -1,0 +1,10 @@
+Cloning into 'python-htmlmin2'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cbbe6b3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-htmlmin2-0.1.13-6.fc44 for rawhide
+Created task: 137259721
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259721
+Building python-htmlmin2-0.1.13-6.fc43 for f43-candidate
+Created task: 137259723
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259723

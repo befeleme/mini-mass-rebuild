@@ -1,0 +1,10 @@
+Cloning into 'lazygal'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2d765b5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building lazygal-0.11-5.fc44 for rawhide
+Created task: 137254549
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254549
+Building lazygal-0.11-5.fc43 for f43-candidate
+Created task: 137254551
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254551

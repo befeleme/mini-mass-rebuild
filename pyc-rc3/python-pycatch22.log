@@ -1,0 +1,7 @@
+Cloning into 'python-pycatch22'...
+RPMAutoSpec usage detected, not changing the spec file.
+[f43 9cf7583] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pycatch22-0.4.4-15.fc43 for f43-candidate
+Created task: 137269134
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269134

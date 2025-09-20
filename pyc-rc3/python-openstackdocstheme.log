@@ -1,0 +1,10 @@
+Cloning into 'python-openstackdocstheme'...
+[rawhide 0e23a16] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-openstackdocstheme-3.0.0-14.fc44 for rawhide
+Created task: 137261553
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261553
+Building python-openstackdocstheme-3.0.0-14.fc43 for f43-candidate
+Created task: 137261555
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261555

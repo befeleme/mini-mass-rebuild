@@ -1,0 +1,10 @@
+Cloning into 'aubio'...
+[rawhide 704e3c8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building aubio-0.4.9-30.fc44 for rawhide
+Created task: 137252826
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252826
+Building aubio-0.4.9-30.fc43 for f43-candidate
+Created task: 137252829
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252829

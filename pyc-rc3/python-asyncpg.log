@@ -1,0 +1,10 @@
+Cloning into 'python-asyncpg'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c12855e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-asyncpg-0.30.0-14.fc44 for rawhide
+Created task: 137256288
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256288
+Building python-asyncpg-0.30.0-14.fc43 for f43-candidate
+Created task: 137256297
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256297

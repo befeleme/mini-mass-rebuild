@@ -1,0 +1,8 @@
+Cloning into 'python-build'...
+python-build f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 30b4e15] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-build-1.3.0-4.fc44 for rawhide
+Created task: 137257155
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257155

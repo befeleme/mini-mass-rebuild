@@ -1,0 +1,8 @@
+Cloning into 'gaupol'...
+gaupol f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d42f875] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building gaupol-1.15-26.fc44 for rawhide
+Created task: 137253993
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253993

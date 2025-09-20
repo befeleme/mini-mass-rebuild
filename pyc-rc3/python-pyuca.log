@@ -1,0 +1,10 @@
+Cloning into 'python-pyuca'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f9d6ee5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyuca-1.2-8.fc44 for rawhide
+Created task: 137263240
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263240
+Building python-pyuca-1.2-8.fc43 for f43-candidate
+Created task: 137263255
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263255

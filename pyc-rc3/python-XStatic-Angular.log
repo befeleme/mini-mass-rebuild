@@ -1,0 +1,10 @@
+Cloning into 'python-XStatic-Angular'...
+[rawhide d1a22f6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-XStatic-Angular-1.5.8.0-32.fc44 for rawhide
+Created task: 137265790
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265790
+Building python-XStatic-Angular-1.5.8.0-32.fc43 for f43-candidate
+Created task: 137265791
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265791

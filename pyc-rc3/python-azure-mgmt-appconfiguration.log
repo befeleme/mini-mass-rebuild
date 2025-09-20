@@ -1,0 +1,2 @@
+fatal: destination path 'python-azure-mgmt-appconfiguration' already exists and is not an empty directory.
+Could not execute clone: Failed to execute command.

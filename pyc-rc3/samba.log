@@ -1,0 +1,5 @@
+Cloning into 'samba'...
+samba f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1ec341c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>

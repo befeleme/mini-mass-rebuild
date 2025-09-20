@@ -1,0 +1,10 @@
+Cloning into 'python-pikepdf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d02517e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pikepdf-9.9.0-6.fc44 for rawhide
+Created task: 137261956
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261956
+Building python-pikepdf-9.9.0-6.fc43 for f43-candidate
+Created task: 137261960
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261960

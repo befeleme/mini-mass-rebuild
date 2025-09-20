@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-executor-plugin-cluster-sync'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c4e8db2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-executor-plugin-cluster-sync-0.1.5-3.fc44 for rawhide
+Created task: 137264090
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264090
+Building python-snakemake-executor-plugin-cluster-sync-0.1.5-3.fc43 for f43-candidate
+Created task: 137264097
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264097

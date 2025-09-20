@@ -1,0 +1,8 @@
+Cloning into 'jrnl'...
+jrnl f43 build complete but not from the latest commit from distgit: jrnl-4.2.1-4.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7a6d4ea] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building jrnl-4.2.1-6.fc44 for rawhide
+Created task: 137254432
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254432

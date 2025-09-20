@@ -1,0 +1,8 @@
+Cloning into 'python-steampunk-spotter'...
+python-steampunk-spotter f43 build complete but not tagged: python-steampunk-spotter-5.6.0-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c8927e5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-steampunk-spotter-5.6.0-2.fc44 for rawhide
+Created task: 137264520
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264520

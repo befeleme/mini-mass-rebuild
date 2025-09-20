@@ -1,0 +1,10 @@
+Cloning into 'python-opnsense'...
+[rawhide 64f30d6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-opnsense-0.3.0-20.fc44 for rawhide
+Created task: 137261582
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261582
+Building python-opnsense-0.3.0-20.fc43 for f43-candidate
+Created task: 137261585
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261585

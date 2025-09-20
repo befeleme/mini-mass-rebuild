@@ -1,0 +1,7 @@
+Cloning into 'python-elephant'...
+RPMAutoSpec usage detected, not changing the spec file.
+[f43 13603d4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-elephant-1.1.1-9.fc43 for f43-candidate
+Created task: 137269092
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269092

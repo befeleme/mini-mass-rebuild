@@ -1,0 +1,10 @@
+Cloning into 'python-markdown'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ea4930a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-markdown-3.8.2-5.fc44 for rawhide
+Created task: 137260907
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260907
+Building python-markdown-3.8.2-5.fc43 for f43-candidate
+Created task: 137260909
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260909

@@ -1,0 +1,10 @@
+Cloning into 'python-twomemo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a61751b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-twomemo-1.1.0-4.fc44 for rawhide
+Created task: 137265187
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265187
+Building python-twomemo-1.1.0-4.fc43 for f43-candidate
+Created task: 137265196
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265196

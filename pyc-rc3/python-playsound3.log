@@ -1,0 +1,10 @@
+Cloning into 'python-playsound3'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 22d227e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-playsound3-3.2.6-2.fc44 for rawhide
+Created task: 137262000
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262000
+Building python-playsound3-3.2.6-2.fc43 for f43-candidate
+Created task: 137262007
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262007

@@ -1,0 +1,8 @@
+Cloning into 'python-starlette'...
+python-starlette f43 build complete but not tagged: python-starlette-0.48.0-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1ba3c2c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-starlette-0.48.0-2.fc44 for rawhide
+Created task: 137264509
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264509

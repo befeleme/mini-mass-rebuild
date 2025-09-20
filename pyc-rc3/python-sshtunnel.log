@@ -1,0 +1,10 @@
+Cloning into 'python-sshtunnel'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f397fa6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sshtunnel-0.4.0-19.fc44 for rawhide
+Created task: 137264499
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264499
+Building python-sshtunnel-0.4.0-19.fc43 for f43-candidate
+Created task: 137264506
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264506

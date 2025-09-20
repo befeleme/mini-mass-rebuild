@@ -1,0 +1,10 @@
+Cloning into 'python-pykdumpfile'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7c51149] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pykdumpfile-0.5.5.1-6.fc44 for rawhide
+Created task: 137262430
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262430
+Building python-pykdumpfile-0.5.5.1-6.fc43 for f43-candidate
+Created task: 137262434
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262434

@@ -1,0 +1,10 @@
+Cloning into 'python-py3nvml'...
+[rawhide fad340f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-py3nvml-0.2.7-16.fc44 for rawhide
+Created task: 137262174
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262174
+Building python-py3nvml-0.2.7-16.fc43 for f43-candidate
+Created task: 137262182
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262182

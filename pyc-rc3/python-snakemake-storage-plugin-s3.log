@@ -1,0 +1,8 @@
+Cloning into 'python-snakemake-storage-plugin-s3'...
+python-snakemake-storage-plugin-s3 f43 build complete but not tagged: python-snakemake-storage-plugin-s3-0.3.6-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6fbb4dc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-storage-plugin-s3-0.3.6-2.fc44 for rawhide
+Created task: 137264148
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264148

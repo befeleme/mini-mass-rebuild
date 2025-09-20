@@ -1,0 +1,10 @@
+Cloning into 'python-mf2py'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0009017] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mf2py-2.0.1-6.fc44 for rawhide
+Created task: 137261045
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261045
+Building python-mf2py-2.0.1-6.fc43 for f43-candidate
+Created task: 137261047
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261047

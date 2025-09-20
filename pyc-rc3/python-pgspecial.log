@@ -1,0 +1,10 @@
+Cloning into 'python-pgspecial'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 791e87d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pgspecial-2.2.1-6.fc44 for rawhide
+Created task: 137261925
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261925
+Building python-pgspecial-2.2.1-6.fc43 for f43-candidate
+Created task: 137261928
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261928

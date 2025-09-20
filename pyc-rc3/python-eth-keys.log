@@ -1,0 +1,10 @@
+Cloning into 'python-eth-keys'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e863b95] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-eth-keys-0.7.0-5.fc44 for rawhide
+Created task: 137258715
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258715
+Building python-eth-keys-0.7.0-5.fc43 for f43-candidate
+Created task: 137258718
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258718

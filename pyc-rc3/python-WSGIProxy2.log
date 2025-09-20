@@ -1,0 +1,10 @@
+Cloning into 'python-WSGIProxy2'...
+[rawhide 9a468f9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-WSGIProxy2-0.4.6-24.fc44 for rawhide
+Created task: 137265670
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265670
+Building python-WSGIProxy2-0.4.6-24.fc43 for f43-candidate
+Created task: 137265687
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265687

@@ -1,0 +1,10 @@
+Cloning into 'python-typer'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7f42b80] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-typer-0.17.4-2.fc44 for rawhide
+Created task: 137265207
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265207
+Building python-typer-0.17.4-2.fc43 for f43-candidate
+Created task: 137265209
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265209

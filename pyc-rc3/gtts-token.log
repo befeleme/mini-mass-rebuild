@@ -1,0 +1,10 @@
+Cloning into 'gtts-token'...
+[rawhide 49b823c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gtts-token-1.1.4-20.fc44 for rawhide
+Created task: 137254306
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254306
+Building gtts-token-1.1.4-20.fc43 for f43-candidate
+Created task: 137254307
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254307

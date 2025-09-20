@@ -1,0 +1,12 @@
+Cloning into 'gnome-abrt'...
+[rawhide 110dfc7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+Building gnome-abrt-1.4.3-8.fc44 for rawhide
+Created task: 137254150
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254150
+Found a gating.yaml file in the repo and it is properly configured
+Building gnome-abrt-1.4.3-8.fc43 for f43-candidate
+Created task: 137254156
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254156

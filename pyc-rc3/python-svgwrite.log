@@ -1,0 +1,10 @@
+Cloning into 'python-svgwrite'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f3a878f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-svgwrite-1.4.3-18.fc44 for rawhide
+Created task: 137264604
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264604
+Building python-svgwrite-1.4.3-18.fc43 for f43-candidate
+Created task: 137264608
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264608

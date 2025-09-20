@@ -1,0 +1,10 @@
+Cloning into 'python-simpleline'...
+[rawhide 595e527] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-simpleline-1.9.0-17.fc44 for rawhide
+Created task: 137264006
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264006
+Building python-simpleline-1.9.0-17.fc43 for f43-candidate
+Created task: 137264014
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264014

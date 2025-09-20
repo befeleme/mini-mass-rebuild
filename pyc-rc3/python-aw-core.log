@@ -1,0 +1,10 @@
+Cloning into 'python-aw-core'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0196e38] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-aw-core-0.5.17-7.fc44 for rawhide
+Created task: 137256368
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256368
+Building python-aw-core-0.5.17-7.fc43 for f43-candidate
+Created task: 137256372
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256372

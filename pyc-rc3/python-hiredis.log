@@ -1,0 +1,10 @@
+Cloning into 'python-hiredis'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4e06479] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-hiredis-3.1.1-5.fc44 for rawhide
+Created task: 137259711
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259711
+Building python-hiredis-3.1.1-5.fc43 for f43-candidate
+Created task: 137259714
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259714

@@ -1,0 +1,10 @@
+Cloning into 'python-pyongc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide beaf064] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyongc-1.2.0-4.fc44 for rawhide
+Created task: 137262536
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262536
+Building python-pyongc-1.2.0-4.fc43 for f43-candidate
+Created task: 137262546
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262546

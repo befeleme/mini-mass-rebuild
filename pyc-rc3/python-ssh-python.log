@@ -1,0 +1,10 @@
+Cloning into 'python-ssh-python'...
+[rawhide 7623e6a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ssh-python-1.1.1-7.fc44 for rawhide
+Created task: 137264486
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264486
+Building python-ssh-python-1.1.1-7.fc43 for f43-candidate
+Created task: 137264490
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264490

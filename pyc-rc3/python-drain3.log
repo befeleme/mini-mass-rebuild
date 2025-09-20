@@ -1,0 +1,10 @@
+Cloning into 'python-drain3'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 81d270f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-drain3-0.9.11-20240424git76d12de.8.fc44 for rawhide
+Created task: 137258533
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258533
+Building python-drain3-0.9.11-20240424git76d12de.8.fc43 for f43-candidate
+Created task: 137258535
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258535

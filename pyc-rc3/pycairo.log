@@ -1,0 +1,10 @@
+Cloning into 'pycairo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0bc2f7e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pycairo-1.28.0-4.fc44 for rawhide
+Created task: 137255620
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255620
+Building pycairo-1.28.0-4.fc43 for f43-candidate
+Created task: 137255628
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255628

@@ -1,0 +1,10 @@
+Cloning into 'git-cola'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ac469ab] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building git-cola-4.15.0-2.fc44 for rawhide
+Created task: 137254105
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254105
+Building git-cola-4.15.0-2.fc43 for f43-candidate
+Created task: 137254110
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254110

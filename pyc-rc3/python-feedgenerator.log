@@ -1,0 +1,10 @@
+Cloning into 'python-feedgenerator'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d879591] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-feedgenerator-2.1.0-11.fc44 for rawhide
+Created task: 137258920
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258920
+Building python-feedgenerator-2.1.0-11.fc43 for f43-candidate
+Created task: 137258925
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258925

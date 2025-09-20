@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-storage-plugin-azure'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1163fb7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-storage-plugin-azure-0.4.4-5.fc44 for rawhide
+Created task: 137264126
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264126
+Building python-snakemake-storage-plugin-azure-0.4.4-5.fc43 for f43-candidate
+Created task: 137264154
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264154

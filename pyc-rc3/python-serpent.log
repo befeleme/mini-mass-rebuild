@@ -1,0 +1,10 @@
+Cloning into 'python-serpent'...
+[rawhide 7008af9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-serpent-1.40-14.fc44 for rawhide
+Created task: 137263910
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263910
+Building python-serpent-1.40-14.fc43 for f43-candidate
+Created task: 137263920
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263920

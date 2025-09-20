@@ -1,0 +1,10 @@
+Cloning into 'python-fauxquests'...
+[rawhide 56536dd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-fauxquests-1.1-35.fc44 for rawhide
+Created task: 137258907
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258907
+Building python-fauxquests-1.1-35.fc43 for f43-candidate
+Created task: 137258911
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258911

@@ -1,0 +1,10 @@
+Cloning into 'python-glad2'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2146cde] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-glad2-2.0.8-7.fc44 for rawhide
+Created task: 137259516
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259516
+Building python-glad2-2.0.8-7.fc43 for f43-candidate
+Created task: 137259522
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259522

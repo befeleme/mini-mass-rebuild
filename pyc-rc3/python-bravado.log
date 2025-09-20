@@ -1,0 +1,10 @@
+Cloning into 'python-bravado'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9a64b15] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-bravado-12.0.1-5.fc44 for rawhide
+Created task: 137257129
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257129
+Building python-bravado-12.0.1-5.fc43 for f43-candidate
+Created task: 137257136
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257136

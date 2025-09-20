@@ -1,0 +1,10 @@
+Cloning into 'python-nbdime'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5e0964f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-nbdime-4.0.2-8.fc44 for rawhide
+Created task: 137261321
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261321
+Building python-nbdime-4.0.2-8.fc43 for f43-candidate
+Created task: 137261325
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261325

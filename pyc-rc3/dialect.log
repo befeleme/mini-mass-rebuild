@@ -1,0 +1,10 @@
+Cloning into 'dialect'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 830a6fd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building dialect-2.5.0-4.fc44 for rawhide
+Created task: 137253588
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253588
+Building dialect-2.5.0-4.fc43 for f43-candidate
+Created task: 137253595
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253595

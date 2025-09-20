@@ -1,0 +1,4 @@
+Cloning into 'python-hdfs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 24f98ff] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>

@@ -1,0 +1,10 @@
+Cloning into 'jello'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 80ac224] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building jello-1.6.1-5.fc44 for rawhide
+Created task: 137254440
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254440
+Building jello-1.6.1-5.fc43 for f43-candidate
+Created task: 137254448
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254448

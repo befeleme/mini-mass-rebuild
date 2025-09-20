@@ -1,0 +1,10 @@
+Cloning into 'python-micawber'...
+[rawhide 9f3bfd8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-micawber-0.5.5-10.fc44 for rawhide
+Created task: 137261046
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261046
+Building python-micawber-0.5.5-10.fc43 for f43-candidate
+Created task: 137261051
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261051

@@ -1,0 +1,10 @@
+Cloning into 'python-fedora-sig-onboard'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0b9e0b3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fedora-sig-onboard-0.1.1-10.fc44 for rawhide
+Created task: 137258919
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258919
+Building python-fedora-sig-onboard-0.1.1-10.fc43 for f43-candidate
+Created task: 137258921
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258921

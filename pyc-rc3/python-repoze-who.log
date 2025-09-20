@@ -1,0 +1,10 @@
+Cloning into 'python-repoze-who'...
+[rawhide e1b0161] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-repoze-who-3.1.0-6.fc44 for rawhide
+Created task: 137263505
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263505
+Building python-repoze-who-3.1.0-6.fc43 for f43-candidate
+Created task: 137263511
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263511

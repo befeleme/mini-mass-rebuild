@@ -1,0 +1,10 @@
+Cloning into 'gdcm'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1207a10] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building gdcm-3.0.24-14.fc44 for rawhide
+Created task: 137254035
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254035
+Building gdcm-3.0.24-14.fc43 for f43-candidate
+Created task: 137254042
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254042

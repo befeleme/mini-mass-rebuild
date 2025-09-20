@@ -1,0 +1,10 @@
+Cloning into 'python-django-appconf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fc96424] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-django-appconf-1.1.0-5.fc44 for rawhide
+Created task: 137258257
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258257
+Building python-django-appconf-1.1.0-5.fc43 for f43-candidate
+Created task: 137258258
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258258

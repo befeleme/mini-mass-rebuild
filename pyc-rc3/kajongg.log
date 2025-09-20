@@ -1,0 +1,8 @@
+Cloning into 'kajongg'...
+kajongg f43 and rawhide branches differ
+[rawhide 934fbb8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building kajongg-25.08.0-4.fc44 for rawhide
+Created task: 137254437
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254437

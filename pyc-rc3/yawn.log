@@ -1,0 +1,8 @@
+Cloning into 'yawn'...
+yawn f43 and rawhide branches differ
+[rawhide bb93050] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building yawn-0-0.55.20140318svn632.fc44 for rawhide
+Created task: 137266943
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266943

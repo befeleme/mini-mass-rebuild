@@ -1,0 +1,10 @@
+Cloning into 'dxf2gcode'...
+[rawhide 3f1dfca] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building dxf2gcode-20240509-9.fc44 for rawhide
+Created task: 137253775
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253775
+Building dxf2gcode-20240509-9.fc43 for f43-candidate
+Created task: 137253782
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253782

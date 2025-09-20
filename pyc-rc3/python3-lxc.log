@@ -1,0 +1,10 @@
+Cloning into 'python3-lxc'...
+[rawhide f9d76bf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python3-lxc-5.0.0-15.fc44 for rawhide
+Created task: 137255868
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255868
+Building python3-lxc-5.0.0-15.fc43 for f43-candidate
+Created task: 137255876
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255876

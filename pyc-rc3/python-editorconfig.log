@@ -1,0 +1,10 @@
+Cloning into 'python-editorconfig'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 13a2d2f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-editorconfig-0.17.1-5.fc44 for rawhide
+Created task: 137258617
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258617
+Building python-editorconfig-0.17.1-5.fc43 for f43-candidate
+Created task: 137258622
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258622

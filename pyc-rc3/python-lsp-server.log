@@ -1,0 +1,10 @@
+Cloning into 'python-lsp-server'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4d1c393] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-lsp-server-1.12.2-5.fc44 for rawhide
+Created task: 137260815
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260815
+Building python-lsp-server-1.12.2-5.fc43 for f43-candidate
+Created task: 137260818
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260818

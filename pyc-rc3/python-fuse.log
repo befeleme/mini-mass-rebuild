@@ -1,0 +1,10 @@
+Cloning into 'python-fuse'...
+[rawhide 2cbe785] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-fuse-3.0.1-5.fc44 for rawhide
+Created task: 137259382
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259382
+Building python-fuse-3.0.1-5.fc43 for f43-candidate
+Created task: 137259387
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259387

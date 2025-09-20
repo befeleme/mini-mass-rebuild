@@ -1,0 +1,10 @@
+Cloning into 'python-pyogrio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 251f6db] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyogrio-0.11.1-3.fc44 for rawhide
+Created task: 137262533
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262533
+Building python-pyogrio-0.11.1-3.fc43 for f43-candidate
+Created task: 137262535
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262535

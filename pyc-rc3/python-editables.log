@@ -1,0 +1,10 @@
+Cloning into 'python-editables'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 378f89b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-editables-0.5-14.fc44 for rawhide
+Created task: 137258610
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258610
+Building python-editables-0.5-14.fc43 for f43-candidate
+Created task: 137258616
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258616

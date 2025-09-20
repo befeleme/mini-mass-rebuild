@@ -1,0 +1,10 @@
+Cloning into 'python-pdm-backend'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2dee54e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pdm-backend-2.4.5-4.fc44 for rawhide
+Created task: 137261865
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261865
+Building python-pdm-backend-2.4.5-4.fc43 for f43-candidate
+Created task: 137261872
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261872

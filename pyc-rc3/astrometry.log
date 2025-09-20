@@ -1,0 +1,10 @@
+Cloning into 'astrometry'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 75ea98d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building astrometry-0.97-7.fc44 for rawhide
+Created task: 137252815
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252815
+Building astrometry-0.97-7.fc43 for f43-candidate
+Created task: 137252823
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252823

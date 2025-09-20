@@ -1,0 +1,10 @@
+Cloning into 'python-nitime'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7c5d8a3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-nitime-0.11-13.fc44 for rawhide
+Created task: 137261387
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261387
+Building python-nitime-0.11-13.fc43 for f43-candidate
+Created task: 137261390
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261390

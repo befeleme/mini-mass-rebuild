@@ -1,0 +1,10 @@
+Cloning into 'python-django-pytest'...
+[rawhide d6ac5bb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-django-pytest-0.2.0-45.fc44 for rawhide
+Created task: 137258371
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258371
+Building python-django-pytest-0.2.0-45.fc43 for f43-candidate
+Created task: 137258374
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258374

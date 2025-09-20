@@ -1,0 +1,10 @@
+Cloning into 'python-oauth2'...
+[rawhide 2d466b6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-oauth2-1.9.0-38.post1.fc44 for rawhide
+Created task: 137261465
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261465
+Building python-oauth2-1.9.0-38.post1.fc43 for f43-candidate
+Created task: 137261470
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261470

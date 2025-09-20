@@ -1,0 +1,10 @@
+Cloning into 'python-pydyf'...
+[rawhide f34867d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pydyf-0.11.0-7.fc44 for rawhide
+Created task: 137262299
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262299
+Building python-pydyf-0.11.0-7.fc43 for f43-candidate
+Created task: 137262302
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262302

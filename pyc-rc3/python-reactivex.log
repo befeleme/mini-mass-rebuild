@@ -1,0 +1,10 @@
+Cloning into 'python-reactivex'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6d6c37f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-reactivex-4.0.4-16.fc44 for rawhide
+Created task: 137263398
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263398
+Building python-reactivex-4.0.4-16.fc43 for f43-candidate
+Created task: 137263403
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263403

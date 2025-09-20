@@ -1,0 +1,10 @@
+Cloning into 'python-poetry-plugin-export'...
+[rawhide da3f519] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-poetry-plugin-export-1.9.0-5.fc44 for rawhide
+Created task: 137262037
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262037
+Building python-poetry-plugin-export-1.9.0-5.fc43 for f43-candidate
+Created task: 137262039
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262039

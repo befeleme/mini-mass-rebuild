@@ -1,0 +1,10 @@
+Cloning into 'python-flask-multistatic'...
+[rawhide 67da32e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flask-multistatic-1.0-36.fc44 for rawhide
+Created task: 137259085
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259085
+Building python-flask-multistatic-1.0-36.fc43 for f43-candidate
+Created task: 137259089
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259089

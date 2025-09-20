@@ -1,0 +1,10 @@
+Cloning into 'kiwi'...
+[rawhide f2ead0b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building kiwi-10.2.33-2.fc44 for rawhide
+Created task: 137254485
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254485
+Building kiwi-10.2.33-2.fc43 for f43-candidate
+Created task: 137254490
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254490

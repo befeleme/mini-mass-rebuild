@@ -1,0 +1,10 @@
+Cloning into 'python-torchdiffeq'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide dd979be] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-torchdiffeq-0.2.5-6.fc44 for rawhide
+Created task: 137265057
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265057
+Building python-torchdiffeq-0.2.5-6.fc43 for f43-candidate
+Created task: 137265060
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265060

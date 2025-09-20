@@ -1,0 +1,12 @@
+Cloning into 'python-virt-firmware'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 85f5df5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building python-virt-firmware-25.7.3-5.fc44 for rawhide
+Created task: 137265443
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265443
+Found a gating.yaml file in the repo and it is properly configured
+Building python-virt-firmware-25.7.3-5.fc43 for f43-candidate
+Created task: 137265447
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265447

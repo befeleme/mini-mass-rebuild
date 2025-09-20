@@ -1,0 +1,10 @@
+Cloning into 'python-azure-keyvault-administration'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 334dd9f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-keyvault-administration-4.4.0~b2-10.fc44 for rawhide
+Created task: 137256443
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256443
+Building python-azure-keyvault-administration-4.4.0~b2-10.fc43 for f43-candidate
+Created task: 137256444
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256444

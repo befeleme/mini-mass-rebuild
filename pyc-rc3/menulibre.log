@@ -1,0 +1,10 @@
+Cloning into 'menulibre'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 55c4abe] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building menulibre-2.3.2-12.fc44 for rawhide
+Created task: 137254930
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254930
+Building menulibre-2.3.2-12.fc43 for f43-candidate
+Created task: 137254933
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254933

@@ -1,0 +1,10 @@
+Cloning into 'python-scrypt'...
+[rawhide 6833075] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-scrypt-0.8.27-6.fc44 for rawhide
+Created task: 137263873
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263873
+Building python-scrypt-0.8.27-6.fc43 for f43-candidate
+Created task: 137263875
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263875

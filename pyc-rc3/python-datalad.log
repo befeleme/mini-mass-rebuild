@@ -1,0 +1,10 @@
+Cloning into 'python-datalad'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 57b6e25] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-datalad-1.2.0-3.fc44 for rawhide
+Created task: 137258091
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258091
+Building python-datalad-1.2.0-3.fc43 for f43-candidate
+Created task: 137258094
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258094

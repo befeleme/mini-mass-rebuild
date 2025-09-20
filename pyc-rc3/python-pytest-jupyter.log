@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-jupyter'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e943d9b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-jupyter-0.10.1-9.fc44 for rawhide
+Created task: 137263084
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263084
+Building python-pytest-jupyter-0.10.1-9.fc43 for f43-candidate
+Created task: 137263086
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263086

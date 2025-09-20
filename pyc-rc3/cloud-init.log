@@ -1,0 +1,8 @@
+Cloning into 'cloud-init'...
+cloud-init f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d183eb2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building cloud-init-25.2-10.fc44 for rawhide
+Created task: 137253200
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253200

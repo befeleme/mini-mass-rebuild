@@ -1,0 +1,10 @@
+Cloning into 'mailprocessing'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 01e65d2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building mailprocessing-1.2.7-14.fc44 for rawhide
+Created task: 137254879
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254879
+Building mailprocessing-1.2.7-14.fc43 for f43-candidate
+Created task: 137254882
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254882

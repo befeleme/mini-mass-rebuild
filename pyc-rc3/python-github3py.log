@@ -1,0 +1,10 @@
+Cloning into 'python-github3py'...
+[rawhide 93449fb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-github3py-4.0.1-13.fc44 for rawhide
+Created task: 137259498
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259498
+Building python-github3py-4.0.1-13.fc43 for f43-candidate
+Created task: 137259510
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259510

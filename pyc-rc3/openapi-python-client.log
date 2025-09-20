@@ -1,0 +1,10 @@
+Cloning into 'openapi-python-client'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2cac024] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building openapi-python-client-0.26.0-3.fc44 for rawhide
+Created task: 137255263
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255263
+Building openapi-python-client-0.26.0-3.fc43 for f43-candidate
+Created task: 137255265
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255265

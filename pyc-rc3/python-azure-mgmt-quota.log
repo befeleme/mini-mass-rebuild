@@ -1,0 +1,8 @@
+Cloning into 'python-azure-mgmt-quota'...
+python-azure-mgmt-quota f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2e0063c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-quota-2.0.0-2.fc44 for rawhide
+Created task: 137256638
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256638

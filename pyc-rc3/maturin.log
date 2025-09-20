@@ -1,0 +1,10 @@
+Cloning into 'maturin'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 26bf107] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building maturin-1.8.7-3.fc44 for rawhide
+Created task: 137254899
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254899
+Building maturin-1.8.7-3.fc43 for f43-candidate
+Created task: 137254904
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254904

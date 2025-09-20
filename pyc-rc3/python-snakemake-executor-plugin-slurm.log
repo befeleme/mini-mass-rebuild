@@ -1,0 +1,8 @@
+Cloning into 'python-snakemake-executor-plugin-slurm'...
+python-snakemake-executor-plugin-slurm f43 build complete but not tagged: python-snakemake-executor-plugin-slurm-1.8.0-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 63db070] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-executor-plugin-slurm-1.8.0-2.fc44 for rawhide
+Created task: 137264099
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264099

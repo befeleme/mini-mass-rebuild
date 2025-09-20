@@ -1,0 +1,10 @@
+Cloning into 'python-saneyaml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 03acd84] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-saneyaml-0.6.1-2.fc44 for rawhide
+Created task: 137263801
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263801
+Building python-saneyaml-0.6.1-2.fc43 for f43-candidate
+Created task: 137263810
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263810

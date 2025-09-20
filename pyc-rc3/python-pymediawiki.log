@@ -1,0 +1,10 @@
+Cloning into 'python-pymediawiki'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 03fad8f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pymediawiki-0.7.5-6.fc44 for rawhide
+Created task: 137262488
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262488
+Building python-pymediawiki-0.7.5-6.fc43 for f43-candidate
+Created task: 137262493
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262493

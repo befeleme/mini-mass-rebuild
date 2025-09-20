@@ -1,0 +1,10 @@
+Cloning into 'python-beaker'...
+[rawhide e656fb1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-beaker-1.12.1-13.fc44 for rawhide
+Created task: 137256877
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256877
+Building python-beaker-1.12.1-13.fc43 for f43-candidate
+Created task: 137256883
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256883

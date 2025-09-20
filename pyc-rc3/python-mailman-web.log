@@ -1,0 +1,10 @@
+Cloning into 'python-mailman-web'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a8d0c3e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mailman-web-0.0.9-7.fc44 for rawhide
+Created task: 137260840
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260840
+Building python-mailman-web-0.0.9-7.fc43 for f43-candidate
+Created task: 137260845
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260845

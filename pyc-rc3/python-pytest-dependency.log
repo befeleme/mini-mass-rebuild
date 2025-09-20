@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-dependency'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c2e19de] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-dependency-0.6.0-7.fc44 for rawhide
+Created task: 137263036
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263036
+Building python-pytest-dependency-0.6.0-7.fc43 for f43-candidate
+Created task: 137263038
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263038

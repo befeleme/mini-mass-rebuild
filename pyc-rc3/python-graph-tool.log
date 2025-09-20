@@ -1,0 +1,10 @@
+Cloning into 'python-graph-tool'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ee8c7ac] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-graph-tool-2.98-2.fc44 for rawhide
+Created task: 137259602
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259602
+Building python-graph-tool-2.98-2.fc43 for f43-candidate
+Created task: 137259603
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259603

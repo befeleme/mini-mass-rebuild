@@ -1,0 +1,10 @@
+Cloning into 'python-phonenumbers'...
+[rawhide ecd013d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-phonenumbers-8.13.48-6.fc44 for rawhide
+Created task: 137261934
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261934
+Building python-phonenumbers-8.13.48-6.fc43 for f43-candidate
+Created task: 137261937
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261937

@@ -1,0 +1,11 @@
+Cloning into 'python-confuse'...
+No %changelog detected, not generating one.
+[rawhide ef311c9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Building python-confuse-2.0.1-12.fc44 for rawhide
+Created task: 137257752
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257752
+Building python-confuse-2.0.1-12.fc43 for f43-candidate
+Created task: 137257760
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257760

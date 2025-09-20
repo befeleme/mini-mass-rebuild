@@ -1,0 +1,7 @@
+Cloning into 'flashrom'...
+[rawhide 56c9c26] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building flashrom-1.6.0-2.fc44 for rawhide
+Created task: 137252680
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252680

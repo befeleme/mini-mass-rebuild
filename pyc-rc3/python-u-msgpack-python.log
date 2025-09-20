@@ -1,0 +1,10 @@
+Cloning into 'python-u-msgpack-python'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 34c896a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-u-msgpack-python-2.8.0-11.fc44 for rawhide
+Created task: 137265261
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265261
+Building python-u-msgpack-python-2.8.0-11.fc43 for f43-candidate
+Created task: 137265267
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265267

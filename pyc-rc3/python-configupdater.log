@@ -1,0 +1,10 @@
+Cloning into 'python-configupdater'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fa9aaa7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-configupdater-3.2-10.fc44 for rawhide
+Created task: 137257742
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257742
+Building python-configupdater-3.2-10.fc43 for f43-candidate
+Created task: 137257746
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257746

@@ -1,0 +1,10 @@
+Cloning into 'syncstar'...
+[rawhide 4632a0a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building syncstar-0.2.2-5.fc44 for rawhide
+Created task: 137266580
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266580
+Building syncstar-0.2.2-5.fc43 for f43-candidate
+Created task: 137266589
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266589

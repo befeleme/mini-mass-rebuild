@@ -1,0 +1,10 @@
+Cloning into 'python-rsdclient'...
+[rawhide 2a6e764] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-rsdclient-1.0.2-22.fc44 for rawhide
+Created task: 137263730
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263730
+Building python-rsdclient-1.0.2-22.fc43 for f43-candidate
+Created task: 137263738
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263738

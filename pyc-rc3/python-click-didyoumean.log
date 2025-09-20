@@ -1,0 +1,10 @@
+Cloning into 'python-click-didyoumean'...
+[rawhide 5d06091] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-click-didyoumean-0.3.0-15.fc44 for rawhide
+Created task: 137257364
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257364
+Building python-click-didyoumean-0.3.0-15.fc43 for f43-candidate
+Created task: 137257367
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257367

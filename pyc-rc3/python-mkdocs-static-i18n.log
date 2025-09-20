@@ -1,0 +1,10 @@
+Cloning into 'python-mkdocs-static-i18n'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5599e70] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mkdocs-static-i18n-1.2.3-6.fc44 for rawhide
+Created task: 137261128
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261128
+Building python-mkdocs-static-i18n-1.2.3-6.fc43 for f43-candidate
+Created task: 137261132
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261132

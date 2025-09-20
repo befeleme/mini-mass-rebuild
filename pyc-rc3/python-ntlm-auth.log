@@ -1,0 +1,10 @@
+Cloning into 'python-ntlm-auth'...
+[rawhide 986a1b6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ntlm-auth-1.5.0-20.fc44 for rawhide
+Created task: 137261440
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261440
+Building python-ntlm-auth-1.5.0-20.fc43 for f43-candidate
+Created task: 137261443
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261443

@@ -1,0 +1,10 @@
+Cloning into 'python-fast-simplification'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b0736bb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fast-simplification-0.1.12-3.fc44 for rawhide
+Created task: 137258906
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258906
+Building python-fast-simplification-0.1.12-3.fc43 for f43-candidate
+Created task: 137258912
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258912

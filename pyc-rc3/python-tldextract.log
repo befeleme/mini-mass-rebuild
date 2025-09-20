@@ -1,0 +1,10 @@
+Cloning into 'python-tldextract'...
+[rawhide 317b6ae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-tldextract-5.3.0-5.fc44 for rawhide
+Created task: 137264835
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264835
+Building python-tldextract-5.3.0-5.fc43 for f43-candidate
+Created task: 137264837
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264837

@@ -1,0 +1,10 @@
+Cloning into 'python-flexmock'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 52d84b4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-flexmock-0.12.2-6.fc44 for rawhide
+Created task: 137259195
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259195
+Building python-flexmock-0.12.2-6.fc43 for f43-candidate
+Created task: 137259204
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259204

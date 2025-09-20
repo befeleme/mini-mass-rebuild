@@ -1,0 +1,14 @@
+Cloning into 'python-ovirt-engine-sdk4'...
+[rawhide 70077f2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+error: %changelog not in descending chronological order
+
+Building python-ovirt-engine-sdk4-4.6.2-12.fc44 for rawhide
+Created task: 137261665
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261665
+error: %changelog not in descending chronological order
+
+Building python-ovirt-engine-sdk4-4.6.2-12.fc43 for f43-candidate
+Created task: 137261671
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261671

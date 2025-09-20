@@ -1,0 +1,10 @@
+Cloning into 'dogtail'...
+[rawhide db9f9e3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building dogtail-0.9.11-28.fc44 for rawhide
+Created task: 137253745
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253745
+Building dogtail-0.9.11-28.fc43 for f43-candidate
+Created task: 137253748
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253748

@@ -1,0 +1,10 @@
+Cloning into 'python-catkin-sphinx'...
+[rawhide ecc4954] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-catkin-sphinx-0.3.2-6.fc44 for rawhide
+Created task: 137257250
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257250
+Building python-catkin-sphinx-0.3.2-6.fc43 for f43-candidate
+Created task: 137257253
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257253

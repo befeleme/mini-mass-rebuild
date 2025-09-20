@@ -1,0 +1,10 @@
+Cloning into 'python-flask-socketio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c3d62e6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-flask-socketio-5.5.1-6.fc44 for rawhide
+Created task: 137259143
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259143
+Building python-flask-socketio-5.5.1-6.fc43 for f43-candidate
+Created task: 137259145
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259145

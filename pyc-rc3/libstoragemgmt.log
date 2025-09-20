@@ -1,0 +1,10 @@
+Cloning into 'libstoragemgmt'...
+[rawhide b156fd3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libstoragemgmt-1.10.2-7.fc44 for rawhide
+Created task: 137254765
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254765
+Building libstoragemgmt-1.10.2-7.fc43 for f43-candidate
+Created task: 137254767
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254767

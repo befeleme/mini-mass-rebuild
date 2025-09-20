@@ -1,0 +1,8 @@
+Cloning into 'gnuradio'...
+gnuradio f43 and rawhide branches differ
+[rawhide 35b8384] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gnuradio-3.10.12.0-8.fc44 for rawhide
+Created task: 137254199
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254199

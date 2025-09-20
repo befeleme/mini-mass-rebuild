@@ -1,0 +1,10 @@
+Cloning into 'python-surt'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f096128] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-surt-0.3.1-17.git6934c32.fc44 for rawhide
+Created task: 137264597
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264597
+Building python-surt-0.3.1-17.git6934c32.fc43 for f43-candidate
+Created task: 137264599
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264599

@@ -1,0 +1,22 @@
+Cloning into 'python-d2to1'...
+[rawhide dc987f3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 10: %{srcname}-%{version}.tar.gz
+
+warning: Macro expanded in comment on line 10: %{srcname}-%{version}.tar.gz
+
+warning: bogus date in %changelog: Sun Dec 09 2024 Sergio Pascual <sergiopr@fedoraproject.org> - 0.2.12-35.post1
+
+Building python-d2to1-0.2.12-40.post1.fc44 for rawhide
+Created task: 137257982
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257982
+warning: Macro expanded in comment on line 10: %{srcname}-%{version}.tar.gz
+
+warning: Macro expanded in comment on line 10: %{srcname}-%{version}.tar.gz
+
+warning: bogus date in %changelog: Sun Dec 09 2024 Sergio Pascual <sergiopr@fedoraproject.org> - 0.2.12-35.post1
+
+Building python-d2to1-0.2.12-40.post1.fc43 for f43-candidate
+Created task: 137257987
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257987

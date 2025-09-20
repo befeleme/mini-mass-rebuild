@@ -1,0 +1,10 @@
+Cloning into 'totem'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 119505e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building totem-43.2-6.fc44 for rawhide
+Created task: 137266701
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266701
+Building totem-43.2-6.fc43 for f43-candidate
+Created task: 137266730
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266730

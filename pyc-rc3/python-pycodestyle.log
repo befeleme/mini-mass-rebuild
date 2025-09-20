@@ -1,0 +1,10 @@
+Cloning into 'python-pycodestyle'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5a3a507] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pycodestyle-2.12.1-9.fc44 for rawhide
+Created task: 137287036
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287036
+Building python-pycodestyle-2.12.1-9.fc43 for f43-candidate
+Created task: 137287044
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287044

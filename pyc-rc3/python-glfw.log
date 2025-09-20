@@ -1,0 +1,10 @@
+Cloning into 'python-glfw'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e8fd93d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-glfw-2.7.0-6.fc44 for rawhide
+Created task: 137259525
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259525
+Building python-glfw-2.7.0-6.fc43 for f43-candidate
+Created task: 137259536
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259536

@@ -1,0 +1,10 @@
+Cloning into 'python-pylibmc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4a42136] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pylibmc-1.6.3-16.fc44 for rawhide
+Created task: 137262452
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262452
+Building python-pylibmc-1.6.3-16.fc43 for f43-candidate
+Created task: 137262457
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262457

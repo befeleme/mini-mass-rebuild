@@ -1,0 +1,10 @@
+Cloning into 'python-a2wsgi'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1cec01b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-a2wsgi-1.10.8-6.fc44 for rawhide
+Created task: 137255896
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255896
+Building python-a2wsgi-1.10.8-6.fc43 for f43-candidate
+Created task: 137255900
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255900

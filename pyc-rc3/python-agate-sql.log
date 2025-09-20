@@ -1,0 +1,10 @@
+Cloning into 'python-agate-sql'...
+[rawhide a50854b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-agate-sql-0.7.2-9.fc44 for rawhide
+Created task: 137255964
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255964
+Building python-agate-sql-0.7.2-9.fc43 for f43-candidate
+Created task: 137255968
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255968

@@ -1,0 +1,10 @@
+Cloning into 'python-nose2'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0b3d6a9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-nose2-0.15.1-16.fc44 for rawhide
+Created task: 137261422
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261422
+Building python-nose2-0.15.1-16.fc43 for f43-candidate
+Created task: 137261425
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261425

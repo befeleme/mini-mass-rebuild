@@ -1,0 +1,10 @@
+Cloning into 'arbor'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fb5798f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building arbor-0.9.0-16.fc44 for rawhide
+Created task: 137252810
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252810
+Building arbor-0.9.0-16.fc43 for f43-candidate
+Created task: 137252812
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252812

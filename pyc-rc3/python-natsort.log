@@ -1,0 +1,10 @@
+Cloning into 'python-natsort'...
+[rawhide aec3b60] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-natsort-8.4.0-8.fc44 for rawhide
+Created task: 137261312
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261312
+Building python-natsort-8.4.0-8.fc43 for f43-candidate
+Created task: 137261316
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261316

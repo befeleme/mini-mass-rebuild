@@ -1,0 +1,10 @@
+Cloning into 'fusion-icon'...
+[rawhide 193957e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building fusion-icon-0.2.4-35.fc44 for rawhide
+Created task: 137254002
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254002
+Building fusion-icon-0.2.4-35.fc43 for f43-candidate
+Created task: 137254012
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254012

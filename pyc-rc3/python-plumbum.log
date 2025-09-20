@@ -1,0 +1,7 @@
+Cloning into 'python-plumbum'...
+[f43 5bff8b6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-plumbum-1.7.2-15.fc43 for f43-candidate
+Created task: 137269125
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269125

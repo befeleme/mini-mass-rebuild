@@ -1,0 +1,10 @@
+Cloning into 'python-xmp-toolkit'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9a1f5b8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-xmp-toolkit-2.0.2-9.fc44 for rawhide
+Created task: 137265784
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265784
+Building python-xmp-toolkit-2.0.2-9.fc43 for f43-candidate
+Created task: 137265787
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265787

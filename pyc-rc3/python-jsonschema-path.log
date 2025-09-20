@@ -1,0 +1,10 @@
+Cloning into 'python-jsonschema-path'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 485044b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jsonschema-path-0.3.4-5.fc44 for rawhide
+Created task: 137260331
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260331
+Building python-jsonschema-path-0.3.4-5.fc43 for f43-candidate
+Created task: 137260340
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260340

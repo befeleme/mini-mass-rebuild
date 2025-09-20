@@ -1,0 +1,10 @@
+Cloning into 'python-inquirer'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e276be9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-inquirer-3.1.3-10.fc44 for rawhide
+Created task: 137259921
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259921
+Building python-inquirer-3.1.3-10.fc43 for f43-candidate
+Created task: 137259923
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259923

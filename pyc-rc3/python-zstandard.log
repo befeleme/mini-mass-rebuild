@@ -1,0 +1,8 @@
+Cloning into 'python-zstandard'...
+python-zstandard f43 build complete but not tagged: python-zstandard-0.24.0-1.fc43
+[rawhide 1487bc1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-zstandard-0.24.0-2.fc44 for rawhide
+Created task: 137265996
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265996

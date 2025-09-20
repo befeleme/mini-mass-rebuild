@@ -1,0 +1,8 @@
+Cloning into 'python-trove-classifiers'...
+python-trove-classifiers f43 and rawhide branches differ
+[rawhide 2a10072] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-trove-classifiers-2025.9.9.12-2.fc44 for rawhide
+Created task: 137265133
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265133

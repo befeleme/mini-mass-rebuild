@@ -1,0 +1,10 @@
+Cloning into 'python-azure-servicebus'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 23d6ca4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-servicebus-7.12.2-8.fc44 for rawhide
+Created task: 137256769
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256769
+Building python-azure-servicebus-7.12.2-8.fc43 for f43-candidate
+Created task: 137256772
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256772

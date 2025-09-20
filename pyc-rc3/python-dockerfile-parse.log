@@ -1,0 +1,10 @@
+Cloning into 'python-dockerfile-parse'...
+[rawhide 9017fdb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-dockerfile-parse-2.0.1-11.fc44 for rawhide
+Created task: 137258451
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258451
+Building python-dockerfile-parse-2.0.1-11.fc43 for f43-candidate
+Created task: 137258453
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258453

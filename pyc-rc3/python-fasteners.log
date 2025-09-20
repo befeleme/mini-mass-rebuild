@@ -1,0 +1,10 @@
+Cloning into 'python-fasteners'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 264b85e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fasteners-0.20-3.fc44 for rawhide
+Created task: 137258903
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258903
+Building python-fasteners-0.20-3.fc43 for f43-candidate
+Created task: 137258908
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258908

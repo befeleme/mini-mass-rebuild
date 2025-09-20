@@ -1,0 +1,10 @@
+Cloning into 'nut'...
+[rawhide 069b76a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building nut-2.8.4-3.fc44 for rawhide
+Created task: 137255190
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255190
+Building nut-2.8.4-3.fc43 for f43-candidate
+Created task: 137255193
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255193

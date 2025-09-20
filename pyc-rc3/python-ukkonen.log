@@ -1,0 +1,10 @@
+Cloning into 'python-ukkonen'...
+[rawhide d7fac19] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ukkonen-1.0.1-20.fc44 for rawhide
+Created task: 137265260
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265260
+Building python-ukkonen-1.0.1-20.fc43 for f43-candidate
+Created task: 137265266
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265266

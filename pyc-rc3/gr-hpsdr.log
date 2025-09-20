@@ -1,0 +1,10 @@
+Cloning into 'gr-hpsdr'...
+[rawhide 25dd23a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gr-hpsdr-3.0-39.fc44 for rawhide
+Created task: 137254265
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254265
+Building gr-hpsdr-3.0-39.fc43 for f43-candidate
+Created task: 137254275
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254275

@@ -1,0 +1,10 @@
+Cloning into 'python-flask-principal'...
+[rawhide f58dc8a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flask-principal-0.4.0-44.fc44 for rawhide
+Created task: 137259104
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259104
+Building python-flask-principal-0.4.0-44.fc43 for f43-candidate
+Created task: 137259114
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259114

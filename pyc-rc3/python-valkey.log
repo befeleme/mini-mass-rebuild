@@ -1,0 +1,14 @@
+Cloning into 'python-valkey'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8f14a93] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+error: %changelog not in descending chronological order
+
+Building python-valkey-6.1.1-5.fc44 for rawhide
+Created task: 137265377
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265377
+error: %changelog not in descending chronological order
+
+Building python-valkey-6.1.1-5.fc43 for f43-candidate
+Created task: 137265379
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265379

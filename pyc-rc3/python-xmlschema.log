@@ -1,0 +1,10 @@
+Cloning into 'python-xmlschema'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 08b4e78] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-xmlschema-3.4.5-5.fc44 for rawhide
+Created task: 137265774
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265774
+Building python-xmlschema-3.4.5-5.fc43 for f43-candidate
+Created task: 137265778
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265778

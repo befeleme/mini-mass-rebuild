@@ -1,0 +1,10 @@
+Cloning into 'python-ptyprocess'...
+[rawhide c8ecc39] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ptyprocess-0.7.0-14.fc44 for rawhide
+Created task: 137262143
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262143
+Building python-ptyprocess-0.7.0-14.fc43 for f43-candidate
+Created task: 137262146
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262146

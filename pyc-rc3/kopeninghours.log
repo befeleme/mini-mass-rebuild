@@ -1,0 +1,10 @@
+Cloning into 'kopeninghours'...
+[rawhide 4c07df7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building kopeninghours-25.08.0-3.fc44 for rawhide
+Created task: 137254674
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254674
+Building kopeninghours-25.08.0-3.fc43 for f43-candidate
+Created task: 137254679
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254679

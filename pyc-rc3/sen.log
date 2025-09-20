@@ -1,0 +1,10 @@
+Cloning into 'sen'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c7d2689] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building sen-0.8.1-6.fc44 for rawhide
+Created task: 137266372
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266372
+Building sen-0.8.1-6.fc43 for f43-candidate
+Created task: 137266377
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266377

@@ -1,0 +1,10 @@
+Cloning into 'python-crc32c'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 30d9c42] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-crc32c-2.7.1-8.fc44 for rawhide
+Created task: 137257866
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257866
+Building python-crc32c-2.7.1-8.fc43 for f43-candidate
+Created task: 137257868
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257868

@@ -1,0 +1,10 @@
+Cloning into 'python-qtconsole'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6f926f4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-qtconsole-5.6.1-7.fc44 for rawhide
+Created task: 137263340
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263340
+Building python-qtconsole-5.6.1-7.fc43 for f43-candidate
+Created task: 137263342
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263342

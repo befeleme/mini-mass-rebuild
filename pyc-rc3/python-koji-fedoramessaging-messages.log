@@ -1,0 +1,10 @@
+Cloning into 'python-koji-fedoramessaging-messages'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 96e80e9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-koji-fedoramessaging-messages-1.2.6-5.fc44 for rawhide
+Created task: 137260497
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260497
+Building python-koji-fedoramessaging-messages-1.2.6-5.fc43 for f43-candidate
+Created task: 137260501
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260501

@@ -1,0 +1,10 @@
+Cloning into 'python-oslo-log'...
+[rawhide 32037df] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-oslo-log-6.1.2-8.fc44 for rawhide
+Created task: 137261635
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261635
+Building python-oslo-log-6.1.2-8.fc43 for f43-candidate
+Created task: 137261644
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261644

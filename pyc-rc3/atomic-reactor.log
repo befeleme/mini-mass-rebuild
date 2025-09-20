@@ -1,0 +1,14 @@
+Cloning into 'atomic-reactor'...
+[rawhide 802755a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: bogus date in %changelog: Wed Sep 7 2024 Neel Chauhan <neel@neelc.org> - 4.12.1-1
+
+Building atomic-reactor-4.19.1-6.fc44 for rawhide
+Created task: 137252820
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252820
+warning: bogus date in %changelog: Wed Sep 7 2024 Neel Chauhan <neel@neelc.org> - 4.12.1-1
+
+Building atomic-reactor-4.19.1-6.fc43 for f43-candidate
+Created task: 137252824
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252824

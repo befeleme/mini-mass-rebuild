@@ -1,0 +1,10 @@
+Cloning into 'python-perky'...
+[rawhide 5a7ef31] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-perky-0.9.3-6.fc44 for rawhide
+Created task: 137261902
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261902
+Building python-perky-0.9.3-6.fc43 for f43-candidate
+Created task: 137261914
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261914

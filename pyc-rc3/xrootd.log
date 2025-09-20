@@ -1,0 +1,10 @@
+Cloning into 'xrootd'...
+[rawhide 2f40bda] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building xrootd-5.8.4-4.fc44 for rawhide
+Created task: 137266946
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266946
+Building xrootd-5.8.4-4.fc43 for f43-candidate
+Created task: 137266951
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266951

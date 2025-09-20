@@ -1,0 +1,10 @@
+Cloning into 'python-crossword'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 25bf2c1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-crossword-0.1.2-13.fc44 for rawhide
+Created task: 137257886
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257886
+Building python-crossword-0.1.2-13.fc43 for f43-candidate
+Created task: 137257890
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257890

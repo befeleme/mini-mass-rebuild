@@ -1,0 +1,10 @@
+Cloning into 'python-XStatic-Patternfly-Bootstrap-Treeview'...
+[rawhide 378ee20] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-XStatic-Patternfly-Bootstrap-Treeview-2.1.3.2-33.fc44 for rawhide
+Created task: 137265883
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265883
+Building python-XStatic-Patternfly-Bootstrap-Treeview-2.1.3.2-33.fc43 for f43-candidate
+Created task: 137265888
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265888

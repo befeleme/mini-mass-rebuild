@@ -1,0 +1,10 @@
+Cloning into 'python-XStatic-mdi'...
+[rawhide 313e9c6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-XStatic-mdi-1.6.50.2-22.fc44 for rawhide
+Created task: 137265868
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265868
+Building python-XStatic-mdi-1.6.50.2-22.fc43 for f43-candidate
+Created task: 137265877
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265877

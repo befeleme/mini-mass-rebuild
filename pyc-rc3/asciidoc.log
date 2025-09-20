@@ -1,0 +1,8 @@
+Cloning into 'asciidoc'...
+asciidoc f43 and rawhide branches differ
+[rawhide 7a4766f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building asciidoc-10.2.0-17.fc44 for rawhide
+Created task: 137252795
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252795

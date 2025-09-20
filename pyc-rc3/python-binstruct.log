@@ -1,0 +1,10 @@
+Cloning into 'python-binstruct'...
+[rawhide 13b1fd2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-binstruct-1.0.1-36.fc44 for rawhide
+Created task: 137256968
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256968
+Building python-binstruct-1.0.1-36.fc43 for f43-candidate
+Created task: 137256978
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256978

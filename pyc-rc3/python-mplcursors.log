@@ -1,0 +1,10 @@
+Cloning into 'python-mplcursors'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 459cdce] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mplcursors-0.7-2.fc44 for rawhide
+Created task: 137261203
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261203
+Building python-mplcursors-0.7-2.fc43 for f43-candidate
+Created task: 137261206
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261206

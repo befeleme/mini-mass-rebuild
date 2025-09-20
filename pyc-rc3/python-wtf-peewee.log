@@ -1,0 +1,10 @@
+Cloning into 'python-wtf-peewee'...
+[rawhide 926a080] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-wtf-peewee-3.0.5-10.fc44 for rawhide
+Created task: 137265673
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265673
+Building python-wtf-peewee-3.0.5-10.fc43 for f43-candidate
+Created task: 137265685
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265685

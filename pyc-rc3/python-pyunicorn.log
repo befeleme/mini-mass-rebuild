@@ -1,0 +1,10 @@
+Cloning into 'python-pyunicorn'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6f2e07f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyunicorn-0.8.2-7.fc44 for rawhide
+Created task: 137263244
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263244
+Building python-pyunicorn-0.8.2-7.fc43 for f43-candidate
+Created task: 137263257
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263257

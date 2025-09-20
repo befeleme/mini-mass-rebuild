@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-subprocess'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f149fe8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-subprocess-1.5.3-4.fc44 for rawhide
+Created task: 137263166
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263166
+Building python-pytest-subprocess-1.5.3-4.fc43 for f43-candidate
+Created task: 137263169
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263169

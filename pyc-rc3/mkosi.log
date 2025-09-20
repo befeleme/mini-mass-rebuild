@@ -1,0 +1,8 @@
+Cloning into 'mkosi'...
+mkosi f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8263148] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building mkosi-25.3-11.fc44 for rawhide
+Created task: 137254953
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254953

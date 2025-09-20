@@ -1,0 +1,10 @@
+Cloning into 'python-process-tests'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 102c8fd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-process-tests-3.0.0-13.fc44 for rawhide
+Created task: 137262087
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262087
+Building python-process-tests-3.0.0-13.fc43 for f43-candidate
+Created task: 137262090
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262090

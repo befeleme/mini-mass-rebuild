@@ -1,0 +1,8 @@
+Cloning into 'python-fsleyes-widgets'...
+python-fsleyes-widgets f43 build complete but not tagged: python-fsleyes-widgets-0.15.1-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b943353] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fsleyes-widgets-0.15.1-2.fc44 for rawhide
+Created task: 137259289
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259289

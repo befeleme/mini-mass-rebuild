@@ -1,0 +1,8 @@
+Cloning into 'python-memcached'...
+python-memcached f43 and rawhide branches differ
+[rawhide da9092b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-memcached-1.62-2.fc44 for rawhide
+Created task: 137261004
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261004

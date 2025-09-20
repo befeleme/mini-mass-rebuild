@@ -1,0 +1,10 @@
+Cloning into 'dtc'...
+[rawhide c0fba5f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building dtc-1.7.2-7.fc44 for rawhide
+Created task: 137253769
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253769
+Building dtc-1.7.2-7.fc43 for f43-candidate
+Created task: 137253774
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253774

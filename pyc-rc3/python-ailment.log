@@ -1,0 +1,10 @@
+Cloning into 'python-ailment'...
+[rawhide 7a7789c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ailment-9.2.158-4.fc44 for rawhide
+Created task: 137255970
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255970
+Building python-ailment-9.2.158-4.fc43 for f43-candidate
+Created task: 137255973
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255973

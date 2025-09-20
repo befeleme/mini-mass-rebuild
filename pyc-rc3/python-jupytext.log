@@ -1,0 +1,10 @@
+Cloning into 'python-jupytext'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1f85703] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jupytext-1.17.3-2.fc44 for rawhide
+Created task: 137260401
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260401
+Building python-jupytext-1.17.3-2.fc43 for f43-candidate
+Created task: 137260406
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260406

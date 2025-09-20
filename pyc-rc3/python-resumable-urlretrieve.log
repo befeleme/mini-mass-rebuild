@@ -1,0 +1,10 @@
+Cloning into 'python-resumable-urlretrieve'...
+[rawhide 75407b6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-resumable-urlretrieve-0.1.6-25.fc44 for rawhide
+Created task: 137263608
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263608
+Building python-resumable-urlretrieve-0.1.6-25.fc43 for f43-candidate
+Created task: 137263616
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263616

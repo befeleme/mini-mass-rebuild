@@ -1,0 +1,10 @@
+Cloning into 'python-pylsqpack'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d751ca2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pylsqpack-0.3.17-11.fc44 for rawhide
+Created task: 137262468
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262468
+Building python-pylsqpack-0.3.17-11.fc43 for f43-candidate
+Created task: 137262471
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262471

@@ -1,0 +1,10 @@
+Cloning into 'onionshare'...
+[rawhide 0e46778] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building onionshare-2.5-15.fc44 for rawhide
+Created task: 137255247
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255247
+Building onionshare-2.5-15.fc43 for f43-candidate
+Created task: 137255254
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255254

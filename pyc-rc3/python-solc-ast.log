@@ -1,0 +1,10 @@
+Cloning into 'python-solc-ast'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 020036c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-solc-ast-1.2.10-8.fc44 for rawhide
+Created task: 137264183
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264183
+Building python-solc-ast-1.2.10-8.fc43 for f43-candidate
+Created task: 137264188
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264188

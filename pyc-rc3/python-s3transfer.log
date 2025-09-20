@@ -1,0 +1,10 @@
+Cloning into 'python-s3transfer'...
+[rawhide d748c47] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-s3transfer-0.14.0-2.fc44 for rawhide
+Created task: 137263777
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263777
+Building python-s3transfer-0.14.0-2.fc43 for f43-candidate
+Created task: 137263783
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263783

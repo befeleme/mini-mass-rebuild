@@ -1,0 +1,10 @@
+Cloning into 'python-toml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d7764eb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-toml-0.10.2-25.fc44 for rawhide
+Created task: 137264850
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264850
+Building python-toml-0.10.2-25.fc43 for f43-candidate
+Created task: 137264858
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264858

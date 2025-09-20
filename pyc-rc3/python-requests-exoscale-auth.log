@@ -1,0 +1,10 @@
+Cloning into 'python-requests-exoscale-auth'...
+[rawhide 7422979] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-requests-exoscale-auth-1.1.2-18.fc44 for rawhide
+Created task: 137263534
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263534
+Building python-requests-exoscale-auth-1.1.2-18.fc43 for f43-candidate
+Created task: 137263541
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263541

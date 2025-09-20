@@ -1,0 +1,10 @@
+Cloning into 'python-certbot-dns-plesk'...
+[rawhide fe0a49e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-certbot-dns-plesk-0.3.0-17.fc44 for rawhide
+Created task: 137257285
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257285
+Building python-certbot-dns-plesk-0.3.0-17.fc43 for f43-candidate
+Created task: 137257289
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257289

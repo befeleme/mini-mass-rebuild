@@ -1,0 +1,10 @@
+Cloning into 'python-aodhclient'...
+[rawhide 55cc483] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-aodhclient-3.6.0-6.fc44 for rawhide
+Created task: 137256130
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256130
+Building python-aodhclient-3.6.0-6.fc43 for f43-candidate
+Created task: 137256142
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256142

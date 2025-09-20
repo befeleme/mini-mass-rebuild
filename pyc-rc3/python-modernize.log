@@ -1,0 +1,10 @@
+Cloning into 'python-modernize'...
+[rawhide 1917ed4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-modernize-0.8.0-20.fc44 for rawhide
+Created task: 137261154
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261154
+Building python-modernize-0.8.0-20.fc43 for f43-candidate
+Created task: 137261156
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261156

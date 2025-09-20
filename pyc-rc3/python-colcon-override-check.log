@@ -1,0 +1,10 @@
+Cloning into 'python-colcon-override-check'...
+[rawhide 6e4f41a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-colcon-override-check-0.0.1-10.fc44 for rawhide
+Created task: 137257557
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257557
+Building python-colcon-override-check-0.0.1-10.fc43 for f43-candidate
+Created task: 137257565
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257565

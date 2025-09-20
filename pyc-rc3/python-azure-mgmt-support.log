@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-support'...
+[rawhide e70c69e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-azure-mgmt-support-6.0.0-13.fc44 for rawhide
+Created task: 137256741
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256741
+Building python-azure-mgmt-support-6.0.0-13.fc43 for f43-candidate
+Created task: 137256750
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256750

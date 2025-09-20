@@ -1,0 +1,10 @@
+Cloning into 'python-pyxs'...
+[rawhide 6c703ad] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pyxs-0.4.1-32.fc44 for rawhide
+Created task: 137287033
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287033
+Building python-pyxs-0.4.1-32.fc43 for f43-candidate
+Created task: 137287040
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287040

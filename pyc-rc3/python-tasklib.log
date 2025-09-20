@@ -1,0 +1,10 @@
+Cloning into 'python-tasklib'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9eff7d6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tasklib-2.5.1-13.fc44 for rawhide
+Created task: 137264651
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264651
+Building python-tasklib-2.5.1-13.fc43 for f43-candidate
+Created task: 137264655
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264655

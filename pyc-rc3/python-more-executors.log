@@ -1,0 +1,10 @@
+Cloning into 'python-more-executors'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7364fd0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-more-executors-2.11.4-13.fc44 for rawhide
+Created task: 137261178
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261178
+Building python-more-executors-2.11.4-13.fc43 for f43-candidate
+Created task: 137261183
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261183

@@ -1,0 +1,10 @@
+Cloning into 'python-notify2'...
+[rawhide cd8bf80] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-notify2-0.3.1-29.fc44 for rawhide
+Created task: 137261429
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261429
+Building python-notify2-0.3.1-29.fc43 for f43-candidate
+Created task: 137261431
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261431

@@ -1,0 +1,10 @@
+Cloning into 'gtimelog'...
+[rawhide 615654e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gtimelog-0.12.0-8.fc44 for rawhide
+Created task: 137254290
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254290
+Building gtimelog-0.12.0-8.fc43 for f43-candidate
+Created task: 137254300
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254300

@@ -1,0 +1,10 @@
+Cloning into 'python-meh'...
+[rawhide 79922fa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-meh-0.52-8.fc44 for rawhide
+Created task: 137261011
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261011
+Building python-meh-0.52-8.fc43 for f43-candidate
+Created task: 137261015
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261015

@@ -1,0 +1,10 @@
+Cloning into 'cozy'...
+[rawhide d489599] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building cozy-1.3.0-10.fc44 for rawhide
+Created task: 137253413
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253413
+Building cozy-1.3.0-10.fc43 for f43-candidate
+Created task: 137253423
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253423

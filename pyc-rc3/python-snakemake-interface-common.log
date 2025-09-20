@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-interface-common'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2a7c45b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-interface-common-1.21.0-3.fc44 for rawhide
+Created task: 137264108
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264108
+Building python-snakemake-interface-common-1.21.0-3.fc43 for f43-candidate
+Created task: 137264112
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264112

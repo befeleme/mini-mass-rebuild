@@ -1,0 +1,10 @@
+Cloning into 'python-phpserialize'...
+[rawhide 2495e44] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-phpserialize-1.3-27.fc44 for rawhide
+Created task: 137261940
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261940
+Building python-phpserialize-1.3-27.fc43 for f43-candidate
+Created task: 137261943
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261943

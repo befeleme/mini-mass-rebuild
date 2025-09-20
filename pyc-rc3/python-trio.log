@@ -1,0 +1,10 @@
+Cloning into 'python-trio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d3da925] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-trio-0.30.0^1.256522a-4.fc44 for rawhide
+Created task: 137265126
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265126
+Building python-trio-0.30.0^1.256522a-4.fc43 for f43-candidate
+Created task: 137265130
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265130

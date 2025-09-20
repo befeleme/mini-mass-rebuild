@@ -1,0 +1,10 @@
+Cloning into 'python-railroad-diagrams'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 09503ee] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-railroad-diagrams-3.0.1-12.fc44 for rawhide
+Created task: 137263364
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263364
+Building python-railroad-diagrams-3.0.1-12.fc43 for f43-candidate
+Created task: 137263371
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263371

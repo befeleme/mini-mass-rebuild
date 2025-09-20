@@ -1,0 +1,8 @@
+Cloning into 'rpm'...
+rpm f43 and rawhide branches differ
+[rawhide 3013c13] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building rpm-5.99.92-2.fc44 for rawhide
+Created task: 137266214
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266214

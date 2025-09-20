@@ -1,0 +1,10 @@
+Cloning into 'python-hacking'...
+[rawhide b765fae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-hacking-7.0.0-6.fc44 for rawhide
+Created task: 137259642
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259642
+Building python-hacking-7.0.0-6.fc43 for f43-candidate
+Created task: 137259647
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259647

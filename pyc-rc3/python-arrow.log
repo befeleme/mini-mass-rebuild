@@ -1,0 +1,10 @@
+Cloning into 'python-arrow'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c7659e3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-arrow-1.3.0-5.fc44 for rawhide
+Created task: 137256207
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256207
+Building python-arrow-1.3.0-5.fc43 for f43-candidate
+Created task: 137256209
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256209

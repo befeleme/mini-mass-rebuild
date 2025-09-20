@@ -1,0 +1,10 @@
+Cloning into 'python-pretend'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 75bbd34] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pretend-1.0.9-21.fc44 for rawhide
+Created task: 137262078
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262078
+Building python-pretend-1.0.9-21.fc43 for f43-candidate
+Created task: 137262083
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262083

@@ -1,0 +1,10 @@
+Cloning into 'python-elastic-transport'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ec29cff] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-elastic-transport-9.1.0-2.fc44 for rawhide
+Created task: 137258627
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258627
+Building python-elastic-transport-9.1.0-2.fc43 for f43-candidate
+Created task: 137258631
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258631

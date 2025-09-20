@@ -1,0 +1,14 @@
+Cloning into 'protobuf'...
+[rawhide 6f991dd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: line 284: Possible unexpanded macro in: Requires:       emacs-filesystem >= %{_emacs_version}
+
+Building protobuf-3.19.6-18.fc44 for rawhide
+Created task: 137255545
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255545
+warning: line 284: Possible unexpanded macro in: Requires:       emacs-filesystem >= %{_emacs_version}
+
+Building protobuf-3.19.6-18.fc43 for f43-candidate
+Created task: 137255553
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255553

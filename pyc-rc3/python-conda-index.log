@@ -1,0 +1,20 @@
+Cloning into 'python-conda-index'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c9259b2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: Macro expanded in comment on line 12: %{pypi_source}
+
+warning: Macro expanded in comment on line 12: %{pypi_source}
+
+
+Building python-conda-index-0.6.1-4.fc44 for rawhide
+Created task: 137257685
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257685
+warning: Macro expanded in comment on line 12: %{pypi_source}
+
+warning: Macro expanded in comment on line 12: %{pypi_source}
+
+
+Building python-conda-index-0.6.1-4.fc43 for f43-candidate
+Created task: 137257686
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257686

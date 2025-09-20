@@ -1,0 +1,10 @@
+Cloning into 'python-crank'...
+[rawhide 26a5297] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-crank-0.8.1-33.fc44 for rawhide
+Created task: 137257855
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257855
+Building python-crank-0.8.1-33.fc43 for f43-candidate
+Created task: 137257859
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257859

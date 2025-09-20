@@ -1,0 +1,10 @@
+Cloning into 'python-pyrankvote'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ce2a16b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyrankvote-2.0.6-4.fc44 for rawhide
+Created task: 137262630
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262630
+Building python-pyrankvote-2.0.6-4.fc43 for f43-candidate
+Created task: 137262631
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262631

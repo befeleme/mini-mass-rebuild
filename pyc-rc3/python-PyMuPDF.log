@@ -1,0 +1,8 @@
+Cloning into 'python-PyMuPDF'...
+python-PyMuPDF f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d0cdf63] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-PyMuPDF-1.26.4-2.fc44 for rawhide
+Created task: 137262504
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262504

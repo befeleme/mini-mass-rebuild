@@ -1,0 +1,8 @@
+Cloning into 'python-colcon-parallel-executor'...
+python-colcon-parallel-executor f43 and rawhide branches differ
+[rawhide 55f2b9b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-colcon-parallel-executor-0.4.0-4.fc44 for rawhide
+Created task: 137257543
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257543

@@ -1,0 +1,10 @@
+Cloning into 'qr-code-generator'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6c685b3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building qr-code-generator-1.8.0-22.fc44 for rawhide
+Created task: 137266057
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266057
+Building qr-code-generator-1.8.0-22.fc43 for f43-candidate
+Created task: 137266061
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266061

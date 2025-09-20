@@ -1,0 +1,10 @@
+Cloning into 'python-stdnum'...
+[rawhide df2c0ef] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-stdnum-2.1-5.fc44 for rawhide
+Created task: 137264528
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264528
+Building python-stdnum-2.1-5.fc43 for f43-candidate
+Created task: 137264532
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264532

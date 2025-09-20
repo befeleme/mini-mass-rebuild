@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-flakes'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 016175a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-flakes-4.0.5-19.fc44 for rawhide
+Created task: 137263056
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263056
+Building python-pytest-flakes-4.0.5-19.fc43 for f43-candidate
+Created task: 137263058
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263058

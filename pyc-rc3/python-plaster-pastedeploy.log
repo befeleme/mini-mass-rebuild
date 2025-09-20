@@ -1,0 +1,10 @@
+Cloning into 'python-plaster-pastedeploy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 24ca67c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-plaster-pastedeploy-1.0.1-6.fc44 for rawhide
+Created task: 137261989
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261989
+Building python-plaster-pastedeploy-1.0.1-6.fc43 for f43-candidate
+Created task: 137261993
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261993

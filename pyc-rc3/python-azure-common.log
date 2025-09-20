@@ -1,0 +1,8 @@
+Cloning into 'python-azure-common'...
+python-azure-common f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 37ad19f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-common-1.1.28-16.fc44 for rawhide
+Created task: 137256371
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256371

@@ -1,0 +1,10 @@
+Cloning into 'kiwi-stackbuild-plugin'...
+[rawhide 2855aca] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building kiwi-stackbuild-plugin-1.0.11-5.fc44 for rawhide
+Created task: 137254497
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254497
+Building kiwi-stackbuild-plugin-1.0.11-5.fc43 for f43-candidate
+Created task: 137254503
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254503

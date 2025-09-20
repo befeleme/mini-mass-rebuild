@@ -1,0 +1,20 @@
+Cloning into 'python-magic'...
+[rawhide 4764862] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 12: %{url}/archive/%{version}/%{pypi_name}-%{version}.tar.gz
+
+warning: Macro expanded in comment on line 12: %{url}/archive/%{version}/%{pypi_name}-%{version}.tar.gz
+
+
+Building python-magic-0.4.27-15.fc44 for rawhide
+Created task: 137260843
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260843
+warning: Macro expanded in comment on line 12: %{url}/archive/%{version}/%{pypi_name}-%{version}.tar.gz
+
+warning: Macro expanded in comment on line 12: %{url}/archive/%{version}/%{pypi_name}-%{version}.tar.gz
+
+
+Building python-magic-0.4.27-15.fc43 for f43-candidate
+Created task: 137260848
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260848

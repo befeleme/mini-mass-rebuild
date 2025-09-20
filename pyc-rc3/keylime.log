@@ -1,0 +1,10 @@
+Cloning into 'keylime'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cabc7da] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building keylime-7.12.1-6.fc44 for rawhide
+Created task: 137254460
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254460
+Building keylime-7.12.1-6.fc43 for f43-candidate
+Created task: 137254464
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254464

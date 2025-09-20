@@ -1,0 +1,10 @@
+Cloning into 'python-demjson'...
+[rawhide e2e106c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-demjson-2.2.4-42.fc44 for rawhide
+Created task: 137258173
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258173
+Building python-demjson-2.2.4-42.fc43 for f43-candidate
+Created task: 137258175
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258175

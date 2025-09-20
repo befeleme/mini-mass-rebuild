@@ -1,0 +1,10 @@
+Cloning into 'python-tvb-data'...
+[rawhide 11bbea7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-tvb-data-1.5.9-23.fc44 for rawhide
+Created task: 137265163
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265163
+Building python-tvb-data-1.5.9-23.fc43 for f43-candidate
+Created task: 137265165
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265165

@@ -1,0 +1,16 @@
+Cloning into 'libreoffice-voikko'...
+[rawhide 2110218] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 22: %{name}-%{version}rc2.tar.gz
+
+
+Building libreoffice-voikko-5.0-22.fc44 for rawhide
+Created task: 137254715
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254715
+warning: Macro expanded in comment on line 22: %{name}-%{version}rc2.tar.gz
+
+
+Building libreoffice-voikko-5.0-22.fc43 for f43-candidate
+Created task: 137254716
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254716

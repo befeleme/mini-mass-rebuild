@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-gitconfig'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a99f15a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-gitconfig-0.7.0-3.fc44 for rawhide
+Created task: 137263062
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263062
+Building python-pytest-gitconfig-0.7.0-3.fc43 for f43-candidate
+Created task: 137263065
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263065

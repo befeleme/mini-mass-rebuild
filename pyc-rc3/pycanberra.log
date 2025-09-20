@@ -1,0 +1,10 @@
+Cloning into 'pycanberra'...
+[rawhide e792b13] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pycanberra-0-0.44.git88c53cd.fc44 for rawhide
+Created task: 137255627
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255627
+Building pycanberra-0-0.44.git88c53cd.fc43 for f43-candidate
+Created task: 137255630
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255630

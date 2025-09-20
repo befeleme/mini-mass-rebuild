@@ -1,0 +1,8 @@
+Cloning into 'python-tifffile'...
+python-tifffile f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0e78d96] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tifffile-2025.8.28-2.fc44 for rawhide
+Created task: 137264771
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264771

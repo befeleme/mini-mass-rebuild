@@ -1,0 +1,10 @@
+Cloning into 'libCombine'...
+[rawhide cb9c7a0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libCombine-0.2.20-13.fc44 for rawhide
+Created task: 137254606
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254606
+Building libCombine-0.2.20-13.fc43 for f43-candidate
+Created task: 137254614
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254614

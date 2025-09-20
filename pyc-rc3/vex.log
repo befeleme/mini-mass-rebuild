@@ -1,0 +1,10 @@
+Cloning into 'vex'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9b84c31] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building vex-0.0.19-28.fc44 for rawhide
+Created task: 137266833
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266833
+Building vex-0.0.19-28.fc43 for f43-candidate
+Created task: 137266835
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266835

@@ -1,0 +1,8 @@
+Cloning into 'python-irodsclient'...
+python-irodsclient f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8b6e553] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-irodsclient-3.1.1-4.fc44 for rawhide
+Created task: 137259969
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259969

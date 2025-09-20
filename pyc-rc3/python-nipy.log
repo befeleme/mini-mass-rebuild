@@ -1,0 +1,10 @@
+Cloning into 'python-nipy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b975752] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-nipy-0.6.1-8.fc44 for rawhide
+Created task: 137261373
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261373
+Building python-nipy-0.6.1-8.fc43 for f43-candidate
+Created task: 137261376
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261376

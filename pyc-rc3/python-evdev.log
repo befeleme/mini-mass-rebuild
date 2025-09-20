@@ -1,0 +1,10 @@
+Cloning into 'python-evdev'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c88aa15] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-evdev-1.9.1-5.fc44 for rawhide
+Created task: 137258751
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258751
+Building python-evdev-1.9.1-5.fc43 for f43-candidate
+Created task: 137258763
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258763

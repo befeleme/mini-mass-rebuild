@@ -1,0 +1,10 @@
+Cloning into 'python-google-auth-oauthlib'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 55f369a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-google-auth-oauthlib-1.2.2-3.fc44 for rawhide
+Created task: 137259566
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259566
+Building python-google-auth-oauthlib-1.2.2-3.fc43 for f43-candidate
+Created task: 137259568
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259568

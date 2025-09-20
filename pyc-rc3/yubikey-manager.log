@@ -1,0 +1,10 @@
+Cloning into 'yubikey-manager'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1491679] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building yubikey-manager-5.7.1-5.git6641bf0.fc44 for rawhide
+Created task: 137266985
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266985
+Building yubikey-manager-5.7.1-5.git6641bf0.fc43 for f43-candidate
+Created task: 137266992
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266992

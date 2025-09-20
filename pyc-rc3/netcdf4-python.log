@@ -1,0 +1,8 @@
+Cloning into 'netcdf4-python'...
+netcdf4-python f43 and rawhide branches differ
+[rawhide 35d4484] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building netcdf4-python-1.7.2-9.fc44 for rawhide
+Created task: 137255100
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255100

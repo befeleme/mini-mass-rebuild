@@ -1,0 +1,10 @@
+Cloning into 'WALinuxAgent'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1104f83] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building WALinuxAgent-2.13.1.1-6.fc44 for rawhide
+Created task: 137266898
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266898
+Building WALinuxAgent-2.13.1.1-6.fc43 for f43-candidate
+Created task: 137266912
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266912

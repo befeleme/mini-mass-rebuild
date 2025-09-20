@@ -1,0 +1,10 @@
+Cloning into 'spec2scl'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c6034e3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building spec2scl-1.2.2-28.fc44 for rawhide
+Created task: 137266517
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266517
+Building spec2scl-1.2.2-28.fc43 for f43-candidate
+Created task: 137266524
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266524

@@ -1,0 +1,10 @@
+Cloning into 'python-fissix'...
+[rawhide b482a73] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-fissix-20.8.0-20.fc44 for rawhide
+Created task: 137258964
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258964
+Building python-fissix-20.8.0-20.fc43 for f43-candidate
+Created task: 137258967
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258967

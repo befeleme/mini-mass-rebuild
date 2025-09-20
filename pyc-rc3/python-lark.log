@@ -1,0 +1,10 @@
+Cloning into 'python-lark'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide beff057] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-lark-1.2.2-7.fc44 for rawhide
+Created task: 137260539
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260539
+Building python-lark-1.2.2-7.fc43 for f43-candidate
+Created task: 137260547
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260547

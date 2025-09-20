@@ -1,0 +1,10 @@
+Cloning into 'python-scrape-schema-recipe'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 73c5ef2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-scrape-schema-recipe-0.2.2-6.fc44 for rawhide
+Created task: 137263853
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263853
+Building python-scrape-schema-recipe-0.2.2-6.fc43 for f43-candidate
+Created task: 137263862
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263862

@@ -1,0 +1,10 @@
+Cloning into 'python-tw2-forms'...
+[rawhide 405ef3b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-tw2-forms-2.2.6-28.fc44 for rawhide
+Created task: 137265164
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265164
+Building python-tw2-forms-2.2.6-28.fc43 for f43-candidate
+Created task: 137265171
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265171

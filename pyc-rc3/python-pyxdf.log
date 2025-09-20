@@ -1,0 +1,7 @@
+Cloning into 'python-pyxdf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[f43 59a245b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyxdf-1.17.0-6.fc43 for f43-candidate
+Created task: 137269149
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269149

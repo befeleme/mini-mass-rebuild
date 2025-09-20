@@ -1,0 +1,10 @@
+Cloning into 'skf'...
+[rawhide e2a70a5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building skf-2.10.16-16.fc44 for rawhide
+Created task: 137266484
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266484
+Building skf-2.10.16-16.fc43 for f43-candidate
+Created task: 137266486
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266486

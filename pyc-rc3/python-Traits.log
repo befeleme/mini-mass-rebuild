@@ -1,0 +1,16 @@
+Cloning into 'python-Traits'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e4504d7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: Macro expanded in comment on line 17: %{commit}/%{modname}-%{shortcommit}.tar.gz
+
+
+Building python-Traits-7.0.2-3.fc44 for rawhide
+Created task: 137265086
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265086
+warning: Macro expanded in comment on line 17: %{commit}/%{modname}-%{shortcommit}.tar.gz
+
+
+Building python-Traits-7.0.2-3.fc43 for f43-candidate
+Created task: 137265092
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265092

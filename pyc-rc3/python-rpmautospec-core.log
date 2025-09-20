@@ -1,0 +1,10 @@
+Cloning into 'python-rpmautospec-core'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fb54c06] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-rpmautospec-core-0.1.5-8.fc44 for rawhide
+Created task: 137263708
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263708
+Building python-rpmautospec-core-0.1.5-8.fc43 for f43-candidate
+Created task: 137263713
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263713

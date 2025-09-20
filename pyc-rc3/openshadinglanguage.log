@@ -1,0 +1,8 @@
+Cloning into 'openshadinglanguage'...
+openshadinglanguage f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 323352c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building openshadinglanguage-1.14.7.0-4.fc44 for rawhide
+Created task: 137255290
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255290

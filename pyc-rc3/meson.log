@@ -1,0 +1,8 @@
+Cloning into 'meson'...
+meson f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b42238f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building meson-1.9.0-3.fc44 for rawhide
+Created task: 137254913
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254913

@@ -1,0 +1,10 @@
+Cloning into 'python-eth-tester'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 124504f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-eth-tester-0.12.1-5.beta.1.fc44 for rawhide
+Created task: 137258727
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258727
+Building python-eth-tester-0.12.1-5.beta.1.fc43 for f43-candidate
+Created task: 137258731
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258731

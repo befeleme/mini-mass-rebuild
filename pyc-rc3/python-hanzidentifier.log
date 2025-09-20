@@ -1,0 +1,10 @@
+Cloning into 'python-hanzidentifier'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b6ec9cd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-hanzidentifier-1.3.0-5.fc44 for rawhide
+Created task: 137259645
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259645
+Building python-hanzidentifier-1.3.0-5.fc43 for f43-candidate
+Created task: 137259649
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259649

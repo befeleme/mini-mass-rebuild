@@ -1,0 +1,10 @@
+Cloning into 'python-opencensus-proto'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 45f8cd2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-opencensus-proto-0.4.1-15.fc44 for rawhide
+Created task: 137261519
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261519
+Building python-opencensus-proto-0.4.1-15.fc43 for f43-candidate
+Created task: 137261523
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261523

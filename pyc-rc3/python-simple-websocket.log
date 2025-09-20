@@ -1,0 +1,10 @@
+Cloning into 'python-simple-websocket'...
+[rawhide 7d25933] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-simple-websocket-1.1.0-6.fc44 for rawhide
+Created task: 137264033
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264033
+Building python-simple-websocket-1.1.0-6.fc43 for f43-candidate
+Created task: 137264035
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264035

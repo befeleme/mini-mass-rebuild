@@ -1,0 +1,10 @@
+Cloning into 'python-pyproject-metadata'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a304ff5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyproject-metadata-0.9.1-5.fc44 for rawhide
+Created task: 137262608
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262608
+Building python-pyproject-metadata-0.9.1-5.fc43 for f43-candidate
+Created task: 137262612
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262612

@@ -1,0 +1,10 @@
+Cloning into 'python-elasticsearch'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e88d6b4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-elasticsearch-9.1.0-2.fc44 for rawhide
+Created task: 137258625
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258625
+Building python-elasticsearch-9.1.0-2.fc43 for f43-candidate
+Created task: 137258628
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258628

@@ -1,0 +1,10 @@
+Cloning into 'abrt-server-info-page'...
+[rawhide 3ba1304] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building abrt-server-info-page-1.8-23.fc44 for rawhide
+Created task: 137252712
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252712
+Building abrt-server-info-page-1.8-23.fc43 for f43-candidate
+Created task: 137252716
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252716

@@ -1,0 +1,10 @@
+Cloning into 'python-mkapi'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d842c21] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mkapi-4.4.5-3.fc44 for rawhide
+Created task: 137261081
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261081
+Building python-mkapi-4.4.5-3.fc43 for f43-candidate
+Created task: 137261084
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261084

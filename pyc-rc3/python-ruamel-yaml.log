@@ -1,0 +1,10 @@
+Cloning into 'python-ruamel-yaml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide dbfc5f0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ruamel-yaml-0.18.15-2.fc44 for rawhide
+Created task: 137263758
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263758
+Building python-ruamel-yaml-0.18.15-2.fc43 for f43-candidate
+Created task: 137263761
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263761

@@ -1,0 +1,10 @@
+Cloning into 'python-anytree'...
+[rawhide 4af4007] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-anytree-2.8.0-23.fc44 for rawhide
+Created task: 137256129
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256129
+Building python-anytree-2.8.0-23.fc43 for f43-candidate
+Created task: 137256134
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256134

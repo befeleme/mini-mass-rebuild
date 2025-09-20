@@ -1,0 +1,16 @@
+Cloning into 'python-pyside6'...
+[rawhide d2e9a54] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 24: %{majmin}/%{qt6ver}/submodules/%{qt_module}-everywhere-src-%{qt6ver}.tar.xz
+
+
+Building python-pyside6-6.9.2-2.fc44 for rawhide
+Created task: 137262828
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262828
+warning: Macro expanded in comment on line 24: %{majmin}/%{qt6ver}/submodules/%{qt_module}-everywhere-src-%{qt6ver}.tar.xz
+
+
+Building python-pyside6-6.9.2-2.fc43 for f43-candidate
+Created task: 137262836
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262836

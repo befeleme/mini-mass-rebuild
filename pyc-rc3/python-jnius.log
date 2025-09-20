@@ -1,0 +1,10 @@
+Cloning into 'python-jnius'...
+[rawhide 73dea4b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-jnius-1.6.1-12.fc44 for rawhide
+Created task: 137260167
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260167
+Building python-jnius-1.6.1-12.fc43 for f43-candidate
+Created task: 137260171
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260171

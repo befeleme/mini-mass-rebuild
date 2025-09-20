@@ -1,0 +1,8 @@
+Cloning into 'devscripts'...
+devscripts f43 and rawhide branches differ
+[rawhide 1ca1549] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building devscripts-2.25.19-2.fc44 for rawhide
+Created task: 137253530
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253530

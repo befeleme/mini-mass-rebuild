@@ -1,0 +1,10 @@
+Cloning into 'python-beniget'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5844406] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-beniget-0.4.2.post1-6.fc44 for rawhide
+Created task: 137256938
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256938
+Building python-beniget-0.4.2.post1-6.fc43 for f43-candidate
+Created task: 137256942
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256942

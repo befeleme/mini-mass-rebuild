@@ -1,0 +1,10 @@
+Cloning into 'gnome-music'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5c61759] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building gnome-music-49.0.2-2.fc44 for rawhide
+Created task: 137254166
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254166
+Building gnome-music-49.0.2-2.fc43 for f43-candidate
+Created task: 137254174
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254174

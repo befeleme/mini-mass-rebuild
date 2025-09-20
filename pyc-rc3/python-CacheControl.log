@@ -1,0 +1,10 @@
+Cloning into 'python-CacheControl'...
+[rawhide 5b4bc04] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-CacheControl-0.14.3-5.fc44 for rawhide
+Created task: 137257186
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257186
+Building python-CacheControl-0.14.3-5.fc43 for f43-candidate
+Created task: 137257189
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257189

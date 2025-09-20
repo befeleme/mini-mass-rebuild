@@ -1,0 +1,8 @@
+Cloning into 'python-blosc2'...
+python-blosc2 f43 build complete but not tagged: python-blosc2-3.8.0-3.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3b1b096] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-blosc2-3.8.0-4.fc44 for rawhide
+Created task: 137257045
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257045

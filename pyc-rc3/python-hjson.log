@@ -1,0 +1,10 @@
+Cloning into 'python-hjson'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7cb5f27] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-hjson-3.1.0-6.fc44 for rawhide
+Created task: 137259698
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259698
+Building python-hjson-3.1.0-6.fc43 for f43-candidate
+Created task: 137259700
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259700

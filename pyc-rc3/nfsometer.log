@@ -1,0 +1,10 @@
+Cloning into 'nfsometer'...
+[rawhide 6875a2a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building nfsometer-1.9-28.fc44 for rawhide
+Created task: 137255140
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255140
+Building nfsometer-1.9-28.fc43 for f43-candidate
+Created task: 137255142
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255142

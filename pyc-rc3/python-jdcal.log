@@ -1,0 +1,10 @@
+Cloning into 'python-jdcal'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ce53206] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jdcal-1.4.1-17.fc44 for rawhide
+Created task: 137260088
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260088
+Building python-jdcal-1.4.1-17.fc43 for f43-candidate
+Created task: 137260094
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260094

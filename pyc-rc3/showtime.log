@@ -1,0 +1,10 @@
+Cloning into 'showtime'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a6f1124] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building showtime-49.0-2.fc44 for rawhide
+Created task: 137266463
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266463
+Building showtime-49.0-2.fc43 for f43-candidate
+Created task: 137266468
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266468

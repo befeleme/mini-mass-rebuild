@@ -1,0 +1,10 @@
+Cloning into 'urjtag'...
+[rawhide 8c51551] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building urjtag-2021.03-19.fc44 for rawhide
+Created task: 137266795
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266795
+Building urjtag-2021.03-19.fc43 for f43-candidate
+Created task: 137266797
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266797

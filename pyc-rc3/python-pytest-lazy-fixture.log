@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-lazy-fixture'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide dfbc3ba] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-lazy-fixture-0.6.3-24.fc44 for rawhide
+Created task: 137263090
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263090
+Building python-pytest-lazy-fixture-0.6.3-24.fc43 for f43-candidate
+Created task: 137263092
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263092

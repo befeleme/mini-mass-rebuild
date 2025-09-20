@@ -1,0 +1,8 @@
+Cloning into 'ogr2osm'...
+ogr2osm f43 and rawhide branches differ
+[rawhide ba15665] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building ogr2osm-1.2.0-11.fc44 for rawhide
+Created task: 137255204
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255204

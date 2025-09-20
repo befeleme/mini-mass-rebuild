@@ -1,0 +1,10 @@
+Cloning into 'python-astroid'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ae52e44] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-astroid-3.3.8-7.fc44 for rawhide
+Created task: 137256244
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256244
+Building python-astroid-3.3.8-7.fc43 for f43-candidate
+Created task: 137256256
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256256

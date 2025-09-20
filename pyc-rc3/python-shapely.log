@@ -1,0 +1,10 @@
+Cloning into 'python-shapely'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2b65d0e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-shapely-2.1.1-7.fc44 for rawhide
+Created task: 137263962
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263962
+Building python-shapely-2.1.1-7.fc43 for f43-candidate
+Created task: 137263966
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263966

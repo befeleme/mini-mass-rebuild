@@ -1,0 +1,10 @@
+Cloning into 'python-vvm'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fe8f91b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-vvm-0.3.2-9.fc44 for rawhide
+Created task: 137265498
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265498
+Building python-vvm-0.3.2-9.fc43 for f43-candidate
+Created task: 137265516
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265516

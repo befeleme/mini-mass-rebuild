@@ -1,0 +1,10 @@
+Cloning into 'resultsdb_conventions'...
+[rawhide e310591] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building resultsdb_conventions-3.0.2-11.fc44 for rawhide
+Created task: 137266178
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266178
+Building resultsdb_conventions-3.0.2-11.fc43 for f43-candidate
+Created task: 137266200
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266200

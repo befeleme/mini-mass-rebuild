@@ -1,0 +1,10 @@
+Cloning into 'gnome-browser-connector'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0a5bf75] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building gnome-browser-connector-42.1-13.fc44 for rawhide
+Created task: 137254157
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254157
+Building gnome-browser-connector-42.1-13.fc43 for f43-candidate
+Created task: 137254158
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254158

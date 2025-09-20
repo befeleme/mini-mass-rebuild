@@ -1,0 +1,10 @@
+Cloning into 'python-merge3'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8c852e5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-merge3-0.0.15-6.fc44 for rawhide
+Created task: 137261018
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261018
+Building python-merge3-0.0.15-6.fc43 for f43-candidate
+Created task: 137261021
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261021

@@ -1,0 +1,10 @@
+Cloning into 'python-hatchling'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 72955ab] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-hatchling-1.27.0-7.fc44 for rawhide
+Created task: 137259666
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259666
+Building python-hatchling-1.27.0-7.fc43 for f43-candidate
+Created task: 137259671
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259671

@@ -1,0 +1,10 @@
+Cloning into 'virt-bootstrap'...
+[rawhide 712db50] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building virt-bootstrap-1.1.1-29.fc44 for rawhide
+Created task: 137266842
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266842
+Building virt-bootstrap-1.1.1-29.fc43 for f43-candidate
+Created task: 137266847
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266847

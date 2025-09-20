@@ -1,0 +1,10 @@
+Cloning into 'python-pyperclip'...
+[rawhide ede5a29] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pyperclip-1.8.2-15.fc44 for rawhide
+Created task: 137262565
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262565
+Building python-pyperclip-1.8.2-15.fc43 for f43-candidate
+Created task: 137262572
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262572

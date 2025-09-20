@@ -1,0 +1,10 @@
+Cloning into 'python-peachpy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 44c9ad9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-peachpy-0.2.0-7.fc44 for rawhide
+Created task: 137261875
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261875
+Building python-peachpy-0.2.0-7.fc43 for f43-candidate
+Created task: 137261878
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261878

@@ -1,0 +1,10 @@
+Cloning into 'postfix-mta-sts-resolver'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6eca0b5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building postfix-mta-sts-resolver-1.5.0-5.fc44 for rawhide
+Created task: 137255505
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255505
+Building postfix-mta-sts-resolver-1.5.0-5.fc43 for f43-candidate
+Created task: 137255508
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255508

@@ -1,0 +1,10 @@
+Cloning into 'python-cffsubr'...
+[rawhide db9a110] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-cffsubr-0.3.0-8.fc44 for rawhide
+Created task: 137257287
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257287
+Building python-cffsubr-0.3.0-8.fc43 for f43-candidate
+Created task: 137257294
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257294

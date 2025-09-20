@@ -1,0 +1,10 @@
+Cloning into 'sepolicy_analysis'...
+[rawhide 9c3c4c9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building sepolicy_analysis-0.1-32.fc44 for rawhide
+Created task: 137266379
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266379
+Building sepolicy_analysis-0.1-32.fc43 for f43-candidate
+Created task: 137266388
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266388

@@ -1,0 +1,10 @@
+Cloning into 'python-mmtf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f3baee6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mmtf-1.1.3-12.fc44 for rawhide
+Created task: 137261137
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261137
+Building python-mmtf-1.1.3-12.fc43 for f43-candidate
+Created task: 137261140
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261140

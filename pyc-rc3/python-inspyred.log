@@ -1,0 +1,10 @@
+Cloning into 'python-inspyred'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8d4dfc8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-inspyred-1.0.2-8.fc44 for rawhide
+Created task: 137259922
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259922
+Building python-inspyred-1.0.2-8.fc43 for f43-candidate
+Created task: 137259927
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259927

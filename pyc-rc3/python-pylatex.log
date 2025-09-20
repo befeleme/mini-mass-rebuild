@@ -1,0 +1,10 @@
+Cloning into 'python-pylatex'...
+[rawhide 9fef658] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pylatex-1.4.2-8.fc44 for rawhide
+Created task: 137262438
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262438
+Building python-pylatex-1.4.2-8.fc43 for f43-candidate
+Created task: 137262442
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262442

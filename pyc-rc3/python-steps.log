@@ -1,0 +1,10 @@
+Cloning into 'python-steps'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b2fab4f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-steps-3.6.0-45.fc44 for rawhide
+Created task: 137264530
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264530
+Building python-steps-3.6.0-45.fc43 for f43-candidate
+Created task: 137264534
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264534

@@ -1,0 +1,7 @@
+Cloning into 'python-shade'...
+[f43 774eef4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-shade-1.33.0-19.fc43 for f43-candidate
+Created task: 137269153
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269153

@@ -1,0 +1,7 @@
+Cloning into 'matrix-synapse'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d938fc1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building matrix-synapse-1.138.0-4.fc44 for rawhide
+Created task: 137252678
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252678

@@ -1,0 +1,10 @@
+Cloning into 'python-krb5'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 281cc8f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-krb5-0.7.1-4.fc44 for rawhide
+Created task: 137260508
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260508
+Building python-krb5-0.7.1-4.fc43 for f43-candidate
+Created task: 137260511
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260511

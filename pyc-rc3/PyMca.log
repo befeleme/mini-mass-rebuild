@@ -1,0 +1,10 @@
+Cloning into 'PyMca'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 008c878] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building PyMca-5.9.4-5.fc44 for rawhide
+Created task: 137255733
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255733
+Building PyMca-5.9.4-5.fc43 for f43-candidate
+Created task: 137255736
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255736

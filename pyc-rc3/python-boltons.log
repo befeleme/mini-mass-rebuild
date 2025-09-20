@@ -1,0 +1,10 @@
+Cloning into 'python-boltons'...
+[rawhide babd837] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-boltons-25.0.0-5.fc44 for rawhide
+Created task: 137257079
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257079
+Building python-boltons-25.0.0-5.fc43 for f43-candidate
+Created task: 137257082
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257082

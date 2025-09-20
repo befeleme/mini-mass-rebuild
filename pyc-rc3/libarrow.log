@@ -1,0 +1,8 @@
+Cloning into 'libarrow'...
+libarrow f43 and rawhide branches differ
+[rawhide 47d614f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libarrow-21.0.0-5.fc44 for rawhide
+Created task: 137254565
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254565

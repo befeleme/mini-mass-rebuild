@@ -1,0 +1,12 @@
+Cloning into 'openscap'...
+[rawhide a7bf816] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+Building openscap-1.4.2-7.fc44 for rawhide
+Created task: 137255316
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255316
+Found a gating.yaml file in the repo and it is properly configured
+Building openscap-1.4.2-7.fc43 for f43-candidate
+Created task: 137255320
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255320

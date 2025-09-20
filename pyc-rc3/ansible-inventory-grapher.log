@@ -1,0 +1,10 @@
+Cloning into 'ansible-inventory-grapher'...
+[rawhide feb88b5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building ansible-inventory-grapher-2.6.0-6.fc44 for rawhide
+Created task: 137252757
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252757
+Building ansible-inventory-grapher-2.6.0-6.fc43 for f43-candidate
+Created task: 137252769
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252769

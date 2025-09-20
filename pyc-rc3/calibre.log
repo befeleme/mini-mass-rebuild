@@ -1,0 +1,10 @@
+Cloning into 'calibre'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5b6a559] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building calibre-8.7.0-6.fc44 for rawhide
+Created task: 137253101
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253101
+Building calibre-8.7.0-6.fc43 for f43-candidate
+Created task: 137253106
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253106

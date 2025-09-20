@@ -1,0 +1,10 @@
+Cloning into 'python-tabulate'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 398964b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tabulate-0.9.0-16.fc44 for rawhide
+Created task: 137264652
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264652
+Building python-tabulate-0.9.0-16.fc43 for f43-candidate
+Created task: 137264654
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264654

@@ -1,0 +1,10 @@
+Cloning into 'rst2pdf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b62a57c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building rst2pdf-0.103.1-6.fc44 for rawhide
+Created task: 137266255
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266255
+Building rst2pdf-0.103.1-6.fc43 for f43-candidate
+Created task: 137266263
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266263

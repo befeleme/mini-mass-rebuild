@@ -1,0 +1,10 @@
+Cloning into 'python-pykcs11'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2fd2346] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pykcs11-1.5.15-8.fc44 for rawhide
+Created task: 137262427
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262427
+Building python-pykcs11-1.5.15-8.fc43 for f43-candidate
+Created task: 137262429
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262429

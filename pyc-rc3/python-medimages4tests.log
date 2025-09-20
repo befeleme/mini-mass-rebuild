@@ -1,0 +1,10 @@
+Cloning into 'python-medimages4tests'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5bcf63a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-medimages4tests-0.5.7^20250417gitc0a06fa-5.fc44 for rawhide
+Created task: 137261010
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261010
+Building python-medimages4tests-0.5.7^20250417gitc0a06fa-5.fc43 for f43-candidate
+Created task: 137261013
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261013

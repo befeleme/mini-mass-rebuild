@@ -1,0 +1,10 @@
+Cloning into 'legendary'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide afabfec] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building legendary-0.20.34-10.fc44 for rawhide
+Created task: 137254555
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254555
+Building legendary-0.20.34-10.fc43 for f43-candidate
+Created task: 137254557
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254557

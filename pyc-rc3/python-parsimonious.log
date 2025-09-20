@@ -1,0 +1,10 @@
+Cloning into 'python-parsimonious'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e43b36b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-parsimonious-0.10.0-13.fc44 for rawhide
+Created task: 137261753
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261753
+Building python-parsimonious-0.10.0-13.fc43 for f43-candidate
+Created task: 137261756
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261756

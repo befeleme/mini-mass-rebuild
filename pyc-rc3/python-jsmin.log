@@ -1,0 +1,10 @@
+Cloning into 'python-jsmin'...
+[rawhide cbfa581] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-jsmin-3.0.1-14.fc44 for rawhide
+Created task: 137260220
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260220
+Building python-jsmin-3.0.1-14.fc43 for f43-candidate
+Created task: 137260233
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260233

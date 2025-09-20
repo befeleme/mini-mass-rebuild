@@ -1,0 +1,10 @@
+Cloning into 'python-osc-lib'...
+[rawhide c6d40ae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-osc-lib-3.1.0-6.fc44 for rawhide
+Created task: 137261618
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261618
+Building python-osc-lib-3.1.0-6.fc43 for f43-candidate
+Created task: 137261620
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261620

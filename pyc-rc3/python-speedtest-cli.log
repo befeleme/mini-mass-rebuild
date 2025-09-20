@@ -1,0 +1,10 @@
+Cloning into 'python-speedtest-cli'...
+[rawhide 3b0ef19] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-speedtest-cli-2.1.3-19.fc44 for rawhide
+Created task: 137264223
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264223
+Building python-speedtest-cli-2.1.3-19.fc43 for f43-candidate
+Created task: 137264233
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264233

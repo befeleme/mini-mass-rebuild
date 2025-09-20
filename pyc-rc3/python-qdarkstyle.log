@@ -1,0 +1,10 @@
+Cloning into 'python-qdarkstyle'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 21b02be] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-qdarkstyle-3.2.3-22.fc44 for rawhide
+Created task: 137263318
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263318
+Building python-qdarkstyle-3.2.3-22.fc43 for f43-candidate
+Created task: 137263323
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263323

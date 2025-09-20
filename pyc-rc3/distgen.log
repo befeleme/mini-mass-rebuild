@@ -1,0 +1,10 @@
+Cloning into 'distgen'...
+[rawhide fa7aca2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building distgen-2.1-6.fc44 for rawhide
+Created task: 137253603
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253603
+Building distgen-2.1-6.fc43 for f43-candidate
+Created task: 137253616
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253616

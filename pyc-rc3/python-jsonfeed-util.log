@@ -1,0 +1,10 @@
+Cloning into 'python-jsonfeed-util'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 52bf718] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jsonfeed-util-1.1.3-6.fc44 for rawhide
+Created task: 137260172
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260172
+Building python-jsonfeed-util-1.1.3-6.fc43 for f43-candidate
+Created task: 137260174
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260174

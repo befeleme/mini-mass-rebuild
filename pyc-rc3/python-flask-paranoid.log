@@ -1,0 +1,10 @@
+Cloning into 'python-flask-paranoid'...
+[rawhide f114367] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flask-paranoid-0.3.0-16.fc44 for rawhide
+Created task: 137259098
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259098
+Building python-flask-paranoid-0.3.0-16.fc43 for f43-candidate
+Created task: 137259112
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259112

@@ -1,0 +1,10 @@
+Cloning into 'python-jiter'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 99c79e8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jiter-0.10.0-5.fc44 for rawhide
+Created task: 137260139
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260139
+Building python-jiter-0.10.0-5.fc43 for f43-candidate
+Created task: 137260147
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260147

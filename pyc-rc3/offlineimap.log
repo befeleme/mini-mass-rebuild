@@ -1,0 +1,20 @@
+Cloning into 'offlineimap'...
+[rawhide a748809] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 4: (c=%{commit}; echo ${c:0:7})
+
+warning: Macro expanded in comment on line 4: (c=%{commit}; echo ${c:0:7})
+
+
+Building offlineimap-8.0.0-22.fc44 for rawhide
+Created task: 137255224
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255224
+warning: Macro expanded in comment on line 4: (c=%{commit}; echo ${c:0:7})
+
+warning: Macro expanded in comment on line 4: (c=%{commit}; echo ${c:0:7})
+
+
+Building offlineimap-8.0.0-22.fc43 for f43-candidate
+Created task: 137255234
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255234

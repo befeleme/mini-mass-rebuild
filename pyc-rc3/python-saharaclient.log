@@ -1,0 +1,10 @@
+Cloning into 'python-saharaclient'...
+[rawhide d734eff] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-saharaclient-4.2.0-9.fc44 for rawhide
+Created task: 137263789
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263789
+Building python-saharaclient-4.2.0-9.fc43 for f43-candidate
+Created task: 137263792
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263792

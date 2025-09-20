@@ -1,0 +1,10 @@
+Cloning into 'system-storage-manager'...
+[rawhide 8421c9a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building system-storage-manager-1.3-26.fc44 for rawhide
+Created task: 137266579
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266579
+Building system-storage-manager-1.3-26.fc43 for f43-candidate
+Created task: 137266583
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266583

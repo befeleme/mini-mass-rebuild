@@ -1,0 +1,10 @@
+Cloning into 'python-pyrad'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 39083f1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyrad-2.4-22.fc44 for rawhide
+Created task: 137262613
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262613
+Building python-pyrad-2.4-22.fc43 for f43-candidate
+Created task: 137262616
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262616

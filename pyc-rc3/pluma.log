@@ -1,0 +1,10 @@
+Cloning into 'pluma'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 55b770f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pluma-1.28.0-13.fc44 for rawhide
+Created task: 137255459
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255459
+Building pluma-1.28.0-13.fc43 for f43-candidate
+Created task: 137255461
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255461

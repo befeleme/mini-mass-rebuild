@@ -1,0 +1,10 @@
+Cloning into 'pygsl'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fc1908f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pygsl-2.6.2-5.fc44 for rawhide
+Created task: 137255677
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255677
+Building pygsl-2.6.2-5.fc43 for f43-candidate
+Created task: 137255685
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255685

@@ -1,0 +1,10 @@
+Cloning into 'python-humanfriendly'...
+[rawhide 374d1ea] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-humanfriendly-10.0-19.fc44 for rawhide
+Created task: 137259758
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259758
+Building python-humanfriendly-10.0-19.fc43 for f43-candidate
+Created task: 137259760
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259760

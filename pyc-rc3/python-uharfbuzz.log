@@ -1,0 +1,8 @@
+Cloning into 'python-uharfbuzz'...
+python-uharfbuzz f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2c16f6e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-uharfbuzz-0.51.4-2.fc44 for rawhide
+Created task: 137265232
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265232

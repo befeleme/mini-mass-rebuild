@@ -1,0 +1,10 @@
+Cloning into 'python-dbf'...
+[rawhide eeb51e7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-dbf-0.99.3-12.fc44 for rawhide
+Created task: 137258093
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258093
+Building python-dbf-0.99.3-12.fc43 for f43-candidate
+Created task: 137258101
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258101

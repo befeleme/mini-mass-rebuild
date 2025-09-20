@@ -1,0 +1,10 @@
+Cloning into 'babeltrace2'...
+[rawhide 684e0b3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building babeltrace2-2.1.2-3.fc44 for rawhide
+Created task: 137252904
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252904
+Building babeltrace2-2.1.2-3.fc43 for f43-candidate
+Created task: 137252906
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252906

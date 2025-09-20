@@ -1,0 +1,10 @@
+Cloning into 'apbs'...
+[rawhide 328dda1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building apbs-3.0.0-31.fc44 for rawhide
+Created task: 137252775
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252775
+Building apbs-3.0.0-31.fc43 for f43-candidate
+Created task: 137252781
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252781

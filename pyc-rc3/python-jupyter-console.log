@@ -1,0 +1,10 @@
+Cloning into 'python-jupyter-console'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6e66471] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jupyter-console-6.6.3-14.fc44 for rawhide
+Created task: 137260312
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260312
+Building python-jupyter-console-6.6.3-14.fc43 for f43-candidate
+Created task: 137260330
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260330

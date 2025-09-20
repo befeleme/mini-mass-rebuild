@@ -1,0 +1,10 @@
+Cloning into 'python-fitsio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8a7df18] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fitsio-1.2.6-2.fc44 for rawhide
+Created task: 137258981
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258981
+Building python-fitsio-1.2.6-2.fc43 for f43-candidate
+Created task: 137258986
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258986

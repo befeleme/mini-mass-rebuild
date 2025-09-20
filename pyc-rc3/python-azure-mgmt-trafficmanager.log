@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-trafficmanager'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 876fc89] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-trafficmanager-1.0.0-18.fc44 for rawhide
+Created task: 137256752
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256752
+Building python-azure-mgmt-trafficmanager-1.0.0-18.fc43 for f43-candidate
+Created task: 137256756
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256756

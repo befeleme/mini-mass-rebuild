@@ -1,0 +1,10 @@
+Cloning into 'modulemd-tools'...
+[rawhide 0d6a7e4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building modulemd-tools-0.16-13.fc44 for rawhide
+Created task: 137254981
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254981
+Building modulemd-tools-0.16-13.fc43 for f43-candidate
+Created task: 137254986
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254986

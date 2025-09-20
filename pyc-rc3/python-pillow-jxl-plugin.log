@@ -1,0 +1,10 @@
+Cloning into 'python-pillow-jxl-plugin'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 09964db] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pillow-jxl-plugin-1.3.4-3.fc44 for rawhide
+Created task: 137261968
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261968
+Building python-pillow-jxl-plugin-1.3.4-3.fc43 for f43-candidate
+Created task: 137261970
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261970

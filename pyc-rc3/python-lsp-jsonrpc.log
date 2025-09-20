@@ -1,0 +1,10 @@
+Cloning into 'python-lsp-jsonrpc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 925f995] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-lsp-jsonrpc-1.1.2-17.fc44 for rawhide
+Created task: 137260798
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260798
+Building python-lsp-jsonrpc-1.1.2-17.fc43 for f43-candidate
+Created task: 137260808
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260808

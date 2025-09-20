@@ -1,0 +1,10 @@
+Cloning into 'python-pysodium'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bc2fe76] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pysodium-0.7.18-3.fc44 for rawhide
+Created task: 137262844
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262844
+Building python-pysodium-0.7.18-3.fc43 for f43-candidate
+Created task: 137262865
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262865

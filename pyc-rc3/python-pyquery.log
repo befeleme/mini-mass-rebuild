@@ -1,0 +1,10 @@
+Cloning into 'python-pyquery'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e525e87] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyquery-2.0.1-6.fc44 for rawhide
+Created task: 137262610
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262610
+Building python-pyquery-2.0.1-6.fc43 for f43-candidate
+Created task: 137262614
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262614

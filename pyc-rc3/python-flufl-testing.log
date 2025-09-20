@@ -1,0 +1,10 @@
+Cloning into 'python-flufl-testing'...
+[rawhide dee5bd0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flufl-testing-0.8-23.fc44 for rawhide
+Created task: 137259235
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259235
+Building python-flufl-testing-0.8-23.fc43 for f43-candidate
+Created task: 137259239
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259239

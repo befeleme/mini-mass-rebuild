@@ -1,0 +1,16 @@
+Cloning into 'python-iowait'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2176855] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: Macro expanded in comment on line 57: %{python3_sitelib}/%{modname}-*.dist-info
+
+
+Building python-iowait-0.2-41.fc44 for rawhide
+Created task: 137259933
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259933
+warning: Macro expanded in comment on line 57: %{python3_sitelib}/%{modname}-*.dist-info
+
+
+Building python-iowait-0.2-41.fc43 for f43-candidate
+Created task: 137259935
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259935

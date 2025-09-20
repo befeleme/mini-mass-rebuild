@@ -1,0 +1,14 @@
+Cloning into 'python-jsonschema-specifications'...
+[rawhide b6bfefb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: bogus date in %changelog: Mon Nov 30 2023 Joel Capitao <jcapitao@redhat.com> - 2023.11.2-1
+
+Building python-jsonschema-specifications-2024.10.1-6.fc44 for rawhide
+Created task: 137260310
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260310
+warning: bogus date in %changelog: Mon Nov 30 2023 Joel Capitao <jcapitao@redhat.com> - 2023.11.2-1
+
+Building python-jsonschema-specifications-2024.10.1-6.fc43 for f43-candidate
+Created task: 137260323
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260323

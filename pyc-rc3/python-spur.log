@@ -1,0 +1,10 @@
+Cloning into 'python-spur'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 18086b2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-spur-0.3.23-15.fc44 for rawhide
+Created task: 137264421
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264421
+Building python-spur-0.3.23-15.fc43 for f43-candidate
+Created task: 137264425
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264425

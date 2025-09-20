@@ -1,0 +1,10 @@
+Cloning into 'python-requestsexceptions'...
+[rawhide 264fd53] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-requestsexceptions-1.4.0-26.fc44 for rawhide
+Created task: 137263539
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263539
+Building python-requestsexceptions-1.4.0-26.fc43 for f43-candidate
+Created task: 137263549
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263549

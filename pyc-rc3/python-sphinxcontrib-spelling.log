@@ -1,0 +1,10 @@
+Cloning into 'python-sphinxcontrib-spelling'...
+[rawhide 30e9301] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sphinxcontrib-spelling-7.3.3-16.fc44 for rawhide
+Created task: 137264301
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264301
+Building python-sphinxcontrib-spelling-7.3.3-16.fc43 for f43-candidate
+Created task: 137264309
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264309

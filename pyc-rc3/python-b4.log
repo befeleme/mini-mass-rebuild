@@ -1,0 +1,10 @@
+Cloning into 'python-b4'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide baf5d77] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-b4-0.14.2-7.fc44 for rawhide
+Created task: 137256812
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256812
+Building python-b4-0.14.2-7.fc43 for f43-candidate
+Created task: 137256819
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256819

@@ -1,0 +1,10 @@
+Cloning into 'python-zope-schema'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 667649e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zope-schema-7.0.1-17.fc44 for rawhide
+Created task: 137265987
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265987
+Building python-zope-schema-7.0.1-17.fc43 for f43-candidate
+Created task: 137265991
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265991

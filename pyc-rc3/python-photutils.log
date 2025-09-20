@@ -1,0 +1,10 @@
+Cloning into 'python-photutils'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9770230] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-photutils-2.2.0-5.fc44 for rawhide
+Created task: 137261936
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261936
+Building python-photutils-2.2.0-5.fc43 for f43-candidate
+Created task: 137261939
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261939

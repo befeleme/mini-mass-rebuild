@@ -1,0 +1,10 @@
+Cloning into 'python-ase'...
+[rawhide 6053d88] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ase-3.25.0-4.fc44 for rawhide
+Created task: 137256210
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256210
+Building python-ase-3.25.0-4.fc43 for f43-candidate
+Created task: 137256212
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256212

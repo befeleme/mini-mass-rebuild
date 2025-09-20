@@ -1,0 +1,8 @@
+Cloning into 'snakemake'...
+snakemake f43 build complete but not tagged: snakemake-9.11.3-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8b0c20d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building snakemake-9.11.3-2.fc44 for rawhide
+Created task: 137266489
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266489

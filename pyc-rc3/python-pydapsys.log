@@ -1,0 +1,10 @@
+Cloning into 'python-pydapsys'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4dd7a31] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pydapsys-0.2.1-9.fc44 for rawhide
+Created task: 137262250
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262250
+Building python-pydapsys-0.2.1-9.fc43 for f43-candidate
+Created task: 137262257
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262257

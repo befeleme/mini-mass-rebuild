@@ -1,0 +1,10 @@
+Cloning into 'almalinux-git-utils'...
+[rawhide 50ef853] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building almalinux-git-utils-0.0.3^git20240927.3a7c848-5.fc44 for rawhide
+Created task: 137252719
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252719
+Building almalinux-git-utils-0.0.3^git20240927.3a7c848-5.fc43 for f43-candidate
+Created task: 137252720
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252720

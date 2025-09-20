@@ -1,0 +1,10 @@
+Cloning into 'python-configargparse'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4aadb3c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-configargparse-1.7.1-6.fc44 for rawhide
+Created task: 137257706
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257706
+Building python-configargparse-1.7.1-6.fc43 for f43-candidate
+Created task: 137257712
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257712

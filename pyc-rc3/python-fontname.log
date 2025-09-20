@@ -1,0 +1,10 @@
+Cloning into 'python-fontname'...
+[rawhide 8f5504f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-fontname-1.0.0-13.fc44 for rawhide
+Created task: 137259248
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259248
+Building python-fontname-1.0.0-13.fc43 for f43-candidate
+Created task: 137259251
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259251

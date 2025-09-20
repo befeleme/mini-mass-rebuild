@@ -1,0 +1,10 @@
+Cloning into 'python-phyghtmap'...
+[rawhide 4977ede] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-phyghtmap-2.23-16.fc44 for rawhide
+Created task: 137261941
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261941
+Building python-phyghtmap-2.23-16.fc43 for f43-candidate
+Created task: 137261944
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261944

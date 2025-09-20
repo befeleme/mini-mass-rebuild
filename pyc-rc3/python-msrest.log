@@ -1,0 +1,10 @@
+Cloning into 'python-msrest'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6c29699] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-msrest-0.7.1-18.git2d8fd04.fc44 for rawhide
+Created task: 137261221
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261221
+Building python-msrest-0.7.1-18.git2d8fd04.fc43 for f43-candidate
+Created task: 137261227
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261227

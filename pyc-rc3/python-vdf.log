@@ -1,0 +1,10 @@
+Cloning into 'python-vdf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b3e20be] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-vdf-3.4-22.fc44 for rawhide
+Created task: 137265425
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265425
+Building python-vdf-3.4-22.fc43 for f43-candidate
+Created task: 137265429
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265429

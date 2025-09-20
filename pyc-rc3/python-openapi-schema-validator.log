@@ -1,0 +1,10 @@
+Cloning into 'python-openapi-schema-validator'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a61a361] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-openapi-schema-validator-0.6.3-8.fc44 for rawhide
+Created task: 137261518
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261518
+Building python-openapi-schema-validator-0.6.3-8.fc43 for f43-candidate
+Created task: 137261524
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261524

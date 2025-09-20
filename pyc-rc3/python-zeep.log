@@ -1,0 +1,10 @@
+Cloning into 'python-zeep'...
+[rawhide 18c6eba] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-zeep-4.3.1-7.fc44 for rawhide
+Created task: 137265938
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265938
+Building python-zeep-4.3.1-7.fc43 for f43-candidate
+Created task: 137265944
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265944

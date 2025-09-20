@@ -1,0 +1,10 @@
+Cloning into 'backintime'...
+[rawhide a631814] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building backintime-1.5.5-4.fc44 for rawhide
+Created task: 137252905
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252905
+Building backintime-1.5.5-4.fc43 for f43-candidate
+Created task: 137252907
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252907

@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-executor-plugin-flux'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e0147a5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-executor-plugin-flux-0.1.1-8.fc44 for rawhide
+Created task: 137264104
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264104
+Building python-snakemake-executor-plugin-flux-0.1.1-8.fc43 for f43-candidate
+Created task: 137264106
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264106

@@ -1,0 +1,10 @@
+Cloning into 'python-flask-security-too'...
+[rawhide bb2f2d0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flask-security-too-5.6.2-5.fc44 for rawhide
+Created task: 137259119
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259119
+Building python-flask-security-too-5.6.2-5.fc43 for f43-candidate
+Created task: 137259135
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259135

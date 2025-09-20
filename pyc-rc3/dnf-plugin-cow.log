@@ -1,0 +1,10 @@
+Cloning into 'dnf-plugin-cow'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 68a9a80] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building dnf-plugin-cow-0.0.4-13.fc44 for rawhide
+Created task: 137253704
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253704
+Building dnf-plugin-cow-0.0.4-13.fc43 for f43-candidate
+Created task: 137253712
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253712

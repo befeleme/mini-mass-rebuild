@@ -1,0 +1,10 @@
+Cloning into 'python-torchvision'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 18f05a8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-torchvision-0.22.1-3.fc44 for rawhide
+Created task: 137265064
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265064
+Building python-torchvision-0.22.1-3.fc43 for f43-candidate
+Created task: 137265066
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265066

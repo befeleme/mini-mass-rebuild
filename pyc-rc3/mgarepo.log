@@ -1,0 +1,20 @@
+Cloning into 'mgarepo'...
+[rawhide 7c61de2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 8: %{version} && make dist
+
+warning: Macro expanded in comment on line 8: %{version} && make dist
+
+
+Building mgarepo-1.13.2-36.fc44 for rawhide
+Created task: 137254935
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254935
+warning: Macro expanded in comment on line 8: %{version} && make dist
+
+warning: Macro expanded in comment on line 8: %{version} && make dist
+
+
+Building mgarepo-1.13.2-36.fc43 for f43-candidate
+Created task: 137254940
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254940

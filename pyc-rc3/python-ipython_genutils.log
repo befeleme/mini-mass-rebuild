@@ -1,0 +1,10 @@
+Cloning into 'python-ipython_genutils'...
+[rawhide 41c3aab] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ipython_genutils-0.2.0-18.fc44 for rawhide
+Created task: 137259967
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259967
+Building python-ipython_genutils-0.2.0-18.fc43 for f43-candidate
+Created task: 137259971
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259971

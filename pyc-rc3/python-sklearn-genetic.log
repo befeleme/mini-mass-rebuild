@@ -1,0 +1,10 @@
+Cloning into 'python-sklearn-genetic'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c6db9e4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sklearn-genetic-0.6.0-11.fc44 for rawhide
+Created task: 137264046
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264046
+Building python-sklearn-genetic-0.6.0-11.fc43 for f43-candidate
+Created task: 137264049
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264049

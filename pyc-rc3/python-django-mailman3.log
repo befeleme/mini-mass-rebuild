@@ -1,0 +1,10 @@
+Cloning into 'python-django-mailman3'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4afe42b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-django-mailman3-1.3.15-7.fc44 for rawhide
+Created task: 137258324
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258324
+Building python-django-mailman3-1.3.15-7.fc43 for f43-candidate
+Created task: 137258330
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258330

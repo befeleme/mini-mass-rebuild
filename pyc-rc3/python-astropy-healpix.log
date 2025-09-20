@@ -1,0 +1,10 @@
+Cloning into 'python-astropy-healpix'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 020cc81] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-astropy-healpix-1.1.2-5.fc44 for rawhide
+Created task: 137256269
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256269
+Building python-astropy-healpix-1.1.2-5.fc43 for f43-candidate
+Created task: 137256279
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256279

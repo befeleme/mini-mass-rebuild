@@ -1,0 +1,10 @@
+Cloning into 'python-bottle-sqlite'...
+[rawhide 267a1d1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-bottle-sqlite-0.2.0-14.fc44 for rawhide
+Created task: 137257103
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257103
+Building python-bottle-sqlite-0.2.0-14.fc43 for f43-candidate
+Created task: 137257105
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257105

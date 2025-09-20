@@ -1,0 +1,10 @@
+Cloning into 'getmail6'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9100901] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building getmail6-6.19.10-2.fc44 for rawhide
+Created task: 137254063
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254063
+Building getmail6-6.19.10-2.fc43 for f43-candidate
+Created task: 137254074
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254074

@@ -1,0 +1,10 @@
+Cloning into 'pygobject3'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ae632f6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pygobject3-3.54.2-2.fc44 for rawhide
+Created task: 137255669
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255669
+Building pygobject3-3.54.2-2.fc43 for f43-candidate
+Created task: 137255670
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255670

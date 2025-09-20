@@ -1,0 +1,10 @@
+Cloning into 'python-fqdn'...
+python-fqdn f43 and rawhide branches differ
+[rawhide 593d85f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+error: %changelog not in descending chronological order
+
+Building python-fqdn-1.5.1-20.fc44 for rawhide
+Created task: 137259256
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259256

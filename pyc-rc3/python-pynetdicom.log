@@ -1,0 +1,10 @@
+Cloning into 'python-pynetdicom'...
+[rawhide d401128] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pynetdicom-2.1.1-9.fc44 for rawhide
+Created task: 137262520
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262520
+Building python-pynetdicom-2.1.1-9.fc43 for f43-candidate
+Created task: 137262523
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262523

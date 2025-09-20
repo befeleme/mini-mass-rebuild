@@ -1,0 +1,10 @@
+Cloning into 'python-docutils'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 452a178] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-docutils-0.21.2-6.fc44 for rawhide
+Created task: 137258476
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258476
+Building python-docutils-0.21.2-6.fc43 for f43-candidate
+Created task: 137258478
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258478

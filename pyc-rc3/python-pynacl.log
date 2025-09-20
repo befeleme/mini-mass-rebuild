@@ -1,0 +1,10 @@
+Cloning into 'python-pynacl'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 035d249] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pynacl-1.5.0-18.fc44 for rawhide
+Created task: 137262516
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262516
+Building python-pynacl-1.5.0-18.fc43 for f43-candidate
+Created task: 137262519
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262519

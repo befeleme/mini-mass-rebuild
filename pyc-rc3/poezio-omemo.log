@@ -1,0 +1,10 @@
+Cloning into 'poezio-omemo'...
+[rawhide 08feaf7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building poezio-omemo-0.7.0-8.fc44 for rawhide
+Created task: 137255480
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255480
+Building poezio-omemo-0.7.0-8.fc43 for f43-candidate
+Created task: 137255489
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255489

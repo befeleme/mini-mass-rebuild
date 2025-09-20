@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-lsp'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4a916c8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-lsp-1.0.0b2-4.fc44 for rawhide
+Created task: 137263102
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263102
+Building python-pytest-lsp-1.0.0b2-4.fc43 for f43-candidate
+Created task: 137263107
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263107

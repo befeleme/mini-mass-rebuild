@@ -1,0 +1,10 @@
+Cloning into 'python-msrestazure'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d936ccc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-msrestazure-0.6.4-27.fc44 for rawhide
+Created task: 137261224
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261224
+Building python-msrestazure-0.6.4-27.fc43 for f43-candidate
+Created task: 137261225
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261225

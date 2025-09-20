@@ -1,0 +1,10 @@
+Cloning into 'python-setuptools_scm'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide dae0d9d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-setuptools_scm-8.3.1-8.fc44 for rawhide
+Created task: 137263941
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263941
+Building python-setuptools_scm-8.3.1-8.fc43 for f43-candidate
+Created task: 137263945
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263945

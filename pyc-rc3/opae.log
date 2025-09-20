@@ -1,0 +1,10 @@
+Cloning into 'opae'...
+[rawhide 9ef293f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building opae-2.13.0-3.3.fc44.1 for rawhide
+Created task: 137255256
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255256
+Building opae-2.13.0-3.3.fc43.1 for f43-candidate
+Created task: 137255259
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255259

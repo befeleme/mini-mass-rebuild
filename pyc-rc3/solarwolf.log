@@ -1,0 +1,10 @@
+Cloning into 'solarwolf'...
+[rawhide b60c6e0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building solarwolf-1.6.0-25.fc44.a4 for rawhide
+Created task: 137266504
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266504
+Building solarwolf-1.6.0-25.fc43.a4 for f43-candidate
+Created task: 137266511
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266511

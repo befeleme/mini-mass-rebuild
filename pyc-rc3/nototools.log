@@ -1,0 +1,10 @@
+Cloning into 'nototools'...
+[rawhide 2763a2a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building nototools-0.2.20-3.fc44 for rawhide
+Created task: 137255185
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255185
+Building nototools-0.2.20-3.fc43 for f43-candidate
+Created task: 137255188
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255188

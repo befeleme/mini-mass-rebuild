@@ -1,0 +1,18 @@
+Cloning into 'h5py'...
+[rawhide 01d58e2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: line 69: Possible unexpanded macro in: Requires:       hdf5(x86-64) = %{_hdf5_version}
+warning: line 79: Possible unexpanded macro in: Requires:       hdf5(x86-64) = %{_hdf5_version}
+warning: line 91: Possible unexpanded macro in: Requires:       hdf5(x86-64) = %{_hdf5_version}
+
+Building h5py-3.13.0-6.fc44 for rawhide
+Created task: 137254316
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254316
+warning: line 69: Possible unexpanded macro in: Requires:       hdf5(x86-64) = %{_hdf5_version}
+warning: line 79: Possible unexpanded macro in: Requires:       hdf5(x86-64) = %{_hdf5_version}
+warning: line 91: Possible unexpanded macro in: Requires:       hdf5(x86-64) = %{_hdf5_version}
+
+Building h5py-3.13.0-6.fc43 for f43-candidate
+Created task: 137254319
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254319

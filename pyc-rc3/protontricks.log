@@ -1,0 +1,10 @@
+Cloning into 'protontricks'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e244fb2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building protontricks-1.12.1-5.fc44 for rawhide
+Created task: 137255538
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255538
+Building protontricks-1.12.1-5.fc43 for f43-candidate
+Created task: 137255549
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255549

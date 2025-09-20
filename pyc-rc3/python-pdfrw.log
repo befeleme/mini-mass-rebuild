@@ -1,0 +1,10 @@
+Cloning into 'python-pdfrw'...
+[rawhide 113edf5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pdfrw-0.4-30.fc44 for rawhide
+Created task: 137261862
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261862
+Building python-pdfrw-0.4-30.fc43 for f43-candidate
+Created task: 137261867
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261867

@@ -1,0 +1,8 @@
+Cloning into 'python-sphinxext-opengraph'...
+python-sphinxext-opengraph f43 build complete but not tagged: python-sphinxext-opengraph-0.13.0-3.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide be93112] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinxext-opengraph-0.13.0-4.fc44 for rawhide
+Created task: 137264320
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264320

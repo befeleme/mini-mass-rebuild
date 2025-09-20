@@ -1,0 +1,10 @@
+Cloning into 'python-sphinxcontrib-apidoc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f218463] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinxcontrib-apidoc-0.6.0-6.fc44 for rawhide
+Created task: 137264262
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264262
+Building python-sphinxcontrib-apidoc-0.6.0-6.fc43 for f43-candidate
+Created task: 137264268
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264268

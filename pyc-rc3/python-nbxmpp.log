@@ -1,0 +1,10 @@
+Cloning into 'python-nbxmpp'...
+[rawhide f22e269] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-nbxmpp-4.5.4-6.fc44 for rawhide
+Created task: 137261334
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261334
+Building python-nbxmpp-4.5.4-6.fc43 for f43-candidate
+Created task: 137261338
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261338

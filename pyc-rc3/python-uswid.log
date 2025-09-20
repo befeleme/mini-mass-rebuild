@@ -1,0 +1,10 @@
+Cloning into 'python-uswid'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3ba3dcb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-uswid-0.5.2-4.fc44 for rawhide
+Created task: 137265346
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265346
+Building python-uswid-0.5.2-4.fc43 for f43-candidate
+Created task: 137265351
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265351

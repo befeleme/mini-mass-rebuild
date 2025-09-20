@@ -1,0 +1,10 @@
+Cloning into 'python-PyLEMS'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e890119] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-PyLEMS-0.6.8-5.fc44 for rawhide
+Created task: 137262444
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262444
+Building python-PyLEMS-0.6.8-5.fc43 for f43-candidate
+Created task: 137262446
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262446

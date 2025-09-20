@@ -1,0 +1,10 @@
+Cloning into 'python-libsass'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide afe43cb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-libsass-0.23.0-11.fc44 for rawhide
+Created task: 137260655
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260655
+Building python-libsass-0.23.0-11.fc43 for f43-candidate
+Created task: 137260661
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260661

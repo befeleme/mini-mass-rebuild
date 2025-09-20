@@ -1,0 +1,10 @@
+Cloning into 'python-fabric'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2fbf66e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fabric-3.2.2-10.fc44 for rawhide
+Created task: 137258835
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258835
+Building python-fabric-3.2.2-10.fc43 for f43-candidate
+Created task: 137258844
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258844

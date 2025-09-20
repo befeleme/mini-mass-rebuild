@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-epytext'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0d3b348] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinx-epytext-0.0.4-26.fc44 for rawhide
+Created task: 137264322
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264322
+Building python-sphinx-epytext-0.0.4-26.fc43 for f43-candidate
+Created task: 137264328
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264328

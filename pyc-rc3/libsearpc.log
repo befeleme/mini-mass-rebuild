@@ -1,0 +1,10 @@
+Cloning into 'libsearpc'...
+[rawhide d68426b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libsearpc-3.3-11.fc44 for rawhide
+Created task: 137254733
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254733
+Building libsearpc-3.3-11.fc43 for f43-candidate
+Created task: 137254739
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254739

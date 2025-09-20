@@ -1,0 +1,10 @@
+Cloning into 'pypolicyd-spf'...
+[rawhide cf7f326] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pypolicyd-spf-3.1.0-7.fc44 for rawhide
+Created task: 137255790
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255790
+Building pypolicyd-spf-3.1.0-7.fc43 for f43-candidate
+Created task: 137255791
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255791

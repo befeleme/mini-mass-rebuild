@@ -1,0 +1,28 @@
+Cloning into 'python-urlgrabber'...
+[rawhide c21303d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 21: %{pypi_name}/%{pypi_name}-%{version}.tar.gz
+
+warning: Macro expanded in comment on line 22: %{version}.tar.gz
+
+warning: Macro expanded in comment on line 21: %{pypi_name}/%{pypi_name}-%{version}.tar.gz
+
+warning: Macro expanded in comment on line 22: %{version}.tar.gz
+
+
+Building python-urlgrabber-4.1.0-24.fc44 for rawhide
+Created task: 137265292
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265292
+warning: Macro expanded in comment on line 21: %{pypi_name}/%{pypi_name}-%{version}.tar.gz
+
+warning: Macro expanded in comment on line 22: %{version}.tar.gz
+
+warning: Macro expanded in comment on line 21: %{pypi_name}/%{pypi_name}-%{version}.tar.gz
+
+warning: Macro expanded in comment on line 22: %{version}.tar.gz
+
+
+Building python-urlgrabber-4.1.0-24.fc43 for f43-candidate
+Created task: 137265295
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265295

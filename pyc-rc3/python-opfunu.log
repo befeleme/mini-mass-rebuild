@@ -1,0 +1,10 @@
+Cloning into 'python-opfunu'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d07aa4e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-opfunu-1.0.0-14.fc44 for rawhide
+Created task: 137261583
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261583
+Building python-opfunu-1.0.0-14.fc43 for f43-candidate
+Created task: 137261587
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261587

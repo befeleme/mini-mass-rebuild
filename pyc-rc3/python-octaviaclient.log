@@ -1,0 +1,10 @@
+Cloning into 'python-octaviaclient'...
+[rawhide fb835d8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-octaviaclient-3.8.0-5.fc44 for rawhide
+Created task: 137261468
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261468
+Building python-octaviaclient-3.8.0-5.fc43 for f43-candidate
+Created task: 137261474
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261474

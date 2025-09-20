@@ -1,0 +1,10 @@
+Cloning into 'python-minidb'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8a98a54] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-minidb-2.0.8-7.fc44 for rawhide
+Created task: 137261062
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261062
+Building python-minidb-2.0.8-7.fc43 for f43-candidate
+Created task: 137261066
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261066

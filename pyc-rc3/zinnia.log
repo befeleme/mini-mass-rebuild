@@ -1,0 +1,10 @@
+Cloning into 'zinnia'...
+[rawhide 1251d37] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building zinnia-0.07-7.fc44 for rawhide
+Created task: 137267001
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137267001
+Building zinnia-0.07-7.fc43 for f43-candidate
+Created task: 137267010
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137267010

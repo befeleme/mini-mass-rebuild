@@ -1,0 +1,10 @@
+Cloning into 'spec2nii'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 61837cc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building spec2nii-0.8.6-6.fc44 for rawhide
+Created task: 137266518
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266518
+Building spec2nii-0.8.6-6.fc43 for f43-candidate
+Created task: 137266521
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266521

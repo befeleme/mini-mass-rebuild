@@ -1,0 +1,20 @@
+Cloning into 'sip'...
+[rawhide 7245e30] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+sh: line 1: /usr/bin/python2: No such file or directory
+sh: line 1: /usr/bin/python2: No such file or directory
+warning: Macro expanded in comment on line 182: %{?_isa} = %{version}-%{release}
+
+
+Building sip-4.19.25-18.fc44 for rawhide
+Created task: 137266471
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266471
+sh: line 1: /usr/bin/python2: No such file or directory
+sh: line 1: /usr/bin/python2: No such file or directory
+warning: Macro expanded in comment on line 182: %{?_isa} = %{version}-%{release}
+
+
+Building sip-4.19.25-18.fc43 for f43-candidate
+Created task: 137266472
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266472

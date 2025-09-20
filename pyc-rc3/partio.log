@@ -1,0 +1,10 @@
+Cloning into 'partio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide de62d60] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building partio-1.19.0-5.fc44 for rawhide
+Created task: 137255376
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255376
+Building partio-1.19.0-5.fc43 for f43-candidate
+Created task: 137255381
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255381

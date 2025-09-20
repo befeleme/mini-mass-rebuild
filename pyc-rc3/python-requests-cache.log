@@ -1,0 +1,10 @@
+Cloning into 'python-requests-cache'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 29f8ba0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-requests-cache-1.2.0-10.fc44 for rawhide
+Created task: 137263524
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263524
+Building python-requests-cache-1.2.0-10.fc43 for f43-candidate
+Created task: 137263525
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263525

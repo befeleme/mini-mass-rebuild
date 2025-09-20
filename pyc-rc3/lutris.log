@@ -1,0 +1,10 @@
+Cloning into 'lutris'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 736368f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building lutris-0.5.19-6.fc44 for rawhide
+Created task: 137254864
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254864
+Building lutris-0.5.19-6.fc43 for f43-candidate
+Created task: 137254866
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254866

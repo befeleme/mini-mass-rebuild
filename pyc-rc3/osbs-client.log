@@ -1,0 +1,6 @@
+Cloning into 'osbs-client'...
+[rawhide 3f35969] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Could not execute build: Package osbs-client-1.15.0-5.fc44 has already been built
+Note: You can skip this check with --skip-nvr-check. See help for more info.

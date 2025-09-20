@@ -1,0 +1,10 @@
+Cloning into 'python-smmap'...
+[rawhide 649be16] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-smmap-5.0.1-6.fc44 for rawhide
+Created task: 137264081
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264081
+Building python-smmap-5.0.1-6.fc43 for f43-candidate
+Created task: 137264089
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264089

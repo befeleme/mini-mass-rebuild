@@ -1,0 +1,10 @@
+Cloning into 'scanmem'...
+[rawhide 05d3c9f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building scanmem-0.17-22.fc44.1 for rawhide
+Created task: 137266335
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266335
+Building scanmem-0.17-22.fc43.1 for f43-candidate
+Created task: 137266340
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266340

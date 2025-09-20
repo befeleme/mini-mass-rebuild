@@ -1,0 +1,8 @@
+Cloning into 'python-setuptools'...
+python-setuptools f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 86a81f4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-setuptools-78.1.1-15.fc44 for rawhide
+Created task: 137263917
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263917

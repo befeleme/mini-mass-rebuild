@@ -1,0 +1,10 @@
+Cloning into 'flatbuffers'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 701a6ab] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building flatbuffers-25.2.10-5.fc44 for rawhide
+Created task: 137253913
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253913
+Building flatbuffers-25.2.10-5.fc43 for f43-candidate
+Created task: 137253925
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253925

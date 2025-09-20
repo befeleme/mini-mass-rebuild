@@ -1,0 +1,10 @@
+Cloning into 'python-pulsectl-asyncio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3152bdd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pulsectl-asyncio-1.2.2-7.fc44 for rawhide
+Created task: 137262152
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262152
+Building python-pulsectl-asyncio-1.2.2-7.fc43 for f43-candidate
+Created task: 137262153
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262153

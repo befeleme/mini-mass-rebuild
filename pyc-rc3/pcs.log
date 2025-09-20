@@ -1,0 +1,16 @@
+Cloning into 'pcs'...
+[rawhide 97846a5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/pcs/pcs.spec line 334: autopatch: no matching patches in range
+
+Building pcs-0.12.1-5.fc44 for rawhide
+Created task: 137255403
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255403
+Found a gating.yaml file in the repo and it is properly configured
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/pcs/pcs.spec line 334: autopatch: no matching patches in range
+
+Building pcs-0.12.1-5.fc43 for f43-candidate
+Created task: 137255407
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255407

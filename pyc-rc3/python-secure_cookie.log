@@ -1,0 +1,10 @@
+Cloning into 'python-secure_cookie'...
+[rawhide a2ea4ca] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-secure_cookie-0.2.0-18.fc44 for rawhide
+Created task: 137263881
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263881
+Building python-secure_cookie-0.2.0-18.fc43 for f43-candidate
+Created task: 137263883
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263883

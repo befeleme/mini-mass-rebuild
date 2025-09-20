@@ -1,0 +1,10 @@
+Cloning into 'python-winrm'...
+[rawhide 174da5e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-winrm-0.5.0-6.fc44 for rawhide
+Created task: 137265668
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265668
+Building python-winrm-0.5.0-6.fc43 for f43-candidate
+Created task: 137265669
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265669

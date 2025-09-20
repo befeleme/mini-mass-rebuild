@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-devtestlabs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d085420] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-devtestlabs-4.0.0-22.fc44 for rawhide
+Created task: 137256553
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256553
+Building python-azure-mgmt-devtestlabs-4.0.0-22.fc43 for f43-candidate
+Created task: 137256563
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256563

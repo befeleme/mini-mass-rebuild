@@ -1,0 +1,10 @@
+Cloning into 'python-repomd'...
+[rawhide 9bb0b6a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-repomd-0.2.1-25.fc44 for rawhide
+Created task: 137263475
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263475
+Building python-repomd-0.2.1-25.fc43 for f43-candidate
+Created task: 137263484
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263484

@@ -1,0 +1,10 @@
+Cloning into 'python-azure-batch'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4ff3bdf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-batch-15.0.0~b1-5.fc44 for rawhide
+Created task: 137256385
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256385
+Building python-azure-batch-15.0.0~b1-5.fc43 for f43-candidate
+Created task: 137256400
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256400

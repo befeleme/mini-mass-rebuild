@@ -1,0 +1,10 @@
+Cloning into 'gi-docgen'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1294c04] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building gi-docgen-2025.4-5.fc44 for rawhide
+Created task: 137254075
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254075
+Building gi-docgen-2025.4-5.fc43 for f43-candidate
+Created task: 137254078
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254078

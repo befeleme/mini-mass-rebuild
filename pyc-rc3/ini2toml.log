@@ -1,0 +1,10 @@
+Cloning into 'ini2toml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2628bd4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building ini2toml-0.14-8.fc44 for rawhide
+Created task: 137254401
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254401
+Building ini2toml-0.14-8.fc43 for f43-candidate
+Created task: 137254404
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254404

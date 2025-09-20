@@ -1,0 +1,10 @@
+Cloning into 'python-colcon-coveragepy-result'...
+[rawhide c668076] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-colcon-coveragepy-result-0.0.8-21.fc44 for rawhide
+Created task: 137257515
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257515
+Building python-colcon-coveragepy-result-0.0.8-21.fc43 for f43-candidate
+Created task: 137257519
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257519

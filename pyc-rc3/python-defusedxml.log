@@ -1,0 +1,10 @@
+Cloning into 'python-defusedxml'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2b2615f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-defusedxml-0.7.1-22.fc44 for rawhide
+Created task: 137258166
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258166
+Building python-defusedxml-0.7.1-22.fc43 for f43-candidate
+Created task: 137258170
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258170

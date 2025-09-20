@@ -1,0 +1,10 @@
+Cloning into 'kiwi-boxed-plugin'...
+[rawhide 5de6581] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building kiwi-boxed-plugin-0.2.56-2.fc44 for rawhide
+Created task: 137254489
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254489
+Building kiwi-boxed-plugin-0.2.56-2.fc43 for f43-candidate
+Created task: 137254495
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254495

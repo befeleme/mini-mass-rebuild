@@ -1,0 +1,10 @@
+Cloning into 'python-adal'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5ff37b6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-adal-1.2.7-22.fc44 for rawhide
+Created task: 137255931
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255931
+Building python-adal-1.2.7-22.fc43 for f43-candidate
+Created task: 137255940
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255940

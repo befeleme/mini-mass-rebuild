@@ -1,0 +1,10 @@
+Cloning into 'python-quart-trio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 94016a0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-quart-trio-0.12.0-8.fc44 for rawhide
+Created task: 137263355
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263355
+Building python-quart-trio-0.12.0-8.fc43 for f43-candidate
+Created task: 137263360
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263360

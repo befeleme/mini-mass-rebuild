@@ -1,0 +1,24 @@
+Cloning into 'gphotoframe'...
+[rawhide 15a7771] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 36: %{name}-%{mainver}%{?minorver}.tar.gz
+
+warning: Macro expanded in comment on line 36: %{name}-%{mainver}%{?minorver}.tar.gz
+
+warning: Macro expanded in comment on line 298: %{name}.schemas
+
+
+Building gphotoframe-2.0.2-39.hg2084299dffb6.fc44 for rawhide
+Created task: 137254234
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254234
+warning: Macro expanded in comment on line 36: %{name}-%{mainver}%{?minorver}.tar.gz
+
+warning: Macro expanded in comment on line 36: %{name}-%{mainver}%{?minorver}.tar.gz
+
+warning: Macro expanded in comment on line 298: %{name}.schemas
+
+
+Building gphotoframe-2.0.2-39.hg2084299dffb6.fc43 for f43-candidate
+Created task: 137254237
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254237

@@ -1,0 +1,10 @@
+Cloning into 'python-multihash'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5f204c5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-multihash-2.0.1-7.fc44 for rawhide
+Created task: 137261248
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261248
+Building python-multihash-2.0.1-7.fc43 for f43-candidate
+Created task: 137261254
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261254

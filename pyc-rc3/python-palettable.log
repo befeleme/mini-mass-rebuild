@@ -1,0 +1,10 @@
+Cloning into 'python-palettable'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1f3bc55] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-palettable-3.3.3-11.fc44 for rawhide
+Created task: 137261699
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261699
+Building python-palettable-3.3.3-11.fc43 for f43-candidate
+Created task: 137261702
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261702

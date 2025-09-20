@@ -1,0 +1,8 @@
+Cloning into 'python-wxnatpy'...
+python-wxnatpy f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1439995] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-wxnatpy-0.4.0-19.fc44 for rawhide
+Created task: 137265688
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265688

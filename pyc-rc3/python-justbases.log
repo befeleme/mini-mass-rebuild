@@ -1,0 +1,12 @@
+Cloning into 'python-justbases'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 50f8ab6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building python-justbases-0.15.2-16.fc44 for rawhide
+Created task: 137260408
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260408
+Found a gating.yaml file in the repo and it is properly configured
+Building python-justbases-0.15.2-16.fc43 for f43-candidate
+Created task: 137260411
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260411

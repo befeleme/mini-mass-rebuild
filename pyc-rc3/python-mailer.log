@@ -1,0 +1,10 @@
+Cloning into 'python-mailer'...
+[rawhide 94efc75] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-mailer-0.8.1-33.fc44 for rawhide
+Created task: 137260857
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260857
+Building python-mailer-0.8.1-33.fc43 for f43-candidate
+Created task: 137260859
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260859

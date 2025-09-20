@@ -1,0 +1,10 @@
+Cloning into 'python-jupyter-kernel-test'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 827edb4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jupyter-kernel-test-0.7.0-9.fc44 for rawhide
+Created task: 137260337
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260337
+Building python-jupyter-kernel-test-0.7.0-9.fc43 for f43-candidate
+Created task: 137260341
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260341

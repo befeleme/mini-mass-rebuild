@@ -1,0 +1,10 @@
+Cloning into 'python-ibm-vpc'...
+[rawhide 5b75966] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ibm-vpc-0.28.0-5.fc44 for rawhide
+Created task: 137259809
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259809
+Building python-ibm-vpc-0.28.0-5.fc43 for f43-candidate
+Created task: 137259816
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259816

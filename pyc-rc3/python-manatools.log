@@ -1,0 +1,10 @@
+Cloning into 'python-manatools'...
+[rawhide fc97cf8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-manatools-0.0.4-16.fc44 for rawhide
+Created task: 137260884
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260884
+Building python-manatools-0.0.4-16.fc43 for f43-candidate
+Created task: 137260887
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260887

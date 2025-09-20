@@ -1,0 +1,10 @@
+Cloning into 'python-fasjson-client'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 19f6f9e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fasjson-client-1.1.0-8.fc44 for rawhide
+Created task: 137258870
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258870
+Building python-fasjson-client-1.1.0-8.fc43 for f43-candidate
+Created task: 137258880
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258880

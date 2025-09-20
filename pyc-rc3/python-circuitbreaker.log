@@ -1,0 +1,10 @@
+Cloning into 'python-circuitbreaker'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 867d333] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-circuitbreaker-2.0.0-11.fc44 for rawhide
+Created task: 137257342
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257342
+Building python-circuitbreaker-2.0.0-11.fc43 for f43-candidate
+Created task: 137257344
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257344

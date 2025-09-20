@@ -1,0 +1,8 @@
+Cloning into 'relval'...
+relval f43 build complete but not tagged: relval-2.7.7-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5464213] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building relval-2.7.7-2.fc44 for rawhide
+Created task: 137266120
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266120

@@ -1,0 +1,10 @@
+Cloning into 'mozo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2f642b3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building mozo-1.28.0-12.fc44 for rawhide
+Created task: 137255021
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255021
+Building mozo-1.28.0-12.fc43 for f43-candidate
+Created task: 137255029
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255029

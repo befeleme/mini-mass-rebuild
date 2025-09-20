@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-executor-plugin-slurm-jobstep'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d606813] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-executor-plugin-slurm-jobstep-0.3.0-6.fc44 for rawhide
+Created task: 137264111
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264111
+Building python-snakemake-executor-plugin-slurm-jobstep-0.3.0-6.fc43 for f43-candidate
+Created task: 137264117
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264117

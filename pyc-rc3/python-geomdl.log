@@ -1,0 +1,10 @@
+Cloning into 'python-geomdl'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 62daaa7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-geomdl-5.4.0-3.fc44 for rawhide
+Created task: 137259438
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259438
+Building python-geomdl-5.4.0-3.fc43 for f43-candidate
+Created task: 137259446
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259446

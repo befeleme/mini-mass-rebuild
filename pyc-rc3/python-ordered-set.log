@@ -1,0 +1,10 @@
+Cloning into 'python-ordered-set'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 44c2d63] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ordered-set-4.1.0-25.fc44 for rawhide
+Created task: 137261602
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261602
+Building python-ordered-set-4.1.0-25.fc43 for f43-candidate
+Created task: 137261605
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261605

@@ -1,0 +1,13 @@
+Cloning into 'libguestfs'...
+libguestfs f43 and rawhide branches differ
+[rawhide 83dda87] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+warning: line 575: Possible unexpanded macro in: Requires:	php(zend-abi) = %{php_zend_api}
+warning: line 576: Possible unexpanded macro in: Requires:	php(api) = %{php_core_api}
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/libguestfs/libguestfs.spec line 665: autopatch: no matching patches in range
+
+Building libguestfs-1.57.3-2.fc44 for rawhide
+Created task: 137254625
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254625

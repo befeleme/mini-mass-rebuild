@@ -1,0 +1,10 @@
+Cloning into 'bindep'...
+[rawhide 88759f1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building bindep-2.11.0-10.fc44 for rawhide
+Created task: 137252916
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252916
+Building bindep-2.11.0-10.fc43 for f43-candidate
+Created task: 137252918
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252918

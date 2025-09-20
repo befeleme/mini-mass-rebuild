@@ -1,0 +1,16 @@
+Cloning into 'python-sieve'...
+[rawhide e7acfbb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 100: %{python3_sitelib}/%{modname}-%{version}-*
+
+
+Building python-sieve-0.1.9-40.fc44 for rawhide
+Created task: 137263995
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263995
+warning: Macro expanded in comment on line 100: %{python3_sitelib}/%{modname}-%{version}-*
+
+
+Building python-sieve-0.1.9-40.fc43 for f43-candidate
+Created task: 137263997
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263997

@@ -1,0 +1,10 @@
+Cloning into 'python-crypto'...
+[rawhide ca32ac4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-crypto-2.6.1-59.fc44 for rawhide
+Created task: 137257888
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257888
+Building python-crypto-2.6.1-59.fc43 for f43-candidate
+Created task: 137257892
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257892

@@ -1,0 +1,10 @@
+Cloning into 'fawltydeps'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide faf2f51] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building fawltydeps-0.20.0-5.fc44 for rawhide
+Created task: 137253859
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253859
+Building fawltydeps-0.20.0-5.fc43 for f43-candidate
+Created task: 137253863
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253863

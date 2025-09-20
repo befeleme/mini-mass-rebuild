@@ -1,0 +1,20 @@
+Cloning into 'gmsh'...
+[rawhide 33029bd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: line 114: It's not recommended to have unversioned Obsoletes: Obsoletes:      python3-gmsh-private
+warning: line 127: It's not recommended to have unversioned Obsoletes: Obsoletes:      gmsh-devel-private
+warning: line 168: It's not recommended to have unversioned Obsoletes: Obsoletes:      gmsh-openmpi-devel-private
+warning: line 201: It's not recommended to have unversioned Obsoletes: Obsoletes:      gmsh-mpich-devel-private
+
+Building gmsh-4.14.1-2.fc44 for rawhide
+Created task: 137254145
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254145
+warning: line 114: It's not recommended to have unversioned Obsoletes: Obsoletes:      python3-gmsh-private
+warning: line 127: It's not recommended to have unversioned Obsoletes: Obsoletes:      gmsh-devel-private
+warning: line 168: It's not recommended to have unversioned Obsoletes: Obsoletes:      gmsh-openmpi-devel-private
+warning: line 201: It's not recommended to have unversioned Obsoletes: Obsoletes:      gmsh-mpich-devel-private
+
+Building gmsh-4.14.1-2.fc43 for f43-candidate
+Created task: 137254151
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254151

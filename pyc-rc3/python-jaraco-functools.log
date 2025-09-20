@@ -1,0 +1,10 @@
+Cloning into 'python-jaraco-functools'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 74e5bec] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jaraco-functools-4.1.0-6.fc44 for rawhide
+Created task: 137260049
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260049
+Building python-jaraco-functools-4.1.0-6.fc43 for f43-candidate
+Created task: 137260050
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260050

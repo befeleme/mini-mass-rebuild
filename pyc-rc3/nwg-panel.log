@@ -1,0 +1,10 @@
+Cloning into 'nwg-panel'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a932798] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building nwg-panel-0.10.5-5.fc44 for rawhide
+Created task: 137255192
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255192
+Building nwg-panel-0.10.5-5.fc43 for f43-candidate
+Created task: 137255194
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255194

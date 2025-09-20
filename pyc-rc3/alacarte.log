@@ -1,0 +1,10 @@
+Cloning into 'alacarte'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 264418a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building alacarte-3.56.0-5.fc44 for rawhide
+Created task: 137252697
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252697
+Building alacarte-3.56.0-5.fc43 for f43-candidate
+Created task: 137252700
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252700

@@ -1,0 +1,10 @@
+Cloning into 'python-attrs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 31d8f68] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-attrs-25.3.0-6.fc44 for rawhide
+Created task: 137256310
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256310
+Building python-attrs-25.3.0-6.fc43 for f43-candidate
+Created task: 137256314
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256314

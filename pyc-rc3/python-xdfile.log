@@ -1,0 +1,10 @@
+Cloning into 'python-xdfile'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2a5f031] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-xdfile-1.9.0~20250519git31b2fec-5.fc44 for rawhide
+Created task: 137265730
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265730
+Building python-xdfile-1.9.0~20250519git31b2fec-5.fc43 for f43-candidate
+Created task: 137265733
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265733

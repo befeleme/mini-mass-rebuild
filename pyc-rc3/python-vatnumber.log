@@ -1,0 +1,10 @@
+Cloning into 'python-vatnumber'...
+[rawhide 00cdbed] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-vatnumber-1.2-38.fc44 for rawhide
+Created task: 137265381
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265381
+Building python-vatnumber-1.2-38.fc43 for f43-candidate
+Created task: 137265391
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265391

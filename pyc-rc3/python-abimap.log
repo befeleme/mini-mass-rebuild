@@ -1,0 +1,10 @@
+Cloning into 'python-abimap'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8c20c7f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-abimap-0.4.0-4.fc44 for rawhide
+Created task: 137255903
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255903
+Building python-abimap-0.4.0-4.fc43 for f43-candidate
+Created task: 137255906
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255906

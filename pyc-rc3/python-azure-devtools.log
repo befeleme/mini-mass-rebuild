@@ -1,0 +1,10 @@
+Cloning into 'python-azure-devtools'...
+[rawhide 6f6a597] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-azure-devtools-1.2.1~git.4.67d46b9-15.fc44 for rawhide
+Created task: 137256421
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256421
+Building python-azure-devtools-1.2.1~git.4.67d46b9-15.fc43 for f43-candidate
+Created task: 137256425
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256425

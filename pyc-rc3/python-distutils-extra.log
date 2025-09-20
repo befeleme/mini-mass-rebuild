@@ -1,0 +1,10 @@
+Cloning into 'python-distutils-extra'...
+[rawhide cf47d14] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-distutils-extra-2.39-38.fc44 for rawhide
+Created task: 137258243
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258243
+Building python-distutils-extra-2.39-38.fc43 for f43-candidate
+Created task: 137258246
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258246

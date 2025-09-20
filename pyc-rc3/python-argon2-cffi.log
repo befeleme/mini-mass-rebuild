@@ -1,0 +1,10 @@
+Cloning into 'python-argon2-cffi'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8c9d0a3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-argon2-cffi-23.1.0-8.fc44 for rawhide
+Created task: 137256191
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256191
+Building python-argon2-cffi-23.1.0-8.fc43 for f43-candidate
+Created task: 137256193
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256193

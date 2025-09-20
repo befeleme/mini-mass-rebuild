@@ -1,0 +1,10 @@
+Cloning into 'python-pigpio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a631f1d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pigpio-1.78-22.fc44 for rawhide
+Created task: 137261952
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261952
+Building python-pigpio-1.78-22.fc43 for f43-candidate
+Created task: 137261955
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261955

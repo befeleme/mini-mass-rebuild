@@ -1,0 +1,10 @@
+Cloning into 'python-xeddsa'...
+[rawhide 3822e32] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-xeddsa-1.1.0-7.fc44 for rawhide
+Created task: 137265742
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265742
+Building python-xeddsa-1.1.0-7.fc43 for f43-candidate
+Created task: 137265752
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265752

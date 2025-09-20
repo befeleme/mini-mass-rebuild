@@ -1,0 +1,10 @@
+Cloning into 'python-matrix-nio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 977b50f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-matrix-nio-0.25.2-7.fc44 for rawhide
+Created task: 137260967
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260967
+Building python-matrix-nio-0.25.2-7.fc43 for f43-candidate
+Created task: 137260970
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260970

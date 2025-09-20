@@ -1,0 +1,10 @@
+Cloning into '2ping'...
+[rawhide 0c44fbe] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building 2ping-4.5.1-20.fc44 for rawhide
+Created task: 137252702
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252702
+Building 2ping-4.5.1-20.fc43 for f43-candidate
+Created task: 137252705
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252705

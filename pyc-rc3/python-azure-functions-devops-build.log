@@ -1,0 +1,10 @@
+Cloning into 'python-azure-functions-devops-build'...
+[rawhide b63384a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-azure-functions-devops-build-0.0.22-18.fc44 for rawhide
+Created task: 137256422
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256422
+Building python-azure-functions-devops-build-0.0.22-18.fc43 for f43-candidate
+Created task: 137256426
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256426

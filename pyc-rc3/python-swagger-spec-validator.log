@@ -1,0 +1,10 @@
+Cloning into 'python-swagger-spec-validator'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4cfde94] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-swagger-spec-validator-3.0.4-6.fc44 for rawhide
+Created task: 137264610
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264610
+Building python-swagger-spec-validator-3.0.4-6.fc43 for f43-candidate
+Created task: 137264615
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264615

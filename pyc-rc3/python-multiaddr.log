@@ -1,0 +1,10 @@
+Cloning into 'python-multiaddr'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f813caf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-multiaddr-0.0.9-7.fc44 for rawhide
+Created task: 137261234
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261234
+Building python-multiaddr-0.0.9-7.fc43 for f43-candidate
+Created task: 137261242
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261242

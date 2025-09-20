@@ -1,0 +1,4 @@
+Cloning into 'python-yamlloader'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 15819e8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>

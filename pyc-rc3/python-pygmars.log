@@ -1,0 +1,10 @@
+Cloning into 'python-pygmars'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f4fdf22] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pygmars-1.0.0-3.fc44 for rawhide
+Created task: 137262364
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262364
+Building python-pygmars-1.0.0-3.fc43 for f43-candidate
+Created task: 137262374
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262374

@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-mock'...
+[rawhide 4d2d6f6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pytest-mock-3.14.1-4.fc44 for rawhide
+Created task: 137263106
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263106
+Building python-pytest-mock-3.14.1-4.fc43 for f43-candidate
+Created task: 137263111
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263111

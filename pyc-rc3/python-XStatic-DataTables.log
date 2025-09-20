@@ -1,0 +1,10 @@
+Cloning into 'python-XStatic-DataTables'...
+[rawhide 65c90c8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-XStatic-DataTables-1.10.15.1-33.fc44 for rawhide
+Created task: 137265824
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265824
+Building python-XStatic-DataTables-1.10.15.1-33.fc43 for f43-candidate
+Created task: 137265832
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265832

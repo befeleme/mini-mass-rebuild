@@ -1,0 +1,10 @@
+Cloning into 'ibus-hangul'...
+[rawhide 41e76a5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building ibus-hangul-1.5.5-11.fc44 for rawhide
+Created task: 137254361
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254361
+Building ibus-hangul-1.5.5-11.fc43 for f43-candidate
+Created task: 137254369
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254369

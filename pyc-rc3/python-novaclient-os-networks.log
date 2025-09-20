@@ -1,0 +1,10 @@
+Cloning into 'python-novaclient-os-networks'...
+[rawhide 6e70413] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-novaclient-os-networks-0.26-34.fc44 for rawhide
+Created task: 137261432
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261432
+Building python-novaclient-os-networks-0.26-34.fc43 for f43-candidate
+Created task: 137261435
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261435

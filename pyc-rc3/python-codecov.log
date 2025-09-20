@@ -1,0 +1,10 @@
+Cloning into 'python-codecov'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 75145dd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-codecov-2.1.12-17.fc44 for rawhide
+Created task: 137257445
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257445
+Building python-codecov-2.1.12-17.fc43 for f43-candidate
+Created task: 137257450
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257450

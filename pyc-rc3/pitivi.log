@@ -1,0 +1,10 @@
+Cloning into 'pitivi'...
+[rawhide 4443dee] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pitivi-2023.03-19.fc44 for rawhide
+Created task: 137255451
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255451
+Building pitivi-2023.03-19.fc43 for f43-candidate
+Created task: 137255456
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255456

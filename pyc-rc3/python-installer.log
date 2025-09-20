@@ -1,0 +1,10 @@
+Cloning into 'python-installer'...
+[rawhide f4cbe60] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-installer-0.7.0-13.fc44 for rawhide
+Created task: 137287019
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287019
+Building python-installer-0.7.0-13.fc43 for f43-candidate
+Created task: 137287030
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287030

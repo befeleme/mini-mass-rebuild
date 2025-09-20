@@ -1,0 +1,10 @@
+Cloning into 'python-pep8-naming'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b0f7db6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pep8-naming-0.15.1-2.fc44 for rawhide
+Created task: 137261895
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261895
+Building python-pep8-naming-0.15.1-2.fc43 for f43-candidate
+Created task: 137261901
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261901

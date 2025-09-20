@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-iothub'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fd46247] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-iothub-3.0.0-10.fc44 for rawhide
+Created task: 137256599
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256599
+Building python-azure-mgmt-iothub-3.0.0-10.fc43 for f43-candidate
+Created task: 137256603
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256603

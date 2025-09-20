@@ -1,0 +1,10 @@
+Cloning into 'python-construct-classes'...
+[rawhide 4ccbe61] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-construct-classes-0.1.2-13.fc44 for rawhide
+Created task: 137257769
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257769
+Building python-construct-classes-0.1.2-13.fc43 for f43-candidate
+Created task: 137257772
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257772

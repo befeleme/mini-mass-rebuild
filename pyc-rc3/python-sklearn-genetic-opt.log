@@ -1,0 +1,7 @@
+Cloning into 'python-sklearn-genetic-opt'...
+RPMAutoSpec usage detected, not changing the spec file.
+[f43 f47f30f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sklearn-genetic-opt-0.11.1-16.fc43 for f43-candidate
+Created task: 137269154
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269154

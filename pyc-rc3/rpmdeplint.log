@@ -1,0 +1,10 @@
+Cloning into 'rpmdeplint'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 758a098] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building rpmdeplint-2.0-11.fc44 for rawhide
+Created task: 137266218
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266218
+Building rpmdeplint-2.0-11.fc43 for f43-candidate
+Created task: 137266243
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266243

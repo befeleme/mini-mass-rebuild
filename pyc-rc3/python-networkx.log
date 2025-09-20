@@ -1,0 +1,8 @@
+Cloning into 'python-networkx'...
+python-networkx f43 build complete but not tagged: python-networkx-3.5-8.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 22a2452] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-networkx-3.5-9.fc44 for rawhide
+Created task: 137261353
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261353

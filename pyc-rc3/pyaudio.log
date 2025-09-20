@@ -1,0 +1,10 @@
+Cloning into 'pyaudio'...
+[rawhide a18c663] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pyaudio-0.2.13-10.fc44 for rawhide
+Created task: 137255599
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255599
+Building pyaudio-0.2.13-10.fc43 for f43-candidate
+Created task: 137255607
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255607

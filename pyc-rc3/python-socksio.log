@@ -1,0 +1,10 @@
+Cloning into 'python-socksio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 79c5fca] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-socksio-1.0.0-20.fc44 for rawhide
+Created task: 137264185
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264185
+Building python-socksio-1.0.0-20.fc43 for f43-candidate
+Created task: 137264189
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264189

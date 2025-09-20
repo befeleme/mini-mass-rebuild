@@ -1,0 +1,10 @@
+Cloning into 'python-entrypoints'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 03e14ce] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-entrypoints-0.4-12.fc44 for rawhide
+Created task: 137258660
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258660
+Building python-entrypoints-0.4-12.fc43 for f43-candidate
+Created task: 137258667
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258667

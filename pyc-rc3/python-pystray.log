@@ -1,0 +1,10 @@
+Cloning into 'python-pystray'...
+[rawhide fcb765f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pystray-0.17.3-19.fc44 for rawhide
+Created task: 137262976
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262976
+Building python-pystray-0.17.3-19.fc43 for f43-candidate
+Created task: 137262993
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262993

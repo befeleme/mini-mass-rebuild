@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-storage-plugin-zenodo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 52d6150] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-storage-plugin-zenodo-0.1.5-5.fc44 for rawhide
+Created task: 137264167
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264167
+Building python-snakemake-storage-plugin-zenodo-0.1.5-5.fc43 for f43-candidate
+Created task: 137264169
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264169

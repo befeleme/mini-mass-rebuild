@@ -1,0 +1,10 @@
+Cloning into 'appliance-tools'...
+[rawhide 5f72caf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building appliance-tools-011.3-8.fc44 for rawhide
+Created task: 137252794
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252794
+Building appliance-tools-011.3-8.fc43 for f43-candidate
+Created task: 137252797
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252797

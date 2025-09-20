@@ -1,0 +1,10 @@
+Cloning into 'trac-monotone-plugin'...
+[rawhide 5e16c4e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building trac-monotone-plugin-0.0.15-0.17.20210704mtn34341a53.fc44 for rawhide
+Created task: 137266721
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266721
+Building trac-monotone-plugin-0.0.15-0.17.20210704mtn34341a53.fc43 for f43-candidate
+Created task: 137266727
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266727

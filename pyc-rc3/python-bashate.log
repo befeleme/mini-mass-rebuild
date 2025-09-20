@@ -1,0 +1,10 @@
+Cloning into 'python-bashate'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f7be8f6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-bashate-2.1.1-17.fc44 for rawhide
+Created task: 137256856
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256856
+Building python-bashate-2.1.1-17.fc43 for f43-candidate
+Created task: 137256860
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256860

@@ -1,0 +1,10 @@
+Cloning into 'libopenshot'...
+[rawhide fc4c101] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libopenshot-0.4.0-6.fc44 for rawhide
+Created task: 137254681
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254681
+Building libopenshot-0.4.0-6.fc43 for f43-candidate
+Created task: 137254687
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254687

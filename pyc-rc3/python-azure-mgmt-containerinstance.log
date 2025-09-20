@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-containerinstance'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5d0e3bd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-containerinstance-10.2.0~b1-6.fc44 for rawhide
+Created task: 137256513
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256513
+Building python-azure-mgmt-containerinstance-10.2.0~b1-6.fc43 for f43-candidate
+Created task: 137256516
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256516

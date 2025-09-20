@@ -1,0 +1,10 @@
+Cloning into 'resalloc-openstack'...
+[rawhide a1d3f67] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building resalloc-openstack-9.8-9.fc44 for rawhide
+Created task: 137266158
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266158
+Building resalloc-openstack-9.8-9.fc43 for f43-candidate
+Created task: 137266166
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266166

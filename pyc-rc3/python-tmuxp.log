@@ -1,0 +1,10 @@
+Cloning into 'python-tmuxp'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0d286a1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tmuxp-1.52.2-5.fc44 for rawhide
+Created task: 137264840
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264840
+Building python-tmuxp-1.52.2-5.fc43 for f43-candidate
+Created task: 137264842
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264842

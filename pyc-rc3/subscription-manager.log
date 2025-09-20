@@ -1,0 +1,10 @@
+Cloning into 'subscription-manager'...
+[rawhide 7d741ae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building subscription-manager-1.30.5-5.fc44 for rawhide
+Created task: 137266555
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266555
+Building subscription-manager-1.30.5-5.fc43 for f43-candidate
+Created task: 137266562
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266562

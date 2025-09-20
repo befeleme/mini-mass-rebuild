@@ -1,0 +1,10 @@
+Cloning into 'python-flake8-deprecated'...
+[rawhide f9f9165] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flake8-deprecated-2.2.1-7.fc44 for rawhide
+Created task: 137259001
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259001
+Building python-flake8-deprecated-2.2.1-7.fc43 for f43-candidate
+Created task: 137259006
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259006

@@ -1,0 +1,10 @@
+Cloning into 'python-flask'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 01dfa87] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-flask-3.1.2-3.fc44 for rawhide
+Created task: 137259022
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259022
+Building python-flask-3.1.2-3.fc43 for f43-candidate
+Created task: 137259026
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259026

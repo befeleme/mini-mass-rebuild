@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-mysqlflexibleservers'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7f9b1cf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-mysqlflexibleservers-1.0.0~b3-5.fc44 for rawhide
+Created task: 137256629
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256629
+Building python-azure-mgmt-mysqlflexibleservers-1.0.0~b3-5.fc43 for f43-candidate
+Created task: 137256633
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256633

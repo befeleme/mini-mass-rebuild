@@ -1,0 +1,14 @@
+Cloning into 'crypto-policies'...
+[rawhide f19502e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/crypto-policies/crypto-policies.spec line 64: autopatch: no matching patches in range
+
+Building crypto-policies-20250714-5.gitcd6043a.fc44 for rawhide
+Created task: 137253428
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253428
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/crypto-policies/crypto-policies.spec line 64: autopatch: no matching patches in range
+
+Building crypto-policies-20250714-5.gitcd6043a.fc43 for f43-candidate
+Created task: 137253431
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253431

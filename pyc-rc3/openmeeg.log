@@ -1,0 +1,10 @@
+Cloning into 'openmeeg'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4da1f43] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building openmeeg-2.5.15-6.fc44 for rawhide
+Created task: 137255302
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255302
+Building openmeeg-2.5.15-6.fc43 for f43-candidate
+Created task: 137255305
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255305

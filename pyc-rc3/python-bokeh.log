@@ -1,0 +1,10 @@
+Cloning into 'python-bokeh'...
+[rawhide 4656382] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-bokeh-2.3.0-22.fc44 for rawhide
+Created task: 137257074
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257074
+Building python-bokeh-2.3.0-22.fc43 for f43-candidate
+Created task: 137257078
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257078

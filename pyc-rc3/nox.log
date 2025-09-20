@@ -1,0 +1,10 @@
+Cloning into 'nox'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c4c530b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building nox-2025.05.01-5.fc44 for rawhide
+Created task: 137255176
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255176
+Building nox-2025.05.01-5.fc43 for f43-candidate
+Created task: 137255180
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255180

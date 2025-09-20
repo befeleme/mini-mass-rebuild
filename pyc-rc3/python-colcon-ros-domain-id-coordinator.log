@@ -1,0 +1,10 @@
+Cloning into 'python-colcon-ros-domain-id-coordinator'...
+[rawhide 5a630e2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-colcon-ros-domain-id-coordinator-0.2.4-4.fc44 for rawhide
+Created task: 137257610
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257610
+Building python-colcon-ros-domain-id-coordinator-0.2.4-4.fc43 for f43-candidate
+Created task: 137257615
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257615

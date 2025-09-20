@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-reredirects'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fb41964] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinx-reredirects-1.0.0-5.fc44 for rawhide
+Created task: 137264387
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264387
+Building python-sphinx-reredirects-1.0.0-5.fc43 for f43-candidate
+Created task: 137264391
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264391

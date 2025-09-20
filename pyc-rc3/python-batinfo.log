@@ -1,0 +1,10 @@
+Cloning into 'python-batinfo'...
+[rawhide 1a654f0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-batinfo-0.4.2-37.fc44 for rawhide
+Created task: 137256865
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256865
+Building python-batinfo-0.4.2-37.fc43 for f43-candidate
+Created task: 137256871
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256871

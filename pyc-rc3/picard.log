@@ -1,0 +1,10 @@
+Cloning into 'picard'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 78651ae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building picard-2.13.3-5.fc44 for rawhide
+Created task: 137255442
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255442
+Building picard-2.13.3-5.fc43 for f43-candidate
+Created task: 137255445
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255445

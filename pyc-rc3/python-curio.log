@@ -1,0 +1,10 @@
+Cloning into 'python-curio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 34bd2da] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-curio-1.6^1.1484546-10.fc44 for rawhide
+Created task: 137257934
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257934
+Building python-curio-1.6^1.1484546-10.fc43 for f43-candidate
+Created task: 137257936
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257936

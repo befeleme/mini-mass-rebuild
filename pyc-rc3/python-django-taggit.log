@@ -1,0 +1,10 @@
+Cloning into 'python-django-taggit'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 649a7f1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-django-taggit-1.5.1-18.fc44 for rawhide
+Created task: 137258400
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258400
+Building python-django-taggit-1.5.1-18.fc43 for f43-candidate
+Created task: 137258410
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258410

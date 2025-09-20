@@ -1,0 +1,10 @@
+Cloning into 'python-jsonpatch'...
+[rawhide 66cb12c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-jsonpatch-1.33-11.fc44 for rawhide
+Created task: 137260245
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260245
+Building python-jsonpatch-1.33-11.fc43 for f43-candidate
+Created task: 137260266
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260266

@@ -1,0 +1,10 @@
+Cloning into 'python-msal-extensions'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8430ad0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-msal-extensions-1.3.1-5.fc44 for rawhide
+Created task: 137261215
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261215
+Building python-msal-extensions-1.3.1-5.fc43 for f43-candidate
+Created task: 137261219
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261219

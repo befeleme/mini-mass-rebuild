@@ -1,0 +1,10 @@
+Cloning into 'python-fastprogress'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4c2c77b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fastprogress-1.0.0-22.fc44 for rawhide
+Created task: 137258914
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258914
+Building python-fastprogress-1.0.0-22.fc43 for f43-candidate
+Created task: 137258917
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258917

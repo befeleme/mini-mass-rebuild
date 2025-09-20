@@ -1,0 +1,10 @@
+Cloning into 'python-slixmpp-omemo'...
+[rawhide 20e2e9c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-slixmpp-omemo-0.9.1-8.fc44 for rawhide
+Created task: 137264054
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264054
+Building python-slixmpp-omemo-0.9.1-8.fc43 for f43-candidate
+Created task: 137264067
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264067

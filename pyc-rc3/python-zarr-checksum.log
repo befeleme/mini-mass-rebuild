@@ -1,0 +1,10 @@
+Cloning into 'python-zarr-checksum'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2d8b7b1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zarr-checksum-0.4.2-9.fc44 for rawhide
+Created task: 137265929
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265929
+Building python-zarr-checksum-0.4.2-9.fc43 for f43-candidate
+Created task: 137265933
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265933

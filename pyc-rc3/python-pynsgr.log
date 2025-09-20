@@ -1,0 +1,10 @@
+Cloning into 'python-pynsgr'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 031affa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pynsgr-1.0.3-13.fc44 for rawhide
+Created task: 137262524
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262524
+Building python-pynsgr-1.0.3-13.fc43 for f43-candidate
+Created task: 137262528
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262528

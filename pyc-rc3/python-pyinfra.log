@@ -1,0 +1,10 @@
+Cloning into 'python-pyinfra'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 92dc759] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyinfra-3.4.1-4.fc44 for rawhide
+Created task: 137262418
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262418
+Building python-pyinfra-3.4.1-4.fc43 for f43-candidate
+Created task: 137262422
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262422

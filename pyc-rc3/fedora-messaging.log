@@ -1,0 +1,10 @@
+Cloning into 'fedora-messaging'...
+[rawhide 9c79dcc] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building fedora-messaging-3.7.1-5.fc44 for rawhide
+Created task: 137253862
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253862
+Building fedora-messaging-3.7.1-5.fc43 for f43-candidate
+Created task: 137253874
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253874

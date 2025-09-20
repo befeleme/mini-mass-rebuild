@@ -1,0 +1,10 @@
+Cloning into 'python-click-repl'...
+[rawhide 25cc93f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-click-repl-0.2.0-17.fc44 for rawhide
+Created task: 137257384
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257384
+Building python-click-repl-0.2.0-17.fc43 for f43-candidate
+Created task: 137257387
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257387

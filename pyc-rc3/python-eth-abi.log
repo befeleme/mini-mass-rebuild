@@ -1,0 +1,10 @@
+Cloning into 'python-eth-abi'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7364d7a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-eth-abi-5.2.0-6.fc44 for rawhide
+Created task: 137258695
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258695
+Building python-eth-abi-5.2.0-6.fc43 for f43-candidate
+Created task: 137258699
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258699

@@ -1,0 +1,10 @@
+Cloning into 'python-orjson'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a9cf430] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-orjson-3.11.3-2.fc44 for rawhide
+Created task: 137261610
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261610
+Building python-orjson-3.11.3-2.fc43 for f43-candidate
+Created task: 137261612
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261612

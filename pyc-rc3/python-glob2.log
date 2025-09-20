@@ -1,0 +1,10 @@
+Cloning into 'python-glob2'...
+[rawhide 386891a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-glob2-0.7-29.fc44 for rawhide
+Created task: 137259535
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259535
+Building python-glob2-0.7-29.fc43 for f43-candidate
+Created task: 137259540
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259540

@@ -1,0 +1,10 @@
+Cloning into 'python-pysimplesoap'...
+[rawhide 334c24e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pysimplesoap-1.16.2-28.fc44 for rawhide
+Created task: 137262848
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262848
+Building python-pysimplesoap-1.16.2-28.fc43 for f43-candidate
+Created task: 137262883
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262883

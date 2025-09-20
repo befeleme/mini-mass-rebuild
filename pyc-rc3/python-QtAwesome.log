@@ -1,0 +1,10 @@
+Cloning into 'python-QtAwesome'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7a8c580] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-QtAwesome-1.4.0-5.fc44 for rawhide
+Created task: 137263327
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263327
+Building python-QtAwesome-1.4.0-5.fc43 for f43-candidate
+Created task: 137263331
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263331

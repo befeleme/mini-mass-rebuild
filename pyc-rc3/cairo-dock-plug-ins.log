@@ -1,0 +1,8 @@
+Cloning into 'cairo-dock-plug-ins'...
+cairo-dock-plug-ins f43 build complete but not tagged: cairo-dock-plug-ins-3.5.99^20250909git097b119-1.rc9.fc43
+[rawhide 9986274] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building cairo-dock-plug-ins-3.5.99^20250909git097b119-2.rc9.fc44 for rawhide
+Created task: 137253094
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253094

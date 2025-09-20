@@ -1,0 +1,10 @@
+Cloning into 'python-flit-core'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f2af68b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-flit-core-3.12.0-9.fc44 for rawhide
+Created task: 137259218
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259218
+Building python-flit-core-3.12.0-9.fc43 for f43-candidate
+Created task: 137259221
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259221

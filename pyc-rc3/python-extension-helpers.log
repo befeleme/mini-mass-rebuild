@@ -1,0 +1,10 @@
+Cloning into 'python-extension-helpers'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b2f97d5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-extension-helpers-1.4.0-4.fc44 for rawhide
+Created task: 137258811
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258811
+Building python-extension-helpers-1.4.0-4.fc43 for f43-candidate
+Created task: 137258813
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258813

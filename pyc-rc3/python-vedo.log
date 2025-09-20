@@ -1,0 +1,10 @@
+Cloning into 'python-vedo'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f3de5b8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-vedo-2024.5.2-7.fc44 for rawhide
+Created task: 137265420
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265420
+Building python-vedo-2024.5.2-7.fc43 for f43-candidate
+Created task: 137265424
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265424

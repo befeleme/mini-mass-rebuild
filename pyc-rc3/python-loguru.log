@@ -1,0 +1,10 @@
+Cloning into 'python-loguru'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e44284f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-loguru-0.7.3-14.fc44 for rawhide
+Created task: 137260754
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260754
+Building python-loguru-0.7.3-14.fc43 for f43-candidate
+Created task: 137260761
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260761

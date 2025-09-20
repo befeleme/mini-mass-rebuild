@@ -1,0 +1,10 @@
+Cloning into 'python-ncclient'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1e133dd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ncclient-0.7.0-2.fc44 for rawhide
+Created task: 137261328
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261328
+Building python-ncclient-0.7.0-2.fc43 for f43-candidate
+Created task: 137261333
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261333

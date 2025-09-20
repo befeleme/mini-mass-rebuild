@@ -1,0 +1,10 @@
+Cloning into 'python-virtualenvwrapper'...
+[rawhide ded1388] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-virtualenvwrapper-4.8.4-15.fc44 for rawhide
+Created task: 137265472
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265472
+Building python-virtualenvwrapper-4.8.4-15.fc43 for f43-candidate
+Created task: 137265474
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265474

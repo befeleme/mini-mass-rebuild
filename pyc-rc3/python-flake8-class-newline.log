@@ -1,0 +1,10 @@
+Cloning into 'python-flake8-class-newline'...
+[rawhide 422adff] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-flake8-class-newline-1.6.0-9.fc44 for rawhide
+Created task: 137258995
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258995
+Building python-flake8-class-newline-1.6.0-9.fc43 for f43-candidate
+Created task: 137259002
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259002

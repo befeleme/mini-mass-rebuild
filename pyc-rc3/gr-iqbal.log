@@ -1,0 +1,10 @@
+Cloning into 'gr-iqbal'...
+[rawhide fef95b0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gr-iqbal-0.38.2-41.20210210gitfbee239a.fc44 for rawhide
+Created task: 137254274
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254274
+Building gr-iqbal-0.38.2-41.20210210gitfbee239a.fc43 for f43-candidate
+Created task: 137254278
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254278

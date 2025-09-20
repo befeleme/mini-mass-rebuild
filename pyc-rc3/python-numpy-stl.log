@@ -1,0 +1,10 @@
+Cloning into 'python-numpy-stl'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e69ec7f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-numpy-stl-3.2.0-9.fc44 for rawhide
+Created task: 137261454
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261454
+Building python-numpy-stl-3.2.0-9.fc43 for f43-candidate
+Created task: 137261458
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261458

@@ -1,0 +1,10 @@
+Cloning into 'python-PyRSS2Gen'...
+[rawhide 7e27342] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-PyRSS2Gen-1.1-46.fc44 for rawhide
+Created task: 137262710
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262710
+Building python-PyRSS2Gen-1.1-46.fc43 for f43-candidate
+Created task: 137262722
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262722

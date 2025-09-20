@@ -1,0 +1,10 @@
+Cloning into 'python-portalocker'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5045d07] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-portalocker-3.1.1-6.fc44 for rawhide
+Created task: 137262056
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262056
+Building python-portalocker-3.1.1-6.fc43 for f43-candidate
+Created task: 137262066
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262066

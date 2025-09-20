@@ -1,0 +1,10 @@
+Cloning into 'lilv'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 19506b4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building lilv-0.24.26-7.fc44 for rawhide
+Created task: 137254807
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254807
+Building lilv-0.24.26-7.fc43 for f43-candidate
+Created task: 137254810
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254810

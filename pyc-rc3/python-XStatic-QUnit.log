@@ -1,0 +1,10 @@
+Cloning into 'python-XStatic-QUnit'...
+[rawhide 7be6000] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-XStatic-QUnit-1.14.0.2-38.fc44 for rawhide
+Created task: 137265887
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265887
+Building python-XStatic-QUnit-1.14.0.2-38.fc43 for f43-candidate
+Created task: 137265890
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265890

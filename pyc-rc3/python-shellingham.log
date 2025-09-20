@@ -1,0 +1,10 @@
+Cloning into 'python-shellingham'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d31717a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-shellingham-1.5.4-13.fc44 for rawhide
+Created task: 137263965
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263965
+Building python-shellingham-1.5.4-13.fc43 for f43-candidate
+Created task: 137263968
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263968

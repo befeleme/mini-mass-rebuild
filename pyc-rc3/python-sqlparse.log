@@ -1,0 +1,10 @@
+Cloning into 'python-sqlparse'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 40aa6dd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sqlparse-0.5.3-3.fc44 for rawhide
+Created task: 137264478
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264478
+Building python-sqlparse-0.5.3-3.fc43 for f43-candidate
+Created task: 137264487
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264487

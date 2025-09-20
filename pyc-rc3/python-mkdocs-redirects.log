@@ -1,0 +1,10 @@
+Cloning into 'python-mkdocs-redirects'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3d1e25d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-mkdocs-redirects-1.2.1-6.fc44 for rawhide
+Created task: 137261126
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261126
+Building python-mkdocs-redirects-1.2.1-6.fc43 for f43-candidate
+Created task: 137261130
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261130

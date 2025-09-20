@@ -1,0 +1,10 @@
+Cloning into 'python-colcon-spawn-shell'...
+[rawhide ae37b94] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-colcon-spawn-shell-0.3.0-9.fc44 for rawhide
+Created task: 137257613
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257613
+Building python-colcon-spawn-shell-0.3.0-9.fc43 for f43-candidate
+Created task: 137257619
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257619

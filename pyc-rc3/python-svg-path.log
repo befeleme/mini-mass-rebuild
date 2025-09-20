@@ -1,0 +1,10 @@
+Cloning into 'python-svg-path'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 63a6f5e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-svg-path-6.3-7.fc44 for rawhide
+Created task: 137264602
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264602
+Building python-svg-path-6.3-7.fc43 for f43-candidate
+Created task: 137264605
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264605

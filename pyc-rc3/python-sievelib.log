@@ -1,0 +1,10 @@
+Cloning into 'python-sievelib'...
+[rawhide 7d69a9f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sievelib-1.4.2-6.fc44 for rawhide
+Created task: 137263996
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263996
+Building python-sievelib-1.4.2-6.fc43 for f43-candidate
+Created task: 137264002
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264002

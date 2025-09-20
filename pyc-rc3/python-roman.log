@@ -1,0 +1,10 @@
+Cloning into 'python-roman'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 80196c0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-roman-5.1-2.fc44 for rawhide
+Created task: 137263662
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263662
+Building python-roman-5.1-2.fc43 for f43-candidate
+Created task: 137263664
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263664

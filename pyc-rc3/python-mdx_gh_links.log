@@ -1,0 +1,10 @@
+Cloning into 'python-mdx_gh_links'...
+[rawhide 196e7d6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-mdx_gh_links-0.4-10.fc44 for rawhide
+Created task: 137260995
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260995
+Building python-mdx_gh_links-0.4-10.fc43 for f43-candidate
+Created task: 137261000
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261000

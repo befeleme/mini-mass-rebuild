@@ -1,0 +1,20 @@
+Cloning into 'libkolabxml'...
+[rawhide 546b09e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: Macro expanded in comment on line 82: %{version}-%{release}
+
+warning: line 136: Possible unexpanded macro in: Requires:       php(zend-abi) = %{php_zend_api}
+warning: line 137: Possible unexpanded macro in: Requires:       php(api) = %{php_core_api}
+
+Building libkolabxml-1.2.0-34.fc44 for rawhide
+Created task: 137254643
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254643
+warning: Macro expanded in comment on line 82: %{version}-%{release}
+
+warning: line 136: Possible unexpanded macro in: Requires:       php(zend-abi) = %{php_zend_api}
+warning: line 137: Possible unexpanded macro in: Requires:       php(api) = %{php_core_api}
+
+Building libkolabxml-1.2.0-34.fc43 for f43-candidate
+Created task: 137254648
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254648

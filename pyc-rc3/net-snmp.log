@@ -1,0 +1,10 @@
+Cloning into 'net-snmp'...
+[rawhide 0e6b0aa] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building net-snmp-5.9.4-17.fc44 for rawhide
+Created task: 137255128
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255128
+Building net-snmp-5.9.4-17.fc43 for f43-candidate
+Created task: 137255130
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255130

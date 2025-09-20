@@ -1,0 +1,10 @@
+Cloning into 'python-pysam'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8127f4d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pysam-0.22.1-8.fc44 for rawhide
+Created task: 137262727
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262727
+Building python-pysam-0.22.1-8.fc43 for f43-candidate
+Created task: 137262738
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262738

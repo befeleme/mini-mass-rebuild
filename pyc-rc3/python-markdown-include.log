@@ -1,0 +1,10 @@
+Cloning into 'python-markdown-include'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 97acf80] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-markdown-include-0.8.1-13.fc44 for rawhide
+Created task: 137260932
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260932
+Building python-markdown-include-0.8.1-13.fc43 for f43-candidate
+Created task: 137260936
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260936

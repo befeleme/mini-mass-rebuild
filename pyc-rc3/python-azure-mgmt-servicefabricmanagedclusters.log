@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-servicefabricmanagedclusters'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 26798c2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-servicefabricmanagedclusters-2.1.0~b1-5.fc44 for rawhide
+Created task: 137256692
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256692
+Building python-azure-mgmt-servicefabricmanagedclusters-2.1.0~b1-5.fc43 for f43-candidate
+Created task: 137256694
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256694

@@ -1,0 +1,10 @@
+Cloning into 'python-sane'...
+[rawhide b34ebe3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sane-2.9.2-4.fc44 for rawhide
+Created task: 137263800
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263800
+Building python-sane-2.9.2-4.fc43 for f43-candidate
+Created task: 137263809
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263809

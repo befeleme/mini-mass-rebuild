@@ -1,0 +1,10 @@
+Cloning into 'python-wrapt'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5b21df6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-wrapt-1.17.1-6.fc44 for rawhide
+Created task: 137265796
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265796
+Building python-wrapt-1.17.1-6.fc43 for f43-candidate
+Created task: 137265800
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265800

@@ -1,0 +1,10 @@
+Cloning into 'python-pymaven-patch'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3cb7c60] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pymaven-patch-0.3.2-9.fc44 for rawhide
+Created task: 137262479
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262479
+Building python-pymaven-patch-0.3.2-9.fc43 for f43-candidate
+Created task: 137262481
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262481

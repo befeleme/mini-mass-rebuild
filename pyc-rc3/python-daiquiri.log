@@ -1,0 +1,10 @@
+Cloning into 'python-daiquiri'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 608ce2b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-daiquiri-3.3.0-3.fc44 for rawhide
+Created task: 137258021
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258021
+Building python-daiquiri-3.3.0-3.fc43 for f43-candidate
+Created task: 137258029
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258029

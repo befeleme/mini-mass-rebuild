@@ -1,0 +1,10 @@
+Cloning into 'python-pymeeus'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7947402] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pymeeus-0.5.11-18.fc44 for rawhide
+Created task: 137262492
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262492
+Building python-pymeeus-0.5.11-18.fc43 for f43-candidate
+Created task: 137262497
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262497

@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx_lv2_theme'...
+[rawhide e74e329] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sphinx_lv2_theme-1.4.2-7.fc44 for rawhide
+Created task: 137264362
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264362
+Building python-sphinx_lv2_theme-1.4.2-7.fc43 for f43-candidate
+Created task: 137264366
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264366

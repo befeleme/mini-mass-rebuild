@@ -1,0 +1,10 @@
+Cloning into 'system-switch-mail'...
+[rawhide 349b8a1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building system-switch-mail-2.0.1-26.fc44 for rawhide
+Created task: 137266585
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266585
+Building system-switch-mail-2.0.1-26.fc43 for f43-candidate
+Created task: 137266592
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266592

@@ -1,0 +1,10 @@
+Cloning into 'ampy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7576f71] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building ampy-1.0.5-32.fc44 for rawhide
+Created task: 137252725
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252725
+Building ampy-1.0.5-32.fc43 for f43-candidate
+Created task: 137252732
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252732

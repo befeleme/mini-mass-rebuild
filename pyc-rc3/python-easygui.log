@@ -1,0 +1,10 @@
+Cloning into 'python-easygui'...
+[rawhide 968715a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-easygui-0.96-50.fc44 for rawhide
+Created task: 137258573
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258573
+Building python-easygui-0.96-50.fc43 for f43-candidate
+Created task: 137258579
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258579

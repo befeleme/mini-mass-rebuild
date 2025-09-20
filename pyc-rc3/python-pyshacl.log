@@ -1,0 +1,10 @@
+Cloning into 'python-pyshacl'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 32e30d4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyshacl-0.30.1-5.fc44 for rawhide
+Created task: 137262783
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262783
+Building python-pyshacl-0.30.1-5.fc43 for f43-candidate
+Created task: 137262790
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262790

@@ -1,0 +1,17 @@
+Cloning into 'libsemanage'...
+[rawhide a6a1e08] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+error: %changelog not in descending chronological order
+
+Building libsemanage-3.9-4.fc44 for rawhide
+Created task: 137254744
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254744
+Found a gating.yaml file in the repo and it is properly configured
+error: %changelog not in descending chronological order
+
+Building libsemanage-3.9-4.fc43 for f43-candidate
+Created task: 137254753
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254753
+libsemanage f43 build complete but not tagged: libsemanage-3.9-4.fc43 (bodhi)

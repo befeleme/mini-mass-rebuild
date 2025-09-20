@@ -1,0 +1,10 @@
+Cloning into 'git-pull-request'...
+[rawhide 12cfaae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building git-pull-request-6.0.2-16.fc44 for rawhide
+Created task: 137254109
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254109
+Building git-pull-request-6.0.2-16.fc43 for f43-candidate
+Created task: 137254114
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254114

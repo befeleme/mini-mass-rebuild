@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-randomly'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2fa61eb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-randomly-3.16.0-6.fc44 for rawhide
+Created task: 137263130
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263130
+Building python-pytest-randomly-3.16.0-6.fc43 for f43-candidate
+Created task: 137263131
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263131

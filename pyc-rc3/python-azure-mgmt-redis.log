@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-redis'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2161271] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-redis-14.5.0-5.fc44 for rawhide
+Created task: 137256663
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256663
+Building python-azure-mgmt-redis-14.5.0-5.fc43 for f43-candidate
+Created task: 137256666
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256666

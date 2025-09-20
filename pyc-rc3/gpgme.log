@@ -1,0 +1,10 @@
+Cloning into 'gpgme'...
+[rawhide 5f900c2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gpgme-1.24.3-6.fc44 for rawhide
+Created task: 137254235
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254235
+Building gpgme-1.24.3-6.fc43 for f43-candidate
+Created task: 137254239
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254239

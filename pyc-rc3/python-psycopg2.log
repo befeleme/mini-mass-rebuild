@@ -1,0 +1,10 @@
+Cloning into 'python-psycopg2'...
+[rawhide 4a12e2a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-psycopg2-2.9.10-4.fc44 for rawhide
+Created task: 137262137
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262137
+Building python-psycopg2-2.9.10-4.fc43 for f43-candidate
+Created task: 137262140
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262140

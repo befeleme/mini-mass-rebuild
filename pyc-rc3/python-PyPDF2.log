@@ -1,0 +1,10 @@
+Cloning into 'python-PyPDF2'...
+[rawhide 06ce4bb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-PyPDF2-1.26.0-35.fc44 for rawhide
+Created task: 137262560
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262560
+Building python-PyPDF2-1.26.0-35.fc43 for f43-candidate
+Created task: 137262564
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262564

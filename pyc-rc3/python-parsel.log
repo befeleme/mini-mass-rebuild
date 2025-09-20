@@ -1,0 +1,10 @@
+Cloning into 'python-parsel'...
+[rawhide 5928a9b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-parsel-1.10.0-7.fc44 for rawhide
+Created task: 137261741
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261741
+Building python-parsel-1.10.0-7.fc43 for f43-candidate
+Created task: 137261749
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261749

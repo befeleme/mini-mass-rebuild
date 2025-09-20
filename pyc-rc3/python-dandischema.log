@@ -1,0 +1,10 @@
+Cloning into 'python-dandischema'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1a81433] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-dandischema-0.10.3-7.fc44 for rawhide
+Created task: 137258003
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258003
+Building python-dandischema-0.10.3-7.fc43 for f43-candidate
+Created task: 137258022
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258022

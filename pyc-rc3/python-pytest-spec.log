@@ -1,0 +1,8 @@
+Cloning into 'python-pytest-spec'...
+python-pytest-spec f43 and rawhide branches differ
+[rawhide 9a3ba3e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pytest-spec-5.1.0-2.fc44 for rawhide
+Created task: 137263143
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263143

@@ -1,0 +1,10 @@
+Cloning into 'python-boto'...
+[rawhide 0203616] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-boto-2.49.0-29.fc44 for rawhide
+Created task: 137257093
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257093
+Building python-boto-2.49.0-29.fc43 for f43-candidate
+Created task: 137257095
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257095

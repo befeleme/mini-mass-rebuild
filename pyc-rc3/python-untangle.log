@@ -1,0 +1,10 @@
+Cloning into 'python-untangle'...
+[rawhide 792ed20] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-untangle-1.2.1-10.fc44 for rawhide
+Created task: 137265283
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265283
+Building python-untangle-1.2.1-10.fc43 for f43-candidate
+Created task: 137265284
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265284

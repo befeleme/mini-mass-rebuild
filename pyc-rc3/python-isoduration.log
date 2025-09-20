@@ -1,0 +1,10 @@
+Cloning into 'python-isoduration'...
+[rawhide 51388b1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-isoduration-20.11.0-15.fc44 for rawhide
+Created task: 137260011
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260011
+Building python-isoduration-20.11.0-15.fc43 for f43-candidate
+Created task: 137260019
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260019

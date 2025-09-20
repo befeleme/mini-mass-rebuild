@@ -1,0 +1,10 @@
+Cloning into 'sword'...
+[rawhide 9cc0cae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building sword-1.9.0-36.fc44 for rawhide
+Created task: 137266576
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266576
+Building sword-1.9.0-36.fc43 for f43-candidate
+Created task: 137266578
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266578

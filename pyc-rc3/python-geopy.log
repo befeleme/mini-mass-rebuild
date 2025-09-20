@@ -1,0 +1,10 @@
+Cloning into 'python-geopy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f929760] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-geopy-2.4.1-11.fc44 for rawhide
+Created task: 137259451
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259451
+Building python-geopy-2.4.1-11.fc43 for f43-candidate
+Created task: 137259455
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259455

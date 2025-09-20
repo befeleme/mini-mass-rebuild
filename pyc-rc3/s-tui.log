@@ -1,0 +1,10 @@
+Cloning into 's-tui'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7c52b51] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building s-tui-1.1.6-8.fc44 for rawhide
+Created task: 137266547
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266547
+Building s-tui-1.1.6-8.fc43 for f43-candidate
+Created task: 137266549
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266549

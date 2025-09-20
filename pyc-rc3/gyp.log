@@ -1,0 +1,10 @@
+Cloning into 'gyp'...
+[rawhide 08d7212] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gyp-0.1-0.60.fcd686f1git.fc44 for rawhide
+Created task: 137254315
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254315
+Building gyp-0.1-0.60.fcd686f1git.fc43 for f43-candidate
+Created task: 137254317
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254317

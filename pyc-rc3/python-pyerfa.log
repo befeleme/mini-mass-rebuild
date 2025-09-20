@@ -1,0 +1,10 @@
+Cloning into 'python-pyerfa'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 63c170d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyerfa-2.0.1.5-6.fc44 for rawhide
+Created task: 137262316
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262316
+Building python-pyerfa-2.0.1.5-6.fc43 for f43-candidate
+Created task: 137262319
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262319

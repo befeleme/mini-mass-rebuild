@@ -1,0 +1,10 @@
+Cloning into 'git-fame'...
+[rawhide 9d06658] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building git-fame-2.0.1-13.fc44 for rawhide
+Created task: 137254099
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254099
+Building git-fame-2.0.1-13.fc43 for f43-candidate
+Created task: 137254106
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254106

@@ -1,0 +1,10 @@
+Cloning into 'R-reticulate'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide bb821fb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building R-reticulate-1.42.0-5.fc44 for rawhide
+Created task: 137266242
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266242
+Building R-reticulate-1.42.0-5.fc43 for f43-candidate
+Created task: 137266247
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266247

@@ -1,0 +1,10 @@
+Cloning into 'python-markdown-it-py'...
+[rawhide bb670d2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-markdown-it-py-3.0.0-13.fc44 for rawhide
+Created task: 137260931
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260931
+Building python-markdown-it-py-3.0.0-13.fc43 for f43-candidate
+Created task: 137260935
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260935

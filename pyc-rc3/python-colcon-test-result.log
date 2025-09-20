@@ -1,0 +1,10 @@
+Cloning into 'python-colcon-test-result'...
+[rawhide 1296c65] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-colcon-test-result-0.3.8-23.fc44 for rawhide
+Created task: 137257618
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257618
+Building python-colcon-test-result-0.3.8-23.fc43 for f43-candidate
+Created task: 137257621
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257621

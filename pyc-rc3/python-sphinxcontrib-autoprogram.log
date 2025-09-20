@@ -1,0 +1,10 @@
+Cloning into 'python-sphinxcontrib-autoprogram'...
+[rawhide eff7e1c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sphinxcontrib-autoprogram-0.1.9-11.fc44 for rawhide
+Created task: 137264261
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264261
+Building python-sphinxcontrib-autoprogram-0.1.9-11.fc43 for f43-candidate
+Created task: 137264264
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264264

@@ -1,0 +1,10 @@
+Cloning into 'mupdf'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 90d7f2e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building mupdf-1.26.3-5.fc44 for rawhide
+Created task: 137255062
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255062
+Building mupdf-1.26.3-5.fc43 for f43-candidate
+Created task: 137255067
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255067

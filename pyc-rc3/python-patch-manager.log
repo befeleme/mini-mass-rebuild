@@ -1,0 +1,10 @@
+Cloning into 'python-patch-manager'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6ad52e5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-patch-manager-0.0.6-6.fc44 for rawhide
+Created task: 137261785
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261785
+Building python-patch-manager-0.0.6-6.fc43 for f43-candidate
+Created task: 137261791
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261791

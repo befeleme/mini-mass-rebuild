@@ -1,0 +1,10 @@
+Cloning into 'trac-tracnav-plugin'...
+[rawhide da86f29] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building trac-tracnav-plugin-4.3-20.fc44 for rawhide
+Created task: 137266731
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266731
+Building trac-tracnav-plugin-4.3-20.fc43 for f43-candidate
+Created task: 137266737
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266737

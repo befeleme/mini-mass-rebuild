@@ -1,0 +1,10 @@
+Cloning into 'python-gstreamer1'...
+[rawhide 435aa35] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-gstreamer1-1.26.6-2.fc44 for rawhide
+Created task: 137259628
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259628
+Building python-gstreamer1-1.26.6-2.fc43 for f43-candidate
+Created task: 137259630
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259630

@@ -1,0 +1,10 @@
+Cloning into 'libvoikko'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b895c55] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building libvoikko-4.3.3-5.fc44 for rawhide
+Created task: 137254788
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254788
+Building libvoikko-4.3.3-5.fc43 for f43-candidate
+Created task: 137254791
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254791

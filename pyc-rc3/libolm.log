@@ -1,0 +1,10 @@
+Cloning into 'libolm'...
+[rawhide 010c4df] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libolm-3.2.16-9.fc44 for rawhide
+Created task: 137254695
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254695
+Building libolm-3.2.16-9.fc43 for f43-candidate
+Created task: 137254704
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254704

@@ -1,0 +1,8 @@
+Cloning into 'python-propcache'...
+python-propcache f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 53ad76f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-propcache-0.2.0-6.fc44 for rawhide
+Created task: 137262102
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262102

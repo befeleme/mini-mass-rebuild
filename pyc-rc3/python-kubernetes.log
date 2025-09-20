@@ -1,0 +1,10 @@
+Cloning into 'python-kubernetes'...
+[rawhide 16f4e1e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-kubernetes-32.0.1-5.fc44 for rawhide
+Created task: 137260509
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260509
+Building python-kubernetes-32.0.1-5.fc43 for f43-candidate
+Created task: 137260513
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260513

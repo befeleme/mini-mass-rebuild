@@ -1,0 +1,10 @@
+Cloning into 'pepc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide c99d19e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pepc-1.5.41-2.fc44 for rawhide
+Created task: 137255412
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255412
+Building pepc-1.5.41-2.fc43 for f43-candidate
+Created task: 137255415
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255415

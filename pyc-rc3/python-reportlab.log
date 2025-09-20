@@ -1,0 +1,10 @@
+Cloning into 'python-reportlab'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 94c3cbf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-reportlab-4.4.3-3.fc44 for rawhide
+Created task: 137263473
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263473
+Building python-reportlab-4.4.3-3.fc43 for f43-candidate
+Created task: 137263477
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263477

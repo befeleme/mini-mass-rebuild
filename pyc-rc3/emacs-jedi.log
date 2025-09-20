@@ -1,0 +1,16 @@
+Cloning into 'emacs-jedi'...
+[rawhide 46863cd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+warning: line 27: Possible unexpanded macro in: Requires:       emacs(bin) >= %{_emacs_version}
+warning: line 27: Possible unexpanded macro in: Requires:       emacs(bin) >= %{_emacs_version}
+
+Building emacs-jedi-0.3.0-0.17.20210503gite942a0e.fc44 for rawhide
+Created task: 137253804
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253804
+warning: line 27: Possible unexpanded macro in: Requires:       emacs(bin) >= %{_emacs_version}
+warning: line 27: Possible unexpanded macro in: Requires:       emacs(bin) >= %{_emacs_version}
+
+Building emacs-jedi-0.3.0-0.17.20210503gite942a0e.fc43 for f43-candidate
+Created task: 137253807
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253807

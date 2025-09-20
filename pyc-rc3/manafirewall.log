@@ -1,0 +1,10 @@
+Cloning into 'manafirewall'...
+[rawhide 6c6f184] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building manafirewall-0.0.3-17.fc44 for rawhide
+Created task: 137254881
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254881
+Building manafirewall-0.0.3-17.fc43 for f43-candidate
+Created task: 137254883
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254883

@@ -1,0 +1,10 @@
+Cloning into 'python-zope-event'...
+[rawhide be9331c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-zope-event-5.1-4.fc44 for rawhide
+Created task: 137265970
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265970
+Building python-zope-event-5.1-4.fc43 for f43-candidate
+Created task: 137265979
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265979

@@ -1,0 +1,10 @@
+Cloning into 'python-openpaperwork-gtk'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0aa22ea] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-openpaperwork-gtk-2.2.5-6.fc44 for rawhide
+Created task: 137261537
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261537
+Building python-openpaperwork-gtk-2.2.5-6.fc43 for f43-candidate
+Created task: 137261542
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261542

@@ -1,0 +1,10 @@
+Cloning into 'mkdocs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide dcb1140] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building mkdocs-1.6.1-7.fc44 for rawhide
+Created task: 137254948
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254948
+Building mkdocs-1.6.1-7.fc43 for f43-candidate
+Created task: 137254951
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254951

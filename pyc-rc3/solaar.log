@@ -1,0 +1,10 @@
+Cloning into 'solaar'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cc58cd4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building solaar-1.1.14-12.fc44 for rawhide
+Created task: 137266657
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266657
+Building solaar-1.1.14-12.fc43 for f43-candidate
+Created task: 137266660
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266660

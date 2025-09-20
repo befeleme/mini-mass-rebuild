@@ -1,0 +1,10 @@
+Cloning into 'arandr'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0a96d1e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building arandr-0.1.11-13.fc44 for rawhide
+Created task: 137252801
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252801
+Building arandr-0.1.11-13.fc43 for f43-candidate
+Created task: 137252804
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252804

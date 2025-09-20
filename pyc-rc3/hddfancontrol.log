@@ -1,0 +1,10 @@
+Cloning into 'hddfancontrol'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9d73fc2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building hddfancontrol-1.6.2-12.fc44 for rawhide
+Created task: 137254321
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254321
+Building hddfancontrol-1.6.2-12.fc43 for f43-candidate
+Created task: 137254324
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254324

@@ -1,0 +1,10 @@
+Cloning into 'thefuck'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3f76588] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building thefuck-3.32-19.fc44 for rawhide
+Created task: 137266639
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266639
+Building thefuck-3.32-19.fc43 for f43-candidate
+Created task: 137266651
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266651

@@ -1,0 +1,10 @@
+Cloning into 'ipsilon'...
+[rawhide b0361bb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building ipsilon-3.0.5-0.8.git20241202.01109c1.fc44 for rawhide
+Created task: 137254413
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254413
+Building ipsilon-3.0.5-0.8.git20241202.01109c1.fc43 for f43-candidate
+Created task: 137254416
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254416

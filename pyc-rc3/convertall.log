@@ -1,0 +1,14 @@
+Cloning into 'convertall'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 599a3ab] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+date: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/convertall/convertall-0.8.0.tar.gz: No such file or directory
+
+Building convertall-0.8.0-10.fc44 for rawhide
+Created task: 137253352
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253352
+date: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/convertall/convertall-0.8.0.tar.gz: No such file or directory
+
+Building convertall-0.8.0-10.fc43 for f43-candidate
+Created task: 137253369
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253369

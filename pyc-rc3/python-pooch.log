@@ -1,0 +1,10 @@
+Cloning into 'python-pooch'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8ca626c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pooch-1.8.2-9.fc44 for rawhide
+Created task: 137262044
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262044
+Building python-pooch-1.8.2-9.fc43 for f43-candidate
+Created task: 137262046
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262046

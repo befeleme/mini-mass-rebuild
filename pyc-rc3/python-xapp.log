@@ -1,0 +1,10 @@
+Cloning into 'python-xapp'...
+[rawhide 6259c4e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-xapp-2.4.2-8.fc44 for rawhide
+Created task: 137265716
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265716
+Building python-xapp-2.4.2-8.fc43 for f43-candidate
+Created task: 137265719
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265719

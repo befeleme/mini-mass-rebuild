@@ -1,0 +1,4 @@
+Cloning into 'python-helpdev'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 81b48d6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>

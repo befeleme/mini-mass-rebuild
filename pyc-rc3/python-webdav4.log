@@ -1,0 +1,10 @@
+Cloning into 'python-webdav4'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8c6c1fd] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-webdav4-0.10.0-11.fc44 for rawhide
+Created task: 137265559
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265559
+Building python-webdav4-0.10.0-11.fc43 for f43-candidate
+Created task: 137265565
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265565

@@ -1,0 +1,10 @@
+Cloning into 'root'...
+[rawhide 84f092c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building root-6.36.04-2.fc44 for rawhide
+Created task: 137266219
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266219
+Building root-6.36.04-2.fc43 for f43-candidate
+Created task: 137266241
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266241

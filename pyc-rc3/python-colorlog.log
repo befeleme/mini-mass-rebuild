@@ -1,0 +1,10 @@
+Cloning into 'python-colorlog'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8b74115] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-colorlog-6.9.0-7.fc44 for rawhide
+Created task: 137257665
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257665
+Building python-colorlog-6.9.0-7.fc43 for f43-candidate
+Created task: 137257674
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257674

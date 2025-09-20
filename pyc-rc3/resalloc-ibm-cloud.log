@@ -1,0 +1,10 @@
+Cloning into 'resalloc-ibm-cloud'...
+[rawhide b10feb3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building resalloc-ibm-cloud-3.3-2.fc44 for rawhide
+Created task: 137266155
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266155
+Building resalloc-ibm-cloud-3.3-2.fc43 for f43-candidate
+Created task: 137266157
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266157

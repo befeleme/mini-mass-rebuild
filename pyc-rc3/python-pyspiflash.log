@@ -1,0 +1,10 @@
+Cloning into 'python-pyspiflash'...
+[rawhide 6acfef6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pyspiflash-0.6.5-4.fc44 for rawhide
+Created task: 137262890
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262890
+Building python-pyspiflash-0.6.5-4.fc43 for f43-candidate
+Created task: 137262901
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262901

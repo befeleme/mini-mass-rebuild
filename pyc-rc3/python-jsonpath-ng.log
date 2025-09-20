@@ -1,0 +1,10 @@
+Cloning into 'python-jsonpath-ng'...
+[rawhide 36567a7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-jsonpath-ng-1.7.0-7.fc44 for rawhide
+Created task: 137260241
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260241
+Building python-jsonpath-ng-1.7.0-7.fc43 for f43-candidate
+Created task: 137260282
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260282

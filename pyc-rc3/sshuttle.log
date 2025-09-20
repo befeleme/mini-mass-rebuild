@@ -1,0 +1,10 @@
+Cloning into 'sshuttle'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7813cc6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building sshuttle-1.3.1-5.fc44 for rawhide
+Created task: 137266537
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266537
+Building sshuttle-1.3.1-5.fc43 for f43-candidate
+Created task: 137266539
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266539

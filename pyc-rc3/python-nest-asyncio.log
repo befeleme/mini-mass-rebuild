@@ -1,0 +1,10 @@
+Cloning into 'python-nest-asyncio'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2abc5ab] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-nest-asyncio-1.6.0-10.fc44 for rawhide
+Created task: 137261342
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261342
+Building python-nest-asyncio-1.6.0-10.fc43 for f43-candidate
+Created task: 137261344
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261344

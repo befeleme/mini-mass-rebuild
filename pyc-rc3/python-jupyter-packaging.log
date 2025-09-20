@@ -1,0 +1,10 @@
+Cloning into 'python-jupyter-packaging'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 302c47c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jupyter-packaging-0.12.3-19.fc44 for rawhide
+Created task: 137260389
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260389
+Building python-jupyter-packaging-0.12.3-19.fc43 for f43-candidate
+Created task: 137260392
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260392

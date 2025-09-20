@@ -1,0 +1,10 @@
+Cloning into 'python-setuptools-git-versioning'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a5665c2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-setuptools-git-versioning-2.1.0-7.fc44 for rawhide
+Created task: 137263938
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263938
+Building python-setuptools-git-versioning-2.1.0-7.fc43 for f43-candidate
+Created task: 137263944
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263944

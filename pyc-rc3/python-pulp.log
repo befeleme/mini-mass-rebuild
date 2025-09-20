@@ -1,0 +1,8 @@
+Cloning into 'python-pulp'...
+python-pulp f43 build complete but not tagged: python-pulp-3.3.0-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 38cc42e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pulp-3.3.0-2.fc44 for rawhide
+Created task: 137262149
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262149

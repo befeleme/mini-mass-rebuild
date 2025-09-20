@@ -1,0 +1,10 @@
+Cloning into 'python-name-that-hash'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 54a948c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-name-that-hash-1.11.0-14.fc44 for rawhide
+Created task: 137261303
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261303
+Building python-name-that-hash-1.11.0-14.fc43 for f43-candidate
+Created task: 137261307
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261307

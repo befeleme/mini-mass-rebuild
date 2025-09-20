@@ -1,0 +1,10 @@
+Cloning into 'python-img2pdf'...
+[rawhide 98bbdee] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-img2pdf-0.6.1-6.fc44 for rawhide
+Created task: 137259850
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259850
+Building python-img2pdf-0.6.1-6.fc43 for f43-candidate
+Created task: 137259859
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259859

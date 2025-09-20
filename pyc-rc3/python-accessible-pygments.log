@@ -1,0 +1,10 @@
+Cloning into 'python-accessible-pygments'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b7182c9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-accessible-pygments-0.0.5-9.fc44 for rawhide
+Created task: 137255909
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255909
+Building python-accessible-pygments-0.0.5-9.fc43 for f43-candidate
+Created task: 137255913
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255913

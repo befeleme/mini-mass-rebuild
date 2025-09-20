@@ -1,0 +1,10 @@
+Cloning into 'xapian-bindings'...
+[rawhide 1177226] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building xapian-bindings-1.4.29-5.fc44 for rawhide
+Created task: 137266928
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266928
+Building xapian-bindings-1.4.29-5.fc43 for f43-candidate
+Created task: 137266931
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266931

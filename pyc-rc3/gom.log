@@ -1,0 +1,10 @@
+Cloning into 'gom'...
+[rawhide 1a1084f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gom-0.5.4-2.fc44 for rawhide
+Created task: 137254222
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254222
+Building gom-0.5.4-2.fc43 for f43-candidate
+Created task: 137254225
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254225

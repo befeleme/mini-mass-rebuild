@@ -1,0 +1,10 @@
+Cloning into 'gst-editing-services'...
+[rawhide 0894101] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building gst-editing-services-1.26.6-2.fc44 for rawhide
+Created task: 137254296
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254296
+Building gst-editing-services-1.26.6-2.fc43 for f43-candidate
+Created task: 137254303
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254303

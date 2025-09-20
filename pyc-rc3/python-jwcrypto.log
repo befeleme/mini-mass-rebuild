@@ -1,0 +1,10 @@
+Cloning into 'python-jwcrypto'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3ae16c4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-jwcrypto-1.4.2-16.fc44 for rawhide
+Created task: 137260405
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260405
+Building python-jwcrypto-1.4.2-16.fc43 for f43-candidate
+Created task: 137260409
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260409

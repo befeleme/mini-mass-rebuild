@@ -1,0 +1,10 @@
+Cloning into 'python-zarr'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 09fe288] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zarr-2.18.7-6.fc44 for rawhide
+Created task: 137287061
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287061
+Building python-zarr-2.18.7-6.fc43 for f43-candidate
+Created task: 137287067
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287067

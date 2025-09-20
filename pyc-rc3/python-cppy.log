@@ -1,0 +1,10 @@
+Cloning into 'python-cppy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e3df7d4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cppy-1.3.1-5.fc44 for rawhide
+Created task: 137257829
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257829
+Building python-cppy-1.3.1-5.fc43 for f43-candidate
+Created task: 137257844
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257844

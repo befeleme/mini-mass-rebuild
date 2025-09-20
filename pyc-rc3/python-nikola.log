@@ -1,0 +1,19 @@
+Cloning into 'python-nikola'...
+[rawhide 93220ff] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-nikola-8.3.3-4.fc41 for f41-candidate
+Created task: 137261380
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261380
+Building python-nikola-8.3.3-4.fc41 for f42-candidate
+Created task: 137261382
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261382
+Building python-nikola-8.3.3-4.fc41 for f43-candidate
+Created task: 137261383
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261383
+Building python-nikola-8.3.3-4.fc41 for rawhide
+Created task: 137261384
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261384
+Building python-nikola-8.3.3-4.fc43 for f43-candidate
+Created task: 137261385
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261385

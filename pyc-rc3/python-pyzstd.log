@@ -1,0 +1,10 @@
+Cloning into 'python-pyzstd'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide cc3e87c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyzstd-0.16.2-6.fc44 for rawhide
+Created task: 137263316
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263316
+Building python-pyzstd-0.16.2-6.fc43 for f43-candidate
+Created task: 137263326
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263326

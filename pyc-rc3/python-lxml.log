@@ -1,0 +1,9 @@
+Cloning into 'python-lxml'...
+python-lxml f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b2351e3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Found a gating.yaml file in the repo and it is properly configured
+Building python-lxml-6.0.1-2.fc44 for rawhide
+Created task: 137260814
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260814

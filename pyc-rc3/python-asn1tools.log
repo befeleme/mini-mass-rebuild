@@ -1,0 +1,10 @@
+Cloning into 'python-asn1tools'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide aba8254] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-asn1tools-0.167.0-10.fc44 for rawhide
+Created task: 137256223
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256223
+Building python-asn1tools-0.167.0-10.fc43 for f43-candidate
+Created task: 137256231
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256231

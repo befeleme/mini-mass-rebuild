@@ -1,0 +1,10 @@
+Cloning into 'sugar-toolkit-gtk3'...
+[rawhide 9f463b2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building sugar-toolkit-gtk3-0.121-12.fc44 for rawhide
+Created task: 137266572
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266572
+Building sugar-toolkit-gtk3-0.121-12.fc43 for f43-candidate
+Created task: 137266574
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266574

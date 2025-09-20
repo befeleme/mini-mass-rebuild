@@ -1,0 +1,10 @@
+Cloning into 'ubertooth'...
+[rawhide f5a567d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building ubertooth-2020.12.R1-23.fc44 for rawhide
+Created task: 137266765
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266765
+Building ubertooth-2020.12.R1-23.fc43 for f43-candidate
+Created task: 137266767
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266767

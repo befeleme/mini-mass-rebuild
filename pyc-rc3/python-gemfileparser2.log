@@ -1,0 +1,8 @@
+Cloning into 'python-gemfileparser2'...
+python-gemfileparser2 f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5e4b0c0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-gemfileparser2-0.9.4-6.fc44 for rawhide
+Created task: 137259397
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259397

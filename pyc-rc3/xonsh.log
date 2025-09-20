@@ -1,0 +1,10 @@
+Cloning into 'xonsh'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b7720af] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building xonsh-0.19.9-4.fc44 for rawhide
+Created task: 137266939
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266939
+Building xonsh-0.19.9-4.fc43 for f43-candidate
+Created task: 137266942
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266942

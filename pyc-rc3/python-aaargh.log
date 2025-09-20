@@ -1,0 +1,10 @@
+Cloning into 'python-aaargh'...
+[rawhide aeb0e25] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-aaargh-0.7.1-34.fc44 for rawhide
+Created task: 137255905
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255905
+Building python-aaargh-0.7.1-34.fc43 for f43-candidate
+Created task: 137255908
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255908

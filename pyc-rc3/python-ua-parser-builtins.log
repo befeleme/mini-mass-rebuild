@@ -1,0 +1,10 @@
+Cloning into 'python-ua-parser-builtins'...
+[rawhide 1b1ef11] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ua-parser-builtins-0.18.0.post1-5.fc44 for rawhide
+Created task: 137265227
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265227
+Building python-ua-parser-builtins-0.18.0.post1-5.fc43 for f43-candidate
+Created task: 137265233
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265233

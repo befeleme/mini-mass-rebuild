@@ -1,0 +1,10 @@
+Cloning into 'python-cryptography'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 5e1fd8e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cryptography-45.0.4-4.fc44 for rawhide
+Created task: 137257891
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257891
+Building python-cryptography-45.0.4-4.fc43 for f43-candidate
+Created task: 137257894
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257894

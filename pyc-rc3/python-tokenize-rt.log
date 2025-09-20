@@ -1,0 +1,10 @@
+Cloning into 'python-tokenize-rt'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1f6d691] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tokenize-rt-6.2.0-5.fc44 for rawhide
+Created task: 137264845
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264845
+Building python-tokenize-rt-6.2.0-5.fc43 for f43-candidate
+Created task: 137264848
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264848

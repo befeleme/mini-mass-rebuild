@@ -1,0 +1,10 @@
+Cloning into 'python-capturer'...
+[rawhide 2904a9b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-capturer-3.0-22.fc44 for rawhide
+Created task: 137257220
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257220
+Building python-capturer-3.0-22.fc43 for f43-candidate
+Created task: 137257235
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257235

@@ -1,0 +1,10 @@
+Cloning into 'python-contextily'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide d2d109f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-contextily-1.6.2-6.fc44 for rawhide
+Created task: 137257765
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257765
+Building python-contextily-1.6.2-6.fc43 for f43-candidate
+Created task: 137257768
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257768

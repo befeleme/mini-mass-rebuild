@@ -1,0 +1,8 @@
+Cloning into 'python-fastapi'...
+python-fastapi f43 build complete but not tagged: python-fastapi-0.116.2-1.fc43
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0bf2e8d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-fastapi-0.116.2-2.fc44 for rawhide
+Created task: 137258837
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258837

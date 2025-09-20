@@ -1,0 +1,10 @@
+Cloning into 'python-sphinxcontrib-globalsubs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 831dfc1] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinxcontrib-globalsubs-0.1.1-7.git5acbe50.fc44 for rawhide
+Created task: 137264269
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264269
+Building python-sphinxcontrib-globalsubs-0.1.1-7.git5acbe50.fc43 for f43-candidate
+Created task: 137264275
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264275

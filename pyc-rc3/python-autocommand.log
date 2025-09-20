@@ -1,0 +1,10 @@
+Cloning into 'python-autocommand'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f09b9f6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-autocommand-2.2.2-14.fc44 for rawhide
+Created task: 137256342
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256342
+Building python-autocommand-2.2.2-14.fc43 for f43-candidate
+Created task: 137256351
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256351

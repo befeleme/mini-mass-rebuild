@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-autodoc-typehints'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 05654b0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinx-autodoc-typehints-3.1.0-5.fc44 for rawhide
+Created task: 137264244
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264244
+Building python-sphinx-autodoc-typehints-3.1.0-5.fc43 for f43-candidate
+Created task: 137264245
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264245

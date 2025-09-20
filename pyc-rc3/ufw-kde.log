@@ -1,0 +1,10 @@
+Cloning into 'ufw-kde'...
+[rawhide cc13fc6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building ufw-kde-0.5.0-0.30.20161006git.fc44 for rawhide
+Created task: 137266771
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266771
+Building ufw-kde-0.5.0-0.30.20161006git.fc43 for f43-candidate
+Created task: 137266774
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266774

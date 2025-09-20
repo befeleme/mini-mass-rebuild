@@ -1,0 +1,10 @@
+Cloning into 'testcloud'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 31caef4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building testcloud-0.11.8-3.fc44 for rawhide
+Created task: 137266632
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266632
+Building testcloud-0.11.8-3.fc43 for f43-candidate
+Created task: 137266640
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266640

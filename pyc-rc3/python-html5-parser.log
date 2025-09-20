@@ -1,0 +1,10 @@
+Cloning into 'python-html5-parser'...
+[rawhide ae83a69] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-html5-parser-0.4.12-9.fc44 for rawhide
+Created task: 137259717
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259717
+Building python-html5-parser-0.4.12-9.fc43 for f43-candidate
+Created task: 137259719
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259719

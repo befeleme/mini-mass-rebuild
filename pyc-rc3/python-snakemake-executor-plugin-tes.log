@@ -1,0 +1,10 @@
+Cloning into 'python-snakemake-executor-plugin-tes'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4808113] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-snakemake-executor-plugin-tes-0.1.3-11.fc44 for rawhide
+Created task: 137264105
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264105
+Building python-snakemake-executor-plugin-tes-0.1.3-11.fc43 for f43-candidate
+Created task: 137264110
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264110

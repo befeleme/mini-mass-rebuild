@@ -1,0 +1,10 @@
+Cloning into 'python-fuckit'...
+[rawhide 88c2677] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-fuckit-4.8.1-13.fc44 for rawhide
+Created task: 137259342
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259342
+Building python-fuckit-4.8.1-13.fc43 for f43-candidate
+Created task: 137259345
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259345

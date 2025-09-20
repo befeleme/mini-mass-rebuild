@@ -1,0 +1,10 @@
+Cloning into 'python-docs-theme'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 803f59a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-docs-theme-2025.5-4.fc44 for rawhide
+Created task: 137258464
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258464
+Building python-docs-theme-2025.5-4.fc43 for f43-candidate
+Created task: 137258473
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258473

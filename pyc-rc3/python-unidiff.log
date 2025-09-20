@@ -1,0 +1,10 @@
+Cloning into 'python-unidiff'...
+[rawhide aec7c52] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-unidiff-0.7.5-11.fc44 for rawhide
+Created task: 137265269
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265269
+Building python-unidiff-0.7.5-11.fc43 for f43-candidate
+Created task: 137265274
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265274

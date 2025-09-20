@@ -1,0 +1,10 @@
+Cloning into 'python-logdetective'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ae3cb34] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-logdetective-0.5.9-10.fc44 for rawhide
+Created task: 137260735
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260735
+Building python-logdetective-0.5.9-10.fc43 for f43-candidate
+Created task: 137260738
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260738

@@ -1,0 +1,10 @@
+Cloning into 'python-django-cors-headers'...
+[rawhide 4ae7b64] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-django-cors-headers-3.7.0-18.fc44 for rawhide
+Created task: 137258284
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258284
+Building python-django-cors-headers-3.7.0-18.fc43 for f43-candidate
+Created task: 137258287
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258287

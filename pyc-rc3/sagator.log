@@ -1,0 +1,10 @@
+Cloning into 'sagator'...
+[rawhide 7d7d25e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building sagator-2.0.3-0.beta3.fc44.7 for rawhide
+Created task: 137266275
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266275
+Building sagator-2.0.3-0.beta3.fc43.7 for f43-candidate
+Created task: 137266277
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266277

@@ -1,0 +1,10 @@
+Cloning into 'python-zict'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6301e43] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zict-3.0.0-12.fc44 for rawhide
+Created task: 137265939
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265939
+Building python-zict-3.0.0-12.fc43 for f43-candidate
+Created task: 137265945
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265945

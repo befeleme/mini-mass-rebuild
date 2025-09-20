@@ -1,0 +1,10 @@
+Cloning into 'python-opensearch-py'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide df20e66] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-opensearch-py-3.0.0-3.fc44 for rawhide
+Created task: 137261544
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261544
+Building python-opensearch-py-3.0.0-3.fc43 for f43-candidate
+Created task: 137261546
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261546

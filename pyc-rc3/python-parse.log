@@ -1,0 +1,10 @@
+Cloning into 'python-parse'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e6e6fe8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-parse-1.20.2-7.fc44 for rawhide
+Created task: 137261733
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261733
+Building python-parse-1.20.2-7.fc43 for f43-candidate
+Created task: 137261738
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261738

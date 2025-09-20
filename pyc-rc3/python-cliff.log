@@ -1,0 +1,10 @@
+Cloning into 'python-cliff'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4993546] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cliff-4.8.0-7.fc44 for rawhide
+Created task: 137257399
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257399
+Building python-cliff-4.8.0-7.fc43 for f43-candidate
+Created task: 137257405
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257405

@@ -1,0 +1,10 @@
+Cloning into 'python-oslo-i18n'...
+[rawhide 3022428] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-oslo-i18n-6.4.0-7.fc44 for rawhide
+Created task: 137261628
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261628
+Building python-oslo-i18n-6.4.0-7.fc43 for f43-candidate
+Created task: 137261631
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261631

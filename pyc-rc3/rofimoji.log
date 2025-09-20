@@ -1,0 +1,8 @@
+Cloning into 'rofimoji'...
+rofimoji f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3ef0b41] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building rofimoji-6.6.0-2.fc44 for rawhide
+Created task: 137266189
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266189

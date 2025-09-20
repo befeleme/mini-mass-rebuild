@@ -1,0 +1,11 @@
+Cloning into 'python-azure-mgmt-dns'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f1b78ad] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-dns-8.0.0-23.fc44 for rawhide
+Created task: 137256559
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256559
+Building python-azure-mgmt-dns-8.0.0-23.fc43 for f43-candidate
+Created task: 137256564
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256564
+python-azure-mgmt-dns f43 build complete but not tagged: python-azure-mgmt-dns-8.0.0-23.fc43 (bodhi)

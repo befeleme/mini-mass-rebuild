@@ -1,0 +1,10 @@
+Cloning into 'koji'...
+[rawhide 2562d73] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building koji-1.35.3-7.fc44 for rawhide
+Created task: 137254517
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254517
+Building koji-1.35.3-7.fc43 for f43-candidate
+Created task: 137254519
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254519

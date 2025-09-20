@@ -1,0 +1,10 @@
+Cloning into 'python-boolean.py'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide eb22f53] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-boolean.py-5.0-9.fc44 for rawhide
+Created task: 137257087
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257087
+Building python-boolean.py-5.0-9.fc43 for f43-candidate
+Created task: 137257091
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257091

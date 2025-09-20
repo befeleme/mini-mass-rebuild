@@ -1,0 +1,10 @@
+Cloning into 'pybluez'...
+[rawhide 33f3aaf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pybluez-0.23-22.fc44 for rawhide
+Created task: 137255606
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255606
+Building pybluez-0.23-22.fc43 for f43-candidate
+Created task: 137255617
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255617

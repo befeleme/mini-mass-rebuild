@@ -1,0 +1,10 @@
+Cloning into 'python-nltk'...
+[rawhide 8f517bb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-nltk-3.9.1-5.fc44 for rawhide
+Created task: 137261395
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261395
+Building python-nltk-3.9.1-5.fc43 for f43-candidate
+Created task: 137261396
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261396

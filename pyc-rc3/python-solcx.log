@@ -1,0 +1,10 @@
+Cloning into 'python-solcx'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide fc32c99] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-solcx-2.0.4-5.fc44 for rawhide
+Created task: 137264202
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264202
+Building python-solcx-2.0.4-5.fc43 for f43-candidate
+Created task: 137264207
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264207

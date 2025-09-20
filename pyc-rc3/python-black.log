@@ -1,0 +1,10 @@
+Cloning into 'python-black'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9080a18] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-black-25.1.0-7.fc44 for rawhide
+Created task: 137257016
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257016
+Building python-black-25.1.0-7.fc43 for f43-candidate
+Created task: 137257021
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257021

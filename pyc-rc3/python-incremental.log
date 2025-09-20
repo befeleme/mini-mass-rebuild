@@ -1,0 +1,10 @@
+Cloning into 'python-incremental'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8a85109] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-incremental-24.7.2-6.fc44 for rawhide
+Created task: 137259881
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259881
+Building python-incremental-24.7.2-6.fc43 for f43-candidate
+Created task: 137259887
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259887

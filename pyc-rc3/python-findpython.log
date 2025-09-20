@@ -1,0 +1,10 @@
+Cloning into 'python-findpython'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e9973c6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-findpython-0.6.2-5.fc44 for rawhide
+Created task: 137258960
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258960
+Building python-findpython-0.6.2-5.fc43 for f43-candidate
+Created task: 137258963
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258963

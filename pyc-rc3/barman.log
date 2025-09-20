@@ -1,0 +1,10 @@
+Cloning into 'barman'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7bdc5b5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building barman-3.15.0-2.fc44 for rawhide
+Created task: 137252909
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252909
+Building barman-3.15.0-2.fc43 for f43-candidate
+Created task: 137252912
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252912

@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-extendedlocation'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e1e62fe] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-extendedlocation-1.0.0b2-22.fc44 for rawhide
+Created task: 137256578
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256578
+Building python-azure-mgmt-extendedlocation-1.0.0b2-22.fc43 for f43-candidate
+Created task: 137256584
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256584

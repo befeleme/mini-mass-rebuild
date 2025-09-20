@@ -1,0 +1,8 @@
+Cloning into 'copr-backend'...
+copr-backend f43 build complete but not tagged: copr-backend-2.8-1.fc43
+[rawhide b71dc41] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building copr-backend-2.8-2.fc44 for rawhide
+Created task: 137253376
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253376

@@ -1,0 +1,10 @@
+Cloning into 'python-husl'...
+[rawhide da05ae3] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-husl-4.0.3-37.fc44 for rawhide
+Created task: 137259769
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259769
+Building python-husl-4.0.3-37.fc43 for f43-candidate
+Created task: 137259772
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259772

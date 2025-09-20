@@ -1,0 +1,10 @@
+Cloning into 'python-sphinxcontrib-programoutput'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide da5fcaf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-sphinxcontrib-programoutput-0.18-6.fc44 for rawhide
+Created task: 137264307
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264307
+Building python-sphinxcontrib-programoutput-0.18-6.fc43 for f43-candidate
+Created task: 137264311
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264311

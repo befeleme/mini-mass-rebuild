@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-multiversion'...
+[rawhide 98b232d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sphinx-multiversion-0.2.4-7.fc44 for rawhide
+Created task: 137264370
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264370
+Building python-sphinx-multiversion-0.2.4-7.fc43 for f43-candidate
+Created task: 137264378
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264378

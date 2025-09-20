@@ -1,0 +1,10 @@
+Cloning into 'python-sphinx-markdown-tables'...
+[rawhide a72dfbf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-sphinx-markdown-tables-0.0.17-13.fc44 for rawhide
+Created task: 137264364
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264364
+Building python-sphinx-markdown-tables-0.0.17-13.fc43 for f43-candidate
+Created task: 137264368
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264368

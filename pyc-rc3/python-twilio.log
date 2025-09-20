@@ -1,0 +1,14 @@
+Cloning into 'python-twilio'...
+[rawhide c9484f5] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+error: %changelog not in descending chronological order
+
+Building python-twilio-9.5.2-5.fc44 for rawhide
+Created task: 137265176
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265176
+error: %changelog not in descending chronological order
+
+Building python-twilio-9.5.2-5.fc43 for f43-candidate
+Created task: 137265180
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265180

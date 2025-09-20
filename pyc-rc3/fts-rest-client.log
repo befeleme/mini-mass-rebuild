@@ -1,0 +1,10 @@
+Cloning into 'fts-rest-client'...
+[rawhide 5b22756] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building fts-rest-client-3.14.2-4.fc44 for rawhide
+Created task: 137253997
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253997
+Building fts-rest-client-3.14.2-4.fc43 for f43-candidate
+Created task: 137254001
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254001

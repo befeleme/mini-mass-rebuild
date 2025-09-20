@@ -1,0 +1,4 @@
+Cloning into 'python-cssutils'...
+[rawhide 6208ad0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)

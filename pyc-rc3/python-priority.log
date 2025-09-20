@@ -1,0 +1,28 @@
+Cloning into 'python-priority'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8b2393e] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: The %{pyproject_build_lib} macro is deprecated.
+It only works with setuptools and is not build-backend-agnostic.
+The macro is not scheduled for removal, but there is a possibility of incompatibilities with future versions of setuptools.
+As a replacement for the macro for the setuptools backend on Fedora 37+, you can use $PWD/build/lib for pure Python packages,
+or $PWD/build/lib.%{python3_platform}-cpython-%{python3_version_nodots} for packages with extension modules.
+Other build backends and older distributions may need different paths.
+See https://lists.fedoraproject.org/archives/list/python-devel@lists.fedoraproject.org/thread/HMLOPAU3RZLXD4BOJHTIPKI3I4U6U7OE/ for details.
+
+
+Building python-priority-2.0.0-22.fc44 for rawhide
+Created task: 137262094
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262094
+warning: The %{pyproject_build_lib} macro is deprecated.
+It only works with setuptools and is not build-backend-agnostic.
+The macro is not scheduled for removal, but there is a possibility of incompatibilities with future versions of setuptools.
+As a replacement for the macro for the setuptools backend on Fedora 37+, you can use $PWD/build/lib for pure Python packages,
+or $PWD/build/lib.%{python3_platform}-cpython-%{python3_version_nodots} for packages with extension modules.
+Other build backends and older distributions may need different paths.
+See https://lists.fedoraproject.org/archives/list/python-devel@lists.fedoraproject.org/thread/HMLOPAU3RZLXD4BOJHTIPKI3I4U6U7OE/ for details.
+
+
+Building python-priority-2.0.0-22.fc43 for f43-candidate
+Created task: 137262101
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262101

@@ -1,0 +1,10 @@
+Cloning into 'python-kiwisolver'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 34ec057] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-kiwisolver-1.4.9-3.fc44 for rawhide
+Created task: 137260486
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260486
+Building python-kiwisolver-1.4.9-3.fc43 for f43-candidate
+Created task: 137260489
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260489

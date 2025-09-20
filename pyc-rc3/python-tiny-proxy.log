@@ -1,0 +1,10 @@
+Cloning into 'python-tiny-proxy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b93ffba] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-tiny-proxy-0.2.1-11.fc44 for rawhide
+Created task: 137264820
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264820
+Building python-tiny-proxy-0.2.1-11.fc43 for f43-candidate
+Created task: 137264826
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264826

@@ -1,0 +1,8 @@
+Cloning into 'python-boxsdk'...
+python-boxsdk f43 and rawhide branches differ
+[rawhide c44778c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-boxsdk-10.0.0-2.fc44 for rawhide
+Created task: 137257104
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257104

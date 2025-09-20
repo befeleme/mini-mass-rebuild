@@ -1,0 +1,10 @@
+Cloning into 'python-catkin_tools'...
+[rawhide a6cbbae] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-catkin_tools-0.9.4-11.fc44 for rawhide
+Created task: 137257255
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257255
+Building python-catkin_tools-0.9.4-11.fc43 for f43-candidate
+Created task: 137257258
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257258

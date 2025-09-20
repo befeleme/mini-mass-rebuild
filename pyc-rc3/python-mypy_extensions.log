@@ -1,0 +1,10 @@
+Cloning into 'python-mypy_extensions'...
+[rawhide 6dce8ef] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-mypy_extensions-1.1.0-5.fc44 for rawhide
+Created task: 137261290
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261290
+Building python-mypy_extensions-1.1.0-5.fc43 for f43-candidate
+Created task: 137261292
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261292

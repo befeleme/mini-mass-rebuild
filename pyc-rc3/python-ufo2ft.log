@@ -1,0 +1,8 @@
+Cloning into 'python-ufo2ft'...
+python-ufo2ft f43 and rawhide branches differ
+[rawhide 4a455af] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-ufo2ft-3.6.4-3.fc44 for rawhide
+Created task: 137265222
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265222

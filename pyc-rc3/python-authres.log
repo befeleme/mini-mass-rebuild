@@ -1,0 +1,10 @@
+Cloning into 'python-authres'...
+[rawhide 7bd523c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-authres-1.2.0-27.fc44 for rawhide
+Created task: 137256338
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256338
+Building python-authres-1.2.0-27.fc43 for f43-candidate
+Created task: 137256343
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256343

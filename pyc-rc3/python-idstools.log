@@ -1,0 +1,10 @@
+Cloning into 'python-idstools'...
+[rawhide e862019] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-idstools-0.6.5-12.fc44 for rawhide
+Created task: 137259831
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259831
+Building python-idstools-0.6.5-12.fc43 for f43-candidate
+Created task: 137259833
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259833

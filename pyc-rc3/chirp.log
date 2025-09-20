@@ -1,0 +1,8 @@
+Cloning into 'chirp'...
+chirp f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 734a71c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building chirp-0.4.0^20250905-2.fc44 for rawhide
+Created task: 137253158
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253158

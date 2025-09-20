@@ -1,0 +1,10 @@
+Cloning into 'python-argparse-dataclass'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8b5dac6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-argparse-dataclass-2.0.0-16.fc44 for rawhide
+Created task: 137256198
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256198
+Building python-argparse-dataclass-2.0.0-16.fc43 for f43-candidate
+Created task: 137256200
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256200

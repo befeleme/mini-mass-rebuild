@@ -1,0 +1,10 @@
+Cloning into 'sympy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 41c3588] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building sympy-1.14.0-7.fc44 for rawhide
+Created task: 137266573
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266573
+Building sympy-1.14.0-7.fc43 for f43-candidate
+Created task: 137266577
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266577

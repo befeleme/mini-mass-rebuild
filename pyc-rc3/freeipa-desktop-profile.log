@@ -1,0 +1,10 @@
+Cloning into 'freeipa-desktop-profile'...
+[rawhide e77da74] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building freeipa-desktop-profile-0.0.8-32.fc44 for rawhide
+Created task: 137253987
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253987
+Building freeipa-desktop-profile-0.0.8-32.fc43 for f43-candidate
+Created task: 137253990
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253990

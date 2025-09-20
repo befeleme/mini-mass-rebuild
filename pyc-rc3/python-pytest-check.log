@@ -1,0 +1,8 @@
+Cloning into 'python-pytest-check'...
+python-pytest-check f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 9fe635b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pytest-check-2.5.4-2.fc44 for rawhide
+Created task: 137263008
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263008

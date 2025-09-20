@@ -1,0 +1,9 @@
+Cloning into 'babeltrace'...
+babeltrace f43 and rawhide branches differ
+[rawhide 5bd9c98] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Found a gating.yaml file in the repo and it is properly configured
+Building babeltrace-1.5.11-15.fc44 for rawhide
+Created task: 137252892
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252892

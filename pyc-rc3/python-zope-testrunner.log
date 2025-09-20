@@ -1,0 +1,10 @@
+Cloning into 'python-zope-testrunner'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide aed9613] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-zope-testrunner-6.6-9.fc44 for rawhide
+Created task: 137265993
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265993
+Building python-zope-testrunner-6.6-9.fc43 for f43-candidate
+Created task: 137265994
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265994

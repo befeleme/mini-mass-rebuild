@@ -1,0 +1,7 @@
+Cloning into 'python-ratinabox'...
+RPMAutoSpec usage detected, not changing the spec file.
+[f43 9afd147] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ratinabox-1.15.3-8.fc43 for f43-candidate
+Created task: 137269146
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137269146

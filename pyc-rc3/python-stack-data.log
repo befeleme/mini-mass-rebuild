@@ -1,0 +1,10 @@
+Cloning into 'python-stack-data'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0b87618] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-stack-data-0.6.3-18.fc44 for rawhide
+Created task: 137264505
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264505
+Building python-stack-data-0.6.3-18.fc43 for f43-candidate
+Created task: 137264508
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264508

@@ -1,0 +1,10 @@
+Cloning into 'python-cmake-build-extension'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 90c6cad] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cmake-build-extension-0.6.1-8.fc44 for rawhide
+Created task: 137257418
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257418
+Building python-cmake-build-extension-0.6.1-8.fc43 for f43-candidate
+Created task: 137257422
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257422

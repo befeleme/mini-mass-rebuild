@@ -1,0 +1,10 @@
+Cloning into 'python-Pallets-Sphinx-Themes'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 410f496] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-Pallets-Sphinx-Themes-2.3.0-6.fc44 for rawhide
+Created task: 137261701
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261701
+Building python-Pallets-Sphinx-Themes-2.3.0-6.fc43 for f43-candidate
+Created task: 137261704
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261704

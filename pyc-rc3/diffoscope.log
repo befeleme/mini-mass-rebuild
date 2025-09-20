@@ -1,0 +1,10 @@
+Cloning into 'diffoscope'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1d47091] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building diffoscope-305-2.fc44 for rawhide
+Created task: 137253586
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253586
+Building diffoscope-305-2.fc43 for f43-candidate
+Created task: 137253596
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253596

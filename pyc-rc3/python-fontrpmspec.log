@@ -1,0 +1,10 @@
+Cloning into 'python-fontrpmspec'...
+[rawhide 8f49a42] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-fontrpmspec-0.17-6.fc44 for rawhide
+Created task: 137259260
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259260
+Building python-fontrpmspec-0.17-6.fc43 for f43-candidate
+Created task: 137259264
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259264

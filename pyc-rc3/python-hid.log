@@ -1,0 +1,10 @@
+Cloning into 'python-hid'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2e4ef0b] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-hid-1.0.6-8.fc44 for rawhide
+Created task: 137287032
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287032
+Building python-hid-1.0.6-8.fc43 for f43-candidate
+Created task: 137287039
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137287039

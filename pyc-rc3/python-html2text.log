@@ -1,0 +1,10 @@
+Cloning into 'python-html2text'...
+[rawhide daa7120] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-html2text-2025.4.15-5.fc44 for rawhide
+Created task: 137259703
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259703
+Building python-html2text-2025.4.15-5.fc43 for f43-candidate
+Created task: 137259708
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259708

@@ -1,0 +1,10 @@
+Cloning into 'python-django-tastypie'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0098384] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-django-tastypie-0.14.7-7.fc44 for rawhide
+Created task: 137258425
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258425
+Building python-django-tastypie-0.14.7-7.fc43 for f43-candidate
+Created task: 137258432
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258432

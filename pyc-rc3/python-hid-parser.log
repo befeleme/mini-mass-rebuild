@@ -1,0 +1,10 @@
+Cloning into 'python-hid-parser'...
+[rawhide 99caf56] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-hid-parser-0.0.3-15.20211206git4b7944f.fc44 for rawhide
+Created task: 137259697
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259697
+Building python-hid-parser-0.0.3-15.20211206git4b7944f.fc43 for f43-candidate
+Created task: 137259699
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259699

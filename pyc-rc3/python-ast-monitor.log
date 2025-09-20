@@ -1,0 +1,8 @@
+Cloning into 'python-ast-monitor'...
+python-ast-monitor f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8eb7e42] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ast-monitor-0.5.5-8.fc44 for rawhide
+Created task: 137256225
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256225

@@ -1,0 +1,10 @@
+Cloning into 'python-pyformlang'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 1a0cc85] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pyformlang-1.0.11-6.fc44 for rawhide
+Created task: 137262335
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262335
+Building python-pyformlang-1.0.11-6.fc43 for f43-candidate
+Created task: 137262338
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262338

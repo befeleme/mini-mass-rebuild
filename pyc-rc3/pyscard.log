@@ -1,0 +1,10 @@
+Cloning into 'pyscard'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide edb42cf] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building pyscard-2.2.2-3.fc44 for rawhide
+Created task: 137255818
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255818
+Building pyscard-2.2.2-3.fc43 for f43-candidate
+Created task: 137255822
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255822

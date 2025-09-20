@@ -1,0 +1,10 @@
+Cloning into 'pdf-stapler'...
+[rawhide ecaa342] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building pdf-stapler-1.0.0-0.26.20191215git8753251.fc44 for rawhide
+Created task: 137255405
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255405
+Building pdf-stapler-1.0.0-0.26.20191215git8753251.fc43 for f43-candidate
+Created task: 137255408
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255408

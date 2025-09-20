@@ -1,0 +1,10 @@
+Cloning into 'python-azure-mgmt-servicelinker'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b0aaf99] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-azure-mgmt-servicelinker-1.2.0~b3-6.fc44 for rawhide
+Created task: 137256695
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256695
+Building python-azure-mgmt-servicelinker-1.2.0~b3-6.fc43 for f43-candidate
+Created task: 137256697
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256697

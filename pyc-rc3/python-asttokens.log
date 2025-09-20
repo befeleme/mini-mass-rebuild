@@ -1,0 +1,10 @@
+Cloning into 'python-asttokens'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4bf4337] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-asttokens-3.0.0-5.fc44 for rawhide
+Created task: 137256283
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256283
+Building python-asttokens-3.0.0-5.fc43 for f43-candidate
+Created task: 137256286
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256286

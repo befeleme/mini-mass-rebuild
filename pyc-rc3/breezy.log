@@ -1,0 +1,10 @@
+Cloning into 'breezy'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide db37b90] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building breezy-3.3.12-3.fc44 for rawhide
+Created task: 137253009
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253009
+Building breezy-3.3.12-3.fc43 for f43-candidate
+Created task: 137253020
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253020

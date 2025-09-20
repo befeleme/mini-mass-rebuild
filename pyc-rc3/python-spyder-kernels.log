@@ -1,0 +1,10 @@
+Cloning into 'python-spyder-kernels'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ae4963a] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-spyder-kernels-3.0.3-5.fc44 for rawhide
+Created task: 137264423
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264423
+Building python-spyder-kernels-3.0.3-5.fc43 for f43-candidate
+Created task: 137264434
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264434

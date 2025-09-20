@@ -1,0 +1,10 @@
+Cloning into 'python-rosdistro'...
+[rawhide dc2df46] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-rosdistro-1.0.1-6.fc44 for rawhide
+Created task: 137263673
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263673
+Building python-rosdistro-1.0.1-6.fc43 for f43-candidate
+Created task: 137263675
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263675

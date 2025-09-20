@@ -1,0 +1,10 @@
+Cloning into 'znc'...
+[rawhide 6523153] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building znc-1.9.1-13.fc44 for rawhide
+Created task: 137267008
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137267008
+Building znc-1.9.1-13.fc43 for f43-candidate
+Created task: 137267016
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137267016

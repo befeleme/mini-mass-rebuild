@@ -1,0 +1,10 @@
+Cloning into 'python-javaproperties'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0947a42] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-javaproperties-0.8.2-6.fc44 for rawhide
+Created task: 137260068
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260068
+Building python-javaproperties-0.8.2-6.fc43 for f43-candidate
+Created task: 137260080
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137260080

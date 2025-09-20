@@ -1,0 +1,10 @@
+Cloning into 'python-simplejson'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide b1d3c11] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-simplejson-3.19.3-6.fc44 for rawhide
+Created task: 137264018
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264018
+Building python-simplejson-3.19.3-6.fc43 for f43-candidate
+Created task: 137264019
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264019

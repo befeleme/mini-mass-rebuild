@@ -1,0 +1,10 @@
+Cloning into 'python-beartype'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 940b5b6] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-beartype-0.21.0^20240712gita3a0fff-3.fc44 for rawhide
+Created task: 137256898
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256898
+Building python-beartype-0.21.0^20240712gita3a0fff-3.fc43 for f43-candidate
+Created task: 137256907
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256907

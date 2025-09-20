@@ -1,0 +1,10 @@
+Cloning into 'python-setproctitle'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide f8df81c] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-setproctitle-1.3.6-5.fc44 for rawhide
+Created task: 137263923
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263923
+Building python-setproctitle-1.3.6-5.fc43 for f43-candidate
+Created task: 137263926
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263926

@@ -1,0 +1,10 @@
+Cloning into 'gst'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 03ba780] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building gst-0.7.6-11.fc44 for rawhide
+Created task: 137254285
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254285
+Building gst-0.7.6-11.fc43 for f43-candidate
+Created task: 137254294
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254294

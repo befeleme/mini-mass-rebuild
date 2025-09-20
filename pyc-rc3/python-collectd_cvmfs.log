@@ -1,0 +1,8 @@
+Cloning into 'python-collectd_cvmfs'...
+python-collectd_cvmfs f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 3fc01b9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-collectd_cvmfs-1.4.0-3.fc44 for rawhide
+Created task: 137257617
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257617

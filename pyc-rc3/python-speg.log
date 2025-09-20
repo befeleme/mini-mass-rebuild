@@ -1,0 +1,10 @@
+Cloning into 'python-speg'...
+[rawhide fd4eae8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-speg-0.3-28.git877acdd.fc44 for rawhide
+Created task: 137264236
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264236
+Building python-speg-0.3-28.git877acdd.fc43 for f43-candidate
+Created task: 137264240
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264240

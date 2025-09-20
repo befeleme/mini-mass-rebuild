@@ -1,0 +1,10 @@
+Cloning into 'python-multi_key_dict'...
+[rawhide 573b20f] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-multi_key_dict-2.0.3-34.fc44 for rawhide
+Created task: 137261249
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261249
+Building python-multi_key_dict-2.0.3-34.fc43 for f43-candidate
+Created task: 137261255
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261255

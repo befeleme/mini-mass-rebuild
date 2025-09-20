@@ -1,0 +1,10 @@
+Cloning into 'python-ibm-cloud-sdk-core'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 8693a14] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ibm-cloud-sdk-core-3.24.1-5.fc44 for rawhide
+Created task: 137259802
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259802
+Building python-ibm-cloud-sdk-core-3.24.1-5.fc43 for f43-candidate
+Created task: 137259818
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259818

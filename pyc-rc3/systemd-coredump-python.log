@@ -1,0 +1,10 @@
+Cloning into 'systemd-coredump-python'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide df5c830] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building systemd-coredump-python-3-12.fc44 for rawhide
+Created task: 137266584
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266584
+Building systemd-coredump-python-3-12.fc43 for f43-candidate
+Created task: 137266590
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266590

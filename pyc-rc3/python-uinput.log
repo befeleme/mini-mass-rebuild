@@ -1,0 +1,10 @@
+Cloning into 'python-uinput'...
+[rawhide 7bfcdac] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-uinput-0.11.2-18.fc44 for rawhide
+Created task: 137265259
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265259
+Building python-uinput-0.11.2-18.fc43 for f43-candidate
+Created task: 137265263
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265263

@@ -1,0 +1,10 @@
+Cloning into 'python-pytest-cache'...
+[rawhide dbe033d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-pytest-cache-1.0-41.fc44 for rawhide
+Created task: 137263013
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263013
+Building python-pytest-cache-1.0-41.fc43 for f43-candidate
+Created task: 137263017
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263017

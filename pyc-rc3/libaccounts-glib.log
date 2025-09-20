@@ -1,0 +1,10 @@
+Cloning into 'libaccounts-glib'...
+[rawhide cacd5c8] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building libaccounts-glib-1.25-23.fc44 for rawhide
+Created task: 137254572
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254572
+Building libaccounts-glib-1.25-23.fc43 for f43-candidate
+Created task: 137254575
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254575

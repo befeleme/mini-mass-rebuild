@@ -1,0 +1,10 @@
+Cloning into 'python-rstcheck-core'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 7c57c40] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-rstcheck-core-1.2.2-3.fc44 for rawhide
+Created task: 137263737
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263737
+Building python-rstcheck-core-1.2.2-3.fc43 for f43-candidate
+Created task: 137263742
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263742

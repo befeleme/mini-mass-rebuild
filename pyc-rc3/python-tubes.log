@@ -1,0 +1,10 @@
+Cloning into 'python-tubes'...
+[rawhide 6a5d0c4] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-tubes-0.2.1-7.fc44 for rawhide
+Created task: 137265157
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265157
+Building python-tubes-0.2.1-7.fc43 for f43-candidate
+Created task: 137265160
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265160

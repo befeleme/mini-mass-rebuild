@@ -1,0 +1,8 @@
+Cloning into 'python-astropy-iers-data'...
+python-astropy-iers-data f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 487cfe2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-astropy-iers-data-0.2025.9.8.0.36.17-2.fc44 for rawhide
+Created task: 137256257
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137256257

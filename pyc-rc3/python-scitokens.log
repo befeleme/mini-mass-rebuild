@@ -1,0 +1,10 @@
+Cloning into 'python-scitokens'...
+[rawhide 1e857bb] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-scitokens-1.8.1-10.fc44 for rawhide
+Created task: 137263843
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263843
+Building python-scitokens-1.8.1-10.fc43 for f43-candidate
+Created task: 137263847
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263847

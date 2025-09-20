@@ -1,0 +1,10 @@
+Cloning into 'bodhi-client'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4139de2] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building bodhi-client-25.5.1-5.fc44 for rawhide
+Created task: 137252965
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252965
+Building bodhi-client-25.5.1-5.fc43 for f43-candidate
+Created task: 137252969
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252969

@@ -1,0 +1,10 @@
+Cloning into 'module-build'...
+[rawhide 66aca48] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building module-build-0.2.1-14.fc44 for rawhide
+Created task: 137254974
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254974
+Building module-build-0.2.1-14.fc43 for f43-candidate
+Created task: 137254983
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254983

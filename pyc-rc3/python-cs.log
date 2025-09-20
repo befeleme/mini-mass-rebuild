@@ -1,0 +1,11 @@
+Cloning into 'python-cs'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 0951fff] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-cs-3.3.1-6.fc44 for rawhide
+Created task: 137257916
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257916
+Building python-cs-3.3.1-6.fc43 for f43-candidate
+Created task: 137257921
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257921
+python-cs f43 build complete but not tagged: python-cs-3.3.1-6.fc43 (bodhi)

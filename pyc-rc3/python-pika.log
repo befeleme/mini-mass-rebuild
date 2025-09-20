@@ -1,0 +1,10 @@
+Cloning into 'python-pika'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide a84a560] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-pika-1.3.2-7.fc44 for rawhide
+Created task: 137261954
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261954
+Building python-pika-1.3.2-7.fc43 for f43-candidate
+Created task: 137261961
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261961

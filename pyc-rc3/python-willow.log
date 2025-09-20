@@ -1,0 +1,10 @@
+Cloning into 'python-willow'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide dd3b239] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-willow-1.7.0-10.fc44 for rawhide
+Created task: 137265664
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265664
+Building python-willow-1.7.0-10.fc43 for f43-candidate
+Created task: 137265665
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265665

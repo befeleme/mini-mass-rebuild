@@ -1,0 +1,10 @@
+Cloning into 'nicotine+'...
+[rawhide ba52315] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+Building nicotine+-3.3.10-4.fc44 for rawhide
+Created task: 137255141
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255141
+Building nicotine+-3.3.10-4.fc43 for f43-candidate
+Created task: 137255143
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255143

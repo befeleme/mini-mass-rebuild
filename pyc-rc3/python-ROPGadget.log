@@ -1,0 +1,10 @@
+Cloning into 'python-ROPGadget'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide aef1b46] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-ROPGadget-7.6-5.fc44 for rawhide
+Created task: 137263668
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263668
+Building python-ROPGadget-7.6-5.fc43 for f43-candidate
+Created task: 137263672
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263672

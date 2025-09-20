@@ -1,0 +1,10 @@
+Cloning into 'python-hpack'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 2e7feea] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-hpack-4.1.0-5.fc44 for rawhide
+Created task: 137259704
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259704
+Building python-hpack-4.1.0-5.fc43 for f43-candidate
+Created task: 137259710
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259710

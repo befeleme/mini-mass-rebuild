@@ -1,0 +1,10 @@
+Cloning into 'at-spi2-core'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 30293b9] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building at-spi2-core-2.58.0-2.fc44 for rawhide
+Created task: 137252825
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252825
+Building at-spi2-core-2.58.0-2.fc43 for f43-candidate
+Created task: 137252828
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137252828

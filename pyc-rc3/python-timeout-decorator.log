@@ -1,0 +1,10 @@
+Cloning into 'python-timeout-decorator'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 4c811f0] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-timeout-decorator-0.5.0-6.fc44 for rawhide
+Created task: 137264800
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264800
+Building python-timeout-decorator-0.5.0-6.fc43 for f43-candidate
+Created task: 137264804
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264804

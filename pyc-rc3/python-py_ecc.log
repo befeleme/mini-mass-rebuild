@@ -1,0 +1,10 @@
+Cloning into 'python-py_ecc'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6e748e7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-py_ecc-8.0.0-7.fc44 for rawhide
+Created task: 137262297
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262297
+Building python-py_ecc-8.0.0-7.fc43 for f43-candidate
+Created task: 137262301
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262301

@@ -1,0 +1,10 @@
+Cloning into 'python-SALib'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide ffd0d6d] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-SALib-1.5.1-6.fc44 for rawhide
+Created task: 137263790
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263790
+Building python-SALib-1.5.1-6.fc43 for f43-candidate
+Created task: 137263794
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137263794

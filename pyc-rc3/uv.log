@@ -1,0 +1,20 @@
+Cloning into 'uv'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 6df42f7] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/uv/uv.spec line 417: autopatch: no matching patches in range
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/uv/uv.spec line 426: autopatch: no matching patches in range
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/uv/uv.spec line 446: autopatch: no matching patches in range
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/uv/uv.spec line 472: autopatch: no matching patches in range
+
+Building uv-0.8.11-3.fc44 for rawhide
+Created task: 137266820
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266820
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/uv/uv.spec line 417: autopatch: no matching patches in range
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/uv/uv.spec line 426: autopatch: no matching patches in range
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/uv/uv.spec line 446: autopatch: no matching patches in range
+warning: /home/ksurma/dev/utils/mini-mass-rebuild/pyc-rc3/uv/uv.spec line 472: autopatch: no matching patches in range
+
+Building uv-0.8.11-3.fc43 for f43-candidate
+Created task: 137266821
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266821

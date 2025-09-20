@@ -1,0 +1,8 @@
+Cloning into 'python-platformdirs'...
+python-platformdirs f43 and rawhide branches differ
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide e4d9791] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-platformdirs-4.4.0-2.fc44 for rawhide
+Created task: 137261976
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261976
