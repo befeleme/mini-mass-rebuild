@@ -368,7 +368,6 @@ jrnl
 jupyterlab
 kajongg
 kea
-kernel
 keycloak-httpd-client-install
 keylime
 kf6-kapidox
@@ -737,7 +736,6 @@ PySolFC
 pysvn
 pysysbot
 pytest
-python3.14
 python3-cangjie
 python3-discid
 python3-iep
