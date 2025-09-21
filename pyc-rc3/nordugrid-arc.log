@@ -1,8 +1,10 @@
 Cloning into 'nordugrid-arc'...
-nordugrid-arc f43 build complete but not tagged: nordugrid-arc-7.1.0-1.fc43
 [rawhide a88ca93] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)
 Building nordugrid-arc-7.1.0-2.fc44 for rawhide
 Created task: 137255156
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137255156
+Building nordugrid-arc-7.1.0-2.fc43 for f43-candidate
+Created task: 137351690
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137351690

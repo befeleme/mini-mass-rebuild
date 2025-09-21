@@ -1,8 +1,10 @@
 Cloning into 'python-httpx'...
-python-httpx f43 build complete but not tagged: python-httpx-0.28.1-8.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 526cbb8] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building python-httpx-0.28.1-9.fc44 for rawhide
 Created task: 137259746
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137259746
+Building python-httpx-0.28.1-9.fc43 for f43-candidate
+Created task: 137351793
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137351793

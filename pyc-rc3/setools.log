@@ -1,5 +1,4 @@
 Cloning into 'setools'...
-setools f43 build complete but not tagged: setools-4.6.0-1.fc43
 [rawhide ace7694] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)
@@ -7,3 +6,6 @@ Found a gating.yaml file in the repo and it is properly configured
 Building setools-4.6.0-2.fc44 for rawhide
 Created task: 137266373
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137266373
+Building setools-4.6.0-2.fc43 for f43-candidate
+Created task: 137351875
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137351875

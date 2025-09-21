@@ -1,8 +1,10 @@
 Cloning into 'cucumber-messages'...
-cucumber-messages f43 build complete but not tagged: cucumber-messages-29.0.1-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 3a51a5b] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building cucumber-messages-29.0.1-2.fc44 for rawhide
 Created task: 137253424
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253424
+Building cucumber-messages-29.0.1-2.fc43 for f43-candidate
+Created task: 137351674
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137351674

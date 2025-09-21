@@ -1,8 +1,10 @@
 Cloning into 'python-towncrier'...
-python-towncrier f43 build complete but not tagged: python-towncrier-25.8.0-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide b25dfea] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building python-towncrier-25.8.0-2.fc44 for rawhide
 Created task: 137265058
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265058
+Building python-towncrier-25.8.0-2.fc43 for f43-candidate
+Created task: 137351891
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137351891

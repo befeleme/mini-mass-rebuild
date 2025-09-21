@@ -1,8 +1,10 @@
 Cloning into 'python-pygraphviz'...
-python-pygraphviz f43 build complete but not tagged: python-pygraphviz-1.14-8.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 745998a] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building python-pygraphviz-1.14-9.fc44 for rawhide
 Created task: 137262404
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137262404
+Building python-pygraphviz-1.14-9.fc43 for f43-candidate
+Created task: 137351763
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137351763

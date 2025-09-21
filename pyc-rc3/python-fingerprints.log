@@ -1,8 +1,10 @@
 Cloning into 'python-fingerprints'...
-python-fingerprints f43 build complete but not tagged: python-fingerprints-1.3.1-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 9f98d93] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building python-fingerprints-1.3.1-2.fc44 for rawhide
 Created task: 137258929
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137258929
+Building python-fingerprints-1.3.1-2.fc43 for f43-candidate
+Created task: 137351792
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137351792
