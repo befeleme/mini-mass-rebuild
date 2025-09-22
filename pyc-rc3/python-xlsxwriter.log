@@ -1,8 +1,10 @@
 Cloning into 'python-xlsxwriter'...
-python-xlsxwriter f43 build complete but not tagged: python-xlsxwriter-3.2.6-1.fc43
 [rawhide 962bf92] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)
 Building python-xlsxwriter-3.2.6-2.fc44 for rawhide
 Created task: 137265745
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265745
+Building python-xlsxwriter-3.2.6-2.fc43 for f43-candidate
+Created task: 137376610
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137376610

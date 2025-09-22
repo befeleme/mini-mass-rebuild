@@ -1,8 +1,10 @@
 Cloning into 'python-typecode-libmagic'...
-python-typecode-libmagic f43 build complete but not tagged: python-typecode-libmagic-33.0.0-3.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide dabe542] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building python-typecode-libmagic-33.0.0-4.fc44 for rawhide
 Created task: 137265191
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137265191
+Building python-typecode-libmagic-33.0.0-4.fc43 for f43-candidate
+Created task: 137376607
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137376607
