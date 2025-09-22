@@ -3405,14 +3405,15 @@
         "zeitgeist",
         "zezere",
         "zinnia",
-        "znc"
-    ],
-    "inspection": [
+        "znc",
         "libguestfs",
         "liborcus",
         "libreoffice",
         "python-boto3",
-        "python-botocore"
+        "python-botocore",
+        "python3.14"
+    ],
+    "inspection": [
     ],
     "torebuild": [
         "389-ds-base",
@@ -3739,7 +3740,6 @@
         "python-zope-testrunner",
         "python-zstandard",
         "python3-mypy",
-        "python3.14",
         "qemu",
         "qgis",
         "qpid-proton",
