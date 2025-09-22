@@ -3479,9 +3479,6 @@
         "python-boxsdk",
         "python-cachetools",
         "python-cherrypy",
-        "znc"
-    ],
-    "inspection": [
         "python-colcon-parallel-executor",
         "python-faker",
         "python-feedparser",
@@ -3502,7 +3499,10 @@
         "udica",
         "usd",
         "uwsgi",
-        "yosys"
+        "yosys",
+        "znc"
+    ],
+    "inspection": [
     ],
     "torebuild": [
         "ibus",
