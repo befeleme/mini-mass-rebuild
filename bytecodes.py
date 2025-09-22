@@ -2,7 +2,7 @@ import json
 import subprocess
 from click import progressbar
 
-repoquery = 'repoquery --repo=koji43 --repo=updates-testing --refresh -f *.cpython-314.pyc --latest=1 --source'.split()
+repoquery = 'repoquery --releasever=43 --repo=koji43 --repo=updates-testing --refresh -f *.cpython-314.pyc --latest=1 --source'.split()
 py314_pkgs = subprocess.run(repoquery, stdout=subprocess.PIPE, text=True).stdout.splitlines()
 
 try:
