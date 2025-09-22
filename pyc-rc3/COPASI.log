@@ -11,3 +11,11 @@ Package 'Qt5Qwt6' not found
 Building COPASI-4.45.298-15.fc44 for rawhide
 Created task: 137253344
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137253344
+Package Qt5Qwt6 was not found in the pkg-config search path.
+Perhaps you should add the directory containing `Qt5Qwt6.pc'
+to the PKG_CONFIG_PATH environment variable
+Package 'Qt5Qwt6' not found
+
+Building COPASI-4.45.298-15.fc43 for f43-candidate
+Created task: 137382087
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137382087
