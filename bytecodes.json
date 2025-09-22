@@ -3456,9 +3456,6 @@
         "zeitgeist",
         "zezere",
         "zinnia",
-        "znc"
-    ],
-    "inspection": [
         "amdsmi",
         "babeltrace",
         "buildstream",
@@ -3467,7 +3464,6 @@
         "fonttools",
         "freeipa-healthcheck",
         "google-api-python-client",
-        "ibus",
         "kajongg",
         "libnbd",
         "mercurial",
@@ -3483,6 +3479,9 @@
         "python-boxsdk",
         "python-cachetools",
         "python-cherrypy",
+        "znc"
+    ],
+    "inspection": [
         "python-colcon-parallel-executor",
         "python-faker",
         "python-feedparser",
@@ -3506,6 +3505,7 @@
         "yosys"
     ],
     "torebuild": [
+        "ibus",
         "389-ds-base",
         "COPASI",
         "OpenColorIO",
