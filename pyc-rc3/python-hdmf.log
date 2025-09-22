@@ -2,3 +2,9 @@ Cloning into 'python-hdmf'...
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide d30a149] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
+Building python-hdmf-4.0.0-7.fc44 for rawhide
+Created task: 137377061
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377061
+Building python-hdmf-4.0.0-7.fc43 for f43-candidate
+Created task: 137377062
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377062

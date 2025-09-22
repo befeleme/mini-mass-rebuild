@@ -1,2 +1,8 @@
 fatal: destination path 'python-azure-mgmt-appconfiguration' already exists and is not an empty directory.
 Could not execute clone: Failed to execute command.
+Building python-azure-mgmt-appconfiguration-3.1.0-6.fc44 for rawhide
+Created task: 137377329
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377329
+Building python-azure-mgmt-appconfiguration-3.1.0-6.fc43 for f43-candidate
+Created task: 137377330
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377330

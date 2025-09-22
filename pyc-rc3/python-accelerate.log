@@ -1,1 +1,7 @@
 Cloning into 'python-accelerate'...
+RPMAutoSpec usage detected, not changing the spec file.
+[rawhide 98a5467] Rebuilt for Python 3.14.0rc3 bytecode
+ Author: Python Maint <python-maint@redhat.com>
+Building python-accelerate-1.10.1-2.fc44 for rawhide
+Created task: 137377532
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377532

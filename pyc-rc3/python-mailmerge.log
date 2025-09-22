@@ -1,2 +1,8 @@
 fatal: destination path 'python-mailmerge' already exists and is not an empty directory.
 Could not execute clone: Failed to execute command.
+Building python-mailmerge-2.2.1-16.fc44 for rawhide
+Created task: 137376837
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137376837
+Building python-mailmerge-2.2.1-16.fc43 for f43-candidate
+Created task: 137376842
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137376842

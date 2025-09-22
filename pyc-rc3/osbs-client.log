@@ -4,3 +4,13 @@ Cloning into 'osbs-client'...
  1 file changed, 4 insertions(+), 1 deletion(-)
 Could not execute build: Package osbs-client-1.15.0-5.fc44 has already been built
 Note: You can skip this check with --skip-nvr-check. See help for more info.
+Could not execute build: Package osbs-client-1.15.0-5.fc44 has already been built
+Note: You can skip this check with --skip-nvr-check. See help for more info.
+Could not execute build: Package osbs-client-1.15.0-5.fc43 has already been built
+Note: You can skip this check with --skip-nvr-check. See help for more info.
+Building osbs-client-1.15.0-6.fc44 for rawhide
+Created task: 137377441
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377441
+Building osbs-client-1.15.0-6.fc43 for f43-candidate
+Created task: 137377447
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377447

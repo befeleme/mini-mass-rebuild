@@ -2,3 +2,9 @@ Cloning into 'cepces'...
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 32ae4f7] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
+Building cepces-0.3.9-11.fc44 for rawhide
+Created task: 137377258
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377258
+Building cepces-0.3.9-11.fc43 for f43-candidate
+Created task: 137377260
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377260

@@ -1,2 +1,5 @@
 fatal: destination path 'python-zopfli' already exists and is not an empty directory.
 Could not execute clone: Failed to execute command.
+Building python-zopfli-0.2.3-10.fc43 for f43-candidate
+Created task: 137376242
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137376242

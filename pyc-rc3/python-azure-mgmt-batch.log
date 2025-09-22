@@ -1,2 +1,14 @@
 fatal: destination path 'python-azure-mgmt-batch' already exists and is not an empty directory.
 Could not execute clone: Failed to execute command.
+Building python-azure-mgmt-batch-17.3.0-8.fc44 for rawhide
+Created task: 137377307
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377307
+Building python-azure-mgmt-batch-17.3.0-8.fc43 for f43-candidate
+Created task: 137377314
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377314
+Building python-azure-mgmt-batch-17.3.0-8.fc44 for rawhide
+Created task: 137377378
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377378
+Building python-azure-mgmt-batch-17.3.0-8.fc43 for f43-candidate
+Created task: 137377379
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377379

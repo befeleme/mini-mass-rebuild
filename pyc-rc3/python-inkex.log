@@ -2,3 +2,9 @@ Cloning into 'python-inkex'...
 [rawhide 00ad2e4] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)
+Building python-inkex-1.4.0^20250307git89726a33-5.fc44 for rawhide
+Created task: 137377006
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377006
+Building python-inkex-1.4.0^20250307git89726a33-5.fc43 for f43-candidate
+Created task: 137377014
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137377014
