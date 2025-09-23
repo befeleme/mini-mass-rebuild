@@ -1,8 +1,10 @@
 Cloning into 'python-numexpr'...
-python-numexpr f43 build complete but not tagged: python-numexpr-2.12.1-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 8001eb0] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building python-numexpr-2.12.1-2.fc44 for rawhide
 Created task: 137261446
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137261446
+Building python-numexpr-2.12.1-2.fc43 for f43-candidate
+Created task: 137406356
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137406356
