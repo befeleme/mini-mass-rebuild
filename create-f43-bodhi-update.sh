@@ -22,6 +22,6 @@ if bodhi updates query --builds="$latest_build" | grep -q "$latest_build"; then
 fi
 
 echo "Creating bodhi update for $latest_build"
-bodhi updates new --type bugfix --notes "Rebuilt for Python 3.14.0rc3 bytecode change" "$latest_build"
+bodhi updates new --type bugfix --autotime --autokarma --notes "Rebuilt for Python 3.14.0rc3 bytecode change" "$latest_build"
 
 echo "Successfully created bodhi update for $latest_build"
