@@ -1,5 +1,4 @@
 Cloning into 'opentrep'...
-opentrep f43 build complete but not tagged: opentrep-0.07.18-9.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 0bb1469] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>

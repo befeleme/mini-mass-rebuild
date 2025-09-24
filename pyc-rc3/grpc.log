@@ -1,8 +1,10 @@
 Cloning into 'grpc'...
-grpc f43 build complete but not tagged: grpc-1.48.4-53.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 4c69f5b] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building grpc-1.48.4-54.fc44 for rawhide
 Created task: 137254273
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137254273
+Building grpc-1.48.4-54.fc43 for f43-candidate
+Created task: 137434503
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137434503
