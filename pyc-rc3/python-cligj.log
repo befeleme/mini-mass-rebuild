@@ -1,8 +1,10 @@
 Cloning into 'python-cligj'...
-python-cligj f43 build complete but not tagged: python-cligj-0.7.2-19.fc43
 [rawhide 60acad5] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)
 Building python-cligj-0.7.2-20.fc44 for rawhide
 Created task: 137257383
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137257383
+Building python-cligj-0.7.2-20.fc43 for f43-candidate
+Created task: 137605641
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137605641

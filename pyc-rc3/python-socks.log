@@ -1,8 +1,10 @@
 Cloning into 'python-socks'...
-python-socks f43 build complete but not tagged: python-socks-2.7.2-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 211219e] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
 Building python-socks-2.7.2-2.fc44 for rawhide
 Created task: 137264174
 Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137264174
+Building python-socks-2.7.2-2.fc43 for f43-candidate
+Created task: 137605649
+Task info: https://koji.fedoraproject.org/koji/taskinfo?taskID=137605649
