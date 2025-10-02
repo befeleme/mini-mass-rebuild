@@ -1,5 +1,4 @@
 Cloning into 'python-sphinxcontrib-svg2pdfconverter'...
-python-sphinxcontrib-svg2pdfconverter f43 build complete but not tagged: python-sphinxcontrib-svg2pdfconverter-1.3.0-3.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide a324a23] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>

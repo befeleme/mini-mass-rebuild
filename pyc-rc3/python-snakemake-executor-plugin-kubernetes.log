@@ -1,5 +1,4 @@
 Cloning into 'python-snakemake-executor-plugin-kubernetes'...
-python-snakemake-executor-plugin-kubernetes f43 build complete but not tagged: python-snakemake-executor-plugin-kubernetes-0.5.1-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide aff4e36] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
