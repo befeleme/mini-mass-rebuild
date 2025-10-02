@@ -1,5 +1,4 @@
 Cloning into 'python-fsleyes'...
-python-fsleyes f43 build complete but not tagged: python-fsleyes-1.16.1-2.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 962c6fb] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>

@@ -1,5 +1,4 @@
 Cloning into 'python-fsleyes-widgets'...
-python-fsleyes-widgets f43 build complete but not tagged: python-fsleyes-widgets-0.15.1-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide b943353] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>

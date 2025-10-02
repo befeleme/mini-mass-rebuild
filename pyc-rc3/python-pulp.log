@@ -1,5 +1,4 @@
 Cloning into 'python-pulp'...
-python-pulp f43 build complete but not tagged: python-pulp-3.3.0-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 38cc42e] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>

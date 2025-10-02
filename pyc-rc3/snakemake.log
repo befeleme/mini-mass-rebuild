@@ -1,5 +1,4 @@
 Cloning into 'snakemake'...
-snakemake f43 build complete but not tagged: snakemake-9.11.3-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 8b0c20d] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>

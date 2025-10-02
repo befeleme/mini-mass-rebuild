@@ -1,5 +1,4 @@
 Cloning into 'python-platformio'...
-python-platformio f43 build complete but not tagged: python-platformio-6.1.18-5.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 5cd55a4] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
