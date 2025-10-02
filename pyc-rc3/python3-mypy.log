@@ -1,5 +1,4 @@
 Cloning into 'python3-mypy'...
-python3-mypy f43 build complete but not tagged: python3-mypy-1.18.1-1.fc43
 [rawhide 802a451] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)

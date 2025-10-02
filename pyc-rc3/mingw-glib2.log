@@ -1,5 +1,4 @@
 Cloning into 'mingw-glib2'...
-mingw-glib2 f43 build complete but not tagged: mingw-glib2-2.86.0-1.fc43
 [rawhide 711d594] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)

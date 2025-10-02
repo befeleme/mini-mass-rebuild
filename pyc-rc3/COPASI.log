@@ -1,5 +1,4 @@
 Cloning into 'COPASI'...
-COPASI f43 build complete but not tagged: COPASI-4.45.298-14.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 40f70f6] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>

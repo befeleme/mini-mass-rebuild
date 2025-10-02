@@ -1,5 +1,4 @@
 Cloning into 'fastapi-cli'...
-fastapi-cli f43 build complete but not tagged: fastapi-cli-0.0.12-1.fc43
 RPMAutoSpec usage detected, not changing the spec file.
 [rawhide 3099de3] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
