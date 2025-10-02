@@ -1,5 +1,4 @@
 Cloning into 'python-copr-common'...
-python-copr-common f43 build complete but not tagged: python-copr-common-1.3-1.fc43
 [rawhide f45f233] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)

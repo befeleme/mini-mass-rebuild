@@ -1,5 +1,4 @@
 Cloning into 'copr-rpmbuild'...
-copr-rpmbuild f43 build complete but not tagged: copr-rpmbuild-1.5-1.fc43
 [rawhide aaff83e] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)

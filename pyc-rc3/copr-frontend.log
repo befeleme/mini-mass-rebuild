@@ -1,5 +1,4 @@
 Cloning into 'copr-frontend'...
-copr-frontend f43 build complete but not tagged: copr-frontend-2.4-1.fc43
 [rawhide 50a1c00] Rebuilt for Python 3.14.0rc3 bytecode
  Author: Python Maint <python-maint@redhat.com>
  1 file changed, 4 insertions(+), 1 deletion(-)
