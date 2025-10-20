@@ -2393,6 +2393,7 @@
         "python-pgspecial",
         "python-phonenumbers",
         "python-photutils",
+        "python-phply",
         "python-phpserialize",
         "python-phyghtmap",
         "python-pickleshare",
@@ -2463,6 +2464,7 @@
         "python-prov",
         "python-psutil",
         "python-psycopg2",
+        "python-psycopg3",
         "python-ptrace",
         "python-ptyprocess",
         "python-publicsuffix2",
@@ -3653,6 +3655,7 @@
         "trac-tracnav-plugin",
         "tracer",
         "trademgen",
+        "translate-toolkit",
         "trash-cli",
         "trelby",
         "tuna",
@@ -3784,10 +3787,8 @@
         "python-oci",
         "python-oslo-config",
         "python-pandas",
-        "python-phply",
         "python-platformdirs",
         "python-protego",
-        "python-psycopg3",
         "python-pyABF",
         "python-pyedflib",
         "python-pyone",
@@ -3803,7 +3804,6 @@
         "rdopkg",
         "rofimoji",
         "rpm-spec-language-server",
-        "translate-toolkit",
         "unbound"
     ]
 }
