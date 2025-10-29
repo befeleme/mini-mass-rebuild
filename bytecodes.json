@@ -33,6 +33,7 @@
         "SoapySDR",
         "TurboGears2",
         "WALinuxAgent",
+        "Zim",
         "aactivator",
         "abiword",
         "abrt",
@@ -1705,6 +1706,7 @@
         "python-gmqtt",
         "python-gnocchiclient",
         "python-gnupg",
+        "python-google-api-core",
         "python-google-auth",
         "python-google-auth-oauthlib",
         "python-google-cloud-core",
@@ -3119,6 +3121,7 @@
         "python-sqlalchemy_schemadisplay",
         "python-sqlglot",
         "python-sqlite-fts4",
+        "python-sqlite-utils",
         "python-sqlparse",
         "python-ssdeep",
         "python-ssh-python",
@@ -3416,6 +3419,7 @@
         "python-xarray-einstats",
         "python-xattr",
         "python-xbout",
+        "python-xcffib",
         "python-xdfile",
         "python-xdot",
         "python-xeddsa",
@@ -3741,11 +3745,8 @@
         "zinnia",
         "znc"
     ],
-    "inspection": [
-        "python-xcffib"
-    ],
+    "inspection": [],
     "torebuild": [
-        "Zim",
         "ara",
         "bcc",
         "chirp",
@@ -3778,7 +3779,6 @@
         "python-dipy",
         "python-elephant",
         "python-fqdn",
-        "python-google-api-core",
         "python-graphene",
         "python-hypothesmith",
         "python-journal-brief",
