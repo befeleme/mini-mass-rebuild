@@ -17,7 +17,7 @@ from anytree import Node, RenderTree, findall_by_attr, LoopError
 
 from copr.v3 import Client
 
-COPR = '@python', 'python3.14'
+COPR = '@python', 'python3.15'
 COPR_STR = '{}/{}'.format(*COPR)
 COPR_STR_G = '{}/{}'.format(COPR[0].replace('@', 'g/'), COPR[1])
 
@@ -35,8 +35,8 @@ KOSCHEI = f"https://koschei.fedoraproject.org/api/v1/packages?name={{package}}&c
 LIMIT = 30
 BUGZILLA = 'bugzilla.redhat.com'
 BZ_PAGE_SIZE = 20
-TRACKER = 2322407  # PYTHON3.14
-RAWHIDE = 2339432  # F43FTBFS
+TRACKER = 2412434  # PYTHON3.15
+RAWHIDE = 2384424  # F44FTBFS
 LOGLEVEL = logging.WARNING
 
 DNF_CACHEDIR = '_dnf_cache_dir'
@@ -58,102 +58,12 @@ EXCLUDE = {
 }
 
 REASONS = {
-    "ast": {
-        "regex": r"AttributeError: ('Constant' object has no attribute '(s|n)'|module 'ast' has no attribute '(.*)')",
-        "long_description": """
-        According to: https://docs.python.org/dev/whatsnew/3.14.html#id2
-
-        Remove the following classes. They were all deprecated since Python 3.8, and have emitted deprecation warnings since Python 3.12:
-        ast.Bytes
-        ast.Ellipsis
-        ast.NameConstant
-        ast.Num
-        ast.Str
-
-        Use ast.Constant instead. As a consequence of these removals, user-defined visit_Num, visit_Str, visit_Bytes, visit_NameConstant and visit_Ellipsis methods on custom ast.NodeVisitor subclasses will no longer be called when the NodeVisitor subclass is visiting an AST. Define a visit_Constant method instead.
-
-        Also, remove the following deprecated properties on ast.Constant, which were present for compatibility with the now-removed AST classes:
-        ast.Constant.n
-        ast.Constant.s
-
-        Use ast.Constant.value instead.
-        (Contributed by Alex Waygood in gh-119562.)
-         """,
-        "short_description": "",
-    },
-    "ByteString": {
-        "regex": r"(ImportError: cannot import name 'ByteString' from '(.*)'|AttributeError: module 'typing' has no attribute 'ByteString')",
-        "long_description": """
-        According to https://docs.python.org/dev/whatsnew/3.14.html#typing
-
-        ByteString has been removed from both typing and collections.abc modules.
-        It had previously raised a DeprecationWarning since Python 3.12.
-         """,
-        "short_description": "",
-    },
-    "pickle": {
-        "regex": r"_pickle.PicklingError: Can't pickle local object (.*)",
-        "long_description": """
-        According to https://docs.python.org/dev/whatsnew/3.14.html#multiprocessing
-
-        The default start method (see Contexts and start methods) changed from fork to forkserver on platforms other than macOS & Windows where it was already spawn. If you require the threading incompatible fork start method you must explicitly request it using a context from multiprocessing.get_context() (preferred) or change the default via multiprocessing.set_start_method(). (Contributed by Gregory P. Smith in gh-84559.)
-         """,
-        "short_description": "",
-    },
-    "pkgutil": {
-        "regex": r"AttributeError: module 'pkgutil' has no attribute '(get_loader|find_loader)'",
-        "long_description": """
-        According to https://docs.python.org/dev/whatsnew/3.14.html#pkgutil
-
-        Remove deprecated pkgutil.get_loader() and pkgutil.find_loader(). These had previously raised a DeprecationWarning since Python 3.12. (Contributed by Bénédikt Tran in gh-97850.)
-         """,
-        "short_description": "",
-    },
-    "eventloop": {
-        "regex": r"RuntimeError: There is no current event loop in thread 'MainThread'.",
-        "long_description": """
-        According to https://docs.python.org/dev/whatsnew/3.14.html#id3
-
-        Removed implicit creation of event loop by asyncio.get_event_loop(). It now raises a RuntimeError if there is no current event loop. (Contributed by Kumar Aditya in gh-126353.)
-         """,
-        "short_description": "",
-    },
-    "set_event_loop": {
-        "regex": r"DeprecationWarning: 'asyncio.(.*)' is deprecated and slated for removal in Python 3.16",
-        "long_description": """
-        According to https://docs.python.org/dev/whatsnew/3.14.html#id3
-
-        asyncio policy system is deprecated and will be removed in Python 3.16. In particular, the following classes and functions are deprecated:
-        asyncio.AbstractEventLoopPolicy
-        asyncio.DefaultEventLoopPolicy
-        asyncio.WindowsSelectorEventLoopPolicy
-        asyncio.WindowsProactorEventLoopPolicy
-        asyncio.get_event_loop_policy()
-        asyncio.set_event_loop_policy()
-        asyncio.set_event_loop()
-        Users should use asyncio.run() or asyncio.Runner with loop_factory to use the desired event loop implementation.)
-        """,
-        "short_description": "",
-    },
     "segfault": {
         # Segfault detection is quite noisy, especially if we do not want to report it this way. I temporarily disabled it with X in regex.
         "regex": r"XSegmentation fault",
         "long_description": """ DO NOT REPORT THIS """,
         "short_description": """ DO NOT REPORT THIS """,
-    },
-    "h5py_import_error": {
-        "regex": r"ValueError: chr() arg not in range(0x110000)",
-        "long_description": """ DO NOT REPORT THIS """,
-        "short_description": """ DO NOT REPORT THIS """,
-    },
-    "exit_in_finally": {
-        "regex": r"SyntaxWarning: '(return|break|continue)' in a 'finally' block",
-        "long_description": """
-        PEP 765: Disallow return/break/continue that exit a finally block
-        The compiler emits a SyntaxWarning when a return, break or continue statements appears where it exits a finally block.
-        This change is specified in PEP 765: https://peps.python.org/pep-0765/. """,
-        "short_description": "",
-    },
+    }
 }
 
 logger = logging.getLogger('monitor_check')
@@ -600,29 +510,29 @@ async def open_bz(package, build, status, browser_lock, reason=None):
             "long_description": "This report is automated and not very verbose, but we'll try to get back here with details.",
             "short_description": "",
         }
-    summary = f"{package} fails to build with Python 3.14: {reason['short_description']}"
+    summary = f"{package} fails to build with Python 3.15: {reason['short_description']}"
 
     description = dedent(f"""
-        {package} fails to build with Python 3.14.0b2.
+        {package} fails to build with Python 3.15.0a1.
 
         {reason['long_description']}
 
-        https://docs.python.org/3.14/whatsnew/3.14.html
+        https://docs.python.org/3.15/whatsnew/3.15.html
 
         For the build logs, see:
         https://copr-be.cloud.fedoraproject.org/results/{COPR_STR}/fedora-rawhide-x86_64/{build:08}-{package}/
 
-        For all our attempts to build {package} with Python 3.14, see:
+        For all our attempts to build {package} with Python 3.15, see:
         https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/package/{package}/
 
         Testing and mass rebuild of packages is happening in copr.
-        You can follow these instructions to test locally in mock if your package builds with Python 3.14:
+        You can follow these instructions to test locally in mock if your package builds with Python 3.15:
         https://copr.fedorainfracloud.org/coprs/{COPR_STR_G}/
 
         Let us know here if you have any questions.
 
-        Python 3.14 is planned to be included in Fedora 43.
-        To make that update smoother, we're building Fedora packages with all pre-releases of Python 3.14.
+        Python 3.15 is planned to be included in Fedora 45.
+        To make that update smoother, we're building Fedora packages with all pre-releases of Python 3.15.
         A build failure prevents us from testing all dependent packages (transitive [Build]Requires),
         so if this package is required a lot, it's important for us to get it fixed soon.
 
