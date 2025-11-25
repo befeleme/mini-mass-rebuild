@@ -598,7 +598,9 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
     else:
         browser_lock = None
 
-    async with aiohttp.ClientSession(headers={"Connection": "close"}) as session:
+    # Set longer timeouts to avoid connection timeout errors when retrieving large build logs
+    timeout = aiohttp.ClientTimeout(total=300, connect=60, sock_read=120)
+    async with aiohttp.ClientSession(headers={"Connection": "close"}, timeout=timeout) as session:
 
         # we could stream the content, but meh, get it all, it's not that long
         packages = copr()
