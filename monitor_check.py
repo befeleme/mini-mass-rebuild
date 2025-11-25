@@ -63,7 +63,12 @@ REASONS = {
         "regex": r"XSegmentation fault",
         "long_description": """ DO NOT REPORT THIS """,
         "short_description": """ DO NOT REPORT THIS """,
-    }
+    },
+    "cmake_error": {
+        "regex": r"CMake Error",
+        "long_description": """ DO NOT REPORT THIS """,
+        "short_description": """ DO NOT REPORT THIS """,
+    },
 }
 
 logger = logging.getLogger('monitor_check')
@@ -513,7 +518,7 @@ async def open_bz(package, build, status, browser_lock, reason=None):
     summary = f"{package} fails to build with Python 3.15: {reason['short_description']}"
 
     description = dedent(f"""
-        {package} fails to build with Python 3.15.0a1.
+        {package} fails to build with Python 3.15.0a2.
 
         {reason['long_description']}
 
