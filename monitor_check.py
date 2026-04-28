@@ -420,7 +420,7 @@ def p(*args, **kwargs):
 async def process(
     session, bugs, package, build, status, http_semaphore, command_semaphore, critpath_pkgs,
     *, browser_lock=None, with_reason=None, blues_file=None, magentas_file=None,
-    greens_file=None, dependency_tree=False,
+    greens_file=None, dependency_tree=False, koschei_cross_check=False,
 ):
     if status != 'failed':
         return
@@ -484,10 +484,11 @@ async def process(
             message += ' (copr timeout)'
             fg = 'magenta'
 
-    if fg == 'red':
-        if await is_white(session, package, http_semaphore):
-            message += ' (last build failed in Koschei)'
-            fg = 'white'
+    if koschei_cross_check:
+        if fg == 'red':
+            if await is_white(session, package, http_semaphore):
+                message += ' (last build failed in Koschei)'
+                fg = 'white'
 
     if critpath:
         message += ' \N{FIRE}'
@@ -562,6 +563,7 @@ async def open_bz(package, build, status, browser_lock, reason=None):
         webbrowser.open(url_prefix + urlencode(params))
         # open the build logs next to bz template, so it's easier to identify issues
         webbrowser.open(builderlive_link(package, build))
+        webbrowser.open(f"https://koschei.fedoraproject.org/package/{package}")
         await asyncio.sleep(1)
 
 
@@ -584,7 +586,7 @@ missing_dependencies = {
 yellow_pkgs = []
 blue_pkgs = []
 
-async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=None, magentas_file=None, greens_file=None, dependency_tree=None):
+async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=None, magentas_file=None, greens_file=None, dependency_tree=None, koschei_cross_check=False):
     logging.basicConfig(
         format='%(asctime)s %(name)s %(levelname)s: %(message)s',
         level=LOGLEVEL)
@@ -624,6 +626,7 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
                     browser_lock=browser_lock, with_reason=with_reason,
                     blues_file=blues_file, magentas_file=magentas_file,
                     greens_file=greens_file, dependency_tree=dependency_tree,
+                    koschei_cross_check=koschei_cross_check,
                 )))
             except TypeError:
                 pass
@@ -674,8 +677,12 @@ async def main(pkgs=None, open_bug_reports=False, with_reason=False, blues_file=
     '--dependency-tree/--no-dependency-tree',
     help='Show dependency tree of blue packages'
 )
-def run(pkgs, open_bug_reports, with_reason=None, blues_file=None, magentas_file=None, greens_file=None, dependency_tree=None):
-    asyncio.run(main(pkgs, open_bug_reports, with_reason, blues_file, magentas_file, greens_file, dependency_tree))
+@click.option(
+    '--koschei-cross-check/--no-koschei-cross-check',
+    help='Check if package builds in koschei'
+)
+def run(pkgs, open_bug_reports, with_reason=None, blues_file=None, magentas_file=None, greens_file=None, dependency_tree=None, koschei_cross_check=False):
+    asyncio.run(main(pkgs, open_bug_reports, with_reason, blues_file, magentas_file, greens_file, dependency_tree, koschei_cross_check))
 
 if __name__ == '__main__':
     run()
