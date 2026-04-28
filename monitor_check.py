@@ -28,7 +28,7 @@ PACKAGE = re.compile(fr'<a href="/coprs/{COPR_STR_G}/package/([^/]+)/">')
 BUILD = re.compile(fr'<a href="/coprs/{COPR_STR_G}/build/([^/]+)/">')
 RESULT = re.compile(r'<span class="build-([^"]+)"')
 RPM_FILE = "<td class='t'>RPM File</td>"
-TAG = 'f43'
+TAG = 'f45'
 KOSCHEI = f"https://koschei.fedoraproject.org/api/v1/packages?name={{package}}&collection={TAG}"
 # copr bug: build.log isn't properly populated
 # TODO: rework to use builder-live.log.gz or wait for https://github.com/fedora-copr/copr/issues/2961
@@ -36,7 +36,7 @@ LIMIT = 30
 BUGZILLA = 'bugzilla.redhat.com'
 BZ_PAGE_SIZE = 20
 TRACKER = 2412434  # PYTHON3.15
-RAWHIDE = 2384424  # F44FTBFS
+RAWHIDE = 2433833  # F45FTBFS
 LOGLEVEL = logging.WARNING
 
 DNF_CACHEDIR = '_dnf_cache_dir'
@@ -518,7 +518,7 @@ async def open_bz(package, build, status, browser_lock, reason=None):
     summary = f"{package} fails to build with Python 3.15: {reason['short_description']}"
 
     description = dedent(f"""
-        {package} fails to build with Python 3.15.0a2.
+        {package} fails to build with Python 3.15.0a8.
 
         {reason['long_description']}
 
