@@ -103,7 +103,7 @@ async def copr():
     return await loop.run_in_executor(None, _copr)
 
 async def fetch(session, url, http_semaphore, *, json=False):
-    retry = False
+    retry = 0
     async with http_semaphore:
         logger.debug('fetch %s', url)
         try:
@@ -112,29 +112,29 @@ async def fetch(session, url, http_semaphore, *, json=False):
                 # https://pagure.io/copr/copr/issue/1648
                 if response.status == 404 and url.endswith('.gz'):
                     url = url[:-3]
-                    retry = True
+                    retry += 1
                 elif json:
                     return await response.json()
                 else:
                     return await response.text('utf-8')
-        except (aiohttp.client_exceptions.ServerDisconnectedError, aiohttp.client_exceptions.ClientConnectorError):
+        except (aiohttp.client_exceptions.ServerDisconnectedError, aiohttp.client_exceptions.ClientConnectorError, aiohttp.client_exceptions.ConnectionTimeoutError):
             await asyncio.sleep(1)
-            retry = True
-    if retry:
+            retry += 1
+    if retry < 10:
         return await fetch(session, url, http_semaphore, json=json)
 
 
 async def length(session, url, http_semaphore):
-    retry = False
+    retry = 0
     async with http_semaphore:
         logger.debug('length %s', url)
         try:
             async with session.head(url) as response:
                 return int(response.headers.get('content-length'))
-        except (aiohttp.client_exceptions.ClientConnectorError, aiohttp.client_exceptions.ServerDisconnectedError):
+        except (aiohttp.client_exceptions.ClientConnectorError, aiohttp.client_exceptions.ServerDisconnectedError, aiohttp.client_exceptions.ConnectionTimeoutError):
             await asyncio.sleep(1)
-            retry = True
-    if retry:
+            retry += 1
+    if retry < 10:
         return await length(session, url, http_semaphore)
 
 async def is_cmake(session, url, http_semaphore):
